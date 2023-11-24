@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced bionic eye -->
+
+  <CreateAdvancedBionicEye.label>Модернизировать бионический глаз</CreateAdvancedBionicEye.label>
+  <CreateAdvancedBionicEye.description>Модернизация бионического глаза с помощью продвинутых компонентов.</CreateAdvancedBionicEye.description>
+  <CreateAdvancedBionicEye.jobString>Улучшает бионический протез.</CreateAdvancedBionicEye.jobString>
+
+  <InstallAdvancedBionicEye.label>Вживить улучшенный бионический глаз</InstallAdvancedBionicEye.label>
+  <InstallAdvancedBionicEye.description>Вживить улучшенный бионический глаз.</InstallAdvancedBionicEye.description>
+  <InstallAdvancedBionicEye.jobString>Вживляет улучшенный бионический глаз.</InstallAdvancedBionicEye.jobString>
+
+
+  <!-- Advanced bionic arm -->
+
+  <CreateAdvancedBionicArm.label>Модернизировать бионическую руку</CreateAdvancedBionicArm.label>
+  <CreateAdvancedBionicArm.description>Модернизация бионической руки с помощью продвинутых компонентов.</CreateAdvancedBionicArm.description>
+  <CreateAdvancedBionicArm.jobString>Улучшает бионический протез.</CreateAdvancedBionicArm.jobString>
+
+  <InstallAdvancedBionicArm.label>Вживить улучшенную бионическую руку</InstallAdvancedBionicArm.label>
+  <InstallAdvancedBionicArm.description>Вживить улучшенную бионическую руку.</InstallAdvancedBionicArm.description>
+  <InstallAdvancedBionicArm.jobString>Вживляет улучшенную бионическую руку.</InstallAdvancedBionicArm.jobString>
+
+
+  <!-- Advanced Bionic Leg -->
+
+  <CreateAdvancedBionicLeg.label>Модернизировать бионическую ногу</CreateAdvancedBionicLeg.label>
+  <CreateAdvancedBionicLeg.description>Модернизация бионической ноги с помощью продвинутых компонентов.</CreateAdvancedBionicLeg.description>
+  <CreateAdvancedBionicLeg.jobString>Улучшает бионический протез.</CreateAdvancedBionicLeg.jobString>
+
+  <InstallAdvancedBionicLeg.label>Вживить улучшенную бионическую ногу</InstallAdvancedBionicLeg.label>
+  <InstallAdvancedBionicLeg.description>живить улучшенную бионическую ногу.</InstallAdvancedBionicLeg.description>
+  <InstallAdvancedBionicLeg.jobString>Вживляет улучшенную бионическую ногу.</InstallAdvancedBionicLeg.jobString>
+
+
+  <!-- Advanced bionic spine -->
+
+  <CreateAdvancedBionicSpine.label>Модернизировать бионический позвоночник</CreateAdvancedBionicSpine.label>
+  <CreateAdvancedBionicSpine.description>Модернизация бионического позвоночника с помощью продвинутых компонентов.</CreateAdvancedBionicSpine.description>
+  <CreateAdvancedBionicSpine.jobString>Улучшает бионический протез.</CreateAdvancedBionicSpine.jobString>
+
+  <InstallAdvancedBionicSpine.label>Вживить улучшенный бионический позвоночник</InstallAdvancedBionicSpine.label>
+  <InstallAdvancedBionicSpine.description>Вживить улучшенный бионический позвоночник.</InstallAdvancedBionicSpine.description>
+  <InstallAdvancedBionicSpine.jobString>Вживляет улучшенный бионический позвоночник.</InstallAdvancedBionicSpine.jobString>
+
+
+  <!-- Advanced bionic ear -->
+
+  <CreateAdvancedBionicEar.label>Модернизировать бионическое ухо</CreateAdvancedBionicEar.label>
+  <CreateAdvancedBionicEar.description>Модернизация бионического уха с помощью продвинутых компонентов.</CreateAdvancedBionicEar.description>
+  <CreateAdvancedBionicEar.jobString>Улучшает бионический протез.</CreateAdvancedBionicEar.jobString>
+
+  <InstallAdvancedBionicEar.label>Вживить улучшенное бионическое ухо</InstallAdvancedBionicEar.label>
+  <InstallAdvancedBionicEar.description>Вживить улучшенное бионическое ухо.</InstallAdvancedBionicEar.description>
+  <InstallAdvancedBionicEar.jobString>Вживляет улучшенное бионическое ухо.</InstallAdvancedBionicEar.jobString>
+
+
+  <!-- Advanced bionic hand -->
+
+  <CreateAdvancedBionicHand.label>Модернизировать бионическую кисть</CreateAdvancedBionicHand.label>
+  <CreateAdvancedBionicHand.description>Модернизация бионической кисти с помощью продвинутых компонентов.</CreateAdvancedBionicHand.description>
+  <CreateAdvancedBionicHand.jobString>Улучшает бионический протез.</CreateAdvancedBionicHand.jobString>
+
+  <InstallAdvancedBionicHand.label>Вживить улучшенную бионическую кисть</InstallAdvancedBionicHand.label>
+  <InstallAdvancedBionicHand.description>Вживить улучшенную бионическую кисть.</InstallAdvancedBionicHand.description>
+  <InstallAdvancedBionicHand.jobString>Вживляет улучшенную бионическую кисть.</InstallAdvancedBionicHand.jobString>
+
+
+  <!-- Advanced bionic foot -->
+
+  <CreateAdvancedBionicFoot.label>Модернизировать бионическую ступню</CreateAdvancedBionicFoot.label>
+  <CreateAdvancedBionicFoot.description>Модернизация бионической ступни с помощью продвинутых компонентов.</CreateAdvancedBionicFoot.description>
+  <CreateAdvancedBionicFoot.jobString>Улучшает бионический протез.</CreateAdvancedBionicFoot.jobString>
+
+  <InstallAdvancedBionicFoot.label>Вживить улучшенную бионическую ступню</InstallAdvancedBionicFoot.label>
+  <InstallAdvancedBionicFoot.description>Вживить улучшенную бионическую ступню.</InstallAdvancedBionicFoot.description>
+  <InstallAdvancedBionicFoot.jobString>Вживляет улучшенную бионическую ступню.</InstallAdvancedBionicFoot.jobString>
+
+
+  <!-- Advanced bionic finger -->
+
+  <EPIA_UpgradeAdvancedBionicFinger.label>Модернизировать улучшенный бионический палец</EPIA_UpgradeAdvancedBionicFinger.label>
+  <EPIA_UpgradeAdvancedBionicFinger.description>Модернизация улучшенного бионического пальца с помощью продвинутых компонентов.</EPIA_UpgradeAdvancedBionicFinger.description>
+  <EPIA_UpgradeAdvancedBionicFinger.jobString>Улучшает улучшенный бионический палец.</EPIA_UpgradeAdvancedBionicFinger.jobString>
+
+  <InstallAdvancedBionicFinger.label>Вживить улучшенный бионический палец</InstallAdvancedBionicFinger.label>
+  <InstallAdvancedBionicFinger.description>Вживить улучшенный бионический палец.</InstallAdvancedBionicFinger.description>
+  <InstallAdvancedBionicFinger.jobString>Вживляет улучшенный бионический палец.</InstallAdvancedBionicFinger.jobString>
+
+
+  <!-- Advanced bionic toe -->
+
+  <EPIA_UpgradeAdvancedBionicToe.label>Модернизировать улучшенный бионический палец ноги</EPIA_UpgradeAdvancedBionicToe.label>
+  <EPIA_UpgradeAdvancedBionicToe.description>Модернизация улучшенного бионического пальца ноги.</EPIA_UpgradeAdvancedBionicToe.description>
+  <EPIA_UpgradeAdvancedBionicToe.jobString>Улучшает улучшенный бионический палец ноги.</EPIA_UpgradeAdvancedBionicToe.jobString>
+
+  <InstallAdvancedBionicToe.label>Вживить улучшенный бионический палец ноги</InstallAdvancedBionicToe.label>
+  <InstallAdvancedBionicToe.description>Вживить улучшенный бионический палец ноги.</InstallAdvancedBionicToe.description>
+  <InstallAdvancedBionicToe.jobString>Вживляет улучшенный бионический палец ноги.</InstallAdvancedBionicToe.jobString>
+
+
+  <!-- Advanced bionic jaw -->
+
+  <CreateAdvancedBionicJaw.label>Модернизировать бионическую челюсть</CreateAdvancedBionicJaw.label>
+  <CreateAdvancedBionicJaw.description>Модернизация бионической челюсти с помощью продвинутых компонентов.</CreateAdvancedBionicJaw.description>
+  <CreateAdvancedBionicJaw.jobString>Улучшает бионический протез.</CreateAdvancedBionicJaw.jobString>
+
+  <InstallAdvancedBionicJaw.label>Вживить улучшенную бионическую челюсть</InstallAdvancedBionicJaw.label>
+  <InstallAdvancedBionicJaw.description>Вживить улучшенную бионическую челюсть.</InstallAdvancedBionicJaw.description>
+  <InstallAdvancedBionicJaw.jobString>Вживляет улучшенную бионическую челюсть.</InstallAdvancedBionicJaw.jobString>
+
+
+  <!-- Exoskeleton suit -->
+
+  <InstallExoskeletonSuit.label>Установить экзоскелет</InstallExoskeletonSuit.label>
+  <InstallExoskeletonSuit.description>Установить экзоскелет.</InstallExoskeletonSuit.description>
+  <InstallExoskeletonSuit.jobString>Устанавливает экзоскелет.</InstallExoskeletonSuit.jobString>
+
+  <RemoveExoskeletonSuit.label>Снять экзоскелет</RemoveExoskeletonSuit.label>
+  <RemoveExoskeletonSuit.description>Снять экзоскелет.</RemoveExoskeletonSuit.description>
+  <RemoveExoskeletonSuit.jobString>Снимает экзоскелет.</RemoveExoskeletonSuit.jobString>
+
+
+  <!-- Protective exoskeleton -->
+
+  <EPIA_InstallProtectiveExoskeleton.label>Установить защитный экзоскелет </EPIA_InstallProtectiveExoskeleton.label>
+  <EPIA_InstallProtectiveExoskeleton.description>Установить защитный экзоскелет.</EPIA_InstallProtectiveExoskeleton.description>
+  <EPIA_InstallProtectiveExoskeleton.jobString>Устанавливает защитный экзоскелет.</EPIA_InstallProtectiveExoskeleton.jobString>
+
+  <EPIA_RemoveProtectiveExoskeleton.label>Снять защитный экзоскелет</EPIA_RemoveProtectiveExoskeleton.label>
+  <EPIA_RemoveProtectiveExoskeleton.description>Снять защитный экзоскелет.</EPIA_RemoveProtectiveExoskeleton.description>
+  <EPIA_RemoveProtectiveExoskeleton.jobString>Снимает защитный экзоскелет.</EPIA_RemoveProtectiveExoskeleton.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Military Turret -->
+
+  <VFES_Turret_MilitaryTurret.label>военная двуствольная турель</VFES_Turret_MilitaryTurret.label>
+  <VFES_Turret_MilitaryTurret.description>Двухствольная автоматическая боевая турель. Требуется сталь для восстановления стволов после интенсивного использования. При повреждении может взорваться. Управляется тупым искуственным интеллектом, поэтому остерегайтесь дружественного огня.</VFES_Turret_MilitaryTurret.description>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>Выстрелов до обслуживания стволов</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>Прочность стволов</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: требуется обслуживание стволов</VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_MilitaryTurret.label>военная двуствольная турель</VFES_Gun_MilitaryTurret.label>
+  <VFES_Gun_MilitaryTurret.description>Два автоматических ствола, предназначенные для установки на турель.</VFES_Gun_MilitaryTurret.description>
+
+
+  <!-- Searchlight -->
+
+  <VFES_Turret_Searchlight.label>прожектор</VFES_Turret_Searchlight.label>
+  <VFES_Turret_Searchlight.description>Аппарат, сочетающий в себе чрезвычайно яркую лампу и зеркальный параболический отражатель, полезный для освещения и ослепления цели.</VFES_Turret_Searchlight.description>
+
+  <VFES_Gun_Searchlight.label>прожектор</VFES_Gun_Searchlight.label>
+  <VFES_Gun_Searchlight.description>Прожектор, предназначенный для установки на турель.</VFES_Gun_Searchlight.description>
+
+
+  <!-- Flame Turret -->
+
+  <VFES_Turret_Flame.label>огнеметная турель</VFES_Turret_Flame.label>
+  <VFES_Turret_Flame.description>Портативная огнеметная турель. При повреждении может взорваться. Управляется тупым искуственным интеллектом, поэтому остерегайтесь дружественного огня.</VFES_Turret_Flame.description>
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>Остаток топлива</VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>Огнеметное топливо</VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: закончилось огнеметное топливо</VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_FlameTurret.label>огнеметная установка</VFES_Gun_FlameTurret.label>
+  <VFES_Gun_FlameTurret.description>Огнеметная установка, предназначенная для установки на турель.</VFES_Gun_FlameTurret.description>
+
+  <VFES_Bullet_FlameTurret.label>огнеметное топливо</VFES_Bullet_FlameTurret.label>
+
+
+  <!-- Sentry Gun -->
+
+  <VFES_Turret_SentryGun.label>сторожевое орудие</VFES_Turret_SentryGun.label>
+  <VFES_Turret_SentryGun.description>Турель с автономным питанием и небольшой пушкой Гатлинга. Достаточно легкая, чтобы переносить ее с места на место и использовать где угодно. При повреждении может взорваться. Управляется тупым искуственным интеллектом, поэтому остерегайтесь дружественного огня.</VFES_Turret_SentryGun.description>
+  <VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>Выстрелов до обслуживания стволов</VFES_Turret_SentryGun.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>Прочность стволов</VFES_Turret_SentryGun.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: требуется обслуживание стволов</VFES_Turret_SentryGun.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_SentryTurret.label>пулемет Гатлинга</VFES_Gun_SentryTurret.label>
+  <VFES_Gun_SentryTurret.description>Автоматическая пушка Гатлинга, предназначенная для установки на турель.</VFES_Gun_SentryTurret.description>
+
+
+</LanguageData>

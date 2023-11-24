@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_FractalLance.label>фрактальная деформация</ATR_FractalLance.label>
+  <ATR_FractalLance.deathMessage>{0} {0_gender ? погиб : погибла} от фрактальной деформации.</ATR_FractalLance.deathMessage>
+
+
+</LanguageData>

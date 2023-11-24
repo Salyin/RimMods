@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<PrototypeConstruction.header_Direct>Создание прототипа</PrototypeConstruction.header_Direct>
+<PrototypeConstruction.shortDesc_Direct>Создайте прототип, чтобы разобраться во всем.</PrototypeConstruction.shortDesc_Direct>
+<PrototypeTerrainConstruction.header_Direct>Создание прототипа</PrototypeTerrainConstruction.header_Direct>
+<PrototypeTerrainConstruction.shortDesc_Direct>Создайте прототип, чтобы разобраться во всем.</PrototypeTerrainConstruction.shortDesc_Direct>
+<PrototypeProduction.header_Direct>Создание прототипа</PrototypeProduction.header_Direct>
+<PrototypeProduction.shortDesc_Direct>Создайте прототип, чтобы разобраться во всем.</PrototypeProduction.shortDesc_Direct>
+
+</LanguageData>

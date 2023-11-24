@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Computer -->
+  <ATR_SkillServersSynthesis>Доступно очков познания: {0} / {1}</ATR_SkillServersSynthesis>
+  <ATR_SkillProducedPoints>Производится очков познания: {0}</ATR_SkillProducedPoints>
+  <ATR_SkillSlotsAdded>Хранится очков познания: {0}</ATR_SkillSlotsAdded>
+
+  <ATR_SecurityServersSynthesis>Доступно очков защиты: {0} / {1}</ATR_SecurityServersSynthesis>
+  <ATR_SecurityProducedPoints>Производится очков защиты: {0}</ATR_SecurityProducedPoints>
+  <ATR_SecuritySlotsAdded>Хранится очков защиты: {0}</ATR_SecuritySlotsAdded>
+
+  <ATR_HackingServersSynthesis>Доступно очков взлома: {0} / {1}</ATR_HackingServersSynthesis>
+  <ATR_HackingProducedPoints>Производится очков взлома: {0}</ATR_HackingProducedPoints>
+  <ATR_HackingSlotsAdded>Хранится очков взлома: {0}</ATR_HackingSlotsAdded>
+
+  <!-- Charging -->
+  <ATR_CurrentChargerPowerConsumption>Текущее энергопотребление: {0} W</ATR_CurrentChargerPowerConsumption>
+
+  <!-- Heat -->
+  <ATR_CompHotSensitiveCriticalText>Критическая температура: повреждение неизбежно!</ATR_CompHotSensitiveCriticalText>
+  <ATR_CompHotSensitiveDangerText>Высокая температура: рекомендуется охлаждение!</ATR_CompHotSensitiveDangerText>
+  <ATR_CompHotSensitiveWarningText>Повышенная температура: рекомендуется соблюдать осторожность.</ATR_CompHotSensitiveWarningText>
+  <ATR_CompHotSensitiveSafeText>Оптимальная температура: работоспособность в норме.</ATR_CompHotSensitiveSafeText>
+
+  <!-- SkyMind -->
+  <ATR_HackedWithTimer>Перекомпиляция системы завершена на {0}.</ATR_HackedWithTimer>
+  <ATR_CryptoLocked>Криптоблокировка, доступ запрещен.</ATR_CryptoLocked>
+  <ATR_SkyMindDetected>Подключен к SkyMind</ATR_SkyMindDetected>
+
+  <!-- Core -->
+  <ATR_CloudIntelligenceSummary>Интеллекты SkyMind: {0} / {1}</ATR_CloudIntelligenceSummary>
+  <ATR_AssistingIntelligenceSummary>Бездействующие интеллекты: {0}</ATR_AssistingIntelligenceSummary>
+
+  <!-- Link -->
+  <ATR_SkyMindOperationInProgress>Время до завершения операции: {0}</ATR_SkyMindOperationInProgress>
+  <ATR_SkyMindCoreOperationInProgress>Операция в процессе {0} завершено: {1}</ATR_SkyMindCoreOperationInProgress>
+  <ATR_SurrogateConnected>Подключен к: {0} другие пешки</ATR_SurrogateConnected>
+
+  <!-- Tower -->
+  <ATR_SkyMindNetworkSummary>Подключенные пользователи: {0} / {1}</ATR_SkyMindNetworkSummary>
+
+</LanguageData>

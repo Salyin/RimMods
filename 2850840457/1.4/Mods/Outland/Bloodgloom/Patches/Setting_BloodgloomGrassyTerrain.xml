@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="OutlandTerrain.PatchOperation_SettingActive">
+		<settings>
+			<li>grassyTerrain</li>
+		</settings>
+		<active Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<!-- Compatibility || Outland - Bloodgloom -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/BiomeDef[defName="Outland_Bloodgloom"]/terrainsByFertility</xpath>
+					<value>
+						<terrainsByFertility>
+							<li>
+								<terrain>Outland_BloodSoil</terrain>
+								<min>-999</min>
+								<max>0.87</max>
+							</li>
+							<li>
+								<terrain>Outland_BloodSoilRich</terrain>
+								<min>0.87</min>
+								<max>999</max>
+							</li>
+						</terrainsByFertility>
+					</value>
+				</li>
+			</operations>
+		</active>
+	</Operation>
+
+</Patch>

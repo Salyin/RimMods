@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--1.4/Defs/Weapon_Lockers.xml-->
+<LWM_WeaponsCabinet.label>Оружейный шкаф</LWM_WeaponsCabinet.label>
+<LWM_WeaponsCabinet.description>Шкаф для хранения нескольких видов оружия.\n\nСодержащееся оружие не будет портиться, даже если шкаф расположить вне помещения.</LWM_WeaponsCabinet.description>
+<LWM_WeaponsLocker.label>Крепкий оружейный шкаф</LWM_WeaponsLocker.label>
+<LWM_WeaponsLocker.description>Мощный металлический шкафчик для надёжного хранения оружия.\n\nСодержащееся оружие не будет портиться, даже если шкаф расположить вне помещения.</LWM_WeaponsLocker.description>
+
+</LanguageData>

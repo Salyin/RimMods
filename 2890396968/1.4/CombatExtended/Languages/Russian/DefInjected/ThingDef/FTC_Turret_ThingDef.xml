@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/CombatExtended/Defs/Things/FTC_Turret.xml-->
+                    <!-- machinegun turret -->
+<FTC_TwinMG_Turret.label>пулеметная башня</FTC_TwinMG_Turret.label>
+                          <!-- a fixed machine gun turret mounting on a half-buried concrete box. n
+ As a turret fortification, the gunner could operate the weapon internally until it was destroyed, but could not receive direct orders.
+
+ This is a permanent structure, site wisely. -->
+<FTC_TwinMG_Turret.description>стационарная пулеметная турель, установленная на полузакопанном бетонном фундаменте. n\n В качестве укрепления башни наводчик мог управлять орудием изнутри до его уничтожения, но не мог получать прямые приказы.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_TwinMG_Turret.description>
+                 <!-- machine gun turret -->
+<FTC_TwinMG_Gun.label>пулемётная турель</FTC_TwinMG_Gun.label>
+                       <!-- Twin machine gun mounted on an armoured turret. -->
+<FTC_TwinMG_Gun.description>Сдвоенный пулемет установлен на бронированной башне.</FTC_TwinMG_Gun.description>
+                        <!-- autocannon turret -->
+<FTC_Autocannon_Turret.label>автопушка</FTC_Autocannon_Turret.label>
+                              <!-- a fixed autocannon gun turret mounting on a half-buried concrete box. n
+ As a turret fortification, the gunner could operate the weapon internally until it was destroyed, but could not receive direct orders.
+
+ This is a permanent structure, site wisely. -->
+<FTC_Autocannon_Turret.description>стационарная башня с автопушкой, установленная на полузакопанном бетонном фундаменте. n\n В качестве укрепления башни наводчик мог управлять орудием изнутри до его уничтожения, но не мог получать прямые приказы.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_Autocannon_Turret.description>
+                     <!-- autocannon turret -->
+<FTC_Autocannon_Gun.label>автопушка</FTC_Autocannon_Gun.label>
+                           <!-- an autocannon mounted on an armoured turret. -->
+<FTC_Autocannon_Gun.description>автопушка, установленная на бронированной башне.</FTC_Autocannon_Gun.description>
+
+</LanguageData>

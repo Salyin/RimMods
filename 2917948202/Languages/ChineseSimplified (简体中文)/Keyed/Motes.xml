@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- AutoFlickering -->
+	<ATR_FlickEnable>通过天云思维开机</ATR_FlickEnable>
+	<!--EN: PowerOn via SkyMind-->
+	<ATR_FlickDisable>通过天云思维关机</ATR_FlickDisable>
+	<!--EN: PowerOff via SkyMind-->
+	<ATR_AutoDoorOpenMoteText>通过天云思维打开</ATR_AutoDoorOpenMoteText>
+	<!--EN: Opening via SkyMind-->
+	<ATR_AutoDoorCloseMoteText>通过天云思维关闭</ATR_AutoDoorCloseMoteText>
+	<!--EN: Closing via SkyMind-->
+
+</LanguageData>

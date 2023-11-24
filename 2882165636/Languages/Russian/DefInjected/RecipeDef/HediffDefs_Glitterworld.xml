@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tactical cornea implant -->
+
+  <InstallTacticalCorneaImplant.label>Установить тактический имплантат роговицы</InstallTacticalCorneaImplant.label>
+  <InstallTacticalCorneaImplant.description>Установить тактический имплантат роговицы.</InstallTacticalCorneaImplant.description>
+  <InstallTacticalCorneaImplant.jobString>Устанавливает тактический имплантат роговицы.</InstallTacticalCorneaImplant.jobString>
+
+  <RemoveTacticalCorneaImplant.label>Удалить тактический имплантат роговицы</RemoveTacticalCorneaImplant.label>
+  <RemoveTacticalCorneaImplant.description>Удалить тактический имплантат роговицы.</RemoveTacticalCorneaImplant.description>
+  <RemoveTacticalCorneaImplant.jobString>Удаляет тактический имплантат роговицы.</RemoveTacticalCorneaImplant.jobString>
+
+
+  <!-- Auxiliary AI (construction) -->
+
+  <InstallConstructorCore.label>Установить вспомогательный ИИ: (строительство)</InstallConstructorCore.label>
+  <InstallConstructorCore.description>Установить вспомогательный ИИ: (строительство).</InstallConstructorCore.description>
+  <InstallConstructorCore.jobString>Устанавливает вспомогательный ИИ: (строительство).</InstallConstructorCore.jobString>
+
+  <RemoveConstructorCore.label>Удалить вспомогательный ИИ: (строительство)</RemoveConstructorCore.label>
+  <RemoveConstructorCore.description>Удалить вспомогательный ИИ: (строительство).</RemoveConstructorCore.description>
+  <RemoveConstructorCore.jobString>Удаляет вспомогательный ИИ: (строительство).</RemoveConstructorCore.jobString>
+
+
+  <!-- Auxiliary AI (agricultural) -->
+
+  <InstallFarmerCore.label>Установить вспомогательный ИИ: (фермерство)</InstallFarmerCore.label>
+  <InstallFarmerCore.description>Установить вспомогательный ИИ: (фермерство).</InstallFarmerCore.description>
+  <InstallFarmerCore.jobString>Устанавливает вспомогательный ИИ: (фермерство).</InstallFarmerCore.jobString>
+
+  <RemoveFarmerCore.label>Удалить вспомогательный ИИ: (фермерство)</RemoveFarmerCore.label>
+  <RemoveFarmerCore.description>Удалить вспомогательный ИИ: (фермерство).</RemoveFarmerCore.description>
+  <RemoveFarmerCore.jobString>Удаляет вспомогательный ИИ: (фермерство).</RemoveFarmerCore.jobString>
+
+
+  <!-- Auxiliary AI (mining) -->
+
+  <InstallMinerCore.label>Установить вспомогательный ИИ: (горное дело)</InstallMinerCore.label>
+  <InstallMinerCore.description>Установить вспомогательный ИИ: (горное дело).</InstallMinerCore.description>
+  <InstallMinerCore.jobString>Устанавливает вспомогательный ИИ: (горное дело).</InstallMinerCore.jobString>
+
+  <RemoveMinerCore.label>Удалить вспомогательный ИИ: (горное дело)</RemoveMinerCore.label>
+  <RemoveMinerCore.description>Удалить вспомогательный ИИ: (горное дело).</RemoveMinerCore.description>
+  <RemoveMinerCore.jobString>Удаляет вспомогательный ИИ: (горное дело).</RemoveMinerCore.jobString>
+
+
+  <!-- Auxiliary AI (medical) -->
+
+  <InstallDoctorCore.label>Установить вспомогательный ИИ: (медецина)</InstallDoctorCore.label>
+  <InstallDoctorCore.description>Установить вспомогательный ИИ: (медецина).</InstallDoctorCore.description>
+  <InstallDoctorCore.jobString>Устанавливает вспомогательный ИИ: (медецина).</InstallDoctorCore.jobString>
+
+  <RemoveDoctorCore.label>Удалить вспомогательный ИИ: (медецина)</RemoveDoctorCore.label>
+  <RemoveDoctorCore.description>Удалить вспомогательный ИИ: (медецина).</RemoveDoctorCore.description>
+  <RemoveDoctorCore.jobString>Удаляет вспомогательный ИИ: (медецина).</RemoveDoctorCore.jobString>
+
+
+  <!-- Auxiliary AI (diplomatic) -->
+
+  <InstallDiplomatCore.label>Установить вспомогательный ИИ: (дипломатия)</InstallDiplomatCore.label>
+  <InstallDiplomatCore.description>Установить вспомогательный ИИ: (дипломатия).</InstallDiplomatCore.description>
+  <InstallDiplomatCore.jobString>Устанавливает вспомогательный ИИ: (дипломатия).</InstallDiplomatCore.jobString>
+
+  <RemoveDiplomatCore.label>Удалить вспомогательный ИИ: (дипломатия)</RemoveDiplomatCore.label>
+  <RemoveDiplomatCore.description>Удалить вспомогательный ИИ: (дипломатия).</RemoveDiplomatCore.description>
+  <RemoveDiplomatCore.jobString>Удаляет вспомогательный ИИ: (дипломатия).</RemoveDiplomatCore.jobString>
+
+
+  <!-- Auxiliary AI (sharpshooter) -->
+
+  <EPIA_InstallAuxiliaryAI_Sharpshooter.label>Установить вспомогательный ИИ: (снайпер)</EPIA_InstallAuxiliaryAI_Sharpshooter.label>
+  <EPIA_InstallAuxiliaryAI_Sharpshooter.description>Установить вспомогательный ИИ:  (снайпер).</EPIA_InstallAuxiliaryAI_Sharpshooter.description>
+  <EPIA_InstallAuxiliaryAI_Sharpshooter.jobString>Устанавливает вспомогательный ИИ:  (снайпер).</EPIA_InstallAuxiliaryAI_Sharpshooter.jobString>
+
+  <EPIA_RemoveAuxiliaryAI_Sharpshooter.label>Удалить вспомогательный ИИ: (снайпер)</EPIA_RemoveAuxiliaryAI_Sharpshooter.label>
+  <EPIA_RemoveAuxiliaryAI_Sharpshooter.description>Удалить вспомогательный ИИ: (снайпер).</EPIA_RemoveAuxiliaryAI_Sharpshooter.description>
+  <EPIA_RemoveAuxiliaryAI_Sharpshooter.jobString>Удаляет вспомогательный ИИ: (снайпер)</EPIA_RemoveAuxiliaryAI_Sharpshooter.jobString>
+
+
+  <!-- Auxiliary AI (commando) -->
+
+  <EPIA_InstallAuxiliaryAI_Commando.label>Установить вспомогательный ИИ: (коммандос)</EPIA_InstallAuxiliaryAI_Commando.label>
+  <EPIA_InstallAuxiliaryAI_Commando.description>Установить вспомогательный ИИ: (коммандос).</EPIA_InstallAuxiliaryAI_Commando.description>
+  <EPIA_InstallAuxiliaryAI_Commando.jobString>Устанавливает вспомогательный ИИ: (коммандос).</EPIA_InstallAuxiliaryAI_Commando.jobString>
+
+  <EPIA_RemoveAuxiliaryAI_Commando.label>Удалить вспомогательный ИИ: (коммандос)</EPIA_RemoveAuxiliaryAI_Commando.label>
+  <EPIA_RemoveAuxiliaryAI_Commando.description>Удалить вспомогательный ИИ: (коммандос).</EPIA_RemoveAuxiliaryAI_Commando.description>
+  <EPIA_RemoveAuxiliaryAI_Commando.jobString>Удаляет вспомогательный ИИ: (коммандос).</EPIA_RemoveAuxiliaryAI_Commando.jobString>
+
+
+  <!-- Auxiliary AI (brawler) -->
+
+  <EPIA_InstallAuxiliaryAI_Brawler.label>Установить вспомогательный ИИ: (дебошир)</EPIA_InstallAuxiliaryAI_Brawler.label>
+  <EPIA_InstallAuxiliaryAI_Brawler.description>Установить вспомогательный ИИ: (дебошир).</EPIA_InstallAuxiliaryAI_Brawler.description>
+  <EPIA_InstallAuxiliaryAI_Brawler.jobString>Устанавливает вспомогательный ИИ: (дебошир).</EPIA_InstallAuxiliaryAI_Brawler.jobString>
+
+  <EPIA_RemoveAuxiliaryAI_Brawler.label>Удалить вспомогательный ИИ: (дебошир)</EPIA_RemoveAuxiliaryAI_Brawler.label>
+  <EPIA_RemoveAuxiliaryAI_Brawler.description>Удалить вспомогательный ИИ: (дебошир).</EPIA_RemoveAuxiliaryAI_Brawler.description>
+  <EPIA_RemoveAuxiliaryAI_Brawler.jobString>Удаляет вспомогательный ИИ: (дебошир).</EPIA_RemoveAuxiliaryAI_Brawler.jobString>
+
+
+  <!-- AI persona core -->
+
+  <InstallAIPersonaCore.label>Установить ядро ИИ</InstallAIPersonaCore.label>
+  <InstallAIPersonaCore.description>Установить ядро ИИ.</InstallAIPersonaCore.description>
+  <InstallAIPersonaCore.jobString>Устанавливает ядро ИИ.</InstallAIPersonaCore.jobString>
+
+
+  <!-- Tactical bionic eye -->
+
+  <EPIA_InstallTacticalBionicEye.label>Установить тактический бионический глаз</EPIA_InstallTacticalBionicEye.label>
+  <EPIA_InstallTacticalBionicEye.description>Установить тактический бионический глаз.</EPIA_InstallTacticalBionicEye.description>
+  <EPIA_InstallTacticalBionicEye.jobString>Устанавливает тактический бионический глаз.</EPIA_InstallTacticalBionicEye.jobString>
+
+
+</LanguageData>

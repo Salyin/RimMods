@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Outland_BevelCornerTiles</defName>
+		<label>bevel corner tile</label>
+	</DesignatorDropdownGroupDef>
+
+	<TerrainDef Abstract="True" ParentName="OutlandTileStoneBase" Name="OutlandBevelCornerTilesBase">
+		<texturePath>Outland/Terrain/BevelCornerTiles</texturePath>
+		<statBases>
+			<WorkToBuild>1100</WorkToBuild>
+			<Beauty>1</Beauty>
+		</statBases>
+		<designatorDropdown>Outland_BevelCornerTiles</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandBevelCornerTilesBase">
+		<defName>Outland_BevelCornerTiles_Sandstone</defName>
+		<label>sandstone bevel corner tile</label>
+		<color>(126,104,94)</color>
+		<costList>
+			<BlocksSandstone>4</BlocksSandstone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandBevelCornerTilesBase">
+		<defName>Outland_BevelCornerTiles_Granite</defName>
+		<label>granite bevel corner tile</label>
+		<color>(105,95,97)</color>
+		<costList>
+			<BlocksGranite>4</BlocksGranite>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandBevelCornerTilesBase">
+		<defName>Outland_BevelCornerTiles_Limestone</defName>
+		<label>limestone bevel corner tile</label>
+		<color>(158,153,135)</color>
+		<costList>
+			<BlocksLimestone>4</BlocksLimestone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandBevelCornerTilesBase">
+		<defName>Outland_BevelCornerTiles_Slate</defName>
+		<label>slate bevel corner tile</label>
+		<color>(100,100,100)</color>
+		<costList>
+			<BlocksSlate>4</BlocksSlate>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandBevelCornerTilesBase">
+		<defName>Outland_BevelCornerTiles_Marble</defName>
+		<label>marble bevel corner tile</label>
+		<color>(132,135,132)</color>
+		<costList>
+			<BlocksMarble>4</BlocksMarble>
+		</costList>
+	</TerrainDef>
+
+</Defs>

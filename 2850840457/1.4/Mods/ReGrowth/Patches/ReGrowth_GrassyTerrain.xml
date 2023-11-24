@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="OutlandTerrain.PatchOperation_SettingActive">
+		<settings>
+			<li>grassyTerrain</li>
+		</settings>
+		<active Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/TerrainDef[defName="RG_TundraSoil" or defName="RG_BorealSoil" or defName="RG_TemperateSoil"]/texturePath</xpath>
+					<value>
+						<texturePath>Terrain/Surfaces/COMIGOGreenSoil</texturePath>
+					</value>
+				</li>
+			</operations>
+		</active>
+		<inactive Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/TerrainDef[defName="RG_TundraSoil" or defName="RG_BorealSoil" or defName="RG_TemperateSoil"]/texturePath</xpath>
+					<value>
+						<texturePath>Terrain/Surfaces/Soil</texturePath>
+					</value>
+				</li>
+			</operations>
+		</inactive>
+	</Operation>
+
+</Patch>

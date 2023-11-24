@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_Misc.xml-->
+            <!-- adjust radio frequency to scan -->
+<RadioScan.label>настроить радиочастоту для сканирования</RadioScan.label>
+             <!-- scanning at -->
+<RadioScan.gerund>сканирование на</RadioScan.gerund>
+
+</LanguageData>

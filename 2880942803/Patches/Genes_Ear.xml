@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Biotech</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/GeneDef[defName = "Ears_Cat"]/graphicData/colorType</xpath>
+			<value>
+				<colorType>Hair</colorType>
+				<useSkinShader>false</useSkinShader>
+			</value>
+		</match>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Biotech</li>
+		</mods>
+		<match Class="PatchOperationReplace">
+			<xpath>/Defs/GeneDef[defName = "Ears_Floppy"]/graphicData/colorType</xpath>
+			<value>
+				<colorType>Hair</colorType>
+				<useSkinShader>false</useSkinShader>
+			</value>
+		</match>
+	</Operation>
+</Patch>

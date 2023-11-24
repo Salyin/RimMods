@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<operations>
+			<!-- If a shield is given this extension, it won't have the modified gizmo -->
+			<li Class="PatchOperationAddModExtension">
+				<success>Always</success>
+				<xpath>Defs/ThingDef[defName="VFEI_Apparel_ArchotechShieldBelt" or defName="VAEA_Apparel_RangedShieldBelt"]</xpath>
+				<value>
+					<li Class="ToggleableShields.StaticShield" />
+				</value>
+			</li>
+		</operations>
+	</Operation>
+</Patch>

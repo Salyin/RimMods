@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneChemUnit.label>механическая курица</ATR_DroneChemUnit.label>
+  <ATR_DroneChemUnit.description>Механическая курица - предназначена для получения химкапсул из которых впоследствии можно синтезировать нейтроамин или химтопливо. Механическая курица не способна заряжаться, для её выживания необходима органическая пища.</ATR_DroneChemUnit.description>
+  <ATR_DroneChemUnit.tools.0.label>голова</ATR_DroneChemUnit.tools.0.label>
+
+
+</LanguageData>

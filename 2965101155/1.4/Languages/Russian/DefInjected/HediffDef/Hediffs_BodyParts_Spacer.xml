@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced Arm -->
+
+  <ATR_AdvancedArm.label>кибернетическая рука</ATR_AdvancedArm.label>
+  <ATR_AdvancedArm.description>Установленная кибернетическая рука.</ATR_AdvancedArm.description>
+  <ATR_AdvancedArm.comps.0.tools.0.label>кулак</ATR_AdvancedArm.comps.0.tools.0.label>
+
+
+  <!-- Advanced Leg -->
+
+  <ATR_AdvancedLeg.label>кибернетическая нога</ATR_AdvancedLeg.label>
+  <ATR_AdvancedLeg.description>Установленная кибернетическая нога.</ATR_AdvancedLeg.description>
+
+
+  <!-- Advanced Visual Sensor -->
+
+  <ATR_AdvancedVisualSensor.label>оптический сверхдатчик</ATR_AdvancedVisualSensor.label>
+  <ATR_AdvancedVisualSensor.description>Установленный оптический сверхдатчик.</ATR_AdvancedVisualSensor.description>
+
+
+  <!-- Advanced Audio Sensor -->
+
+  <ATR_AdvancedAudioSensor.label>звуковой сверхдатчик</ATR_AdvancedAudioSensor.label>
+  <ATR_AdvancedAudioSensor.description>Установленный звуковой сверхдатчик.</ATR_AdvancedAudioSensor.description>
+
+
+  <!-- Advanced Heatsink -->
+
+  <ATR_AdvancedHeatsink.label>усиленный радиатор</ATR_AdvancedHeatsink.label>
+  <ATR_AdvancedHeatsink.description>Установленный усиленный радиатор.</ATR_AdvancedHeatsink.description>
+
+
+  <!-- Advanced Coolant Pump -->
+
+  <ATR_AdvancedCoolantPump.label>усиленный гидронасос</ATR_AdvancedCoolantPump.label>
+  <ATR_AdvancedCoolantPump.description>Установленный усиленный гидронасос.</ATR_AdvancedCoolantPump.description>
+
+
+  <!-- Advanced Battery -->
+
+  <ATR_AdvancedBattery.label>сверхнакопитель</ATR_AdvancedBattery.label>
+  <ATR_AdvancedBattery.description>Установленный сверхнакопитель.</ATR_AdvancedBattery.description>
+
+
+  <!-- Advanced Mechanite Storage -->
+
+  <ATR_AdvancedMechaniteStorage.label>сверхконденсатор</ATR_AdvancedMechaniteStorage.label>
+  <ATR_AdvancedMechaniteStorage.description>Установленный сверхконденсатор.</ATR_AdvancedMechaniteStorage.description>
+
+
+  <!-- Advanced Reactor -->
+
+  <ATR_AdvancedReactor.label>биореактор</ATR_AdvancedReactor.label>
+  <ATR_AdvancedReactor.description>Установленный биореактор.</ATR_AdvancedReactor.description>
+
+
+  <!-- Organic Charger -->
+
+  <ATR_OrganicCharger.label>приёмник энергии</ATR_OrganicCharger.label>
+  <ATR_OrganicCharger.description>Установленный приёмник энергии.</ATR_OrganicCharger.description>
+
+
+</LanguageData>

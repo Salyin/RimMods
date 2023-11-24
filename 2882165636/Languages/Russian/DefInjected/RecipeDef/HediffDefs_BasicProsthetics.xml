@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hook hand -->
+
+  <InstallHookHand.label>Установить руку-крюк</InstallHookHand.label>
+  <InstallHookHand.description>Установить руку-крюк.</InstallHookHand.description>
+  <InstallHookHand.jobString>Устанавливает руку-крюк.</InstallHookHand.jobString>
+
+
+  <!-- Steel arm -->
+
+  <InstallSteelArm.label>Установить стальную руку</InstallSteelArm.label>
+  <InstallSteelArm.description>Установка стальной руки.</InstallSteelArm.description>
+  <InstallSteelArm.jobString>Устанавливает стальную руку.</InstallSteelArm.jobString>
+
+
+  <!-- Eye patch -->
+
+  <InstallEyePatch.label>Надеть повязку на глаз</InstallEyePatch.label>
+  <InstallEyePatch.description>Надевание повязки на глаз.</InstallEyePatch.description>
+  <InstallEyePatch.jobString>Надевает повязку на глаз.</InstallEyePatch.jobString>
+
+
+  <!-- Ear Bandage -->
+
+  <InstallEarBandage.label>Установить повязку на ухо</InstallEarBandage.label>
+  <InstallEarBandage.description>Установить повязку на ухо.</InstallEarBandage.description>
+  <InstallEarBandage.jobString>Устанавливает повязку на ухо</InstallEarBandage.jobString>
+
+
+</LanguageData>

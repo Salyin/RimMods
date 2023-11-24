@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Outland - Terrain</name>
+	<author>Neronix17</author>
+    <packageId>Neronix17.Outland.Terrain</packageId>
+	<url></url>
+	<supportedVersions>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>Retexture of terrain, as well as adding new terrains. Designed to work as part of the Outland mod series but functionally standalone.</description>
+	<loadAfter>
+		<li>ReGrowth.BOTR.Core</li>
+		<li>ComigoGames.Textures.Trees</li>
+		<li>VanillaExpanded.VTEXE</li>
+	</loadAfter>
+</ModMetaData>

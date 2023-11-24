@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hook hand -->
+
+  <HookHand.label>Кисть-крюк</HookHand.label>
+  <HookHand.description>Установленная Кисть-крюк.</HookHand.description>
+  <HookHand.comps.0.tools.0.label>Кисть-крюк</HookHand.comps.0.tools.0.label>
+  <HookHand.labelNoun>Кисть-крюк</HookHand.labelNoun>
+
+
+  <!-- Steel arm -->
+
+  <SteelArm.label>Стальная рука</SteelArm.label>
+  <SteelArm.description>Установленная стальная рука.</SteelArm.description>
+  <SteelArm.comps.0.tools.0.label>рука</SteelArm.comps.0.tools.0.label>
+  <SteelArm.labelNoun>Стальная рука</SteelArm.labelNoun>
+
+
+  <!-- Eye patch -->
+
+  <EyePatch.label>Повязка на глаз</EyePatch.label>
+  <EyePatch.description>Установленная повязка на глаз.</EyePatch.description>
+  <EyePatch.labelNoun>Повязка на глаз</EyePatch.labelNoun>
+
+
+  <!-- Ear Bandage -->
+
+  <EarBandage.label>Повязка на ухо</EarBandage.label>
+  <EarBandage.description>Установленная повязка на ухо.</EarBandage.description>
+  <EarBandage.labelNoun>Повязка на ухо</EarBandage.labelNoun>
+
+
+  <!--<WoodenFoot.label>Деревянная ступня</WoodenFoot.label>-->
+  <!--<denture.label>Зубной протез</denture.label>-->
+  <!--<PegLeg.label>Деревянная нога</PegLeg.label>-->
+
+</LanguageData>

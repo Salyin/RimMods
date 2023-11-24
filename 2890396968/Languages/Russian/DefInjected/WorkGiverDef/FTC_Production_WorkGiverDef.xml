@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Things/FTC_Production.xml-->
+                    <!-- Operate furnace -->
+<FT_OperateFurnace.label>Эксплуатация печи</FT_OperateFurnace.label>
+                     <!-- Operating at -->
+<FT_OperateFurnace.gerund>Работает в</FT_OperateFurnace.gerund>
+                     <!-- Operate pyrolysis plant -->
+<FT_OperateAutoChem.label>Эксплуатация пиролизной установки</FT_OperateAutoChem.label>
+                      <!-- Operating at -->
+<FT_OperateAutoChem.gerund>Работает в</FT_OperateAutoChem.gerund>
+                    <!-- cook at kitchen -->
+<FT_OperateKitchen.label>готовить на кухне</FT_OperateKitchen.label>
+                     <!-- cooking at -->
+<FT_OperateKitchen.gerund>приготовление пищи в</FT_OperateKitchen.gerund>
+
+
+<!--/Defs/Things/FTC_Production.xml-->
+<!-- Operate furnace -->
+<FT_OperateFurnace.label>Эксплуатация печи</FT_OperateFurnace.label>
+<!-- Operating at -->
+<FT_OperateFurnace.gerund>Работает в</FT_OperateFurnace.gerund>
+<!-- Operate pyrolysis plant -->
+<FT_OperateAutoChem.label>Эксплуатация пиролизной установки</FT_OperateAutoChem.label>
+<!-- Operating at -->
+<FT_OperateAutoChem.gerund>Работает в</FT_OperateAutoChem.gerund>
+<!-- cook at kitchen -->
+<FT_OperateKitchen.label>готовить на кухне</FT_OperateKitchen.label>
+<!-- cooking at -->
+<FT_OperateKitchen.gerund>приготовление пищи в</FT_OperateKitchen.gerund>
+
+</LanguageData>

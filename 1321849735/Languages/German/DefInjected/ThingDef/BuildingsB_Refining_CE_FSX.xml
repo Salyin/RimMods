@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Should not show up by default; an xpath patch will enable this only if Combat Extended is running -->
+
+  <CombatExtendedFsxRefiner.label>Raffinerie (FSX)</CombatExtendedFsxRefiner.label>
+  <CombatExtendedFsxRefiner.description>Wandelt Kraftstoff in FSX um. FSX ist eine hochexplosive Chemikalie, die in einer Vielzahl von industriellen und millitärischen Anwendungen eingesetzt wird.</CombatExtendedFsxRefiner.description>
+  <CombatExtendedFsxRefiner_Blueprint.label>Raffinerie (FSX) (Entwurf)</CombatExtendedFsxRefiner_Blueprint.label>
+  <CombatExtendedFsxRefiner_Blueprint_Install.label>Raffinerie (FSX) (Entwurf)</CombatExtendedFsxRefiner_Blueprint_Install.label>
+  <CombatExtendedFsxRefiner_Frame.label>Raffinerie (FSX) (Im Bau)</CombatExtendedFsxRefiner_Frame.label>
+  <CombatExtendedFsxRefiner_Frame.description>Wandelt Kraftstoff in FSX um. FSX ist eine hochexplosive Chemikalie, die in einer Vielzahl von industriellen und millitärischen Anwendungen eingesetzt wird.</CombatExtendedFsxRefiner_Frame.description>
+
+
+</LanguageData>

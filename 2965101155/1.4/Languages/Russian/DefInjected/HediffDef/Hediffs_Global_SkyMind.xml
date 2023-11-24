@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_SplitConsciousness.label>разделение сознания</ATR_SplitConsciousness.label>
+  <ATR_SplitConsciousness.description>Сознание, контролирующее тело, разделяется, так как оно также должно контролировать и другие тела. Это снижает способность сознания осуществлять тонкий контроль над одним телом. Больше тел означает более крупный штраф.</ATR_SplitConsciousness.description>
+  <ATR_SplitConsciousness.stages.0.label>начальное</ATR_SplitConsciousness.stages.0.label>
+  <ATR_SplitConsciousness.stages.1.label>незаметное</ATR_SplitConsciousness.stages.1.label>
+  <ATR_SplitConsciousness.stages.2.label>лёгкое</ATR_SplitConsciousness.stages.2.label>
+  <ATR_SplitConsciousness.stages.3.label>трудное</ATR_SplitConsciousness.stages.3.label>
+  <ATR_SplitConsciousness.stages.4.label>интенсивное</ATR_SplitConsciousness.stages.4.label>
+  <ATR_SplitConsciousness.stages.5.label>экстремальное</ATR_SplitConsciousness.stages.5.label>
+  <ATR_SplitConsciousness.labelNoun>разделённое сознание</ATR_SplitConsciousness.labelNoun>
+
+  <ATR_ForeignConsciousness.label>чужое сознание</ATR_ForeignConsciousness.label>
+  <ATR_ForeignConsciousness.description>Сознание, контролирующее это тело, принадлежит другой фракции. Оператор отключится после его поражения и, вероятно, вызовет самоуничтожение ядра.</ATR_ForeignConsciousness.description>
+  <ATR_ForeignConsciousness.labelNoun>чужое сознание</ATR_ForeignConsciousness.labelNoun>
+
+  <ATR_MindOperation.label>перезапись ядра</ATR_MindOperation.label>
+  <ATR_MindOperation.description>В настоящее время SkyMind проводит операцию по перезаписи ядра. Чтобы сохранить связь и целостность ядра, сознание контролирующее тело - отключено.</ATR_MindOperation.description>
+  <ATR_MindOperation.labelNoun>перезапись ядра</ATR_MindOperation.labelNoun>
+
+  <ATR_NoController.label>отсутствует оператор</ATR_NoController.label>
+  <ATR_NoController.description>Это тело не имеет оператора и поэтому не способно к автономному существованию.</ATR_NoController.description>
+  <ATR_NoController.labelNoun>отсутствующий оператор</ATR_NoController.labelNoun>
+
+
+</LanguageData>

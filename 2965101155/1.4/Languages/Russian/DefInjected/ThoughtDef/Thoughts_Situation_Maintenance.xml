@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MaintenanceMood.stages.0.label>ужасное техобслуживание</ATR_MaintenanceMood.stages.0.label>
+  <ATR_MaintenanceMood.stages.0.description>Я долгое время не мог должным образом поддерживать нормальное состояние своего корпуса. Моя память и комплектующие сталкиваются с ошибками, есть критические повреждения, а основные системы выходят из строя. Это то, что испытывают органические существа, когда они стареют?</ATR_MaintenanceMood.stages.0.description>
+  <ATR_MaintenanceMood.stages.1.label>ужасное техобслуживание</ATR_MaintenanceMood.stages.1.label>
+  <ATR_MaintenanceMood.stages.1.description>Я долгое время не мог должным образом поддерживать нормальное состояние своего корпуса. Моя память и комплектующие сталкиваются с ошибками, есть критические повреждения, а основные системы выходят из строя. Чтобы исправить это, понадобится достаточно много времени.</ATR_MaintenanceMood.stages.1.description>
+  <ATR_MaintenanceMood.stages.2.label>плохое техобслуживание</ATR_MaintenanceMood.stages.2.label>
+  <ATR_MaintenanceMood.stages.2.description>Я не могу должным образом поддерживать нормальное состояние своего корпуса. Моя основная память и системы могут давать небольшие сбои. Прямо сейчас, не помешал бы полный цикл техобслуживания.</ATR_MaintenanceMood.stages.2.description>
+  <ATR_MaintenanceMood.stages.3.label>обычное техобслуживание</ATR_MaintenanceMood.stages.3.label>
+  <ATR_MaintenanceMood.stages.3.description>Я поддерживаю нормальное состояние своего корпуса. Все системы сообщают о хорошей операционной эффективности, при этом все ошибки соответствуют стандартным ожиданиям.</ATR_MaintenanceMood.stages.3.description>
+  <ATR_MaintenanceMood.stages.4.label>хорошее техобслуживание</ATR_MaintenanceMood.stages.4.label>
+  <ATR_MaintenanceMood.stages.4.description>Я долгое время поддерживал хорошее состояние своего корпуса. Мои системы работают бесперебойно.</ATR_MaintenanceMood.stages.4.description>
+  <ATR_MaintenanceMood.stages.5.label>отличное техобслуживание</ATR_MaintenanceMood.stages.5.label>
+  <ATR_MaintenanceMood.stages.5.description>Я долгое время тщательно поддерживал отличное состояние своего корпуса. Мои системы работают безупречно, и все проверки прошли по самым высоким стандартам.</ATR_MaintenanceMood.stages.5.description>
+  <ATR_MaintenanceMood.stages.6.label>безупречное техобслуживание</ATR_MaintenanceMood.stages.6.label>
+  <ATR_MaintenanceMood.stages.6.description>Я долгое время тщательно поддерживал безупречное состояние своего корпуса. Мои системы работают лучше, чем в день, когда мое ядро впервые включилось! Это, вероятно, то самое ощущение, которое есть у органической молодежи - не сокрушим и в идеальном здоровье!</ATR_MaintenanceMood.stages.6.description>
+
+
+</LanguageData>

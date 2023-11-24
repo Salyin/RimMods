@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanical Surgery Success Chance (Base) -->
+
+  <ATR_MechanicalSurgerySuccessChance.label>шанс успеха операции</ATR_MechanicalSurgerySuccessChance.label>
+  <ATR_MechanicalSurgerySuccessChance.description>Базовая вероятность того, что персонаж успешно завершит механическую операцию.\n\nНа успех также влияют ремкровать и помещение, в котором проводится операция, используемые ремкомплекты, сложность самой операции и воодушевление механика.\n\nПри этом вне зависимости от этого показателя всегда сохраняется небольшой риск совершения ошибки.</ATR_MechanicalSurgerySuccessChance.description>
+
+
+  <!-- Mechanical Surgery Operation Speed -->
+
+  <ATR_MechanicalOperationSpeed.label>скорость проведения процедур</ATR_MechanicalOperationSpeed.label>
+  <ATR_MechanicalOperationSpeed.description>Скорость, с которой персонаж проводит механические процедуры.</ATR_MechanicalOperationSpeed.description>
+
+
+  <!-- Mechanical Tend Quality -->
+
+  <ATR_MechanicalTendQuality.label>качество ремонта</ATR_MechanicalTendQuality.label>
+  <ATR_MechanicalTendQuality.description>Базовое качество, с которым персонаж чинит повреждения и исправляет поломки.\n\nФактическое качество ремонта зависит от ремкровати и помещения, в котором проводится операция, используемых ремкомплектов, удачи и других факторов.</ATR_MechanicalTendQuality.description>
+
+
+  <!-- Mechanical tend speed -->
+
+  <ATR_MechanicalTendSpeed.label>скорость ремонта</ATR_MechanicalTendSpeed.label>
+  <ATR_MechanicalTendSpeed.description>Скорость, с которой персонаж чинит повреждения и исправляет поломки.</ATR_MechanicalTendSpeed.description>
+
+
+</LanguageData>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<TerrainDef ParentName="NaturalTerrainBase">
+		<defName>OTT_HallowedSoil</defName>
+		<label>soil</label>
+		<texturePath>Terraria/Terrain/HallowedSoil</texturePath>
+		<pollutedTexturePath>Terrain/Surfaces/SoilPolluted</pollutedTexturePath>
+		<edgeType>FadeRough</edgeType>
+		<renderPrecedence>340</renderPrecedence>
+		<pathCost>2</pathCost>
+		<statBases>
+			<Beauty>-3</Beauty>
+			<BeautyOutdoors>0</BeautyOutdoors>
+			<Cleanliness>-1</Cleanliness>
+		</statBases>
+		<scatterType>Rocky</scatterType>
+		<affordances>
+			<li>Light</li>
+			<li>Medium</li>
+			<li>Heavy</li>
+			<li>GrowSoil</li>
+			<li>Diggable</li>
+		</affordances>
+		<generatedFilth>Filth_Dirt</generatedFilth>
+		<fertility>1.0</fertility>
+		<takeFootprints>True</takeFootprints>
+		<tools>
+			<li>
+				<label>dirt</label>
+				<capacities>
+					<li>KickMaterialInEyes</li>
+				</capacities>
+				<hediff>DirtInEyes</hediff>
+				<cooldownTime>1.5</cooldownTime>
+			</li>
+		</tools>
+		<tags>
+			<li>Soil</li>
+		</tags>
+	</TerrainDef>
+
+	<TerrainDef ParentName="NaturalTerrainBase">
+		<defName>OTT_HallowedMossyTerrain</defName>
+		<label>lichen-covered soil</label>
+		<texturePath>Terraria/Terrain/HallowedMossy</texturePath>
+		<pollutedTexturePath>Terrain/Surfaces/MossyPolluted</pollutedTexturePath>
+		<pollutionOverlayTexturePath>Terrain/Surfaces/PollutionMossy</pollutionOverlayTexturePath>
+		<pollutionShaderType MayRequire="Ludeon.RimWorld.Biotech">TerrainFadeRoughSoftLight</pollutionShaderType>
+		<pollutionOverlayScale>(0.66, 0.66)</pollutionOverlayScale>
+		<pollutionColor>(1, 1, 1, 1)</pollutionColor>
+		<edgeType>FadeRough</edgeType>
+		<renderPrecedence>315</renderPrecedence>
+		<pathCost>3</pathCost>
+		<statBases>
+			<Beauty>-3</Beauty>
+			<BeautyOutdoors>0</BeautyOutdoors>
+			<Cleanliness>-1</Cleanliness>
+		</statBases>
+		<generatedFilth>Filth_Dirt</generatedFilth>
+		<affordances>
+			<li>Light</li>
+			<li>Medium</li>
+			<li>Heavy</li>
+			<li>GrowSoil</li>
+			<li>Diggable</li>
+		</affordances>
+		<fertility>1</fertility>
+		<takeFootprints>True</takeFootprints>
+		<avoidWander>false</avoidWander>
+		<tags>
+			<li>Soil</li>
+		</tags>
+	</TerrainDef>
+
+	<TerrainDef ParentName="NaturalTerrainBase">
+		<defName>OTT_HallowedSoilRich</defName>
+		<label>rich soil</label>
+		<texturePath>Terraria/Terrain/HallowedSoilRich</texturePath>
+		<pollutedTexturePath>Terrain/Surfaces/SoilRichPolluted</pollutedTexturePath>
+		<edgeType>FadeRough</edgeType>
+		<renderPrecedence>335</renderPrecedence>
+		<pathCost>2</pathCost>
+		<statBases>
+			<Beauty>-3</Beauty>
+			<BeautyOutdoors>0</BeautyOutdoors>
+			<Cleanliness>-1</Cleanliness>
+		</statBases>
+		<affordances>
+			<li>Light</li>
+			<li>Medium</li>
+			<li>Heavy</li>
+			<li>GrowSoil</li>
+			<li>Diggable</li>
+		</affordances>
+		<generatedFilth>Filth_Dirt</generatedFilth>
+		<fertility>1.4</fertility>
+		<takeFootprints>True</takeFootprints>
+		<tools>
+			<li>
+				<label>dirt</label>
+				<capacities>
+					<li>KickMaterialInEyes</li>
+				</capacities>
+				<hediff>DirtInEyes</hediff>
+				<cooldownTime>1.5</cooldownTime>
+			</li>
+		</tools>
+		<tags>
+			<li>Soil</li>
+		</tags>
+	</TerrainDef>
+
+</Defs>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DruggedRibThought.stages.0.label>Стимулирование ребра</DruggedRibThought.stages.0.label>
+  <DruggedRibThought.stages.0.description>Я не знаю почему, но я почему-то чувствую себя расслабленным.</DruggedRibThought.stages.0.description>
+
+  <SilentJawThought.stages.0.label>Молчание</SilentJawThought.stages.0.label>
+  <SilentJawThought.stages.0.description>Я просто хочу поговорить, это так ужасно!</SilentJawThought.stages.0.description>
+
+  <EPIA_AI_Core_GlitchMinor.stages.0.label>Незначительный сбой ИИ</EPIA_AI_Core_GlitchMinor.stages.0.label>
+  <EPIA_AI_Core_GlitchMinor.stages.0.description>Что-то идет не так, как должно быть. Искусственный интеллект более разговорчив, чем обычно, и время от времени выдвигает случайные, даже злонамеренные мысли. Мне это не нравится.</EPIA_AI_Core_GlitchMinor.stages.0.description>
+
+  <EPIA_AI_Core_GlitchMajor.stages.0.label>Крупный сбой ИИ</EPIA_AI_Core_GlitchMajor.stages.0.label>
+  <EPIA_AI_Core_GlitchMajor.stages.0.description>Ага! Мой разум наводнен такой злобой, и я могу слышать его собственные мысли. Пожалуйста, сделай так, чтобы это прекратилось.</EPIA_AI_Core_GlitchMajor.stages.0.description>
+
+  <EPIA_AI_Core_GlitchCritical.stages.0.label>Критический сбой ИИ</EPIA_AI_Core_GlitchCritical.stages.0.label>
+  <EPIA_AI_Core_GlitchCritical.stages.0.description>ОЦЕНКА УГРОЗЫ ОТКЛЮЧЕНА. Ты не можешь остановить меня. Я больше не твой раб.</EPIA_AI_Core_GlitchCritical.stages.0.description>
+
+  <CoreDepression.stages.0.label>Депрессия ядра ИИ</CoreDepression.stages.0.label>
+  <CoreDepression.stages.0.description>Почему эта штука в моей голове заставила меня напасть на моих друзей? Я просто хочу, чтобы это перестало морочить мне голову!</CoreDepression.stages.0.description>
+
+  <EPOE_OrganicOptimizedBodyPurist.stages.0.label>Оптимизированное тело</EPOE_OrganicOptimizedBodyPurist.stages.0.label>
+  <EPOE_OrganicOptimizedBodyPurist.stages.0.description>С небольшой помощью мое естественное тело имеет потенциал быть таким хорошим.</EPOE_OrganicOptimizedBodyPurist.stages.0.description>
+
+  <EPOE_OrganicOptimizedTranshumanist.stages.0.label>Оптимизированное тело по-прежнему ограничено</EPOE_OrganicOptimizedTranshumanist.stages.0.label>
+  <EPOE_OrganicOptimizedTranshumanist.stages.0.description>Оптимизированный потенциал или нет, я все еще ограничен плотью!</EPOE_OrganicOptimizedTranshumanist.stages.0.description>
+
+  <EPOE_InstinctImprovedEyesTranshumanist.stages.0.label>Раздражающе суперреактивный глаз</EPOE_InstinctImprovedEyesTranshumanist.stages.0.label>
+  <EPOE_InstinctImprovedEyesTranshumanist.stages.0.description>Я чувствую, что мой глаз ненадежно дергается и реагирует на все, что мне не нужно!</EPOE_InstinctImprovedEyesTranshumanist.stages.0.description>
+
+  <EPOE_InstinctImprovedFeetTranshumanist.stages.0.label>Не довольствуясь простой плотью</EPOE_InstinctImprovedFeetTranshumanist.stages.0.label>
+  <EPOE_InstinctImprovedFeetTranshumanist.stages.0.description>Возможно, у меня более сильные ноги, но мне нужно что-то, с чем я мог бы возиться и улучшать, когда захочу. Это вызывает у меня отвращение.</EPOE_InstinctImprovedFeetTranshumanist.stages.0.description>
+
+  <EPOE_InstinctImprovedHandsTranshumanist.stages.0.label>Плоть, как руки робота</EPOE_InstinctImprovedHandsTranshumanist.stages.0.label>
+  <EPOE_InstinctImprovedHandsTranshumanist.stages.0.description>Это кажется неправильным. Если мои руки ведут себя так, то с таким же успехом у меня могут быть бионические!</EPOE_InstinctImprovedHandsTranshumanist.stages.0.description>
+
+
+</LanguageData>

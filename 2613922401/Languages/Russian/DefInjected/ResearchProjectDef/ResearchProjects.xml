@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Glassworks.label>изготовление стекла</Glassworks.label>
+  <Glassworks.description>Стекло позволит создавать окна, которые блокируют ветер и пропускают свет.</Glassworks.description>
+
+  <AdvancedGlassworks.label>бронированное стекло</AdvancedGlassworks.label>
+  <AdvancedGlassworks.description>Позволяет создавать окна из кристализированной пластали, такой же прочной, как и стены.</AdvancedGlassworks.description>
+
+
+</LanguageData>

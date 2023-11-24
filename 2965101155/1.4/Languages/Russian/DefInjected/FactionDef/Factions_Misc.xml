@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_PlayerAndroidFaction.label>Партия андроидов</ATR_PlayerAndroidFaction.label>
+  <ATR_PlayerAndroidFaction.description>Ваша колония андроидов.</ATR_PlayerAndroidFaction.description>
+  <ATR_PlayerAndroidFaction.pawnsPlural>колонисты</ATR_PlayerAndroidFaction.pawnsPlural>
+
+  <ATR_MechanicalMarauders.label>Механические налетчики</ATR_MechanicalMarauders.label>
+  <ATR_MechanicalMarauders.description>Изгои, изгнанники и бывшие рабы объединившееся в банду злобных налетчиков. Движимы любовью к грабежам своих более продуктивных соседей, эти мародеры предпочитают нападать на всех остальных вместо того, чтобы воевать друг с другом.\n\nДипломатия неприемлема с любой фракцией, которая позволяет любым органическим видам гуманоидов быть кем-то, кроме пленников, но налетчики могут научиться терпимо относиться к единомышленникам из неорганических фракций.</ATR_MechanicalMarauders.description>
+  <ATR_MechanicalMarauders.pawnsPlural>налетчик</ATR_MechanicalMarauders.pawnsPlural>
+  <ATR_MechanicalMarauders.leaderTitle>капитан налетчиков</ATR_MechanicalMarauders.leaderTitle>
+
+  <ATR_AndroidUnion.label>Механическая коалиция</ATR_AndroidUnion.label>
+  <ATR_AndroidUnion.description>Коалиция андроидов решившая образовать союз полунезависимых городов для взаимной обороны и процветания. Они, как правило, любят торговлю и сотрудничество, и хотят жить в мире.\n\nЭта фракция обычно торгует высокотехнологичными товарами вместе с основными оптовыми поставками.</ATR_AndroidUnion.description>
+  <ATR_AndroidUnion.pawnsPlural>андроид</ATR_AndroidUnion.pawnsPlural>
+  <ATR_AndroidUnion.leaderTitle>лидер коалиции</ATR_AndroidUnion.leaderTitle>
+
+
+</LanguageData>

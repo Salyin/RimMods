@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Outland_CrackedPatternedTiles</defName>
+		<label>cracked patterned tiles</label>
+	</DesignatorDropdownGroupDef>
+
+	<TerrainDef Abstract="True" ParentName="OutlandTileStoneBase" Name="OutlandCrackedPatternedTilesBase">
+		<texturePath>Outland/Terrain/CrackedTilesArtistic</texturePath>
+		<statBases>
+			<WorkToBuild>1100</WorkToBuild>
+			<Beauty>1</Beauty>
+		</statBases>
+		<designatorDropdown>Outland_CrackedPatternedTiles</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandCrackedPatternedTilesBase">
+		<defName>Outland_CrackedPatternedTiles_Sandstone</defName>
+		<label>sandstone cracked patterned tiles</label>
+		<color>(126,104,94)</color>
+		<costList>
+			<BlocksSandstone>4</BlocksSandstone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandCrackedPatternedTilesBase">
+		<defName>Outland_CrackedPatternedTiles_Granite</defName>
+		<label>granite cracked patterned tiles</label>
+		<color>(105,95,97)</color>
+		<costList>
+			<BlocksGranite>4</BlocksGranite>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandCrackedPatternedTilesBase">
+		<defName>Outland_CrackedPatternedTiles_Limestone</defName>
+		<label>limestone cracked patterned tiles</label>
+		<color>(158,153,135)</color>
+		<costList>
+			<BlocksLimestone>4</BlocksLimestone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandCrackedPatternedTilesBase">
+		<defName>Outland_CrackedPatternedTiles_Slate</defName>
+		<label>slate cracked patterned tiles</label>
+		<color>(100,100,100)</color>
+		<costList>
+			<BlocksSlate>4</BlocksSlate>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandCrackedPatternedTilesBase">
+		<defName>Outland_CrackedPatternedTiles_Marble</defName>
+		<label>marble cracked patterned tiles</label>
+		<color>(132,135,132)</color>
+		<costList>
+			<BlocksMarble>4</BlocksMarble>
+		</costList>
+	</TerrainDef>
+
+</Defs>

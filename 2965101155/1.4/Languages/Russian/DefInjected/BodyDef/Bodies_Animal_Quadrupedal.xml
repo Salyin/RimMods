@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechQuadrupedal.label>четвероногий дрон</ATR_MechQuadrupedal.label>
+  <ATR_MechQuadrupedal.corePart.parts.4.customLabel>левый радиатор</ATR_MechQuadrupedal.corePart.parts.4.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.5.customLabel>правый радиатор</ATR_MechQuadrupedal.corePart.parts.5.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.8.parts.0.parts.1.customLabel>левый оптический датчик</ATR_MechQuadrupedal.corePart.parts.8.parts.0.parts.1.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.8.parts.0.parts.2.customLabel>правый оптический датчик</ATR_MechQuadrupedal.corePart.parts.8.parts.0.parts.2.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.8.parts.0.parts.3.customLabel>левый звуковой датчик</ATR_MechQuadrupedal.corePart.parts.8.parts.0.parts.3.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.8.parts.0.parts.4.customLabel>правый звуковой датчик</ATR_MechQuadrupedal.corePart.parts.8.parts.0.parts.4.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.9.customLabel>передняя левая нога</ATR_MechQuadrupedal.corePart.parts.9.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.9.parts.0.customLabel>передняя левая лапа</ATR_MechQuadrupedal.corePart.parts.9.parts.0.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.10.customLabel>передняя правая нога</ATR_MechQuadrupedal.corePart.parts.10.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.10.parts.0.customLabel>передняя правая лапа</ATR_MechQuadrupedal.corePart.parts.10.parts.0.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.11.customLabel>задняя левая нога</ATR_MechQuadrupedal.corePart.parts.11.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.11.parts.0.customLabel>задняя левая лапа</ATR_MechQuadrupedal.corePart.parts.11.parts.0.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.12.customLabel>задняя правая нога</ATR_MechQuadrupedal.corePart.parts.12.customLabel>
+  <ATR_MechQuadrupedal.corePart.parts.12.parts.0.customLabel>задняя правая лапа</ATR_MechQuadrupedal.corePart.parts.12.parts.0.customLabel>
+
+
+</LanguageData>

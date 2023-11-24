@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Things/FTC_PermanentStructure.xml-->
+                  <!-- citadel wall -->
+<FTC_CitadelWall.label>стена цитадели</FTC_CitadelWall.label>
+                        <!-- An impassable wall with extra protection from siege, designed for industrial fortress structure. Capable of holding up a roof.
+
+ This is a permanent structure, site wisely. -->
+<FTC_CitadelWall.description>Непроходимая стена с дополнительной защитой от осады, предназначенная для сооружения промышленной крепости. Способен держать крышу.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_CitadelWall.description>
+                            <!-- citadel embrasure -->
+<FTC_CitadelWall_Embrasure.label>амбразура цитадели</FTC_CitadelWall_Embrasure.label>
+                                  <!-- An impassable wall with extra protection from siege, designed for industrial fortress structure. Capable of holding up a roof.
+
+ This is a permanent structure, site wisely. -->
+<FTC_CitadelWall_Embrasure.description>Непроходимая стена с дополнительной защитой от осады, предназначенная для сооружения промышленной крепости. Способен держать крышу.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_CitadelWall_Embrasure.description>
+
+
+<!--/Defs/Things/FTC_PermanentStructure.xml-->
+<!-- citadel wall -->
+<FTC_CitadelWall.label>стена цитадели</FTC_CitadelWall.label>
+<!-- An impassable wall with extra protection from siege, designed for industrial fortress structure. Capable of holding up a roof.
+
+ This is a permanent structure, site wisely. -->
+<FTC_CitadelWall.description>Непроходимая стена с дополнительной защитой от осады, предназначенная для сооружения промышленной крепости. Способен держать крышу.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_CitadelWall.description>
+<!-- citadel embrasure -->
+<FTC_CitadelWall_Embrasure.label>амбразура цитадели</FTC_CitadelWall_Embrasure.label>
+<!-- An impassable wall with extra protection from siege, designed for industrial fortress structure. Capable of holding up a roof.
+
+ This is a permanent structure, site wisely. -->
+<FTC_CitadelWall_Embrasure.description>Непроходимая стена с дополнительной защитой от осады, предназначенная для сооружения промышленной крепости. Способен держать крышу.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_CitadelWall_Embrasure.description>
+
+</LanguageData>

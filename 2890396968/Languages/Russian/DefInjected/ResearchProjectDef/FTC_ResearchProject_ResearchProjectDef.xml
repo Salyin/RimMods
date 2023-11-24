@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Things/FTC_ResearchProject.xml-->
+            <!-- Data:Strategic deception -->
+<FTC_Decoy.label>Данные:стратегический обман</FTC_Decoy.label>
+                  <!-- [Data decryption completed] 
+ To protect those settlements that really matter to us, we need a stronghold, a fortified citadel that took everyone's attention.
+
+ whatever, a place... that no one could ignore___Interstellar Industries Complex Nara -->
+<FTC_Decoy.description>[Расшифровка данных завершена] \n Чтобы защитить те поселения, которые действительно важны для нас, нам нужна твердыня, укрепленная цитадель, которая привлекла бы всеобщее внимание.\n\n что бы то ни было, место... которое никто не мог игнорировать___Межзвездный промышленный комплекс Нара</FTC_Decoy.description>
+                         <!-- Permanent structures -->
+<FTC_PermanentStructure.label>Постоянные конструкции</FTC_PermanentStructure.label>
+                               <!-- Unlock the construction of Permanent structures, these concrete structures were designed to be a non-deconstructible buildings. 
+
+ Even if war disappears from this world,they will remain there, as a silenced concreted stele, for future generations to witness the war of the past. -->
+<FTC_PermanentStructure.description>Разблокируйте строительство постоянных конструкций, эти бетонные конструкции были спроектированы как неразборные здания. \n\n Даже если война исчезнет из этого мира, они останутся там, как безмолвная забетонированная стела, чтобы будущие поколения стали свидетелями войны прошлого.</FTC_PermanentStructure.description>
+                      <!-- Permanent fortifications -->
+<FTC_PermanentBunker.label>Постоянные укрепления</FTC_PermanentBunker.label>
+                            <!-- Unlock the construction of Permanent fortifications, these concrete facilities were designed to be a non-deconstructible weapon platform. 
+
+ Even if war disappears from this world, they will remain there disarmed, as a silenced remain, for future generations to witness the war of the past. -->
+<FTC_PermanentBunker.description>Разблокируйте строительство постоянных укреплений, эти бетонные сооружения были спроектированы как неразрушаемая оружейная платформа. \n\n Даже если война исчезнет из этого мира, они останутся там безоружными, как безмолвные останки, чтобы будущие поколения стали свидетелями войны прошлого.</FTC_PermanentBunker.description>
+                   <!-- Tank Bunker -->
+<FTC_TurretBunker.label>Танковый бункер</FTC_TurretBunker.label>
+                         <!-- The installation of a tank turret in a semi-buried concrete structure can provide strong firepower and a safe shooting environment, but it can only execute simple orders because it cannot receive communications. -->
+<FTC_TurretBunker.description>Установка танковой башни в полузасыпанной бетонной конструкции может обеспечить мощную огневую мощь и безопасные условия для стрельбы, но она может выполнять только простые приказы, поскольку не может принимать сообщения.</FTC_TurretBunker.description>
+
+
+<!--/Defs/Things/FTC_ResearchProject.xml-->
+<!-- Data:Strategic deception -->
+<FTC_Decoy.label>Данные:стратегический обман</FTC_Decoy.label>
+<!-- [Data decryption completed] 
+ To protect those settlements that really matter to us, we need a stronghold, a fortified citadel that took everyone's attention.
+
+ whatever, a place... that no one could ignore___Interstellar Industries Complex Nara -->
+<FTC_Decoy.description>[Расшифровка данных завершена] \n Чтобы защитить те поселения, которые действительно важны для нас, нам нужна твердыня, укрепленная цитадель, которая привлекла бы всеобщее внимание.\n\n что бы то ни было, место... которое никто не мог игнорировать___Межзвездный промышленный комплекс Нара</FTC_Decoy.description>
+<!-- Permanent structures -->
+<FTC_PermanentStructure.label>Постоянные конструкции</FTC_PermanentStructure.label>
+<!-- Unlock the construction of Permanent structures, these concrete structures were designed to be a non-deconstructible buildings. 
+
+ Even if war disappears from this world,they will remain there, as a silenced concreted stele, for future generations to witness the war of the past. -->
+<FTC_PermanentStructure.description>Разблокируйте строительство постоянных конструкций, эти бетонные конструкции были спроектированы как неразборные здания. \n\n Даже если война исчезнет из этого мира, они останутся там, как безмолвная забетонированная стела, чтобы будущие поколения стали свидетелями войны прошлого.</FTC_PermanentStructure.description>
+<!-- Permanent fortifications -->
+<FTC_PermanentBunker.label>Постоянные укрепления</FTC_PermanentBunker.label>
+<!-- Unlock the construction of Permanent fortifications, these concrete facilities were designed to be a non-deconstructible weapon platform. 
+
+ Even if war disappears from this world, they will remain there disarmed, as a silenced remain, for future generations to witness the war of the past. -->
+<FTC_PermanentBunker.description>Разблокируйте строительство постоянных укреплений, эти бетонные сооружения были спроектированы как неразрушаемая оружейная платформа. \n\n Даже если война исчезнет из этого мира, они останутся там безоружными, как безмолвные останки, чтобы будущие поколения стали свидетелями войны прошлого.</FTC_PermanentBunker.description>
+<!-- Tank Bunker -->
+<FTC_TurretBunker.label>Танковый бункер</FTC_TurretBunker.label>
+<!-- The installation of a tank turret in a semi-buried concrete structure can provide strong firepower and a safe shooting environment, but it can only execute simple orders because it cannot receive communications. -->
+<FTC_TurretBunker.description>Установка танковой башни в полузасыпанной бетонной конструкции может обеспечить мощную огневую мощь и безопасные условия для стрельбы, но она может выполнять только простые приказы, поскольку не может принимать сообщения.</FTC_TurretBunker.description>
+
+</LanguageData>

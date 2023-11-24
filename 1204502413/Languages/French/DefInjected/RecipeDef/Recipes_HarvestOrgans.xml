@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AutopsyBasic.label>autopsier un corps pour récolter des organes</AutopsyBasic.label>
+  <AutopsyBasic.description>autopsier un corps pour récolter des organes</AutopsyBasic.description>
+  <AutopsyBasic.jobString>autopsie un corps pour récolter des organes</AutopsyBasic.jobString>
+
+  <AutopsyAdvanced.label>Ablation chirurgicale d'organes</AutopsyAdvanced.label>
+  <AutopsyAdvanced.description>Ablation chirurgicale d'organes</AutopsyAdvanced.description>
+  <AutopsyAdvanced.jobString>pratique une ablation chirurgicale d'organes</AutopsyAdvanced.jobString>
+
+  <AutopsyGlitterworld.label>Utilisez l'anatomie high-tech pour prélever des organes</AutopsyGlitterworld.label>
+  <AutopsyGlitterworld.description>Utilisez l'anatomie high-tech pour prélever des organes</AutopsyGlitterworld.description>
+  <AutopsyGlitterworld.jobString>Prélève des organes</AutopsyGlitterworld.jobString>
+
+  <AutopsyAnimal.label>Extraire des organes bioniques de carcasses d'animaux</AutopsyAnimal.label>
+  <AutopsyAnimal.description>Extraire des organes bioniques de carcasses d'animaux。</AutopsyAnimal.description>
+  <AutopsyAnimal.jobString>Extrait des organes bioniques de carcasses d'animaux</AutopsyAnimal.jobString>
+
+  <BurnBodyParts.label>brûler des parties de corps</BurnBodyParts.label>
+  <BurnBodyParts.description>brûler des parties de corps</BurnBodyParts.description>
+  <BurnBodyParts.jobString>brûle des parties de corps</BurnBodyParts.jobString>
+
+
+</LanguageData>

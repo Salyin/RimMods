@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Android Tiers Reforged Russian</name>
+	<author>ODs</author>
+	<supportedVersions>		
+		<li>1.4</li>
+   </supportedVersions>
+	<packageId>ODS.AndoidTiersReforged.RUS</packageId>
+	<description>
+
+Моя попытка сделать полный и осмысленный русский перевод Android Tiers Reforged. Делал для себя, так как не нашел нормального, осмысленного перевода. Для большей аутентичности использовал оригинальный русификатор игры и добавил много отсебятины в названиях предметов. Максимально ужал текст в настройках мода и постарался сделать его понятным, так как на FullHD разрешении он сильно теряется и невозможно ничего разглядеть. Так же возможно большое количество опечаток и смысловых ошибок, которые я попытаюсь исправить в будущем.
+
+	</description>
+     <modDependencies>
+     <li>
+     <packageId>Killathon.AndroidTiersReforged</packageId>
+     <displayName>Android Tiers Reforged</displayName>
+     <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2917948202</steamWorkshopUrl> 
+     </li>
+     </modDependencies>    
+	<loadAfter>
+	<li>Killathon.AndroidTiersReforged</li>
+	<li>Tkhakiro.AndroidTiersReforged.ReturnMUFF</li>
+  </loadAfter>
+ 
+</ModMetaData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanic -->
+
+  <ATR_MechanicTendEmergency.label>проводить неотложный ремонт</ATR_MechanicTendEmergency.label>
+  <ATR_MechanicTendEmergency.verb>ремонт</ATR_MechanicTendEmergency.verb>
+  <ATR_MechanicTendEmergency.gerund>ремонт</ATR_MechanicTendEmergency.gerund>
+
+  <ATR_MechanicTendToHumanlikes.label>ремонтировать андроида</ATR_MechanicTendToHumanlikes.label>
+  <ATR_MechanicTendToHumanlikes.verb>ремонт</ATR_MechanicTendToHumanlikes.verb>
+  <ATR_MechanicTendToHumanlikes.gerund>ремонт</ATR_MechanicTendToHumanlikes.gerund>
+
+  <ATR_MechanicTendToSelf.label>ремонтировать себя</ATR_MechanicTendToSelf.label>
+  <ATR_MechanicTendToSelf.verb>ремонтировать себя</ATR_MechanicTendToSelf.verb>
+  <ATR_MechanicTendToSelf.gerund>ремонтировать себя</ATR_MechanicTendToSelf.gerund>
+
+  <MechanicTendToSelfEmergency.label>проводить неотложный ремонт</MechanicTendToSelfEmergency.label>
+  <MechanicTendToSelfEmergency.verb>ремонтировать себя</MechanicTendToSelfEmergency.verb>
+  <MechanicTendToSelfEmergency.gerund>ремонтировать себя</MechanicTendToSelfEmergency.gerund>
+
+  <ATR_DoBillsMechanicalOperation.label>проводить операции андроидам</ATR_DoBillsMechanicalOperation.label>
+  <ATR_DoBillsMechanicalOperation.verb>провести операцию</ATR_DoBillsMechanicalOperation.verb>
+  <ATR_DoBillsMechanicalOperation.gerund>проводить операцию</ATR_DoBillsMechanicalOperation.gerund>
+
+  <ATR_MechanicRescue.label>спасать сражённых андроидов</ATR_MechanicRescue.label>
+  <ATR_MechanicRescue.verb>спасти</ATR_MechanicRescue.verb>
+  <ATR_MechanicRescue.gerund>спасать</ATR_MechanicRescue.gerund>
+
+  <ATR_MechanicTendToAnimals.label>ремонтировать животное</ATR_MechanicTendToAnimals.label>
+  <ATR_MechanicTendToAnimals.verb>ремонт</ATR_MechanicTendToAnimals.verb>
+  <ATR_MechanicTendToAnimals.gerund>ремонт</ATR_MechanicTendToAnimals.gerund>
+
+  <ATR_DoBillsMechanicalAnimalOperation.label>проводить операции животным</ATR_DoBillsMechanicalAnimalOperation.label>
+  <ATR_DoBillsMechanicalAnimalOperation.verb>провести операцию</ATR_DoBillsMechanicalAnimalOperation.verb>
+  <ATR_DoBillsMechanicalAnimalOperation.gerund>проводить операцию</ATR_DoBillsMechanicalAnimalOperation.gerund>
+
+  <ATR_TakeMechanicalToBedToOperate.label>относить андроидов на кровать для проведения операции</ATR_TakeMechanicalToBedToOperate.label>
+  <ATR_TakeMechanicalToBedToOperate.verb>отнести на операцию</ATR_TakeMechanicalToBedToOperate.verb>
+  <ATR_TakeMechanicalToBedToOperate.gerund>нести на операцию</ATR_TakeMechanicalToBedToOperate.gerund>
+
+
+  <!-- Research -->
+
+  <ATR_GenerateInsight.label>генерировать очки познания SkyMind</ATR_GenerateInsight.label>
+  <ATR_GenerateInsight.verb>генерировать очки познания</ATR_GenerateInsight.verb>
+  <ATR_GenerateInsight.gerund>генерировать очки познания</ATR_GenerateInsight.gerund>
+
+
+</LanguageData>

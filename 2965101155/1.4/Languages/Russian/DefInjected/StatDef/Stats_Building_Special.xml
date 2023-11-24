@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanical Surgery Success Chance Factor -->
+
+  <ATR_MechanicalSurgerySuccessChanceFactor.label>шанс успеха операции</ATR_MechanicalSurgerySuccessChanceFactor.label>
+  <ATR_MechanicalSurgerySuccessChanceFactor.description>Базовая вероятность того, что персонаж успешно завершит механическую операцию.\n\nНа успех также влияют ремкровать и помещение, в котором проводится операция, используемые ремкомплекты, сложность самой операции и воодушевление механика.\n\nПри этом вне зависимости от этого показателя всегда сохраняется небольшой риск совершения ошибки.</ATR_MechanicalSurgerySuccessChanceFactor.description>
+
+
+  <!-- Mechanical Tend Quality Offset -->
+
+  <ATR_MechanicalTendQualityOffset.label>качество ремонта</ATR_MechanicalTendQualityOffset.label>
+  <ATR_MechanicalTendQualityOffset.description>Базовое качество, с которым персонаж чинит повреждения и исправляет поломки.\n\nФактическое качество ремонта зависит от ремкровати и помещения, в котором проводится операция, используемых ремкомплектов, удачи и других факторов.</ATR_MechanicalTendQualityOffset.description>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <NHR.RomanceAttempt>Romance attempt, A to B</NHR.RomanceAttempt>
+    <NHR.R_SameFaction>Should in same faction</NHR.R_SameFaction>
+    <NHR.R_Orientation>Should have matched sexual orientation</NHR.R_Orientation>
+    <NHR.R_Orientation_Tip>Only support vanilla trait, namely gay, bisexual and asexual</NHR.R_Orientation_Tip>
+    <NHR.R_AHasNoSpouse>Should A has no spouse</NHR.R_AHasNoSpouse>
+    <NHR.R_BHasNoSpouse>Should B has no spouse</NHR.R_BHasNoSpouse>
+    <NHR.R_Compatibility>Compatibility threshold: </NHR.R_Compatibility>
+    <NHR.R_Compatibility_Tip>Compatibility is a hidden value that judges how pawns interact with each other. Low compatibility means more insult and slight</NHR.R_Compatibility_Tip>
+    <NHR.R_LoverOpinion>Lover's opinion threshold: </NHR.R_LoverOpinion>
+    <NHR.R_LoverOpinion_Tip>If A/B has lover, his/her opinion to lover should be lower than given value</NHR.R_LoverOpinion_Tip>
+    <NHR.MarriageProposal>Marriage proposal, A to B</NHR.MarriageProposal>
+    <NHR.Opinion>Mutual opinion threshold: </NHR.Opinion>
+    <NHR.Opinion_Tip>Should only occurs when A&#38;B's mutual opinion all greater than given value</NHR.Opinion_Tip>
+    <NHR.Time>Time threshold: </NHR.Time>
+    <NHR.Time_Tip>Should only occurs when both A&#38;B have joined in colony for more than given days</NHR.Time_Tip>
+    <NHR.AlwaysSucceed>Romance action always succeed</NHR.AlwaysSucceed>
+    <NHR.NeverHappen>Romance action never happen</NHR.NeverHappen>
+    <NHR.NoBloodTies>No romance in blood ties</NHR.NoBloodTies>
+    <NHR.NoBloodTies_Tip>In rare occasion, pawns can build romance relation with their kin, this option forbid it.</NHR.NoBloodTies_Tip>
+</LanguageData>

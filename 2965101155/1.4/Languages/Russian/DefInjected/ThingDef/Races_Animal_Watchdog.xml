@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneWatchdog.label>механический волк</ATR_DroneWatchdog.label>
+  <ATR_DroneWatchdog.description>Механический волк - предназначен для охраны, штурма, поиска и уничтожения. Механические волки достаточно умны и способны заряжаться.</ATR_DroneWatchdog.description>
+  <ATR_DroneWatchdog.tools.0.label>левый коготь</ATR_DroneWatchdog.tools.0.label>
+  <ATR_DroneWatchdog.tools.1.label>правый коготь</ATR_DroneWatchdog.tools.1.label>
+  <ATR_DroneWatchdog.tools.3.label>голова</ATR_DroneWatchdog.tools.3.label>
+
+
+</LanguageData>

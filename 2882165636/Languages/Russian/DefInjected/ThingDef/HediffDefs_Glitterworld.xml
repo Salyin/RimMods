@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tactical cornea implant -->
+
+  <TacticalCorneaImplant.label>Тактический имплантат роговицы</TacticalCorneaImplant.label>
+  <TacticalCorneaImplant.description>Усовершенствованный имплантат, который предоставляет пользователю дополнительную информацию о потенциальных целях и предлагает идеальный угол обстрела..</TacticalCorneaImplant.description>
+
+
+  <!-- Auxiliary AI base types -->
+
+  <EPIA_AuxiliaryAI_Worker.label>Вспомогательный ИИ: (рабочий)</EPIA_AuxiliaryAI_Worker.label>
+  <EPIA_AuxiliaryAI_Worker.description>Образование и профессиональная подготовка больше не нужны, даже для сложных работ. Устанавливается в мозг, постоянно общается с пользователем и действует как руководство. Требуется исследование хирургии головного мозга перед установкой.</EPIA_AuxiliaryAI_Worker.description>
+
+  <EPIA_AuxiliaryAI_Combat.label>Вспомогательный ИИ: (боец)</EPIA_AuxiliaryAI_Combat.label>
+  <EPIA_AuxiliaryAI_Combat.description>Специализированная система боевых помощников с искусственным интеллектом, предназначенная для значительного повышения квалификации пользователей в их конкретных назначенных ролях. Из-за сложной природы системы, которая фокусирует и упорядочивает большинство мозговых процессов, ее нельзя использовать с другим вспомогательным ИИ.</EPIA_AuxiliaryAI_Combat.description>
+
+
+  <!-- Tactical bionic eye -->
+
+  <EPIA_TacticalBionicEye.label>Тактический бионический глаз</EPIA_TacticalBionicEye.label>
+  <EPIA_TacticalBionicEye.description>Бионический глаз ориентированный на бой который предоставляет пользователю дополнительную информацию о потенциальных целях и предлагает идеальный угол обстрела.</EPIA_TacticalBionicEye.description>
+
+
+</LanguageData>

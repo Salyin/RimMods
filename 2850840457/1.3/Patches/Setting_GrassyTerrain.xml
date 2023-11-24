@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="OutlandTerrain.PatchOperation_SettingActive">
+		<settings>
+			<li>grassyTerrain</li>
+		</settings>
+		<active Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/TerrainDef[defName="Soil"]/texturePath</xpath>
+					<value>
+						<texturePath>Terrain/Surfaces/COMIGOGreenSoil</texturePath>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/TerrainDef[defName="SoilRich"]/texturePath</xpath>
+					<value>
+						<texturePath>Terrain/Surfaces/COMIGOGreenSoilRich</texturePath>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/TerrainDef[defName="MossyTerrain"]/texturePath</xpath>
+					<value>
+						<texturePath>Terrain/Surfaces/COMIGOGreenMossy</texturePath>
+					</value>
+				</li>
+				<!-- Compatibility - VGP Garden Tools -->
+				<li Class="PatchOperationConditional">
+					<xpath>/Defs/TerrainDef[defName="VG_PlaceSoil"]</xpath>
+					<match Class="PatchOperationReplace">
+						<xpath>/Defs/TerrainDef[defName="VG_PlaceSoil"]/texturePath</xpath>
+						<value>
+							<texturePath>Terrain/Surfaces/COMIGOGreenSoil</texturePath>
+						</value>
+					</match>
+				</li>
+				<li Class="PatchOperationConditional">
+					<xpath>/Defs/TerrainDef[defName="VG_ReclaimSoil"]</xpath>
+					<match Class="PatchOperationReplace">
+						<xpath>/Defs/TerrainDef[defName="VG_ReclaimSoil"]/texturePath</xpath>
+						<value>
+							<texturePath>Terrain/Surfaces/COMIGOGreenSoil</texturePath>
+						</value>
+					</match>
+				</li>
+			</operations>
+		</active>
+	</Operation>
+
+</Patch>

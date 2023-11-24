@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/VFESecurity/Defs/FT_VFESecurity.xml-->
+            <!-- fortified trench -->
+<FT_Trench.label>укреплённый окоп</FT_Trench.label>
+                  <!-- A trench facility reinforced with reinforced concrete, capable of being constructed in most of terrain, with good drainage and neatly poured walls. Although it takes a little time to climb out of it, the soldiers inside can get good cover. -->
+<FT_Trench.description>Траншейное сооружение, укрепленное железобетоном, способное быть построенным в большинстве местностей, с хорошим дренажем и аккуратно залитыми стенами. Хотя на то, чтобы вылезти из него, требуется некоторое время, солдаты, находящиеся внутри, могут получить хорошее укрытие.</FT_Trench.description>
+              <!-- fortified platform -->
+<FT_Platform.label>укреплённая платформа</FT_Platform.label>
+                    <!-- A clean concrete platform on which to gain some range advantage. But there's no cover and it takes a little time to climb on the platform. -->
+<FT_Platform.description>Чистая бетонная платформа, на которой можно получить некоторое преимущество в дальности. Но там нет укрытия, и требуется немного времени, чтобы забраться на платформу.</FT_Platform.description>
+                           <!-- fortified artillery -->
+<FT_VFES_Turret_Artillery.label>укрепленная артиллерия</FT_VFES_Turret_Artillery.label>
+                                 <!-- A large-caliber howitzer on a concrete base with perfect anti-explosion measures. 
+
+ because it's stationary,so a more accurated firing table can be calculated 
+
+ it has the ability to bombard farther than the mobile one. -->
+<FT_VFES_Turret_Artillery.description>Крупнокалиберная гаубица на бетонном основании с идеальными противовзрывными мерами. \n\n потому что он неподвижен, поэтому можно рассчитать более точную таблицу стрельбы. \n\n она способна обстреливать дальше, чем мобильная.</FT_VFES_Turret_Artillery.description>
+
+</LanguageData>

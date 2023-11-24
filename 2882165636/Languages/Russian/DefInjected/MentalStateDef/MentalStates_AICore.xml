@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Special mental states not from mental breaks -->
+
+  <WanderConfusedCore.label>Растерянное блуждание</WanderConfusedCore.label>
+  <WanderConfusedCore.beginLetter>{0}'Разум человека наводнен ужасными картинками и звуками от ядра ИИ.</WanderConfusedCore.beginLetter>
+  <WanderConfusedCore.beginLetterLabel>Растерян</WanderConfusedCore.beginLetterLabel>
+  <WanderConfusedCore.recoveryMessage>{0}'Ядро персоны ИИ было локализовано.</WanderConfusedCore.recoveryMessage>
+  <WanderConfusedCore.baseInspectLine>Mental state: Confused and wandering</WanderConfusedCore.baseInspectLine>
+
+  <BerserkCore.label>Поглощение ИИ</BerserkCore.label>
+  <BerserkCore.beginLetter>{0}'Ядро ИИ взяло на себя прямой контроль!\n\n[PAWN_pronoun] будет аттаковать [PAWN_pronoun] кого увидит.</BerserkCore.beginLetter>
+  <BerserkCore.recoveryMessage>{0}'Ядро ИИ было локализовано.</BerserkCore.recoveryMessage>
+  <BerserkCore.baseInspectLine>Душевное состояние: Поглощен ИИ</BerserkCore.baseInspectLine>
+
+
+</LanguageData>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_SkyMindDisconnectionRisk>Отключение от сети SkyMind во время выполнения операции приведет к серьезным последствиям. При неправильном отключении гарантируется повреждение памяти различной степени.</ATR_SkyMindDisconnectionRisk>
+
+  <ATR_ResurrectionSuccessful>Андроид {0} был успешно реанимирован. Перед восстановлением полной функциональности андроид должен перезагрузиться.</ATR_ResurrectionSuccessful>
+  <ATR_ResurrectionFailedInvalidPawn>Цель, {0}, не может быть реанимирована этим комплектом. Цели должны быть механическими. (Указаны в настройках мода).</ATR_ResurrectionFailedInvalidPawn>
+  <ATR_ResurrectionFailedDroneOnly>Комплект реанимации дрона, может использоваться только на дронах или механических животных, а {0} считается полностью автономным андроидом.</ATR_ResurrectionFailedDroneOnly>
+
+  <ATR_InsufficientPoints>Для этой операции требуется не менее {0} очков познания.</ATR_InsufficientPoints>
+
+  <!-- Skill Upgrades -->
+  <ATR_PawnBeingModified>Навыки и интересы: </ATR_PawnBeingModified>
+  <ATR_CurrentXP>Необходимо XP: </ATR_CurrentXP>
+  <ATR_TodaysXP> Хранится XP: </ATR_TodaysXP>
+
+  <ATR_AddSkillPoints>Добавить опыт в {0}</ATR_AddSkillPoints>
+  <ATR_AvailableSkillPoints>Доступно очков познания: {0}</ATR_AvailableSkillPoints>
+  <ATR_AvailableSkillPointsDesc>Примечание: Добавление опыта к навыкам зависит от эффективности обучения, а также от ежедневных пределов обучения. Добавление интересов, зависит от индивидуальных эффективности обучения, а также от уже существующих интересов. Чрезмерная стимуляция навыков - неэффективна.</ATR_AvailableSkillPointsDesc>
+
+  <!-- Hacking Interface -->
+  <ATR_HackInterfaceTitle>Ожидание инструкций кибервойны.</ATR_HackInterfaceTitle>
+  <ATR_ConfirmHack>Разрешить целевую операцию?</ATR_ConfirmHack>
+  <ATR_ConfirmhackDesc>Всем хакерам присущи риски. Неудача может испортить отношение со фракцией, а также применить автоматическую активацию контрмер или определенную форму мести.</ATR_ConfirmhackDesc>
+
+  <ATR_HackOpCost>Стоимость: {0}</ATR_HackOpCost>
+  <ATR_SuccessChance>Шанс успеха: {0}%</ATR_SuccessChance>
+
+  <ATR_AvailableHackingPoints>Очки взлома: {0}. Временной штраф: {1}.</ATR_AvailableHackingPoints>
+  <ATR_AvailableHackingPointsDesc>Примечание: Стоимость попытки взлома - это базовая стоимость операции, умноженная на время с момента последнего взлома (Временной штраф, за частое использование).\nБольшее количество очков взлома, увеличивает вероятность успеха.</ATR_AvailableHackingPointsDesc>
+
+  <!-- Guidance Hack -->
+  <ATR_GuidanceHack>Взлом навигационной системы</ATR_GuidanceHack>
+  <ATR_GuidanceHackDesc>Попытка взлома навигационной системы жертвы, в попытке перенаправить что-то, в ваше поселение. Нет никакой гарантии, что содержимое будет того стоить. Это могут быть: припасы, торговый корабль, пленный - или вражеский гарнизон.</ATR_GuidanceHackDesc>
+
+  <!-- Propaganda Hack -->
+  <ATR_PropagandaHack>Целенаправленная пропаганда</ATR_PropagandaHack>
+  <ATR_PropagandaHackDesc>Попытка проведения целенаправленной пропаганды, чтобы повлиять на ключевых членов целевой фракции в пользу вашего поселения. Из-за сложной природы политического влияния, точный результат пропаганды - неизвестен.</ATR_PropagandaHackDesc>
+
+  <!-- Espionage Hack -->
+  <ATR_EspionageHack>Перспективный шпионаж</ATR_EspionageHack>
+  <ATR_EspionageHackDesc>Попытка использования полученных разведданных, для выявления перспективной информации. Это гарантированно даст наводку о «Складе с ценностями», но не от конкретной фракции или поселения.</ATR_EspionageHackDesc>
+
+  <!-- Disruptor Hack -->
+  <ATR_DisruptorHack>Локальная DDOS-атака</ATR_DisruptorHack>
+  <ATR_DisruptorHackDesc>Попытка локализованной DDOS-атаки на андроидов определенной фракции, подключенных к SkyMind, и присутствующих на вашей карте.</ATR_DisruptorHackDesc>
+
+  <!-- Initialize Mind Dialog/Keys -->
+  <ATR_InitializeMindTitle>Андроид нуждается в инициализации</ATR_InitializeMindTitle>
+  <ATR_InitializeMindDesc>Нейроинтерфейс имеет подключенное ядро, готовое к содержанию интеллекта, но пока не инициализировано. Интеллект может быть передан от любого поселенца, связанного со SkyMind, или самостоятельно сформировать свою автономную личность.</ATR_InitializeMindDesc>
+
+  <ATR_SkyMindInitialization>Инициализация из SkyMind</ATR_SkyMindInitialization>
+  <ATR_AutomaticInitialization>Автономная инициализация</ATR_AutomaticInitialization>
+
+  <!-- PawnType Restriction Dialog -->
+  <ATR_RestrictedPawnTypes>Настройки ограничений</ATR_RestrictedPawnTypes>
+
+  <ATR_PawnTypeNone>Нет</ATR_PawnTypeNone>
+  <ATR_PawnTypeNoneTooltip>Никто не может использовать это</ATR_PawnTypeNoneTooltip>
+  <ATR_PawnTypeDrone>Дрон</ATR_PawnTypeDrone>
+  <ATR_PawnTypeDroneTooltip>Только дроны могут использовать это</ATR_PawnTypeDroneTooltip>
+  <ATR_PawnTypeAndroid>Андроид</ATR_PawnTypeAndroid>
+  <ATR_PawnTypeAndroidTooltip>Только андроиды могут использовать это</ATR_PawnTypeAndroidTooltip>
+  <ATR_PawnTypeMechanical>Механический</ATR_PawnTypeMechanical>
+  <ATR_PawnTypeMechanicalTooltip>Только дроны и андроиды могут использовать это</ATR_PawnTypeMechanicalTooltip>
+  <ATR_PawnTypeOrganic>Органический</ATR_PawnTypeOrganic>
+  <ATR_PawnTypeOrganicTooltip>Только органические виды могут использовать это</ATR_PawnTypeOrganicTooltip>
+  <ATR_PawnTypeNonAI>Не андроид</ATR_PawnTypeNonAI>
+  <ATR_PawnTypeNonAITooltip>Только органические виды и дроны могут использовать это</ATR_PawnTypeNonAITooltip>
+  <ATR_PawnTypeAutonomous>Автономный</ATR_PawnTypeAutonomous>
+  <ATR_PawnTypeAutonomousTooltip>Только органические виды и андроиды могут использовать это</ATR_PawnTypeAutonomousTooltip>
+  <ATR_PawnTypeAll>Все</ATR_PawnTypeAll>
+  <ATR_PawnTypeAllTooltip>Все могут использовать это</ATR_PawnTypeAllTooltip>
+
+  <!-- Maintenance Level Setter Dialog -->
+  <ATR_SetTargetMaintenanceLevel>Желаемый уровень техобслуживания: {0}%</ATR_SetTargetMaintenanceLevel>
+
+</LanguageData>

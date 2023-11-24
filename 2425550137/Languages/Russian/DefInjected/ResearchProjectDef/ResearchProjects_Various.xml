@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medieval -->
+
+  <VFES_SiegeEquipment.label>осадное снаряжение</VFES_SiegeEquipment.label>
+  <VFES_SiegeEquipment.description>Позволяет производить средневековое осадное снаряжение.</VFES_SiegeEquipment.description>
+
+  <VFES_TrenchWarfare.label>траншейная война</VFES_TrenchWarfare.label>
+  <VFES_TrenchWarfare.description>Адаптируйте доктрину траншейной войны к своему стилю боевых действий. Получите выбор оружия для ближнего боя и возможность рыть траншеи.</VFES_TrenchWarfare.description>
+
+  <VFES_Artillery.label>артилерия</VFES_Artillery.label>
+  <VFES_Artillery.description>Узнайте, как построить полевую артиллерию, способную обстреливать удаленные цели, даже за пределами поселения.</VFES_Artillery.description>
+
+  <VFES_SentryGuns.label>сторожевые орудия</VFES_SentryGuns.label>
+  <VFES_SentryGuns.description>Создавайте надежные и автономные сторожевые орудия для использования в полевых условиях.</VFES_SentryGuns.description>
+
+  <VFES_MetalAlloysBarricades.label>металлические баррикады</VFES_MetalAlloysBarricades.label>
+  <VFES_MetalAlloysBarricades.description>Позволяет строить армированные металлические баррикады.</VFES_MetalAlloysBarricades.description>
+
+  <VFES_ConcealedDefenses.label>скрытая защита</VFES_ConcealedDefenses.label>
+  <VFES_ConcealedDefenses.description>Создавайте подземные барьеры и турели, идеально подходящие для защиты внутри помещений.</VFES_ConcealedDefenses.description>
+
+  <VFES_MissileBarrage.label>ракетная установка</VFES_MissileBarrage.label>
+  <VFES_MissileBarrage.description>Адаптируйте технологию взрывчатых веществ и баллистики для создания ракетной установки класса "земля-земля".</VFES_MissileBarrage.description>
+
+
+  <!-- Spacer -->
+
+  <VFES_PulseChargedDefenses.label>энергетическая защита</VFES_PulseChargedDefenses.label>
+  <VFES_PulseChargedDefenses.description>Разработайте продвинутые энергетические орудия, способные поддерживать постоянную скорость стрельбы.</VFES_PulseChargedDefenses.description>
+
+  <VFES_Railgun.label>рельсотрон</VFES_Railgun.label>
+  <VFES_Railgun.description>Адапатируйте вооружение космического корабля для использования в ваших защитных системах.</VFES_Railgun.description>
+
+  <VFES_EMPCannon.label>электромагнитная пушка</VFES_EMPCannon.label>
+  <VFES_EMPCannon.description>Создавайте ЭМИ-пушки, востребованные во всей галактике, благодаря их способности оглушать механоидов.</VFES_EMPCannon.description>
+
+  <VFES_RepulsorTechnology.label>репульсорная технология</VFES_RepulsorTechnology.label>
+  <VFES_RepulsorTechnology.description>Стройте генераторы щита, которые создают энеретические поля, способные отражать снаряды.</VFES_RepulsorTechnology.description>
+
+
+</LanguageData>

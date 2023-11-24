@@ -1,0 +1,76 @@
+<!-- Settings --><LanguageData>
+  <LWMDSignoredDueTo>Этот параметр игнорируется из-за мода {0}</LWMDSignoredDueTo>
+  <!--Some basic vanilla compatibility-->
+  <LWMDSVanillaShelves>Баланс стандартных полок</LWMDSVanillaShelves>
+  <LWMDSVanillaShelvesDesc>Стандартные Полки по умолчанию стоят 20. Стандартные Табуретки по умолчанию стоят 25. Мне это кажется довольно глупым... Дешевые полки в реальном мире стоят значительно дороже, чем дешевые стулья в реальном мире. В то время как взрослая пешка весит больше, чем 2 комплекта пластинчатых доспехов, полки намного выше табурета... Полки (20) даже стоят дешевле, чем стол (28), несмотря на то, что требуется 3 (или 4) уровня! Я чувствую, что 60 материалов - это более разумное количество. НО - вы можете использовать значение vanilla равное 20, если хотите :)</LWMDSVanillaShelvesDesc>
+  <LWMDSVanillaShelvesCost>Новая стоимость Стандартных полок (LWM - 60):</LWMDSVanillaShelvesCost>
+  <LWMDSmakeAllStorageDeepStorage>Сделать все хранилища глубокими хранилищами?</LWMDSmakeAllStorageDeepStorage>
+  <LWMDSmakeAllStorageDeepStorageDesc>Относитесь ко всем элементам хранения (например, к полкам для ванили) как к глубокому хранилищу. В основном, это мало на что влияет, но это означает, что вы получаете классную вкладку хранилища DS, так почему бы и нет?</LWMDSmakeAllStorageDeepStorageDesc>
+  <!--Who can haul TO storage-->
+  <LWMDShaulToStorageExplanation>Кто может использовать хранилище:\nПо умолчанию только люди (или человекоподобные инопланетяне) обладают интеллектом, необходимым для того, чтобы складывать вещи НА хранение: аккуратно складывать, организовывать полки, манипулировать защелками и т.д.\nВСЕ можут брать СО склада.</LWMDShaulToStorageExplanation>
+  <LWMDSrobotsCanUse>Роботы всегда могут доставлять грузы в Deep Storage?\n(поддерживаются некоторые роботы)</LWMDSrobotsCanUse>
+  <LWMDSrobotsCanUseDesc>Позвольте роботам доставлять грузы в Deep Storage.  Роботы из "Misc. Robots" поддерживаются; ожидается поддержка  Project RimFactory - Drones.</LWMDSrobotsCanUseDesc>
+  <LWM_DS_IntTitle>Позволить всем созданиям пользоваться хранилищами</LWM_DS_IntTitle>
+  <LWM_DS_IntDesc>Эта опция может позволить вашим животным / роботам / любым другим механизмам и созданиям пользоваться хранилищем. \nБольшинство инопланетных рас "Человекоподобные" или лучше. Большинство животных являются «Животными». Ванильные механоиды - это «Пользователи инструментов» Роботы из различных модов? Ваше предположение так же хорошо, как и мое. \n Обратите внимание, что ЛЮБОЙ может пользоваться хранилищами</LWM_DS_IntDesc>
+  <LWM_DS_Int_Animal>Животные (животные и некоторые роботы)</LWM_DS_Int_Animal>
+  <LWM_DS_Int_ToolUser>Пользователи инструментов (механоиды и некоторые роботы)</LWM_DS_Int_ToolUser>
+  <LWM_DS_Int_Humanlike>Человекоподобные (люди, пришельцы, стандартные) (LWM * одобренные)</LWM_DS_Int_Humanlike>
+
+  <!--How long does storing take?-->
+  <LWMDSstoringDelaySettings>Настройки хранения и задержки</LWMDSstoringDelaySettings>
+  <LWMDSstoringDelayExplanation>По умолчанию помещение вещей в Deep Storage занимает некоторое время (организация). Требуемое время может быть сложным вычислением, иногда включающим количество видов вещей, находящихся на хранении, и количество вещей, помещаемых на хранение. Использование некоторых модов нарушает этот расчет.</LWMDSstoringDelayExplanation>
+  <LWMDSstoringTakesTimeLabel>Задержка во время использования хранилища</LWMDSstoringTakesTimeLabel>
+  <LWMDSstoringTakesTimeDesc>Отключение этого элемента не задумывалось автором мода. Но эй, это твоя игра! Делай как хочешь</LWMDSstoringTakesTimeDesc>
+  <LWMDSstoringGlobalScale>Глобальное время использования хранилища: {0}% \nВы можете отрегулировать, сколько времени потребуется существам для складывания предметов (возможно, вы думаете, что это занимает слишком много времени). Вы можете отрегулировать этот параметр и он будет применяться ко всем видам хранилищ.</LWMDSstoringGlobalScale>
+  <LWMDSstoringTimeConsidersStackSize>Использовать стандартную величину стаков?</LWMDSstoringTimeConsidersStackSize>
+  <LWMDSstoringTimeConsidersStackSizeDesc>Если включенно (по умолчанию), то складывать можно максимум по 75 чего-либо в хранилища. Вы, вероятно, захотите отключить это, если используете мод, который меняет размеры стаков.</LWMDSstoringTimeConsidersStackSizeDesc>
+
+  <LWM_DS_defaultStoragePriority>Приоритет по умолчанию для хранилищ:</LWM_DS_defaultStoragePriority>
+
+  <LWM_DS_userInterface>Пользовательский интерфейс</LWM_DS_userInterface>
+  <LWM_DS_useEjectButton>Показывать кнопку "Вынуть" (Выкинуть)</LWM_DS_useEjectButton>
+  <LWM_DS_useEjectButtonDesc>Показывать кнопку "Вынуть" во вкладке Вещи.  Изменение этого параметра вступает в силу немедленно.</LWM_DS_useEjectButtonDesc>
+  <LWM_DS_VanillaHasContentsInBrackets>В RimWorld 1.4 появились кнопки в виде скобок для выбора товаров на полках. Это здорово, но если у вас в хранилище 957457 вещей, кнопки могут заполнить весь экран. Вы можете изменить способ, которым это работает. ПРИМЕЧАНИЕ: Для вступления в силу всех настроек требуется перезагрузка!</LWM_DS_VanillaHasContentsInBrackets>
+  <LWM_DS_UseVanillaContentsInBrackets>Стандартное поведение</LWM_DS_UseVanillaContentsInBrackets>
+  <LWM_DS_UseVanillaContentsInBracketsDesc>Когда выбрано здание хранилища, все сохраненные элементы доступны в виде кнопок для выбора в нижней части экрана. НЕОБХОДИМ ПЕРЕЗАПУСК</LWM_DS_UseVanillaContentsInBracketsDesc>
+  <LWM_DS_showContentsInBrackets>Показывать ли [кнопки предметов] вообще?</LWM_DS_showContentsInBrackets>
+  <LWM_DS_showContentsInBracketsDesc>Если это отключено, ни одно из них не будет показано. Меньше беспорядка! Быстрее! Отлично подходит, если у вас есть большое количество различных предметов. НЕОБХОДИМ ПЕРЕЗАПУСК</LWM_DS_showContentsInBracketsDesc>
+  <LWM_DS_howManyContentsInBrackets>Сколько [кнопок] показывается?</LWM_DS_howManyContentsInBrackets>
+  <LWM_DS_useDSRightClick>Использовать Right Click из Deep Storage</LWM_DS_useDSRightClick>
+  <LWM_DS_useDSRightClickDesc>Right Click из Deep Storage интерфейс ДОЛЖЕН работать и должен упрощать использование - особенно в оружейных шкафчиках с модами, такими как Dual Wielding.  Отключите это, чтобы использовать оригинальную логику на случай, если что-то сломается, но это может усложнить некоторые задачи (например, погрузку караванов).  Примечание: отключение этой функции может нарушить некоторые игровые механики.\n\n Для вступления в силу требуется перезапуск.</LWM_DS_useDSRightClickDesc>
+  <!-- Architect menu settings -->
+  <LWM_DS_Storage_ArchitectMenuSettings>Хранилища будут во вкладке:</LWM_DS_Storage_ArchitectMenuSettings>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>Всегда ли показывать отдельную вкладку от мода Deep Storage?</LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>Место по умолчанию для всех построек Deep Storage находится в категории «Хранение» во вкладке Проекты. Если вы отключите опцию, выбрав другую категорию для элементов, то категория «Хранение» исчезнет. Отметьте это, если хотите, чтобы категория всегда была видна, даже если в ней нет эллементов мода Deep Storage.</LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>
+  <LWM_DS_Storage_ArchitectMenuMoveALL>Перемещать ли другие хранилища в новую вкладку меню?</LWM_DS_Storage_ArchitectMenuMoveALL>
+  <LWM_DS_Storage_ArchitectMenuMoveALLDesc>Отметьте это, чтобы перемещать такие хранилища, как стандартные полки или хранилища других модов, в «Хранение».\n«Производственные» хранилища (например, бункеры) не будут затронуты. ТРЕБУЕТСЯ ПЕРЕЗАГРУЗИТЬ ИГРУ, ЧТОБЫ ИЗМЕНЕНИЯ ВСТУПИЛИ В СИЛУ ПОЛНОСТЬЮ! Если снять этот флажок, элементы будут отображаться в разделе «Мебель» до перезагрузки.</LWM_DS_Storage_ArchitectMenuMoveALLDesc>
+  <!-- more settings -->
+
+  <LWMDSoverCapacityCheck>Проверять переполнене хранилища</LWMDSoverCapacityCheck>
+  <LWMDSoverCapacityCheckDesc>Если в складе оказывается более одной вещи, пешки подумают, как убрать лишее.  Отключение этого параметра предотвращает это.\n\nОтключите это, чтобы разрешить некоторым другим модам хранения функционировать правильно:\nRimFactory</LWMDSoverCapacityCheckDesc>
+  <!-- Graphics -->
+  <LWMDSuseOldBoringStackingGraphic>Использовать старую (скучную, но аккуратную) графику штабелей предметов?</LWMDSuseOldBoringStackingGraphic>
+  <LWMDSuseOldBoringStackingGraphicDesc>Начиная с RW 1.4, элементы в хранилище складываются таким образом, чтобы каждый элемент был виден. Многие люди находят это неопрятным, некрасивым, чрезмерно загруженным или раздражающим. Выберите этот параметр, чтобы использовать старую графику, где все элементы располагались непосредственно друг на друге. ПРИМЕЧАНИЕ: ДЛЯ ВСТУПЛЕНИЯ В СИЛУ ТРЕБУЕТСЯ ПЕРЕЗАПУСК</LWMDSuseOldBoringStackingGraphicDesc>
+  <!-- Per DSU Settings -->
+  <LWMDSperDSUSettings>ЭКСПЕРИМЕНТАЛЬНО: Изменить настройки хранилища для каждого типа Unit: Caution</LWMDSperDSUSettings>
+  <LWMDSperDSUturnOn>ВКЛЮЧИТЬ ИЗМЕНЕННЫЕ ПОЛЬЗОВАТЕЛЕМ НАСТРОЙКИ ЗДАНИЯ:</LWMDSperDSUturnOn>
+
+  <LWMDSperDSUturnOnDesc>Это позволяет вам редактировать свойства каждого здания Deep Storage!  Ничего не сломай, ладно? ВЫКЛЮЧЕНИЕ ЭТОЙ ФУНКЦИИ ПРИВЕДЕТ К СБРОСУ ВСЕХ НАСТРОЕК ДО ЗНАЧЕНИЙ ПО УМОЛЧАНИЮ.</LWMDSperDSUturnOnDesc>
+  <LWMDSperDSUWarning>Примечание: Никакие настройки не будут сохранены, если вы не включите эту функцию выше!</LWMDSperDSUWarning>
+  <LWMDSpDSUlabel>Название</LWMDSpDSUlabel>
+  <LWMDSpDSUshowContents>Показать содержимое для этого типа здания</LWMDSpDSUshowContents>
+  <LWMDSpDSUoverlay>Какой вид наложения счета (маленькие белые цифры) использовать</LWMDSpDSUoverlay>
+  <LWMDSpDSUstoragePriority>Приоритет хранилища по умолчанию для этого здания</LWMDSpDSUstoragePriority>
+  <LWMDSpDSUchangeFilterQ>Измените, какие предметы разрешены в этом здании?</LWMDSpDSUchangeFilterQ>
+  <LWMDSpDSUchangeFilterQDesc>Если вы НЕ используете здесь пользовательский список элементов, вам следует снять этот флажок.</LWMDSpDSUchangeFilterQDesc>
+  <LWM_DS_Default>(по умолчанию: {0})</LWM_DS_Default>
+  <LWM.ResetAllToDefault>Сбросить ВСЕ до значения по умолчанию</LWM.ResetAllToDefault>
+  <!-- - - - - - - - - - - - - - - -  Settings button in game - - - - - - - - - - - - - -->
+  <LWMDS_BuildingSettings>Настройки устройства хранения</LWMDS_BuildingSettings>
+  <LWMDS_PerBuildingSettings>Настройки для ЭТОГО {0}</LWMDS_PerBuildingSettings>
+  <LWMDS_ApplyChangesToGroup>Применить изменения ко всей группе хранения?</LWMDS_ApplyChangesToGroup>
+  <LWMDS_ApplyChangesToGroupDesc>Этот блок хранения в настоящее время является частью группы из {0} блоков. Если ключено, любые изменения, которые вы внесете здесь, будут применяться ко всем из них!</LWMDS_ApplyChangesToGroupDesc>
+  <LWMDS_PerBuildingSettingsDesc>Изменение любого из этих параметров затронет только ЭТО здание. Все остальные не будут затронуты (ПРИМЕЧАНИЕ: в настоящее время не влияет на остальную связанную группу, если она связана. Вероятно, это произойдет позже, но не сейчас)</LWMDS_PerBuildingSettingsDesc>
+  <LWMDS_CurrentMaxNumStacksTotals>Сейчас: {0} стаков на клетку (всего {1})</LWMDS_CurrentMaxNumStacksTotals>
+  <LWMDS_DefaultMaxNumStacksTotals>Стандарт: {0} стаков на клетку (всего {1})</LWMDS_DefaultMaxNumStacksTotals>
+</LanguageData>

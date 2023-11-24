@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Building_RTMagneticShield.label>Магнитосферный щит</Building_RTMagneticShield.label>
+  <Building_RTMagneticShield.description>Включается автоматически, чтобы защитить всю колонию от солнечной вспышки. Потребляемая мощность огромна, а при работе выделяется значительное количество тепла.
+</Building_RTMagneticShield.description>
+
+
+</LanguageData>

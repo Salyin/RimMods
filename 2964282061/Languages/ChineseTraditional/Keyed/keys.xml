@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <NHR.RomanceAttempt>求愛行為，A對B</NHR.RomanceAttempt>
+    <NHR.R_SameFaction>需在同一派系</NHR.R_SameFaction>
+    <NHR.R_Orientation>需有匹配的性取向</NHR.R_Orientation>
+    <NHR.R_Orientation_Tip>僅支持原版的特性，即同性戀、雙性戀與無性戀</NHR.R_Orientation_Tip>
+    <NHR.R_AHasNoSpouse>需要 A 沒有配偶</NHR.R_AHasNoSpouse>
+    <NHR.R_BHasNoSpouse>需要 B 沒有配偶</NHR.R_BHasNoSpouse>
+    <NHR.R_Compatibility>匹配度閾值：</NHR.R_Compatibility>
+    <NHR.R_Compatibility_Tip>匹配度是一項隱藏屬性，決定了殖民者間的社交互動，更低的匹配度意味著更多的輕視與羞辱，更容易動搖印象</NHR.R_Compatibility_Tip>
+    <NHR.R_LoverOpinion>愛人的印象閾值：</NHR.R_LoverOpinion>
+    <NHR.R_LoverOpinion_Tip>若 A/B 已有愛人，其對愛人的印象需低於給定值</NHR.R_LoverOpinion_Tip>
+    <NHR.MarriageProposal>求婚行為，A對B</NHR.MarriageProposal>
+    <NHR.Opinion>雙向印象閾值：</NHR.Opinion>
+    <NHR.Opinion_Tip>A 與 B 的雙向印象均需高於給定值</NHR.Opinion_Tip>
+    <NHR.Time>時間閾值：</NHR.Time>
+    <NHR.Time_Tip>A 與 B 加入殖民地的天數均需高於給定天數</NHR.Time_Tip>
+    <NHR.AlwaysSucceed>浪漫行為必定成功</NHR.AlwaysSucceed>
+    <NHR.NeverHappen>浪漫行為永不發生</NHR.NeverHappen>
+</LanguageData>

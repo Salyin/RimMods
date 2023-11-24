@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/CombatExtended/Defs/Things/FTC_Bunker.xml-->
+                    <!-- quad machinegun bunker -->
+<FTC_Bunker_Turret.label>четырехместный пулеметный бункер</FTC_Bunker_Turret.label>
+                          <!-- a manned stationary machinegun bunker half buried beneath as a permanent fortification, Gunner can safely man the gun inside 
+
+ This is a permanent structure, site wisely. -->
+<FTC_Bunker_Turret.description>обитаемый стационарный пулеметный бункер, наполовину зарытый под землю как постоянное укрепление, пулеметчик может безопасно управлять орудием внутриa manned stationary machinegun bunker half buried beneath as a permanent fortification, Gunner can safely man the gun inside \n\n Это постоянное сооружение, размещайте его с умом..</FTC_Bunker_Turret.description>
+                 <!-- quad machine gun -->
+<FTC_Bunker_Gun.label>счетверённый пулемётquad machine gun</FTC_Bunker_Gun.label>
+                       <!-- four machinegun mounted inside the bunker. -->
+<FTC_Bunker_Gun.description>четыре пулемета, установленные внутри бункераfour machinegun mounted inside the bunker.</FTC_Bunker_Gun.description>
+                      <!-- Tank Bunker -->
+<FTC_AntiTank_Turret.label>Танковый бункер</FTC_AntiTank_Turret.label>
+                            <!-- a fixed tank turret mounting on a half-buried concrete box. n
+ As a turret fortification, the gunner could operate the weapon internally until it was destroyed, but could not receive direct orders.
+
+ This is a permanent structure, site wisely. -->
+<FTC_AntiTank_Turret.description>неподвижная башня танка, установленная на полузасыпанном бетонном ящике.a fixed tank turret mounting on a half-buried concrete box. n\n В качестве укрепления башни наводчик мог управлять орудием изнутри до его уничтожения, но не мог получать прямые приказы.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_AntiTank_Turret.description>
+                   <!-- anti tank cannon turret -->
+<FTC_AntiTank_Gun.label>башня противотанковой пушкиanti tank cannon turret</FTC_AntiTank_Gun.label>
+                         <!-- an anti tank cannon mounted on an armoured turret. -->
+<FTC_AntiTank_Gun.description>противотанковая пушка, установленная на бронированной башне.an anti tank cannon mounted on an armoured turret.</FTC_AntiTank_Gun.description>
+                      <!-- coastal batterey -->
+<FTC_Batterey_Turret.label>береговая батарея</FTC_Batterey_Turret.label>
+                            <!-- A heavy navy gun mounted on a large concrete bunker can effectively destroy enemies within range. n
+ as a permanent fortification, Gunner can safely man the gun inside 
+
+ This is a permanent structure, site wisely. -->
+<FTC_Batterey_Turret.description>Тяжелое морское орудие, установленное на большом бетонном бункере, может эффективно уничтожать врагов в радиусе действия.A heavy navy gun mounted on a large concrete bunker can effectively destroy enemies within range. n\n как постоянное укрепление, артиллерист может безопасно установить пушку внутри \n\n Это постоянное сооружение, размещайте его с умом..</FTC_Batterey_Turret.description>
+                   <!-- coastal artillery -->
+<FTC_Batterey_Gun.label>береговая артиллерия</FTC_Batterey_Gun.label>
+                         <!-- a navy gun turret, two operater is required to man this gun. -->
+<FTC_Batterey_Gun.description>морская орудийная башня, для управления этой пушкой требуется два оператора.</FTC_Batterey_Gun.description>
+
+</LanguageData>

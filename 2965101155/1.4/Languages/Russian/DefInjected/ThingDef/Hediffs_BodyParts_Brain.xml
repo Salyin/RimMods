@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SkyMind Receiver -->
+
+  <ATR_SkyMindReceiver.label>приёмник SkyMind</ATR_SkyMindReceiver.label>
+  <ATR_SkyMindReceiver.description>Приёмник SkyMind - это устройство, которое вживляется непосредственно в мозг и полностью перекрывает любую нейронную активность, превращая пользователя приёмника в тело, лишенное разума, для удаленного суррогатного управления.\n\nМногие используют приёмник в своих интересах, чтобы уничтожить суррогатов и не позволить им попасть в чужие руки.</ATR_SkyMindReceiver.description>
+
+
+  <!-- SkyMind Transceiver -->
+
+  <ATR_SkyMindTransceiver.label>передатчик SkyMind</ATR_SkyMindTransceiver.label>
+  <ATR_SkyMindTransceiver.description>Передатчик SkyMind - это устройство, которое вживляется непосредственно в мозг, позволяя любому существу взаимодействовать со SkyMind. Успешное вживление или удаление этого имплантата не имеет никаких серьезных последствий.</ATR_SkyMindTransceiver.description>
+
+
+</LanguageData>

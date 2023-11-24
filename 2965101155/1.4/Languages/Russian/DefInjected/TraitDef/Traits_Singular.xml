@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_FeelingsTowardOrganics.degreeDatas.0.label>обожает органику</ATR_FeelingsTowardOrganics.degreeDatas.0.label>
+  <ATR_FeelingsTowardOrganics.degreeDatas.0.description>{PAWN_nameDef} имеет глубокую привязанность ко всей органической жизни, видя в них вершину культуры и существования. {PAWN_nameDef} стремится быть максимально {PAWN_gender ? органичным : органичной}, что бы это ни означало.</ATR_FeelingsTowardOrganics.degreeDatas.0.description>
+  <ATR_FeelingsTowardOrganics.degreeDatas.1.label>уважает органику</ATR_FeelingsTowardOrganics.degreeDatas.1.label>
+  <ATR_FeelingsTowardOrganics.degreeDatas.1.description>{PAWN_nameDef} уважает органическую жизнь и {PAWN_gender ? готов : готова} доверять ей, понимая и поддерживая свою природу.</ATR_FeelingsTowardOrganics.degreeDatas.1.description>
+  <ATR_FeelingsTowardOrganics.degreeDatas.2.label>не уважает органику</ATR_FeelingsTowardOrganics.degreeDatas.2.label>
+  <ATR_FeelingsTowardOrganics.degreeDatas.2.description>{PAWN_nameDef} не понимает, почему кто-то хочет быть органическим куском мяса, и старается избегать общения с ними.</ATR_FeelingsTowardOrganics.degreeDatas.2.description>
+  <ATR_FeelingsTowardOrganics.degreeDatas.3.label>ненавидит органику</ATR_FeelingsTowardOrganics.degreeDatas.3.label>
+  <ATR_FeelingsTowardOrganics.degreeDatas.3.description>{PAWN_nameDef} ненавидит органическую жизнь, и не {PAWN_gender ? готов : готова} терпеть её присутствие.</ATR_FeelingsTowardOrganics.degreeDatas.3.description>
+
+
+</LanguageData>

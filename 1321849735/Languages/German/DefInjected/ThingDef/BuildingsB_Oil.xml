@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilWellHead.label>Ölbohrkopf</OilWellHead.label>
+  <OilWellHead.description>Eine verlassene Ölquelle. Wenn sie nicht verwendet wird, steigt der Druck mit der Zeit wieder an. Platziere einen neuen Ölbohrturm direkt über dem Ölbohrkopf, um ihn weiter zu verwenden.</OilWellHead.description>
+
+  <DeepOilWellHead.label>Ölbohrkopf (Tief)</DeepOilWellHead.label>
+  <DeepOilWellHead.description>Eine verlassene Ölquelle. Wenn sie nicht verwendet wird, steigt der Druck mit der wieder an. Platziere einen neuen Ölbohrturm (Tief) direkt über dem Ölbohrkopf, um ihn weiter zu verwenden.</DeepOilWellHead.description>
+
+  <OilWell.label>Ölbohrturm</OilWell.label>
+  <OilWell.description>Fördert Öl aus unterirdischen Ölquellen. Es wird allerdings eine Ressourcenkonsole benötigt um diese unterirdischen Ölquellen zu finden.</OilWell.description>
+  <OilWell_Blueprint.label>Ölbohrturm (Entwurf)</OilWell_Blueprint.label>
+  <OilWell_Frame.label>Ölbohrturm (im Bau)</OilWell_Frame.label>
+  <OilWell_Frame.description>Fördert Öl aus unterirdischen Ölquellen. Es wird allerdings eine Ressourcenkonsole benötigt um diese unterirdischen Ölquellen zu finden.</OilWell_Frame.description>
+
+  <DeepOilWell.label>Ölbohrturm (Tief)</DeepOilWell.label>
+  <DeepOilWell.description>Förert Öl aus tiefen unterirdischen Ölquellen. Diese Ölquellen sind so tief, dass sie nur mit einem Bodenradar entdeckt werden können.</DeepOilWell.description>
+  <DeepOilWell_Blueprint.label>Ölbohrturm (Tief) (Entwurf)</DeepOilWell_Blueprint.label>
+  <DeepOilWell_Frame.label>Ölbohrturm (Tief) (im Bau)</DeepOilWell_Frame.label>
+  <DeepOilWell_Frame.description>Förert Öl aus tiefen unterirdischen Ölquellen. Diese Ölquellen sind so tief, dass sie nur mit einem Bodenradar entdeckt werden können.</DeepOilWell_Frame.description>
+
+  <OilStorage.label>Rohöltank</OilStorage.label>
+  <OilStorage.description>Lagert Rohöl welches von Ölbohrtürmen gefördert wird.</OilStorage.description>
+  <OilStorage_Blueprint.label>Rohöltank (Entwurf)</OilStorage_Blueprint.label>
+  <OilStorage_Frame.label>Rohöltank (im Bau)</OilStorage_Frame.label>
+  <OilStorage_Frame.description>Lagert Rohöl welches von Ölbohrtürmen gefördert wird.</OilStorage_Frame.description>
+
+  <FuelStorage.label>Kraftstofftank</FuelStorage.label>
+  <FuelStorage.description>Lagert Kraftstoff der von Raffinerien hergestellt wird.</FuelStorage.description>
+  <FuelStorage_Blueprint.label>Kraftstofftank (Entwurf)</FuelStorage_Blueprint.label>
+  <FuelStorage_Frame.label>Kraftstofftank (im Bau)</FuelStorage_Frame.label>
+  <FuelStorage_Frame.description>Lagert Kraftstoff der von Raffinerien hergestellt wird.</FuelStorage_Frame.description>
+
+  <ResourceConsole.label>Ressourcenkonsole</ResourceConsole.label>
+  <ResourceConsole.description>Eine bemannte Computerkonsole für den Betrieb von Raffinerien erforderlich.</ResourceConsole.description>
+  <ResourceConsole_Blueprint.label>Ressourcenkonsole (Entwurf)</ResourceConsole_Blueprint.label>
+  <ResourceConsole_Blueprint_Install.label>Ressourcenkonsole (Entwurf)</ResourceConsole_Blueprint_Install.label>
+  <ResourceConsole_Frame.label>Ressourcenkonsole (im Bau)</ResourceConsole_Frame.label>
+  <ResourceConsole_Frame.description>Eine bemannte Computerkonsole für den Betrieb von Raffinerien erforderlich.</ResourceConsole_Frame.description>
+
+  <CrudeCracker.label>Raffinerie (Kraftstoff)</CrudeCracker.label>
+  <CrudeCracker.description>Verwandelt Rohöl in Kraftstoff, der in Kraftstofftanks gelagert werden muss.</CrudeCracker.description>
+  <CrudeCracker_Blueprint.label>Raffinerie (Kraftstoff) (Entwurf)</CrudeCracker_Blueprint.label>
+  <CrudeCracker_Frame.label>Raffinerie (Kraftstoff) (im Bau)</CrudeCracker_Frame.label>
+  <CrudeCracker_Frame.description>Verwandelt Rohöl in Kraftstoff, der in Kraftstofftanks gelagert werden muss.</CrudeCracker_Frame.description>
+
+  <FuelPowerplant.label>Dieselgenerator</FuelPowerplant.label>
+  <FuelPowerplant.description>Erzeugt Strom durch den Verbrauch von Kraftstoff. Der benötigte Kraftstoff muss aus einem Kraftstofftank zugeführt werden.</FuelPowerplant.description>
+  <FuelPowerplant_Blueprint.label>Dieselgenerator (Entwurf)</FuelPowerplant_Blueprint.label>
+  <FuelPowerplant_Blueprint_Install.label>Dieselgenerator (Entwurf)</FuelPowerplant_Blueprint_Install.label>
+  <FuelPowerplant_Frame.label>Dieselgenerator (im Bau)</FuelPowerplant_Frame.label>
+  <FuelPowerplant_Frame.description>Erzeugt Strom durch den Verbrauch von Kraftstoff. Der benötigte Kraftstoff muss aus einem Kraftstofftank zugeführt werden.</FuelPowerplant_Frame.description>
+
+  <LargeFuelPowerplant.label>Dieselgenerator (Groß)</LargeFuelPowerplant.label>
+  <LargeFuelPowerplant.description>Erzeugt Strom durch den Verbrauch von Kraftstoff. Der benötigte Kraftstoff muss aus einem Kraftstofftank zugeführt werden.</LargeFuelPowerplant.description>
+  <LargeFuelPowerplant_Blueprint.label>Dieselgenerator (Groß) (Entwurf)</LargeFuelPowerplant_Blueprint.label>
+  <LargeFuelPowerplant_Frame.label>Dieselgenerator (Groß) (im Bau)</LargeFuelPowerplant_Frame.label>
+  <LargeFuelPowerplant_Frame.description>Erzeugt Strom durch den Verbrauch von Kraftstoff. Der benötigte Kraftstoff muss aus einem Kraftstofftank zugeführt werden.</LargeFuelPowerplant_Frame.description>
+
+
+</LanguageData>

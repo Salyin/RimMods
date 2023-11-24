@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Debug for Advanced Power Claw from original EPOE, to avoid excessive bleeding if switching to EPOE-Forked -->
+
+  <AdvancedPowerClaw.label>силовой коготь</AdvancedPowerClaw.label>
+  <AdvancedPowerClaw.description>Установленный силовой коготь. (Debug version if switching from original EPOE)</AdvancedPowerClaw.description>
+  <AdvancedPowerClaw.comps.0.tools.0.label>ккоготь</AdvancedPowerClaw.comps.0.tools.0.label>
+  <AdvancedPowerClaw.labelNoun>силовой коготь</AdvancedPowerClaw.labelNoun>
+
+
+</LanguageData>

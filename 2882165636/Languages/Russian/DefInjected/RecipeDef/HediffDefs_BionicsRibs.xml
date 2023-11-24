@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medical rib -->
+
+  <CreateMedicalRib.label>Смастерить медицинское ребро</CreateMedicalRib.label>
+  <CreateMedicalRib.description>Создание медицинского ребра из пластали и передовых медикаментов.</CreateMedicalRib.description>
+  <CreateMedicalRib.jobString>Создает медицинское ребро.</CreateMedicalRib.jobString>
+
+  <InstallMedicalRib.label>Установить медицинское ребро</InstallMedicalRib.label>
+  <InstallMedicalRib.description>Установка медицинского ребра.</InstallMedicalRib.description>
+  <InstallMedicalRib.jobString>Устанавливает медицинское ребро.</InstallMedicalRib.jobString>
+
+  <RemoveMedicalRib.label>Удалить медицинское ребро</RemoveMedicalRib.label>
+  <RemoveMedicalRib.description>Удалить медицинское ребро.</RemoveMedicalRib.description>
+  <RemoveMedicalRib.jobString>Удаляет медицинское ребро.</RemoveMedicalRib.jobString>
+
+
+  <!-- Drugged rib -->
+
+  <CreateDruggedRib.label>Смастерить стимулирующее ребро</CreateDruggedRib.label>
+  <CreateDruggedRib.description>Создание стимулирующего ребра из пластали и пива.</CreateDruggedRib.description>
+  <CreateDruggedRib.jobString>Создаёт стимулирующие ребро.</CreateDruggedRib.jobString>
+
+  <InstallDruggedRib.label>Установить стимулирующее ребро</InstallDruggedRib.label>
+  <InstallDruggedRib.description>Установка стимулирующего ребра.</InstallDruggedRib.description>
+  <InstallDruggedRib.jobString>Устанавливает стимулирующее ребро</InstallDruggedRib.jobString>
+
+  <RemoveDruggedRib.label>Удалить стимулирующее ребро </RemoveDruggedRib.label>
+  <RemoveDruggedRib.description>Удалить стимулирующее ребро.</RemoveDruggedRib.description>
+  <RemoveDruggedRib.jobString>Удаляет стимулирующее ребро.</RemoveDruggedRib.jobString>
+
+
+  <!-- Adrenaline rib -->
+
+  <CreateAdrenalineRib.label>Смастерить адреналиновое ребро</CreateAdrenalineRib.label>
+  <CreateAdrenalineRib.description>Создание адреналинового ребра из пластали и психина(порошок)</CreateAdrenalineRib.description>
+  <CreateAdrenalineRib.jobString>Создает адреналиновое ребро.</CreateAdrenalineRib.jobString>
+
+  <InstallAdrenalineRib.label>Установить адреналиновое ребро</InstallAdrenalineRib.label>
+  <InstallAdrenalineRib.description>Установить адреналиновое ребро.</InstallAdrenalineRib.description>
+  <InstallAdrenalineRib.jobString>Устанавливает адреналиновое ребро.</InstallAdrenalineRib.jobString>
+
+  <RemoveAdrenalineRib.label>Удалить адреналиновое ребро </RemoveAdrenalineRib.label>
+  <RemoveAdrenalineRib.description>Удалить адреналиновое ребро.</RemoveAdrenalineRib.description>
+  <RemoveAdrenalineRib.jobString>Удаляет адреналиновое ребро.</RemoveAdrenalineRib.jobString>
+
+
+  <!-- Painkiller rib -->
+
+  <CreatePainkillerRib.label>Смастерить обезболивающее ребро</CreatePainkillerRib.label>
+  <CreatePainkillerRib.description>Создание обезболивающего ребра из пластали и Go-сока.</CreatePainkillerRib.description>
+  <CreatePainkillerRib.jobString>Создает обезболивающего ребро.</CreatePainkillerRib.jobString>
+
+  <InstallPainkillerRib.label>Установить обезболивающее ребро</InstallPainkillerRib.label>
+  <InstallPainkillerRib.description>Установить обезболивающее ребро.</InstallPainkillerRib.description>
+  <InstallPainkillerRib.jobString>Устанавливает обезболивающее ребро.</InstallPainkillerRib.jobString>
+
+  <RemovePainkillerRib.label>Удалить обезболивающего ребро</RemovePainkillerRib.label>
+  <RemovePainkillerRib.description>Удалить обезболивающего ребро.</RemovePainkillerRib.description>
+  <RemovePainkillerRib.jobString>Удаляет обезболивающего ребро.</RemovePainkillerRib.jobString>
+
+
+  <!-- Heater rib -->
+
+  <EPIA_UpgradeHeatingRib.label>Смастерить согревающие ребро</EPIA_UpgradeHeatingRib.label>
+  <EPIA_UpgradeHeatingRib.description>Заполните пустое  ребро, чтобы завершить согревающий имплантат ребра.</EPIA_UpgradeHeatingRib.description>
+  <EPIA_UpgradeHeatingRib.jobString>Создает согревающие ребро.</EPIA_UpgradeHeatingRib.jobString>
+
+  <InstallHeaterRib.label>Установить согревающие ребро</InstallHeaterRib.label>
+  <InstallHeaterRib.description>Установить согревающие ребро.</InstallHeaterRib.description>
+  <InstallHeaterRib.jobString>Устанавливает согревающие ребро.</InstallHeaterRib.jobString>
+
+  <RemoveHeaterRib.label>Удалить согревающие ребро</RemoveHeaterRib.label>
+  <RemoveHeaterRib.description>Удалить согревающие ребро.</RemoveHeaterRib.description>
+  <RemoveHeaterRib.jobString>Удаляет согревающие ребро.</RemoveHeaterRib.jobString>
+
+
+  <!-- Cooler rib -->
+
+  <EPIA_UpgradeCoolingRib.label>Смастерить охлаждающие ребро</EPIA_UpgradeCoolingRib.label>
+  <EPIA_UpgradeCoolingRib.description>Заполните пустое  ребро, чтобы завершить охлаждающий имплантат ребра.</EPIA_UpgradeCoolingRib.description>
+  <EPIA_UpgradeCoolingRib.jobString>Создает охлаждающие ребро.</EPIA_UpgradeCoolingRib.jobString>
+
+  <InstallCoolerRib.label>Установить охлаждающие ребро</InstallCoolerRib.label>
+  <InstallCoolerRib.description>Установить охлаждающие ребро.</InstallCoolerRib.description>
+  <InstallCoolerRib.jobString>Устанавливает охлаждающие ребро.</InstallCoolerRib.jobString>
+
+  <RemoveCoolerRib.label>Удалить охлаждающие ребро</RemoveCoolerRib.label>
+  <RemoveCoolerRib.description>Удалить охлаждающие ребро.</RemoveCoolerRib.description>
+  <RemoveCoolerRib.jobString>Удаляет охлаждающие ребро.</RemoveCoolerRib.jobString>
+
+
+  <!-- Coagulator rib -->
+
+  <CreateCoagulatorRib.label>Смастерить кровоостанавливающие ребро</CreateCoagulatorRib.label>
+  <CreateCoagulatorRib.description>Заполните пустое ребро, чтобы завершить имплантацию кровоостанавливающиго ребра.</CreateCoagulatorRib.description>
+  <CreateCoagulatorRib.jobString>Создает кровоостанавливающие ребро.</CreateCoagulatorRib.jobString>
+
+  <InstallCoagulatorRib.label>Установить кровоостанавливающие ребро</InstallCoagulatorRib.label>
+  <InstallCoagulatorRib.description>Установить кровоостанавливающие ребро.</InstallCoagulatorRib.description>
+  <InstallCoagulatorRib.jobString>Устанавливает кровоостанавливающие ребро.</InstallCoagulatorRib.jobString>
+
+  <RemoveCoagulatorRib.label>Удалить кровоостанавливающие ребро</RemoveCoagulatorRib.label>
+  <RemoveCoagulatorRib.description>Удалить кровоостанавливающие ребро.</RemoveCoagulatorRib.description>
+  <RemoveCoagulatorRib.jobString>Удаляет кровоостанавливающие ребро.</RemoveCoagulatorRib.jobString>
+
+
+  <!-- Respiration rib -->
+
+  <CreateRespirationRib.label>Смастерить дыхательное ребро</CreateRespirationRib.label>
+  <CreateRespirationRib.description>Создание дыхательного ребра.</CreateRespirationRib.description>
+  <CreateRespirationRib.jobString>Создает дыхательное ребро.</CreateRespirationRib.jobString>
+
+  <InstallRespirationRib.label>Установить дыхательное ребро</InstallRespirationRib.label>
+  <InstallRespirationRib.description>Установить дыхательное ребро.</InstallRespirationRib.description>
+  <InstallRespirationRib.jobString>Устанавливает дыхательное ребро.</InstallRespirationRib.jobString>
+
+  <RemoveRespirationRib.label>Удалить дыхательное ребро</RemoveRespirationRib.label>
+  <RemoveRespirationRib.description>Удалить дыхательное ребро.</RemoveRespirationRib.description>
+  <RemoveRespirationRib.jobString>Удаляет дыхательное ребро.</RemoveRespirationRib.jobString>
+
+
+  <!-- Wake-up rib -->
+
+  <CreateWakeUpRib.label>Смастерить пробуждающие ребро</CreateWakeUpRib.label>
+  <CreateWakeUpRib.description>Создание пробуждающиго ребра.</CreateWakeUpRib.description>
+  <CreateWakeUpRib.jobString>Создает пробуждающие ребро.</CreateWakeUpRib.jobString>
+
+  <InstallWakeUpRib.label>Установить пробуждающие ребро</InstallWakeUpRib.label>
+  <InstallWakeUpRib.description>Установить пробуждающие ребро.</InstallWakeUpRib.description>
+  <InstallWakeUpRib.jobString>Устанавливает пробуждающие ребро.</InstallWakeUpRib.jobString>
+
+  <RemoveWakeUpRib.label>Удалить пробуждающие ребро </RemoveWakeUpRib.label>
+  <RemoveWakeUpRib.description>Удалить пробуждающие ребро.</RemoveWakeUpRib.description>
+  <RemoveWakeUpRib.jobString>Удаляет пробуждающие ребро.</RemoveWakeUpRib.jobString>
+
+
+</LanguageData>

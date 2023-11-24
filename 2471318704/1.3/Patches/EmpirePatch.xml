@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Empire</li>
+		</mods>
+		
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/FactionColonies.BiomeResourceDef[defName="AB_FeraliskInfestedJungle"]/label</xpath>
+				<value>
+				<label>Фералисковые джунгли</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/FactionColonies.BiomeResourceDef[defName="AB_MycoticJungle"]/label</xpath>
+				<value>
+				<label>Грибные джунгли</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/FactionColonies.BiomeResourceDef[defName="AB_OcularForest"]/label</xpath>
+				<value>
+				<label>Окулярный лес</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/FactionColonies.BiomeResourceDef[defName="AB_GelatinousSuperorganism"]/label</xpath>
+				<value>
+				<label>Желатиновый суперорганизм</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/FactionColonies.BiomeResourceDef[defName="AB_GallatrossGraveyard"]/label</xpath>
+				<value>
+				<label>Кладбище галлатроссов</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/FactionColonies.BiomeResourceDef[defName="AB_MechanoidIntrusion"]/label</xpath>
+				<value>
+				<label>Механоидная интрузия</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/FactionColonies.BiomeResourceDef[defName="AB_PropaneLakes"]/label</xpath>
+				<value>
+				<label>Пропановые озёра</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/FactionColonies.BiomeResourceDef[defName="AB_TarPits"]/label</xpath>
+				<value>
+				<label>Смоляные ямы</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/FactionColonies.BiomeResourceDef[defName="AB_RockyCrags"]/label</xpath>
+				<value>
+				<label>Покинутые скалы</label>
+				</value>
+			</li>
+			
+			</operations>
+		</match>
+	</Operation>
+</Patch>
+
+
+
+
+

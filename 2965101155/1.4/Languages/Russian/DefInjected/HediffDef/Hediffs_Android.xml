@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <ATR_ShutdownMechanical.label>отключен</ATR_ShutdownMechanical.label>
+  <ATR_ShutdownMechanical.description>Нейроинтерфейс андроида полностью отключен от всех систем.</ATR_ShutdownMechanical.description>
+
+  <ATR_ShortReboot.label>перезагрузка</ATR_ShortReboot.label>
+  <ATR_ShortReboot.description>Нейроинтерфейс андроида перезагружается.</ATR_ShortReboot.description>
+
+  <ATR_LongReboot.label>перезапуск</ATR_LongReboot.label>
+  <ATR_LongReboot.description>Нейроинтерфейс андроида проходит полный перезапуск системы.</ATR_LongReboot.description>
+
+  <ATR_RecoveringFromDDOS.label>DDOS Реабилитация</ATR_RecoveringFromDDOS.label>
+  <ATR_RecoveringFromDDOS.description>Андроид восстанавливается после воздействия DDOS-атаки. Перекомпиляция и дефрагментация памяти - это утомительное и отвлекающее занятие, так как до тех пор, пока данные не будут полностью проверены, им нельзя доверять.</ATR_RecoveringFromDDOS.description>
+
+  <ATR_MechanicalOverclocking.label>разгон</ATR_MechanicalOverclocking.label>
+  <ATR_MechanicalOverclocking.description>Андроид разогнал своё ядро с заметным увеличением производительности. Энергопотребление, тепловыделение и износ комплектующих системы - были заметно увеличены. Необычно повышенная активность ядра напрягает и сознание андроида.</ATR_MechanicalOverclocking.description>
+  
+  <ATR_MemoryCorruption.label>повреждение памяти</ATR_MemoryCorruption.label>
+  <ATR_MemoryCorruption.description>Ядро андроида получило критическое повреждение памяти. Память потеряна, но само хранилище может быть восстановлено. Однако это долгий и трудоемкий процесс.</ATR_MemoryCorruption.description> 
+  <ATR_MemoryCorruption.stages.0.label>дефрагментация</ATR_MemoryCorruption.stages.0.label>
+  <ATR_MemoryCorruption.stages.1.label>незначительные ошибки</ATR_MemoryCorruption.stages.1.label>
+  <ATR_MemoryCorruption.stages.2.label>множественные ошибки</ATR_MemoryCorruption.stages.2.label>
+  <ATR_MemoryCorruption.stages.3.label>некритические сбои</ATR_MemoryCorruption.stages.3.label>
+  <ATR_MemoryCorruption.stages.4.label>критические сбои</ATR_MemoryCorruption.stages.4.label>
+  <ATR_MemoryCorruption.stages.5.label>полная потеря памяти</ATR_MemoryCorruption.stages.5.label>
+
+  <ATR_RemainingCharge.label>заряд аккумулятора</ATR_RemainingCharge.label>
+  <ATR_RemainingCharge.description>Оставшееся время работы аккумулятора до его полного разряжения.</ATR_RemainingCharge.description>
+  <ATR_RemainingCharge.stages.0.label>разряжен</ATR_RemainingCharge.stages.0.label>
+  <ATR_RemainingCharge.stages.1.label>критический</ATR_RemainingCharge.stages.1.label>
+  <ATR_RemainingCharge.stages.2.label>низкий</ATR_RemainingCharge.stages.2.label>
+  <ATR_RemainingCharge.stages.3.label>средний</ATR_RemainingCharge.stages.3.label>
+  <ATR_RemainingCharge.stages.4.label>высокий</ATR_RemainingCharge.stages.4.label>
+  <ATR_RemainingCharge.stages.5.label>полный</ATR_RemainingCharge.stages.5.label>
+
+
+</LanguageData>

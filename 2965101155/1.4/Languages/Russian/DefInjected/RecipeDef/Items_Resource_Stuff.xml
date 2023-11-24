@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Make_ChemfuelFromChemCapsule.label>получить химтопливо из химкапсул</ATR_Make_ChemfuelFromChemCapsule.label>
+  <ATR_Make_ChemfuelFromChemCapsule.description>Получить партию химического топлива путём извлечения реактивов из химкапсул.</ATR_Make_ChemfuelFromChemCapsule.description>
+  <ATR_Make_ChemfuelFromChemCapsule.jobString>Производит химтопливо из химкапсул.</ATR_Make_ChemfuelFromChemCapsule.jobString>
+
+  <ATR_Make_NeutroamineFromChemCapsule.label>получить нейтроамин из химкапсул</ATR_Make_NeutroamineFromChemCapsule.label>
+  <ATR_Make_NeutroamineFromChemCapsule.description>Получить партию нейтроамина путём извлечения реактивов из химкапсул.</ATR_Make_NeutroamineFromChemCapsule.description>
+  <ATR_Make_NeutroamineFromChemCapsule.jobString>Производит нейтроамин из химкапсул.</ATR_Make_NeutroamineFromChemCapsule.jobString>
+
+  <ATR_Make_NutritionBlockFromSolutionAndCapsules.label>получить оргкапсулу</ATR_Make_NutritionBlockFromSolutionAndCapsules.label>
+  <ATR_Make_NutritionBlockFromSolutionAndCapsules.description>Получить партию оргкапсул путём стабилизации орграствора.</ATR_Make_NutritionBlockFromSolutionAndCapsules.description>
+  <ATR_Make_NutritionBlockFromSolutionAndCapsules.jobString>Производит оргкапсулы.</ATR_Make_NutritionBlockFromSolutionAndCapsules.jobString>
+
+
+</LanguageData>

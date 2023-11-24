@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Artillery -->
+
+  <VFES_Turret_Artillery.label>артиллерия</VFES_Turret_Artillery.label>
+  <VFES_Turret_Artillery.description>Управляемая вручную артиллерия, которая может стрелять любыми видами снарядов. Эта установка способа нанести сокрушительный урон как живой силе, так и строениям противника. Отлично справляется с поддержкой солдат в полевых условиях.\n\nМожет наводиться на цель в другом локации, расположенной в среднем радиусе.</VFES_Turret_Artillery.description>
+
+  <VFES_Artillery_Weapon.label>артиллерия</VFES_Artillery_Weapon.label>
+  <VFES_Artillery_Weapon.description>Артиллерийское орудие, способное вести бомбардировку на большом расстоянии.</VFES_Artillery_Weapon.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MicroscytherShell.label>роевой снаряд</ATR_MicroscytherShell.label>
+  <ATR_MicroscytherShell.description>Снаряд, заполненный заранее запрограммированным роем скарабеев, которые при ударе будут атаковать все близлежащие цели. Может быть использован как для стрельбы из миномёта, так и для изготовления мин.</ATR_MicroscytherShell.description>
+
+  <ATR_MicroscytherShell_round.label>роевой снаряд</ATR_MicroscytherShell_round.label>
+
+
+</LanguageData>

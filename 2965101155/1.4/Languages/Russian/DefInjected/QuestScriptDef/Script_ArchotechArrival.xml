@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+-<LanguageData>
+
+<ATR_OpportunitySite_ArchotechArrival.root.nodes.5.node.name>siteThreatChance</ATR_OpportunitySite_ArchotechArrival.root.nodes.5.node.name>
+<ATR_OpportunitySite_ArchotechArrival.root.nodes.5.elseNode.name>siteThreatChance</ATR_OpportunitySite_ArchotechArrival.root.nodes.5.elseNode.name>
+
+<ATR_OpportunitySite_ArchotechArrival.root.nodes.10.node.nodes.0.label>Время задания истекло: [resolvedQuestName]</ATR_OpportunitySite_ArchotechArrival.root.nodes.10.node.nodes.0.label>
+<ATR_OpportunitySite_ArchotechArrival.root.nodes.10.node.nodes.0.text>Таинственный сигнал, манящий вас к месту крушения метеорита, внезапно прекратился. Время, отведённое для поиска [resolvedQuestName] истекло.</ATR_OpportunitySite_ArchotechArrival.root.nodes.10.node.nodes.0.text>
+
+<ATR_OpportunitySite_ArchotechArrival.questDescriptionRules.rulesStrings.0>questDescription->С оглушающим рёвом с неба несётся огненный шар. Кажется, что сам воздух дрожит. Вероятно он прилетел не из космоса. В конце концов, он приземляется где-то за горизонтом - и все же каким-то образом вам удаётся засечь сигнал его точного места приземления. Что может ждать вас там?\nНеобъяснимо, но вы чувствуете, что там [allSitePartsDescriptionsExceptFirst]</ATR_OpportunitySite_ArchotechArrival.questDescriptionRules.rulesStrings.0>
+<ATR_OpportunitySite_ArchotechArrival.questNameRules.rulesStrings.0>questName->Таинственный метеорит</ATR_OpportunitySite_ArchotechArrival.questNameRules.rulesStrings.0>
+</LanguageData>

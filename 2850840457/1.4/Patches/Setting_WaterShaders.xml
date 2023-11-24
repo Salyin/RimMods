@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="OutlandTerrain.PatchOperation_SettingActive">
+		<settings>
+			<li>waterShaders</li>
+		</settings>
+		<active Class="PatchOperationSequence">
+			<!-- <success>Always</success> -->
+			<operations>
+				<li Class="PatchOperationRemove">
+					<xpath>Defs/TerrainDef[@Name="WaterDeepBase" or @Name="WaterChestDeepBase" or defName="WaterShallow" or defName="WaterOceanShallow" or defName="WaterMovingShallow"]/waterDepthShader</xpath>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/TerrainDef[@Name="WaterBase"]/edgeType</xpath>
+					<value>
+						<edgeType>FadeRough</edgeType>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/TerrainDef[@Name="WaterDeepBase"]/texturePath</xpath>
+					<value>
+						<texturePath>Outland/Terrain/Natural/WaterDeep</texturePath>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/TerrainDef[@Name="WaterChestDeepBase"]/texturePath</xpath>
+					<value>
+						<texturePath>Outland/Terrain/Natural/WaterChestDeep</texturePath>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/TerrainDef[defName="WaterShallow" or defName="WaterOceanShallow" or defName="WaterMovingShallow"]/texturePath</xpath>
+					<value>
+						<texturePath>Outland/Terrain/Natural/WaterShallow</texturePath>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/TerrainDef[defName="Marsh"]/texturePath</xpath>
+					<value>
+						<texturePath>Outland/Terrain/Natural/Marsh</texturePath>
+					</value>
+				</li>
+
+				<!-- Biotech -->
+				<li Class="PatchOperationReplace" MayRequire="Ludeon.RimWorld.Biotech">
+					<xpath>Defs/TerrainDef[defName="WaterDeep"]/pollutedTexturePath</xpath>
+					<value>
+						<pollutedTexturePath>Outland/Terrain/Natural/WaterDeepPolluted</pollutedTexturePath>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace" MayRequire="Ludeon.RimWorld.Biotech">
+					<xpath>Defs/TerrainDef[@Name="WaterChestDeepBase" or defName="WaterMovingChestDeep"]/pollutedTexturePath</xpath>
+					<value>
+						<pollutedTexturePath>Outland/Terrain/Natural/WaterChestDeepPolluted</pollutedTexturePath>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace" MayRequire="Ludeon.RimWorld.Biotech">
+					<xpath>Defs/TerrainDef[defName="WaterShallow" or defName="WaterOceanShallow" or defName="WaterMovingShallow"]/pollutedTexturePath</xpath>
+					<value>
+						<pollutedTexturePath>Outland/Terrain/Natural/WaterShallowPolluted</pollutedTexturePath>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace" MayRequire="Ludeon.RimWorld.Biotech">
+					<xpath>Defs/TerrainDef[defName="Marsh"]/pollutedTexturePath</xpath>
+					<value>
+						<pollutedTexturePath>Outland/Terrain/Natural/MarshPolluted</pollutedTexturePath>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace" MayRequire="Ludeon.RimWorld.Biotech">
+					<xpath>Defs/TerrainDef[@Name="WaterBase"]/pollutionShaderType</xpath>
+					<value>
+						<pollutionShaderType MayRequire="Ludeon.RimWorld.Biotech">TerrainFadeRoughSoftLight</pollutionShaderType>
+					</value>
+				</li>
+
+				<!-- Vanilla Textures Expanded Compat-->
+				<li Class="PatchOperationConditional">
+					<xpath>/Defs/TerrainDef[defName="Marsh"]/waterDepthShader</xpath>
+					<match Class="PatchOperationRemove">
+						<xpath>Defs/TerrainDef[defName="Marsh"]/waterDepthShader</xpath>
+					</match>
+				</li>
+				<li MayRequire="VanillaExpanded.VTEXE" Class="PatchOperationReplace">
+					<xpath>Defs/TerrainDef[defName="Marsh"]/edgeType</xpath>
+					<value>
+						<edgeType>FadeRough</edgeType>
+					</value>
+				</li>
+
+				<!-- ReGrowth Remastered Core -->
+				<li MayRequire="ReGrowth.BOTR.Core" Class="PatchOperationRemove">
+					<xpath>Defs/VFECore.ActiveTerrainDef[@Name="RG_LavaBase"]/waterDepthShader</xpath>
+				</li>
+				<li MayRequire="ReGrowth.BOTR.Core" Class="PatchOperationRemove">
+					<xpath>Defs/VFECore.ActiveTerrainDef[@Name="RG_LavaBase"]/waterDepthShaderParameters</xpath>
+				</li>
+				<li MayRequire="ReGrowth.BOTR.Core" Class="PatchOperationRemove">
+					<xpath>Defs/VFECore.ActiveTerrainDef[@Name="RG_LavaBase"]/modExtensions</xpath>
+				</li>
+				<li MayRequire="ReGrowth.BOTR.Core" Class="PatchOperationReplace">
+					<xpath>Defs/VFECore.ActiveTerrainDef[@Name="RG_LavaBase"]/edgeType</xpath>
+					<value>
+						<edgeType>FadeRough</edgeType>
+					</value>
+				</li>
+				<li MayRequire="ReGrowth.BOTR.Core" Class="PatchOperationReplace">
+					<xpath>Defs/VFECore.ActiveTerrainDef[defName="RG_Lava"]/texturePath</xpath>
+					<value>
+						<texturePath>Outland/Terrain/Natural/Lava</texturePath>
+					</value>
+				</li>
+			</operations>
+		</active>
+	</Operation>
+
+</Patch>

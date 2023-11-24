@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneNutritionUnit.label>механическая корова</ATR_DroneNutritionUnit.label>
+  <ATR_DroneNutritionUnit.labelPlural>механические коровы</ATR_DroneNutritionUnit.labelPlural>
+  <ATR_DroneNutritionUnit.labelMale>механический бык</ATR_DroneNutritionUnit.labelMale>
+  <ATR_DroneNutritionUnit.labelMalePlural>механические быки</ATR_DroneNutritionUnit.labelMalePlural>
+  <ATR_DroneNutritionUnit.labelFemale>механическая корова</ATR_DroneNutritionUnit.labelFemale>
+  <ATR_DroneNutritionUnit.labelFemalePlural>механические коровы</ATR_DroneNutritionUnit.labelFemalePlural>
+
+
+</LanguageData>

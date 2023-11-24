@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Needs -->
+
+  <ATR_EnergyNeed>Энергия</ATR_EnergyNeed>
+  <ATR_EnergyNeedDesc>Энергия - это количество сохраненного заряда. Если заряд аккумулятора равен нулю, андроид перейдет в неэффективный режим пониженного энергопотребления. Если заряд не будет восстановлен, аппаратное обеспечение в конечном итоге даст критический сбой, и андроид перестанет функционировать.</ATR_EnergyNeedDesc>
+
+  <!-- Ritual Permissions -->
+
+  <ATR_DronesCannotParticipateInRituals>Дроны не могут участвовать в ритуалах.</ATR_DronesCannotParticipateInRituals>
+
+  <!-- Prisoner Tab -->
+
+  <ATR_PrisonerDroneWarning>С дронами нельзя взаимодействовать. Используйте мехоперацию для перепрограммирования (требуется исследование: Андроиды T1) или отключите его.</ATR_PrisonerDroneWarning>
+  <ATR_SlaveDroneAlert>Дроны не должны быть рабами! Немедленно перепрограммируйте или уничтожьте его.</ATR_SlaveDroneAlert>
+
+  <!-- Maintenance Spot -->
+  <ATR_MaintenanceNeedRequired>Не требует техобслуживания</ATR_MaintenanceNeedRequired>
+
+</LanguageData>

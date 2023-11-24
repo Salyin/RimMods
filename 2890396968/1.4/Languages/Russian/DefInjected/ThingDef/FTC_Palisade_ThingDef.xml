@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/Things/FTC_Palisade.xml-->
+                    <!-- exterior wall -->
+<FT_Stony_Palisade.label>внешняя стена</FT_Stony_Palisade.label>
+                           <!-- diagonal exterior wall -->
+<FT_Stony_Palisade_Corner.label>диагональная наружная стена</FT_Stony_Palisade_Corner.label>
+                               <!-- exterior embrasure -->
+<FT_Stony_Palisade_Embrasures.label>внешняя амбразура</FT_Stony_Palisade_Embrasures.label>
+                                     <!-- diagonal exterior embrasure -->
+<FT_Stony_Palisade_CornerEmbrasures.label>диагональная наружная амбразура</FT_Stony_Palisade_CornerEmbrasures.label>
+
+</LanguageData>

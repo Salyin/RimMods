@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Maintenance Retention -->
+
+  <ATR_MaintenanceRetention.label>эффективность самобслуживания</ATR_MaintenanceRetention.label>
+  <ATR_MaintenanceRetention.description>Насколько хорошо андроид сохраняет состояния корпуса с течением времени. Эта статистика влияет на то, как быстро потребность андроида в самобслуживании падает.</ATR_MaintenanceRetention.description>
+
+
+</LanguageData>

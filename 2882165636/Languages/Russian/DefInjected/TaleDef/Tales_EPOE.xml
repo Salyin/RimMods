@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoreTakeover.label>Поглощение ядра ИИ</CoreTakeover.label>
+  <CoreTakeover.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] ошеломленный ИИ</CoreTakeover.rulePack.rulesStrings.0>
+  <CoreTakeover.rulePack.rulesStrings.1>image->[PAWN_nameFull] впадая в неистовую ярость [circumstance_group]</CoreTakeover.rulePack.rulesStrings.1>
+  <CoreTakeover.rulePack.rulesStrings.2>image->[PAWN_nameFull] становлюсь безумно, яростно безумным [circumstance_group]</CoreTakeover.rulePack.rulesStrings.2>
+  <CoreTakeover.rulePack.rulesStrings.3>image->[PAWN_nameFull] ковыляя вперед с психотическим выражением на [PAWN_possessive] лице [circumstance_group]</CoreTakeover.rulePack.rulesStrings.3>
+  <CoreTakeover.rulePack.rulesStrings.4>circumstance_phrase->при попытке раздеться</CoreTakeover.rulePack.rulesStrings.4>
+  <CoreTakeover.rulePack.rulesStrings.5>circumstance_phrase->с отчаянным взглядом на [PAWN_possessive] face</CoreTakeover.rulePack.rulesStrings.5>
+  <CoreTakeover.rulePack.rulesStrings.6>circumstance_phrase->как другие съеживаются в страхе</CoreTakeover.rulePack.rulesStrings.6>
+  <CoreTakeover.rulePack.rulesStrings.7>circumstance_phrase->как друг убегает</CoreTakeover.rulePack.rulesStrings.7>
+  <CoreTakeover.rulePack.rulesStrings.8>circumstance_phrase->из-за ядра ИИ</CoreTakeover.rulePack.rulesStrings.8>
+  <CoreTakeover.rulePack.rulesStrings.9>circumstance_phrase->пытаясь бороться с этим</CoreTakeover.rulePack.rulesStrings.9>
+  <CoreTakeover.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun] теряет контроль над ИИ в [PAWN_possessive] голове.</CoreTakeover.rulePack.rulesStrings.10>
+  <CoreTakeover.rulePack.rulesStrings.11>desc_sentence->[PAWN_possessive] зубы оскалены в смертельном оскале.</CoreTakeover.rulePack.rulesStrings.11>
+  <CoreTakeover.rulePack.rulesStrings.12>desc_sentence->[PAWN_possessive] глаза светятся ярко-красным.</CoreTakeover.rulePack.rulesStrings.12>
+  <CoreTakeover.rulePack.rulesStrings.13>desc_sentence->Слюна летит из [PAWN_possessive] рта, как [PAWN_possessive] кричит от безумной ярости и боли.</CoreTakeover.rulePack.rulesStrings.13>
+  <CoreTakeover.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] потерял часть [PAWN_possessive] одежды.</CoreTakeover.rulePack.rulesStrings.14>
+  <CoreTakeover.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun] гримасничает в страдании.</CoreTakeover.rulePack.rulesStrings.15>
+  <CoreTakeover.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun] потерял контроль над своим телом.</CoreTakeover.rulePack.rulesStrings.16>
+  <CoreTakeover.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun] изображен с оскаленной мордой [Animal].</CoreTakeover.rulePack.rulesStrings.17>
+  <CoreTakeover.rulePack.rulesStrings.18>desc_sentence->[Animal]s символически окружают [PAWN_possessive] голову.</CoreTakeover.rulePack.rulesStrings.18>
+  <CoreTakeover.rulePack.rulesStrings.19>desc_sentence->[PAWN_pronoun] имеет убийственный блеск в [PAWN_possessive] глазах.</CoreTakeover.rulePack.rulesStrings.19>
+  <CoreTakeover.rulePack.rulesStrings.20>desc_sentence->[PAWN_possessive] все тело, кажется, дрожит от ненависти.</CoreTakeover.rulePack.rulesStrings.20>
+  <CoreTakeover.rulePack.rulesStrings.21>desc_sentence->[PAWN_possessive] на лице застыло выражение искаженной безмятежности.</CoreTakeover.rulePack.rulesStrings.21>
+  <CoreTakeover.rulePack.rulesStrings.22>desc_sentence->Одинокая слеза скатывается вниз [PAWN_possessive] лица.</CoreTakeover.rulePack.rulesStrings.22>
+
+
+</LanguageData>

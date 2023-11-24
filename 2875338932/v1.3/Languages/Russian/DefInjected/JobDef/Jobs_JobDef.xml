@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RR_AnalyseInPlace.reportString>Изучает {0}.</RR_AnalyseInPlace.reportString>
+<RR_Analyse.reportString>Изучает {0} на {1}.</RR_Analyse.reportString>
+<RR_AnalyseTerrain.reportString>Анализ местности.</RR_AnalyseTerrain.reportString>
+<RR_Research.reportString>Исследует.</RR_Research.reportString>
+
+</LanguageData>

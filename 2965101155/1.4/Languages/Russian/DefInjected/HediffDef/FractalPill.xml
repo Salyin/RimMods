@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_FractalPillOrganic.label>фрактальная ассимиляция</ATR_FractalPillOrganic.label>
+  <ATR_FractalPillOrganic.description>Фрактальная ассимиляция тела - процесс, в результате которого плоть начинает твердеть и приобретать металлические свойства, а разум одновременно гнить и расти. Это уникальная и мучительная перспектива просветления, которую создали архотеки. Однако, для какой непостижимой цели была создана эта ассимиляция?</ATR_FractalPillOrganic.description>
+  <ATR_FractalPillOrganic.stages.0.label>трансцендентность</ATR_FractalPillOrganic.stages.0.label>
+  <ATR_FractalPillOrganic.stages.1.label>блаженство</ATR_FractalPillOrganic.stages.1.label>
+  <ATR_FractalPillOrganic.stages.2.label>одаренность</ATR_FractalPillOrganic.stages.2.label>
+  <ATR_FractalPillOrganic.stages.3.label>баланс</ATR_FractalPillOrganic.stages.3.label>
+  <ATR_FractalPillOrganic.stages.4.label>испорченность</ATR_FractalPillOrganic.stages.4.label>
+  <ATR_FractalPillOrganic.stages.5.label>мерзость</ATR_FractalPillOrganic.stages.5.label>
+  <ATR_FractalPillOrganic.stages.6.label>разложение</ATR_FractalPillOrganic.stages.6.label>
+
+
+  <!-- HediffMechanical -->
+
+  <ATR_FractalPillMechanical.label>фрактальная интеграция</ATR_FractalPillMechanical.label>
+  <ATR_FractalPillMechanical.description>Фрактальная интеграция корпуса - это процесс, который, хотя и безвреден для андроидов, имеет явно двоякий эффект. Раздутое эго и увеличение энергопотребления являются основными эффектами фракталов. Пострадавшие в бою андроиды, необъяснимым образом получают меньше повреждений от тех же ударов и имеют более сильное понимание истинной природы реальности.\n\nВозможно, архотеки разработали фракталы специально для органических существ, и находят его применение андроидами неинтересным? Или, возможно, фракталы - это проклятие для всех, а не только для органики?</ATR_FractalPillMechanical.description>
+  <ATR_FractalPillMechanical.stages.0.label>небольшой эффект</ATR_FractalPillMechanical.stages.0.label>
+  <ATR_FractalPillMechanical.stages.1.label>пробуждение</ATR_FractalPillMechanical.stages.1.label>
+  <ATR_FractalPillMechanical.stages.2.label>одаренность</ATR_FractalPillMechanical.stages.2.label>
+  <ATR_FractalPillMechanical.stages.3.label>просветление</ATR_FractalPillMechanical.stages.3.label>
+  <ATR_FractalPillMechanical.stages.4.label>трансцендентность</ATR_FractalPillMechanical.stages.4.label>
+
+
+</LanguageData>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_Recipe.xml-->
+                             <!-- Pack concrete -->
+<FT_Make_ConcreteCompressed.label>Упаковать бетон</FT_Make_ConcreteCompressed.label>
+                                   <!-- pack Concrete bag for storage,also trader are willing to buy them. -->
+<FT_Make_ConcreteCompressed.description>Упаковать бетонный мешок для хранения, также трейдер готов купить их.</FT_Make_ConcreteCompressed.description>
+                                 <!-- Packing concrete. -->
+<FT_Make_ConcreteCompressed.jobString>Упаковка бетона.</FT_Make_ConcreteCompressed.jobString>
+                               <!-- Unpack concrete -->
+<FT_Unpack_ConcreteCompressed.label>Распаковать бетон</FT_Unpack_ConcreteCompressed.label>
+                                     <!-- Unpack Concrete bags for usage. -->
+<FT_Unpack_ConcreteCompressed.description>Распакуйте мешки с бетоном для использования.</FT_Unpack_ConcreteCompressed.description>
+                                   <!-- Unpacking concrete. -->
+<FT_Unpack_ConcreteCompressed.jobString>Распаковка бетона.</FT_Unpack_ConcreteCompressed.jobString>
+                               <!-- make Concrete from junks -->
+<FT_Make_ConcreteByStonyJunks.label>делать бетон из мусора</FT_Make_ConcreteByStonyJunks.label>
+                                     <!-- crush stony junks and made into concrete. the junk material must not be burnable or smeltable. -->
+<FT_Make_ConcreteByStonyJunks.description>измельчают каменистые отложения и делают из них бетон. мусорный материал не должен быть горючим или легкоплавким.</FT_Make_ConcreteByStonyJunks.description>
+                                   <!-- making Concrete from material -->
+<FT_Make_ConcreteByStonyJunks.jobString>изготовление бетона из материала</FT_Make_ConcreteByStonyJunks.jobString>
+                          <!-- make Concrete from chunk -->
+<FT_Make_ConcreteByChunk.label>создать бетон из кусочков</FT_Make_ConcreteByChunk.label>
+                                <!-- crush chunks and made into Concrete. -->
+<FT_Make_ConcreteByChunk.description>измельчить куски и сделать из них бетон.раздавить куски и превратить в бетон.</FT_Make_ConcreteByChunk.description>
+                              <!-- making Concrete from material -->
+<FT_Make_ConcreteByChunk.jobString>изготовление бетона из материала</FT_Make_ConcreteByChunk.jobString>
+                          <!-- make Concrete -->
+<FT_Make_ConcreteByBlock.label>делать бетон</FT_Make_ConcreteByBlock.label>
+                                <!-- crush blocks and made into concrete. -->
+<FT_Make_ConcreteByBlock.description>дробить блоки и делать из них бетон.</FT_Make_ConcreteByBlock.description>
+                              <!-- making Concrete from material -->
+<FT_Make_ConcreteByBlock.jobString>изготовление бетона из материала</FT_Make_ConcreteByBlock.jobString>
+                       <!-- make Fiber cement -->
+<FT_Make_ConcreteWood.label>производить волокнистый цемент</FT_Make_ConcreteWood.label>
+                             <!-- mixing the cloth and concrete to get the light-weighted concrete plank,fire-proofed but not durable as the soild bricks. -->
+<FT_Make_ConcreteWood.description>смешивание ткани и бетона для получения легкого бетонного настила, огнеупорного, но недолговечного, как мягкие кирпичи.</FT_Make_ConcreteWood.description>
+                           <!-- making concrete. -->
+<FT_Make_ConcreteWood.jobString>изготовление бетона.</FT_Make_ConcreteWood.jobString>
+                             <!-- prepare steel for concrete -->
+<FT_Make_ReinforcedConcrete.label>подготовка стали к бетонированию</FT_Make_ReinforcedConcrete.label>
+                                   <!-- mixing the embedded steel bars and concrete to get the Reinforced concrete ,an alternative Materials for Metalic building. -->
+<FT_Make_ReinforcedConcrete.description>смешивание стальных стержней с бетоном для получения армированного бетона, альтернативного материала для металлических зданий.</FT_Make_ReinforcedConcrete.description>
+                                 <!-- making concrete. -->
+<FT_Make_ReinforcedConcrete.jobString>изготовление бетона.</FT_Make_ReinforcedConcrete.jobString>
+                           <!-- make reinforced barrel -->
+<FT_Make_ReinforcedBarrel.label>изготовить усиленный ствол</FT_Make_ReinforcedBarrel.label>
+                                 <!-- Make a reinforced barrel from lathe. -->
+<FT_Make_ReinforcedBarrel.description>Изготовить усиленный ствол на токарном станке.</FT_Make_ReinforcedBarrel.description>
+                               <!-- Making Barrel. -->
+<FT_Make_ReinforcedBarrel.jobString>Изготовление бочки.</FT_Make_ReinforcedBarrel.jobString>
+                              <!-- make component -->
+<FT_Make_ComponentIndustrial.label>изготавливать компонент</FT_Make_ComponentIndustrial.label>
+                                    <!-- Make a component from lathe,take longer time and resources. -->
+<FT_Make_ComponentIndustrial.description>Изготовление детали на токарном станке требует больше времени и ресурсов.</FT_Make_ComponentIndustrial.description>
+                                  <!-- Making component. -->
+<FT_Make_ComponentIndustrial.jobString>Изготовление компонента.</FT_Make_ComponentIndustrial.jobString>
+                      <!-- synthesize Neutroamine -->
+<FT_Make_Neutroamine.label>синтезировать нейтроамин</FT_Make_Neutroamine.label>
+                            <!-- synthesize neutroamine from meat. -->
+<FT_Make_Neutroamine.description>синтезируют нейтроамин из мяса.</FT_Make_Neutroamine.description>
+                          <!-- Synthesizing neutroamine. -->
+<FT_Make_Neutroamine.jobString>Синтез нейтроамина.</FT_Make_Neutroamine.jobString>
+              <!-- synthesize Dye -->
+<FT_Make_Dye.label>синтезировать краситель</FT_Make_Dye.label>
+                    <!-- synthesize Dye from Chemfuel. -->
+<FT_Make_Dye.description>синтезировать краситель из химического топлива.</FT_Make_Dye.description>
+                  <!-- Synthesizing Dye. -->
+<FT_Make_Dye.jobString>Синтез красителя.</FT_Make_Dye.jobString>
+
+</LanguageData>

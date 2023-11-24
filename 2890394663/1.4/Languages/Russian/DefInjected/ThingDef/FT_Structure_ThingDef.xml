@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_Structure.xml-->
+             <!-- Military Sandbag -->
+<FT_Sandbag.label>Военный мешок для песка</FT_Sandbag.label>
+                   <!-- Bags of locally-sourced dirt or sand, stacked for use as cover. they are well-stacked so it is more durable. -->
+<FT_Sandbag.description>Мешки с грязью или песком местного происхождения, сложенные для использования в качестве укрытия. они хорошо уложены, что делает их более прочными.</FT_Sandbag.description>
+                 <!-- Military sandbag wall -->
+<FT_WallSandbag.label>Военная стенка из мешков с песком</FT_WallSandbag.label>
+                       <!-- Bags of locally-sourced dirt or sand, stacked for use as wall. they are well-stacked so it is more durable. -->
+<FT_WallSandbag.description>Bags of locally-sourced dirt or sand, stacked for use as wall. они хорошо уложены, что делает их более прочными.</FT_WallSandbag.description>
+              <!-- Tank Trap -->
+<FT_TankTrap.label>Танковая ловушка</FT_TankTrap.label>
+                    <!-- A solid concrete pillar that can hinder vehicles. -->
+<FT_TankTrap.description>Массивный бетонный столб, который может препятствовать движению транспортных средств.</FT_TankTrap.description>
+               <!-- Tetrapods -->
+<FT_Tetrapods.label>Тетраподы</FT_Tetrapods.label>
+                     <!-- A solid concrete pillar designed to lay on the coastline -->
+<FT_Tetrapods.description>Массивный бетонный столб, предназначенный для укладки на береговой линии</FT_Tetrapods.description>
+             <!-- Concrete Barrier -->
+<FT_Barrier.label>Бетонный барьер</FT_Barrier.label>
+                   <!-- a solid concrete barrier that can hinder vehicles and provide cover -->
+<FT_Barrier.description>прочный бетонный барьер, который может препятствовать движению транспортных средств и служить укрытием</FT_Barrier.description>
+                     <!-- Diagonal Concrete Barrier -->
+<FT_BarrierDiagonal.label>Диагональное бетонное ограждение</FT_BarrierDiagonal.label>
+                           <!-- a solid concrete barrier that can hinder vehicles and provide cover. -->
+<FT_BarrierDiagonal.description>прочный бетонный барьер, который может препятствовать движению транспортных средств и служить укрытием.</FT_BarrierDiagonal.description>
+
+</LanguageData>

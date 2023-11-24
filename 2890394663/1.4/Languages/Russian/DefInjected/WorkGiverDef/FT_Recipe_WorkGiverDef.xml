@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_Recipe.xml-->
+             <!-- Operate Machine -->
+<FT_Operate.label>Эксплуатировать машину</FT_Operate.label>
+              <!-- Operating at -->
+<FT_Operate.gerund>Работа в</FT_Operate.gerund>
+                  <!-- Synthesizing Compound -->
+<FT_Synthesizing.label>Синтезирующее соединение</FT_Synthesizing.label>
+                   <!-- synthesizing at -->
+<FT_Synthesizing.gerund>синтез в</FT_Synthesizing.gerund>
+
+</LanguageData>

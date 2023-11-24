@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Prosthetic leg -->
+
+  <SimpleProstheticLeg.label>Простой протез ноги</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>Замена потерянной ноге. Не очень удобно, но эффективно.</SimpleProstheticLeg.description>
+
+
+  <!-- Prosthetic arm -->
+
+  <SimpleProstheticArm.label>Простой протез руки</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>Простой, но прочный протез руки.</SimpleProstheticArm.description>
+
+
+  <!-- Cochlear implant -->
+
+  <CochlearImplant.label>Слуховой имплант</CochlearImplant.label>
+  <CochlearImplant.description>Имплантат, который заменяет нормальный слух. Внешний микрофон передает звуковой сигнал на электроды, обернутые вокруг слуховых чувствительных нервов внутреннего уха. Электроды стимулируют нервы в соответствии со звуком, создавая ощущение слуха. Это не так хорошо, как естественный слух, но это намного лучше, чем быть глухим.</CochlearImplant.description>
+
+
+  <!-- Golden eye -->
+
+  <GoldenEye.label>Золотой глаз</GoldenEye.label>
+  <GoldenEye.description>Замена потерянному глазу. Настолько прекрасен, что жаль, что вы не видите своё отражение в зеркале.</GoldenEye.description>
+
+
+  <!-- Light receptor -->
+
+  <LightReceptor.label>light receptor</LightReceptor.label>
+  <LightReceptor.description>An eye prosthesis. The optic nerves recieve stimulation from the light sensors and signal processors, creating a sensation of vision. It's not as good as a natural eye, but it's a lot better than being blind.</LightReceptor.description>
+
+
+  <!-- Simple spine replacement -->
+
+  <SimpleSpine.label>Заменитель спины</SimpleSpine.label>
+  <SimpleSpine.description>A spine prosthesis. Highly advanced for its time, can be considered as an early bionic prototype with the first sophisticated application of neural interface in a prosthesis. Still, it is inferior to a real spine.</SimpleSpine.description>
+
+
+  <!-- Prosthetic hand -->
+
+  <SimpleProstheticHand.label>Простой протез кисти</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>Замена потерянной кисти. Более комфортно и менее пугающе, чем крюк.</SimpleProstheticHand.description>
+
+
+  <!-- Prosthetic foot -->
+
+  <SimpleProstheticFoot.label>Простой протез ступни</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>Замена потерянной ступне. Не так дёшево, как кусок бревна.</SimpleProstheticFoot.description>
+
+
+  <!-- Prosthetic finger -->
+
+  <SimpleProstheticFinger.label>Простой протез пальца</SimpleProstheticFinger.label>
+  <SimpleProstheticFinger.description>Устаревшая и грубая замена потерянным пальцам. Не очень эффективно и, конечно, неудобно, но делает свою работу.</SimpleProstheticFinger.description>
+
+
+  <!-- Prosthetic toe -->
+
+  <SimpleProstheticToe.label>Простой протез пальца ноги</SimpleProstheticToe.label>
+  <SimpleProstheticToe.description>Устаревшая и грубая замена потерянным пальцам. Неэффективные и неудобные, они создают много шума при ходьбе, но они выполняют свою работу.</SimpleProstheticToe.description>
+
+
+  <!-- Hydraulic jaw -->
+
+  <HydraulicJaw.label>Гидравлическая челюсть</HydraulicJaw.label>
+  <HydraulicJaw.description>Замена потерянной челюсти. Будьте острожны с этими очень эффективными зубами.</HydraulicJaw.description>
+
+
+  <!-- Artificial nose -->
+
+  <ArtificialNose.label>Искусственный нос</ArtificialNose.label>
+  <ArtificialNose.description>Замена потерянному носу. Закрывает отверстие в лице.</ArtificialNose.description>
+
+
+  <!-- Replacement radius -->
+
+  <ReplacementRadius.label>Заменитель лучевой кости</ReplacementRadius.label>
+  <ReplacementRadius.description>Замена лучевой кости, кости в нижней части руки.</ReplacementRadius.description>
+
+
+  <!-- Scyther blade -->
+
+  <EPIA_ScytherBlade.label>Лезвие жнеца</EPIA_ScytherBlade.label>
+  <EPIA_ScytherBlade.description>Вооруженный ручной имплантат с телескопическим лезвием. Извлечен и восстановлен из мертвого механоида-жнеца. Не очень удобно, но довольно эффективно в качестве оружия ближнего боя.</EPIA_ScytherBlade.description>
+
+
+</LanguageData>

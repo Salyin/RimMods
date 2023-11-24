@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Organic optimizing nanobots -->
+
+  <EPOE_OrganicOptimized.label>Органические оптимизирующие наноботы</EPOE_OrganicOptimized.label>
+  <EPOE_OrganicOptimized.description>Оптимизированная естественная часть тела с использованием органических оптимизирующих наноботов.</EPOE_OrganicOptimized.description>
+  <EPOE_OrganicOptimized.stages.0.label>Свежий</EPOE_OrganicOptimized.stages.0.label>
+  <EPOE_OrganicOptimized.stages.1.label>Адаптация</EPOE_OrganicOptimized.stages.1.label>
+  <EPOE_OrganicOptimized.stages.2.label>Оптимизация</EPOE_OrganicOptimized.stages.2.label>
+
+
+  <!-- Eyes: Improved reactive pupil -->
+
+  <EPOE_InstinctOptimizedEyes.label>Улучшенный реактивный зрачок</EPOE_InstinctOptimizedEyes.label>
+  <EPOE_InstinctOptimizedEyes.description>Естественные глаза оптимизированы с помощью наноботов, оптимизирующих инстинкт.</EPOE_InstinctOptimizedEyes.description>
+  <EPOE_InstinctOptimizedEyes.stages.0.label>Свежий</EPOE_InstinctOptimizedEyes.stages.0.label>
+  <EPOE_InstinctOptimizedEyes.stages.1.label>Адаптация</EPOE_InstinctOptimizedEyes.stages.1.label>
+  <EPOE_InstinctOptimizedEyes.stages.2.label>Оптимизация</EPOE_InstinctOptimizedEyes.stages.2.label>
+
+
+  <!-- Hand: Improved hand reflex -->
+
+  <EPOE_InstinctOptimizedHand.label>Улучшенный рефлекс рук</EPOE_InstinctOptimizedHand.label>
+  <EPOE_InstinctOptimizedHand.description>Естественные руки оптимизированы с помощью инстинктивно оптимизирующих наноботов.</EPOE_InstinctOptimizedHand.description>
+  <EPOE_InstinctOptimizedHand.stages.0.label>Свежий</EPOE_InstinctOptimizedHand.stages.0.label>
+  <EPOE_InstinctOptimizedHand.stages.1.label>Адаптация</EPOE_InstinctOptimizedHand.stages.1.label>
+  <EPOE_InstinctOptimizedHand.stages.2.label>Оптимизация</EPOE_InstinctOptimizedHand.stages.2.label>
+
+
+  <!-- Foot: nimble instinct -->
+
+  <EPOE_InstinctOptimizedFoot.label>Инстинкт уклонения</EPOE_InstinctOptimizedFoot.label>
+  <EPOE_InstinctOptimizedFoot.description>Естественные функции оптимизируются с помощью инстинктивно оптимизирующих наноботов.</EPOE_InstinctOptimizedFoot.description>
+  <EPOE_InstinctOptimizedFoot.stages.0.label>Свежий</EPOE_InstinctOptimizedFoot.stages.0.label>
+  <EPOE_InstinctOptimizedFoot.stages.1.label>Адаптация</EPOE_InstinctOptimizedFoot.stages.1.label>
+  <EPOE_InstinctOptimizedFoot.stages.2.label>Оптимизация</EPOE_InstinctOptimizedFoot.stages.2.label>
+
+
+</LanguageData>

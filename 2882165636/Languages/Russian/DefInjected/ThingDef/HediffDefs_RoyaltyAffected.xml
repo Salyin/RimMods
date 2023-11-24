@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Joywire -->
+
+  <Joywire.label>Чип счастья</Joywire.label>
+  <Joywire.description>Этот мозговой имплант позволит вам почувствовать себя счастливым и расслабленным. Необходимо открыть технологию "Операции на мозге".</Joywire.description>
+
+
+  <!-- Painstopper -->
+
+  <Painstopper.label>Чип обезболивания</Painstopper.label>
+  <Painstopper.description>При установке это мозгового импланта поселенец не булет чувствовать боли. Необходимо открыть технологию "Операции на мозге".</Painstopper.description>
+
+
+  <!-- Power claw -->
+
+  <PowerClaw.label>Силовой коготь</PowerClaw.label>
+  <PowerClaw.description>Замена кисти с тремя смертельными когтями.</PowerClaw.description>
+
+
+  <!-- Power arm -->
+
+  <PowerArm.label>Силовая рука</PowerArm.label>
+  <PowerArm.description>Непревзойденная прочность, ловкость и выдвижные когти.</PowerArm.description>
+
+
+  <!-- Advanced power arm -->
+
+  <AdvancedPowerArm.label>Улучшенная силовая рука</AdvancedPowerArm.label>
+  <AdvancedPowerArm.description>Еще более беспрецедентная сила и ловкость с острыми выдвигающимися когтями. Максимальное улучшение вашей руки!</AdvancedPowerArm.description>
+
+
+</LanguageData>

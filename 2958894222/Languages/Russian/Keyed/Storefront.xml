@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<!-- Messages -->
+	<MessageIncomeToday>Ваш магазин заработал {0} сегодня.</MessageIncomeToday>
+	
+	<TabRegisterStore>Магазин</TabRegisterStore>
+	
+	<!-- Store selection -->
+	<StoreDefaultName>магазин {0}</StoreDefaultName>
+	<StoreTooltipRename>Переименовать этот магазин.</StoreTooltipRename>
+	
+	<!-- Settings -->
+	<TabRegisterOpened>Открыто</TabRegisterOpened>
+	<TabRegisterOpenedTooltip>Когда флажок установлен, клиенты могут посещать, пока смена активна.</TabRegisterOpenedTooltip>
+	
+	<!-- Stats -->
+	<TabRegisterRadius>Радиус</TabRegisterRadius>
+	<TabRegisterActiveStaff>Действующий персонал:</TabRegisterActiveStaff>
+	<TabRegisterCustomers>Клиенты:</TabRegisterCustomers>
+	<TabRegisterStocked>В наличии:</TabRegisterStocked>
+	<TabRegisterEarnedYesterday>Заработано вчера:</TabRegisterEarnedYesterday>
+	<TabRegisterEarnedToday>Заработано сегодня:</TabRegisterEarnedToday>
+	
+	<!-- Alerts -->
+	<AlertNoRegister>Нет кассы</AlertNoRegister>
+	<AlertNoRegisterExplanation>Чтобы открыть свой магазин, вам нужен хотя бы один кассовый аппарат. Его можно построить на вкладке производства.</AlertNoRegisterExplanation>
+	<AlertNoCashier>Нет кассира</AlertNoCashier>
+	<AlertNoCashierExplanation>Для работы вашего магазина вам необходимо настроить хотя бы одну смену на кассе и назначить способного кассира.</AlertNoCashierExplanation>
+
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Eye -->
+
+  <Eye.label>Глазное яблоко</Eye.label>
+  <Eye.description>Поглотитель света, который позволяет человеку знать, что происходит вокруг него.</Eye.description>
+
+
+  <!-- Nose -->
+
+  <Nose.label>Нос</Nose.label>
+  <Nose.description>Полезный орган для отличения запахов.</Nose.description>
+
+
+  <!-- Ear -->
+
+  <Ear.label>Ухо</Ear.label>
+  <Ear.description>Улавливает вибрации в воздухе, позволяя людям слышать звук.</Ear.description>
+
+
+  <!-- Jaw -->
+
+  <Jaw.label>Челюсть</Jaw.label>
+  <Jaw.description>Набор зубов для пережевывания пищи и разговора.</Jaw.description>
+
+
+  <!-- Stomach -->
+
+  <Stomach.label>Желудок</Stomach.label>
+  <Stomach.description>Переваривает пищу и превращает ее в энергию.</Stomach.description>
+
+
+  <!-- Arm -->
+
+  <Arm.label>Рука</Arm.label>
+  <Arm.description>Руки как ноги за исключением того, что вы можете носить ими вещи.</Arm.description>
+
+
+  <!-- Leg -->
+
+  <Leg.label>Нога</Leg.label>
+  <Leg.description>Длинные мясистые палочки, которые позволяют передвигаться.</Leg.description>
+
+
+</LanguageData>

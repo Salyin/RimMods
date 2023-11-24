@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Floors Are (Almost) Worthless</name>
+	<author>WalterHawkwood</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>Hawkwood.FAAW</packageId>
+	<description>A very simple patch that sets the wealth of all constructed floors to 1. The way floors impact colony wealth in vanilla always made little sense to me, especially since all pre-placed floors on the starting map automatically counted towards your wealth. Now those raiders won't send an army after you just because you dared to lay some good-looking parquet!</description>
+	<modDependencies/>
+	<loadAfter/>
+</ModMetaData>

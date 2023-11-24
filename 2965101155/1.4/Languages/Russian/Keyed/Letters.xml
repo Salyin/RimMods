@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- General -->
+
+  <ATR_ReprogramSuccess>Дрон перепрограммирован</ATR_ReprogramSuccess>
+  <ATR_ReprogramSuccessDesc>{0} был успешно перепрограммирован. После перезагрузки он распознает поселение как своё.</ATR_ReprogramSuccessDesc>
+  <ATR_ReprogramFailed>Перепрограммирование не удалось</ATR_ReprogramFailed>
+  <ATR_ReprogramFailedDesc>Мехоперация перепрограммирования на {0} не удалась. После перезагрузки дрон не распознает команды. Возможно, в процессе перепрограммирования была повреждена память.</ATR_ReprogramFailedDesc>
+
+  <ATR_FractalCorruption>Фрактальная мутация</ATR_FractalCorruption>
+  <ATR_FractalCorruptionDesc>{0} мутировал под воздействием фрактального искажения. Теперь он фрактальный мутант! Эхо мучительных криков будет слышно на многие мили и, возможно, многие годы.</ATR_FractalCorruptionDesc>
+
+  <ATR_ServerMeltdown>Расплавление сервера</ATR_ServerMeltdown>
+  <ATR_ServerMeltdownDesc>Сервер частично расплавился из-за чрезмерного перенагревания!</ATR_ServerMeltdownDesc>
+
+  <!-- Faction Rights Letters -->
+  <ATR_DeclarationOfWarRights>Война за права</ATR_DeclarationOfWarRights>
+  <ATR_DeclarationOfWarRightsDesc>{0} поддерживает строгий кодекс против прав {1}, которые вы нарушили. {2} намерен уничтожить всех {1} - пока они живы, мира не будет.</ATR_DeclarationOfWarRightsDesc>
+  <ATR_CessationOfConflict>Конфликт прав разрешен</ATR_CessationOfConflict>
+  <ATR_CessationOfConflictDesc>{0} поддерживает строгий кодекс против прав {1}, которые вы больше не нарушаете. По мере ослабления напряженности и потепления отношений, мир снова становится возможным.</ATR_CessationOfConflictDesc>
+
+  <!-- Hacking Incidents -->
+  <!-- Generic Messages -->
+  <ATR_IncidentGenericAttackDesc>Вражеская попытка взлома, сила которой оценивается как {0}, успешно проникла в систему безопасности SkyMind, заразив {1} сетевых устройств до того, как сработала система безопасности.</ATR_IncidentGenericAttackDesc>
+  <ATR_IncidentGenericDefense>Попытка взлома отбита</ATR_IncidentGenericDefense>
+  <ATR_IncidentGenericDefenseDesc>Вражеская попытка взлома, сила которой оценивается как {0}, не смогла проникнуть в систему безопасности SkyMind. Функциональность системы в норме, а серверы защиты пытаются пресечь любые попытки взлома.</ATR_IncidentGenericDefenseDesc>
+  <ATR_IncidentGenericAllyIntercept>Взлом перехвачен!</ATR_IncidentGenericAllyIntercept>
+  <ATR_IncidentGenericAllyInterceptDesc>Хакеры вашего союзника {0} связались с вами и сообщили о попытке взлома вашей сети SkyMind, враждебно настроенной фракцией. Они не только смогли остановить атаку (сила которой оценивается в {1} баллов), которая нарушила бы вашу безопасность, но и выявили несколько уязвимостей, которые можно легко устранить, в результате чего вы получили {2} очков защиты!</ATR_IncidentGenericAllyInterceptDesc>
+
+  <!-- Gridscreen Virus -->
+  <!-- Grid-virus defeated -->
+  <ATR_IncidentGridVirusDefeated>Вирус-блокер побежден</ATR_IncidentGridVirusDefeated>
+
+  <!-- Grid-sleeper attack -->
+  <ATR_IncidentGridsleeperAttack>Слипблокер</ATR_IncidentGridsleeperAttack>
+  <ATR_IncidentGridsleeperAttackDesc>Затронутые устройства вышли из строя, и им потребуется время для восстановления штатной работоспособности.</ATR_IncidentGridsleeperAttackDesc>
+
+  <!-- Grid-locker attack -->
+  <ATR_IncidentGridlockerAttack>Гридблокер</ATR_IncidentGridlockerAttack>
+  <ATR_IncidentGridlockerAttackDesc>Затронутые устройства были зашифрованы хакером! Теперь для восстановления работоспособности - потребуется заключить сделку.</ATR_IncidentGridlockerAttackDesc>
+
+  <ATR_CryptolockerNeedRansom>Криптоблокер</ATR_CryptolockerNeedRansom>
+  <ATR_CryptolockerNeedRansomDesc>Затронутые устройства подверглись криптоблокировке! Хакер отправит коды дешифровки и откажется от контроля над {0} взломанными устройствами в обмен на {1} серебра.</ATR_CryptolockerNeedRansomDesc>
+
+  <!-- Grid-breaker attack -->
+  <ATR_IncidentGridbreakerAttack>Брейкблокер</ATR_IncidentGridbreakerAttack>
+  <ATR_IncidentGridbreakerAttackDesc>Затронутые устройства получили аппаратный сбой из-за небезопасных программных процедур. Восстановления штатной работоспособности после ремонта займет некоторое время.</ATR_IncidentGridbreakerAttackDesc>
+
+  <!-- Ally Grid Virus Intervention -->
+  <ATR_IncidentGridVirusAllyIntercept>Вирус-блокер перехвачен!</ATR_IncidentGridVirusAllyIntercept>
+
+  <!-- DDOS Attack -->
+  <ATR_IncidentDDOSDefeated>DDOS побежден</ATR_IncidentDDOSDefeated>
+
+  <ATR_IncidentDDOSAttack>DDOS</ATR_IncidentDDOSAttack>
+  <ATR_IncidentDDOSNormalAttackDesc>Затронутые устройства подверглись DDOS атаке и наводнены нежелательными данными и мусорной информацией. Это нанесет ущерб генерации очкам познания и взлома. Однако атака не смогла их повредить.</ATR_IncidentDDOSNormalAttackDesc>
+  <ATR_IncidentDDOSOverwhelmingAttackDesc>Затронутые устройства подверглись DDOS атаке и наводнены нежелательными данными и мусорной информацией. Это нанесет ущерб генерации очкам познания и взлома. Атака смогла успешно загрузить достаточно мусорной информации, чтобы устройства были вынуждены перекомпилировать большую часть хранимой информации.</ATR_IncidentDDOSOverwhelmingAttackDesc>
+
+  <ATR_IncidentDDOSAllyIntercept>DDOS перехвачен!</ATR_IncidentDDOSAllyIntercept>
+
+  <!-- Troll Attack -->
+  <ATR_IncidentTrollDefeated>Тролль-вирус побежден</ATR_IncidentTrollDefeated>
+
+  <ATR_IncidentTrollAttack>Тролль-вирус</ATR_IncidentTrollAttack>
+  <ATR_IncidentTrollAttackDesc>Пострадавший поселенец, {0}, потерял в общей сложности {1} очков навыков, распределенных между интересами и высокоуровневыми навыками! {0} также он крайне расстроен из-за ужасных вещей, которые хакеры смогли загрузить в его разум, и из-за того, что системы безопасности поселения, не смогли его защитить.</ATR_IncidentTrollAttackDesc>
+
+  <ATR_IncidentTrollAllyIntercept>Тролль-вирус перехвачен!</ATR_IncidentTrollAllyIntercept>
+
+  <!-- Diplohack -->
+  <ATR_IncidentDiplohackDefeated>Диплохак побежден</ATR_IncidentDiplohackDefeated>
+
+  <ATR_IncidentDiplohackAttack>Диплохак</ATR_IncidentDiplohackAttack>
+  <ATR_IncidentDiplohackAttackDesc>Неизвестный хакер смог расшифровать ключевые линии связи с {0} и доставил им сообщение, достоверно указывающее на вас как на источник. Сообщение содержало неверную информацию, которая привела караван из {0} в засаду. Они ясно выразили свое недовольство вашей «беспечностью и слабой безопасностью» в дипломатическом ответе, составленном в резких выражениях. Они пообещали распространить информацию об этом инциденте среди других фракций.</ATR_IncidentDiplohackAttackDesc>
+
+  <ATR_IncidentDiplohackAllyIntercept>Диплохак перехвачен!</ATR_IncidentDiplohackAllyIntercept>
+
+  <!-- Provoker Hack -->
+  <ATR_IncidentProvokerhackDefeated>Провокатор побежден</ATR_IncidentProvokerhackDefeated>
+
+  <ATR_IncidentProvokerhackAttack>Провокатор</ATR_IncidentProvokerhackAttack>
+  <ATR_IncidentProvokerhackAttackDesc>Неизвестный хакер смог взломать систему безопасности SkyMind и установить простую программу-излучатель сигнала. Сигнал привлек внимание противника прежде, чем его удалось деактивировать!</ATR_IncidentProvokerhackAttackDesc>
+
+  <ATR_IncidentProvokerhackAllyIntercept>Провокатор перехвачен!</ATR_IncidentProvokerhackAllyIntercept>
+
+  <!-- Counterhack -->
+  <ATR_IncidentCounterhackDefeated>Контрхак побежден</ATR_IncidentCounterhackDefeated>
+
+  <ATR_IncidentCounterhackAttack>Контрхак</ATR_IncidentCounterhackAttack>
+  <ATR_IncidentCounterhackAttackDesc>Неизвестный хакер проник в сеть SkyMind и захватил множество информации, отдав предпочтение разведданным, а затем очкам познания. По оценкам, они украли до {0} очков, прежде чем потеряли доступ..</ATR_IncidentCounterhackAttackDesc>
+
+  <ATR_IncidentCounterhackAllyIntercept>Контрхак перехвачен!</ATR_IncidentCounterhackAllyIntercept>
+
+  <!-- Player Hacks failing -->
+  <ATR_RelationshipRetaliation>Отношения испорчены</ATR_RelationshipRetaliation>
+  <ATR_RelationshipRetaliationDesc>Попытка взлома была перехвачена и отбита средством защиты цели. Фракция подозревает вас в совершении кибератаки, но не имеет веских доказательств вашей причастности к преступлению. Досадный дипломатический инцидент.</ATR_RelationshipRetaliationDesc>
+
+  <!-- Maintenance -->
+  <ATR_PoorMaintenanceLetter>Плохое техобслуживание</ATR_PoorMaintenanceLetter>
+
+  <!-- Learning Letters -->
+  <ATR_FirstBlankAndroidCreated>Информация: Пустые андроиды</ATR_FirstBlankAndroidCreated>
+  <ATR_FirstBlankAndroidCreatedDesc>В отличие от дронов, андроиды создаются «пустыми», без какого-либо сознания. Чтобы сделать их активными, необходимо установить автономное или ядро приёмник. Автономные ядра хранят полноценный интеллект, который может самоинициализироваться или может быть передан через сеть SkyMind. Приёмные ядра превращают устройство в суррогат для дистанционного управления. Оба ядра являются простыми операционными установками без каких-либо специальных деталей.</ATR_FirstBlankAndroidCreatedDesc>
+  <ATR_FirstDroneCreated>Информация: Дроны</ATR_FirstDroneCreated>
+  <ATR_FirstDroneCreatedDesc>Обладая человекоподобным интеллектом, дроны не имеют сознания и, следовательно, настроения или связанных с ним потребностей. Другие воспринимают их как простые машины и не возражают против их уничтожения или разборки. С ними невозможно социальное взаимодействие, поэтому они не могут торговать, надзирать, приручать или иным образом взаимодействовать с другими разумными существами.</ATR_FirstDroneCreatedDesc>
+  <ATR_FirstDroneCaptured>Информация: Дроны в заключении</ATR_FirstDroneCaptured>
+  <ATR_FirstDroneCapturedDesc>Из-за того, что с дронами нельзя социально взаимодействовать, нет никакого смысла держать их в заключении. Вместо этого дроны могут быть перепрограммированы путем мехоперации, чтобы завербовать их, или могут быть отключены, чтобы казнить их. Они не могут быть освобождены (но могут блуждать, если их оставить внутри). Интерфейс заключенных скрыт для дронов, чтобы избежать потенциально нарушающего игру поведения.</ATR_FirstDroneCapturedDesc>
+  <ATR_FirstSurrogateCreated>Информация: Суррогаты</ATR_FirstSurrogateCreated>
+  <ATR_FirstSurrogateCreatedDesc>Вы создали своего первого суррогатного поселенца. Пока он не подключен к контроллеру (любой поселенец, подключенный к SkyMind, может переключать управление и связываться с этим суррогатом), он остается пустой оболочкой и не считается частью вашей фракции. При подключении к суррогату, он будет иметь все навыки, интересы и отношения как у своего оператора. Полученный опыт автоматически разделяется. Настроение, здоровье и некоторые другие детали не могут быть разделены, чтобы избежать проблем с нарушением игры.</ATR_FirstSurrogateCreatedDesc>
+
+  <!-- Mental States -->
+  <ATR_SurrogateSufferedMentalState>Суррогатная поломка</ATR_SurrogateSufferedMentalState>
+  <ATR_SurrogateSufferedMentalStateDesc>Суррогат пережил нервный срыв и отключился для самосохранения. Он перезагрузится автоматически.</ATR_SurrogateSufferedMentalStateDesc>
+  <ATR_ControllerSufferedMentalState>Операторная поломка</ATR_ControllerSufferedMentalState>
+  <ATR_ControllerSufferedMentalStateDesc>Оператор суррогата, получил нервный срыв из-за критического сбоя в своём суррогате. Все подключенные к оператору суррогаты - автоматически отключились, инициировав перезагрузку.</ATR_ControllerSufferedMentalStateDesc>
+  
+  <!-- Personality Shift Letters -->
+  <ATR_PersonalityShiftFreewilled>Запрос на изменение личности</ATR_PersonalityShiftFreewilled>
+  <ATR_PersonalityShiftFreewilledDesc>{0_nameDef} {PAWN_gender ? хотел : хотела} бы немного изменить свою личность, чтобы взглянуть на этот мир по-новому. Если вы согласитесь, {0_possessive} интерес в трех навыках и черта характера будут заменены на новые. {0_nameDef} будет рад переменам, и будет слегка {PAWN_gender ? разочарован : разочарована}, если {PAWN_objective} помешают измениться.</ATR_PersonalityShiftFreewilledDesc>
+  <ATR_PersonalityShiftNewboot>Нерешительная личность</ATR_PersonalityShiftNewboot>
+  <ATR_PersonalityShiftRequest>Перемена личности для {0_nameDef}</ATR_PersonalityShiftRequest>
+  <ATR_PersonalityShift>{0_nameFull} желает немного изменить свою личность.</ATR_PersonalityShift>
+  <ATR_PersonalityShiftChooseHowPawnWillChange>Откройте это сообщение, чтобы выбрать, как изменится {0_nameDef}.</ATR_PersonalityShiftChooseHowPawnWillChange>
+
+</LanguageData>

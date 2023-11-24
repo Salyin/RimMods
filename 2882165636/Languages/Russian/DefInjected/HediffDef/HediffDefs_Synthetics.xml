@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Synthetic heart -->
+
+  <BionicHeart.label>Синтетическое сердце</BionicHeart.label>
+  <BionicHeart.description>Установленное синтетическое сердце.</BionicHeart.description>
+  <BionicHeart.labelNoun>Синтетическое сердце</BionicHeart.labelNoun>
+
+
+  <!-- Synthetic lung -->
+
+  <SyntheticLung.label>Синтетическое легкое</SyntheticLung.label>
+  <SyntheticLung.description>Установленное синтетическое легкое.</SyntheticLung.description>
+  <SyntheticLung.labelNoun>Синтетическое легкое</SyntheticLung.labelNoun>
+
+
+  <!-- Synthetic stomach -->
+
+  <BionicStomach.label>Синтетический желудок</BionicStomach.label>
+  <BionicStomach.description>Установленный синтетический желудок.</BionicStomach.description>
+  <BionicStomach.labelNoun>Синтетический желудок</BionicStomach.labelNoun>
+
+
+  <!-- Synthetic liver -->
+
+  <SyntheticLiver.label>Синтетическая печень</SyntheticLiver.label>
+  <SyntheticLiver.description>Установленная синтетическая печень.</SyntheticLiver.description>
+  <SyntheticLiver.labelNoun>Синтетическая печень</SyntheticLiver.labelNoun>
+
+
+  <!-- Synthetic kidney -->
+
+  <SyntheticKidney.label>Синтетическая почка</SyntheticKidney.label>
+  <SyntheticKidney.description>Установленная синтетическая почка.</SyntheticKidney.description>
+  <SyntheticKidney.labelNoun>Синтетическая почка</SyntheticKidney.labelNoun>
+
+
+  <!-- Muscle stimulator -->
+
+  <MuscleStimulatorArms.label>Стимулятор мышц рук</MuscleStimulatorArms.label>
+  <MuscleStimulatorArms.description>Установленный стимулятор мышц рук.</MuscleStimulatorArms.description>
+
+  <MuscleStimulatorLegs.label>Стимулятор мышц ног</MuscleStimulatorLegs.label>
+  <MuscleStimulatorLegs.description>Установленный стимулятор мышц ног.</MuscleStimulatorLegs.description>
+
+
+  <!-- AI chip -->
+
+  <AIChip.label>Чип ИИ</AIChip.label>
+  <AIChip.description>Установленный чип ИИ.</AIChip.description>
+  <AIChip.labelNoun>Чип ИИ</AIChip.labelNoun>
+
+
+  <!--<SyntheticStomach.label>Синтетический желудок</SyntheticStomach.label>-->
+  <!--<SyntheticHeart.label>Искусственное сердце</SyntheticHeart.label>-->
+
+</LanguageData>

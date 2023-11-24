@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<!-- <TabulaRasa.UpdateDef>
+		<defName>Outland_Terrain_31072023</defName>
+		<date>2023/07/31</date>
+		<banner>UpdateInfo/O21Outland</banner>
+		<contentList>
+			<li>
+				<header>Fixes:</header>
+				<text></text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2755501685</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>Outland Collection</linkLabel>
+				<linkUrl>https://steamcommunity.com/workshop/filedetails/?id=2755526603</linkUrl>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef> -->
+
+</Defs>

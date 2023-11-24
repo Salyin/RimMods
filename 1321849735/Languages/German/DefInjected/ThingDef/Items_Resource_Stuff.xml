@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Shell_Napalm.label>Napalm-Granate</Shell_Napalm.label>
+  <Shell_Napalm.description>Eine Granate, gefüllt mit Napalm und einer kleinen Sprengladung. Kann aus Mörsern abgefeuert werden. Explodiert bei Beschädigung.</Shell_Napalm.description>
+
+  <Bullet_Shell_Napalm.label>Napalm-Granate</Bullet_Shell_Napalm.label>
+
+  <Napalm.label>Napalm</Napalm.label>
+  <Napalm.description>Leicht entflammbares klebriges Gelee, das in Brandbomben verwendet wird und aus mit Synthylen verdicktem Kraftstoff besteht.</Napalm.description>
+
+  <OilBarrel.label>Ölfass</OilBarrel.label>
+  <OilBarrel.description>Ein mit Rohöl gefülltes Fass kann abgeladen, verbrannt oder verarbeitet werden.</OilBarrel.description>
+
+  <UncuredPlasteel.label>Plastahl (Ungehärtet)</UncuredPlasteel.label>
+  <UncuredPlasteel.description>Ungehärteter Plastahl, muss in der Druckkammer gehärtet werden.</UncuredPlasteel.description>
+
+  <Synthamide.label>Synthamid</Synthamide.label>
+  <Synthamide.description>Synthamidfasern sind hitzebeständige und starke synthetische Fasern. Sie können zur Herstellung sehr haltbarer Kleidung oder zur Herstellung hochfester Verbundwerkstoffe verwendet werden.</Synthamide.description>
+
+  <Synthylene.label>Synthylen</Synthylene.label>
+  <Synthylene.description>Ein synthetischer Baustoff.</Synthylene.description>
+  <Synthylene.stuffProps.stuffAdjective>Synthylen</Synthylene.stuffProps.stuffAdjective>
+
+  <UncuredComposite.label>Synthamidverbundwerkstoff (Ungehärtet)</UncuredComposite.label>
+  <UncuredComposite.description>Ungehärteter Synthamidverbundwerkstoff, muss in der Druckkammer gehärtet werden.</UncuredComposite.description>
+
+  <FiberComposite.label>Synthamidverbundwerkstoff</FiberComposite.label>
+  <FiberComposite.description>Synthamidverbundwerkstoff ist ein hochfestes, leichtes, feuerfestes Spacer-Tech-Verbundwerkstoffmaterial, das aus einer mit Aramidfasern verstärkten Polymermatrix besteht.</FiberComposite.description>
+  <FiberComposite.stuffProps.stuffAdjective>Synthamidverbundwerkstoff</FiberComposite.stuffProps.stuffAdjective>
+
+
+</LanguageData>

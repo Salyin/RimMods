@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Surrogate heart -->
+
+  <InstallSimpleProstheticHeart.label>Имплантировать заменитель сердца</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>Имплантировать заменитель сердца.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>Имплантирует заменитель сердца.</InstallSimpleProstheticHeart.jobString>
+
+
+  <!-- Surrogate lung -->
+
+  <InstallSurrogateLung.label>Имплантировать заменитель легкого</InstallSurrogateLung.label>
+  <InstallSurrogateLung.description>Имплантировать заменитель легкого.</InstallSurrogateLung.description>
+  <InstallSurrogateLung.jobString>Имплантирует заменитель легкого.</InstallSurrogateLung.jobString>
+
+
+  <!-- Surrogate stomach -->
+
+  <InstallSurrogateStomach.label>Имплантировать заменитель желудка</InstallSurrogateStomach.label>
+  <InstallSurrogateStomach.description>Имплантировать заменитель желудка.</InstallSurrogateStomach.description>
+  <InstallSurrogateStomach.jobString>Имплантирует заменитель желудка.</InstallSurrogateStomach.jobString>
+
+
+  <!-- Surrogate liver -->
+
+  <InstallSurrogateLiver.label>Имплантировать заменитель печени</InstallSurrogateLiver.label>
+  <InstallSurrogateLiver.description>Имплантировать заменитель ппечени.</InstallSurrogateLiver.description>
+  <InstallSurrogateLiver.jobString>Имплантирует заменитель ппечени.</InstallSurrogateLiver.jobString>
+
+
+  <!-- Surrogate kidney -->
+
+  <InstallSurrogateKidney.label>Имплантировать заменитель почки</InstallSurrogateKidney.label>
+  <InstallSurrogateKidney.description>Имплантировать заменитель почки.</InstallSurrogateKidney.description>
+  <InstallSurrogateKidney.jobString>Имплантирует заменитель почки.</InstallSurrogateKidney.jobString>
+
+
+  <!-- Brain stimulator -->
+
+  <InstallBrainStimulator.label>Имплантировать стимулятор мозга</InstallBrainStimulator.label>
+  <InstallBrainStimulator.description>Имплантировать стимулятор мозга.</InstallBrainStimulator.description>
+  <InstallBrainStimulator.jobString>Имплантирует стимулятор мозг.</InstallBrainStimulator.jobString>
+
+  <RemoveBrainStimulator.label>Удалить стимулятор мозга</RemoveBrainStimulator.label>
+  <RemoveBrainStimulator.description>Удалить стимулятор мозга.</RemoveBrainStimulator.description>
+  <RemoveBrainStimulator.jobString>Удаляет стимулятор мозга.</RemoveBrainStimulator.jobString>
+  <RemoveBrainStimulator.successfullyRemovedHediffMessage>{0} Успешно удален {1}'s стимулятор мозга.</RemoveBrainStimulator.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

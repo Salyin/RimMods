@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <autopsyBasicTab>Autopsie de base</autopsyBasicTab>
+  <autopsyAdvancedTab>Autopsie avancée</autopsyAdvancedTab>
+  <autopsyGlitterTab>Autopsie high-tech</autopsyGlitterTab>
+  <autopsyAnimalTab>Autopsie animala</autopsyAnimalTab>
+  <organChanceTitle>Chance de récolte d'organes</organChanceTitle>
+  <organChanceDescription>Chance maximale de récolter chaque organe individuel lors de l'utilisation de la recette spécifiée. La valeur réelle est égale aux chances de succès de la chirurgie des pions.</organChanceDescription>
+  <bionicChanceTitle>Chance de récolte bionique</bionicChanceTitle>
+  <bionicChanceDescription>Chance maximale de récolter chaque composant bionique individuel lors de l'utilisation de la recette spécifiée. La valeur réelle est égale aux chances de succès de la chirurgie des pions.</bionicChanceDescription>
+  <corpseAgeTitle>Temps avant que le cadavre ne soit plus valide</corpseAgeTitle>
+  <corpseAgeDescription>Nombre d'heures pendant lesquelles les organes naturels peuvent être prélevés</corpseAgeDescription>
+  <numberPartsTitle>Nombre maximum de parties</numberPartsTitle>
+  <numberPartsDescription>Nombre maximum d'organes et de bioniques pouvant être prélevés sur un seul cadavre</numberPartsDescription>
+  <skillScalingTitle>Mise à l'échelle des compétences médicales</skillScalingTitle>
+  <skillScalingDescription>Dicte les échelles de chances de succès de la chirurgie médicale des pions lors de l'autopsie</skillScalingDescription>
+  <frozenDecayTitle>Pourrir pendant qu'il est gelé</frozenDecayTitle>
+  <frozenDecayDescription>Définit la vitesse à laquelle les organes naturels se décomposent lorsque le corps est gelé par rapport à la chaleur</frozenDecayDescription>
+
+</LanguageData>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Things/FTC_Recipe.xml-->
+                              <!-- pyrolyzing corpses (360) -->
+<FT_ExtractChemFuelByCorpses.label>пиролиз трупов (360)</FT_ExtractChemFuelByCorpses.label>
+                                    <!-- pyrolyzing 360 kilograms of corpses(about 6 human) and extract into 150 chemfuel. corpses must be biological. -->
+<FT_ExtractChemFuelByCorpses.description>пиролиз 360 кг трупов(около 6 человек) и извлечение в 150 химтоплива. трупы должны быть биологическими.</FT_ExtractChemFuelByCorpses.description>
+                                  <!-- pyrolyzing chemfuel from material -->
+<FT_ExtractChemFuelByCorpses.jobString>пиролиз химтоплива из материала</FT_ExtractChemFuelByCorpses.jobString>
+                            <!-- pyrolyzing junk (4) -->
+<FT_ExtractChemFuelByJunks.label>пиролизный мусор (4)</FT_ExtractChemFuelByJunks.label>
+                                  <!-- pyrolyzing 4 kilograms of organical junk and extract into 7 chemfuel. junk must be made of non-smeltable and burnable material. -->
+<FT_ExtractChemFuelByJunks.description>пиролиз 4 кг органического мусора и извлечение 7 химтоплива. хлам должен быть изготовлен из негорючего и горючего материала.</FT_ExtractChemFuelByJunks.description>
+                                <!-- pyrolyzing chemfuel from material -->
+<FT_ExtractChemFuelByJunks.jobString>пиролиз химтоплива из материала</FT_ExtractChemFuelByJunks.jobString>
+                                <!-- pyrolyzing junk (28) -->
+<FT_ExtractChemFuelByJunksPlus.label>пиролизный хлам (28)</FT_ExtractChemFuelByJunksPlus.label>
+                                      <!-- pyrolyzing 28 kilograms of organical junk and extract into 35 chemfuel. junk must be made of non-smeltable and burnable material. -->
+<FT_ExtractChemFuelByJunksPlus.description>пиролиз 28 кг органического мусора и извлечение 35 химтоплива. хлам должен быть изготовлен из негорючего и горючего материала.</FT_ExtractChemFuelByJunksPlus.description>
+                                    <!-- pyrolyzing chemfuel from material -->
+<FT_ExtractChemFuelByJunksPlus.jobString>пиролиз химтоплива из материала</FT_ExtractChemFuelByJunksPlus.jobString>
+                         <!-- recycling junk (8) -->
+<FT_ExtractSteelByJunks.label>переработка мусора (8)</FT_ExtractSteelByJunks.label>
+                               <!-- smelting 8 kilograms of junk and extract back into the material. junk must be made of smeltable material. -->
+<FT_ExtractSteelByJunks.description>переплавка 8 килограммов хлама и извлечение обратно в сырье. хлам должен быть изготовлен из плавкого материала.</FT_ExtractSteelByJunks.description>
+                             <!-- extracting metal from material -->
+<FT_ExtractSteelByJunks.jobString>извлечение металла из материала</FT_ExtractSteelByJunks.jobString>
+                             <!-- recycling junk (32) -->
+<FT_ExtractSteelByJunksPlus.label>переработка мусора (32)</FT_ExtractSteelByJunksPlus.label>
+                                   <!-- smelting 32 kilograms of junk and extract back into the material. junk must be made of smeltable material. -->
+<FT_ExtractSteelByJunksPlus.description>переплавить 32 килограмма хлама и извлечь обратно в сырье. хлам должен быть изготовлен из плавкого материала.</FT_ExtractSteelByJunksPlus.description>
+                                 <!-- extracting metal from material -->
+<FT_ExtractSteelByJunksPlus.jobString>извлечение металла из материала</FT_ExtractSteelByJunksPlus.jobString>
+                            <!-- cook stew meal x8 -->
+<FTC_KitchenCookMealSimple.label>приготовить тушеное мясо x8</FTC_KitchenCookMealSimple.label>
+                                  <!-- Cook 8 straightforward meal from one ingredient. -->
+<FTC_KitchenCookMealSimple.description>Приготовьте 8 простых блюд из одного ингредиента.</FTC_KitchenCookMealSimple.description>
+                                <!-- Cooking stew meal. -->
+<FTC_KitchenCookMealSimple.jobString>Приготовление блюд из тушеного мяса.</FTC_KitchenCookMealSimple.jobString>
+
+
+<!--/Defs/Things/FTC_Recipe.xml-->
+<!-- pyrolyzing corpses (360) -->
+<FT_ExtractChemFuelByCorpses.label>пиролиз трупов (360)</FT_ExtractChemFuelByCorpses.label>
+<!-- pyrolyzing 360 kilograms of corpses(about 6 human) and extract into 150 chemfuel. corpses must be biological. -->
+<FT_ExtractChemFuelByCorpses.description>пиролиз 360 кг трупов(около 6 человек) и извлечение в 150 химтоплива. трупы должны быть биологическими.</FT_ExtractChemFuelByCorpses.description>
+<!-- pyrolyzing chemfuel from material -->
+<FT_ExtractChemFuelByCorpses.jobString>пиролиз химтоплива из материала</FT_ExtractChemFuelByCorpses.jobString>
+<!-- pyrolyzing junk (4) -->
+<FT_ExtractChemFuelByJunks.label>пиролизный мусор (4)</FT_ExtractChemFuelByJunks.label>
+<!-- pyrolyzing 4 kilograms of organical junk and extract into 7 chemfuel. junk must be made of non-smeltable and burnable material. -->
+<FT_ExtractChemFuelByJunks.description>пиролиз 4 кг органического мусора и извлечение 7 химтоплива. хлам должен быть изготовлен из негорючего и горючего материала.</FT_ExtractChemFuelByJunks.description>
+<!-- pyrolyzing chemfuel from material -->
+<FT_ExtractChemFuelByJunks.jobString>пиролиз химтоплива из материала</FT_ExtractChemFuelByJunks.jobString>
+<!-- pyrolyzing junk (28) -->
+<FT_ExtractChemFuelByJunksPlus.label>пиролизный хлам (28)</FT_ExtractChemFuelByJunksPlus.label>
+<!-- pyrolyzing 28 kilograms of organical junk and extract into 35 chemfuel. junk must be made of non-smeltable and burnable material. -->
+<FT_ExtractChemFuelByJunksPlus.description>пиролиз 28 кг органического мусора и извлечение 35 химтоплива. хлам должен быть изготовлен из негорючего и горючего материала.</FT_ExtractChemFuelByJunksPlus.description>
+<!-- pyrolyzing chemfuel from material -->
+<FT_ExtractChemFuelByJunksPlus.jobString>пиролиз химтоплива из материала</FT_ExtractChemFuelByJunksPlus.jobString>
+<!-- recycling junk (8) -->
+<FT_ExtractSteelByJunks.label>переработка мусора (8)</FT_ExtractSteelByJunks.label>
+<!-- smelting 8 kilograms of junk and extract back into the material. junk must be made of smeltable material. -->
+<FT_ExtractSteelByJunks.description>переплавка 8 килограммов хлама и извлечение обратно в сырье. хлам должен быть изготовлен из плавкого материала.</FT_ExtractSteelByJunks.description>
+<!-- extracting metal from material -->
+<FT_ExtractSteelByJunks.jobString>извлечение металла из материала</FT_ExtractSteelByJunks.jobString>
+<!-- recycling junk (32) -->
+<FT_ExtractSteelByJunksPlus.label>переработка мусора (32)</FT_ExtractSteelByJunksPlus.label>
+<!-- smelting 32 kilograms of junk and extract back into the material. junk must be made of smeltable material. -->
+<FT_ExtractSteelByJunksPlus.description>переплавить 32 килограмма хлама и извлечь обратно в сырье. хлам должен быть изготовлен из плавкого материала.</FT_ExtractSteelByJunksPlus.description>
+<!-- extracting metal from material -->
+<FT_ExtractSteelByJunksPlus.jobString>извлечение металла из материала</FT_ExtractSteelByJunksPlus.jobString>
+<!-- cook stew meal x8 -->
+<FTC_KitchenCookMealSimple.label>приготовить тушеное мясо x8</FTC_KitchenCookMealSimple.label>
+<!-- Cook 8 straightforward meal from one ingredient. -->
+<FTC_KitchenCookMealSimple.description>Приготовьте 8 простых блюд из одного ингредиента.</FTC_KitchenCookMealSimple.description>
+<!-- Cooking stew meal. -->
+<FTC_KitchenCookMealSimple.jobString>Приготовление блюд из тушеного мяса.</FTC_KitchenCookMealSimple.jobString>
+
+</LanguageData>

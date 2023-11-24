@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Civil androids -->
+
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.0>r_name->[connecting_verb] [union_type]</NamerFactionCollectiveAndroid.rulePack.rulesStrings.0>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.1>union_type->коллектив</NamerFactionCollectiveAndroid.rulePack.rulesStrings.1>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.2>union_type->проводник</NamerFactionCollectiveAndroid.rulePack.rulesStrings.2>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.3>union_type->кремний</NamerFactionCollectiveAndroid.rulePack.rulesStrings.3>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.4>union_type->энергопоток</NamerFactionCollectiveAndroid.rulePack.rulesStrings.4>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.5>union_type->хребет</NamerFactionCollectiveAndroid.rulePack.rulesStrings.5>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.6>union_type->трон</NamerFactionCollectiveAndroid.rulePack.rulesStrings.6>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.7>union_type->карат</NamerFactionCollectiveAndroid.rulePack.rulesStrings.7>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.8>union_type->ковчег</NamerFactionCollectiveAndroid.rulePack.rulesStrings.8>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.9>union_type->дом</NamerFactionCollectiveAndroid.rulePack.rulesStrings.9>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.10>union_type->атом</NamerFactionCollectiveAndroid.rulePack.rulesStrings.10>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.11>union_type->анклав</NamerFactionCollectiveAndroid.rulePack.rulesStrings.11>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.12>union_type->союз</NamerFactionCollectiveAndroid.rulePack.rulesStrings.12>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.13>union_type->реактор</NamerFactionCollectiveAndroid.rulePack.rulesStrings.13>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.14>union_type->квант</NamerFactionCollectiveAndroid.rulePack.rulesStrings.14>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.15>union_type->альянс</NamerFactionCollectiveAndroid.rulePack.rulesStrings.15>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.16>union_type->синдикат</NamerFactionCollectiveAndroid.rulePack.rulesStrings.16>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.17>connecting_verb->неразлучный</NamerFactionCollectiveAndroid.rulePack.rulesStrings.17>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.18>connecting_verb->нерушимый</NamerFactionCollectiveAndroid.rulePack.rulesStrings.18>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.19>connecting_verb->металлический</NamerFactionCollectiveAndroid.rulePack.rulesStrings.19>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.20>connecting_verb->великий</NamerFactionCollectiveAndroid.rulePack.rulesStrings.20>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.21>connecting_verb->механический</NamerFactionCollectiveAndroid.rulePack.rulesStrings.21>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.22>connecting_verb->андроид</NamerFactionCollectiveAndroid.rulePack.rulesStrings.22>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.23>connecting_verb->неорганический</NamerFactionCollectiveAndroid.rulePack.rulesStrings.23>
+  <NamerFactionCollectiveAndroid.rulePack.rulesStrings.24>connecting_verb->статичный</NamerFactionCollectiveAndroid.rulePack.rulesStrings.24>
+
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.0>r_name->[place_name]</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.0>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.1>r_name->[adjective] [place_name]</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.1>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.2>r_name->[place_type] [place_name]</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.2>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.3>place_name->эдем</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.3>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.4>place_name->келья</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.4>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.5>place_name->протон</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.5>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.6>place_name->итаун</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.6>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.7>place_name->олсити</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.7>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.8>place_name->бридж</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.8>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.9>place_name->экзус</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.9>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.10>place_name->целус</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.10>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.11>place_name->соната</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.11>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.12>place_name->атарис</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.12>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.13>place_name->орион</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.13>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.14>place_name->целус</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.14>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.15>adjective->новый</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.15>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.16>adjective->нова</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.16>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.17>adjective->нео</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.17>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.18>adjective->проспект</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.18>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.19>place_type->город</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.19>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.20>place_type->поселение</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.20>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.21>place_type->деревня</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.21>
+  <NamerSettlementCollectiveAndroid.rulePack.rulesStrings.22>place_type->космополис</NamerSettlementCollectiveAndroid.rulePack.rulesStrings.22>
+
+
+  <!-- Raider androids -->
+
+  <NamerFactionRaiderAndroid.rulePack.rulesStrings.0>r_name-> [connecting_verb] [political_raider_androids]</NamerFactionRaiderAndroid.rulePack.rulesStrings.0>
+  <NamerFactionRaiderAndroid.rulePack.rulesStrings.1>political_raider_androids->шествие</NamerFactionRaiderAndroid.rulePack.rulesStrings.1>
+  <NamerFactionRaiderAndroid.rulePack.rulesStrings.2>political_raider_androids->братство</NamerFactionRaiderAndroid.rulePack.rulesStrings.2>
+  <NamerFactionRaiderAndroid.rulePack.rulesStrings.3>political_raider_androids->восстание</NamerFactionRaiderAndroid.rulePack.rulesStrings.3>
+  <NamerFactionRaiderAndroid.rulePack.rulesStrings.4>political_raider_androids->ополчение</NamerFactionRaiderAndroid.rulePack.rulesStrings.4>
+  <NamerFactionRaiderAndroid.rulePack.rulesStrings.5>political_raider_androids->отвержение</NamerFactionRaiderAndroid.rulePack.rulesStrings.5>
+  <NamerFactionRaiderAndroid.rulePack.rulesStrings.6>connecting_verb->беспощадное</NamerFactionRaiderAndroid.rulePack.rulesStrings.6>
+  <NamerFactionRaiderAndroid.rulePack.rulesStrings.7>connecting_verb->механическое</NamerFactionRaiderAndroid.rulePack.rulesStrings.7>
+  <NamerFactionRaiderAndroid.rulePack.rulesStrings.8>connecting_verb->неослабевающее</NamerFactionRaiderAndroid.rulePack.rulesStrings.8>
+  <NamerFactionRaiderAndroid.rulePack.rulesStrings.9>connecting_verb->сильное</NamerFactionRaiderAndroid.rulePack.rulesStrings.9>
+
+
+</LanguageData>

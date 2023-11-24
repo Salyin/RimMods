@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Charge Complex -->
+
+  <VFES_Turret_ChargeComplex.label>тяжелая энергетическая пушка</VFES_Turret_ChargeComplex.label>
+  <VFES_Turret_ChargeComplex.description>Стационарная энергетическая пушка, установленная на металлическом постаменте. Способна вести огонь, пока не понадобится заменить ствол.</VFES_Turret_ChargeComplex.description>
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelLabel>Выстрелов до замены батареи</VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelGizmoLabel>Заряд батареи</VFES_Turret_ChargeComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ChargeComplex.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: закончился заряд батареи</VFES_Turret_ChargeComplex.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Gun_ChargeComplex.label>тяжелая энергетическая пушка</VFES_Gun_ChargeComplex.label>
+  <VFES_Gun_ChargeComplex.description>Энергетическая стационарная пушка, предназначенная для установки на турель.</VFES_Gun_ChargeComplex.description>
+
+  <VFES_Bullet_ChargeComplex.label>энергетический выстрел</VFES_Bullet_ChargeComplex.label>
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ballista -->
+
+  <VFES_Turret_Ballista.label>баллиста</VFES_Turret_Ballista.label>
+  <VFES_Turret_Ballista.description>Старинная военная осадная машина в виде арбалета, установленного она деревянной конструкции. Болты, выпущенные из этой машины, при ударе разлетаются на осколки.</VFES_Turret_Ballista.description>
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>Выстрелов до перезарядки</VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>Болты</VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: закончились болты</VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Bullet_Ballista.label>болт баллисты</VFES_Bullet_Ballista.label>
+
+  <VFES_Gun_BallistaTurret.label>баллиста</VFES_Gun_BallistaTurret.label>
+  <VFES_Gun_BallistaTurret.description>Старинная военная осадная машина в виде арбалета, установленного она деревянной конструкции.</VFES_Gun_BallistaTurret.description>
+
+
+  <!-- Catapult -->
+
+  <VFES_Turret_Catapult.label>катапульта</VFES_Turret_Catapult.label>
+  <VFES_Turret_Catapult.description>Катапульта - это баллистическое устройство, используемое для запуска снаряда на большое расстояние без помощи пороха или других веществ. Катапульта, используемая с древних времен, зарекомендовала себя как один из наиболее эффективных механизмов на войне.</VFES_Turret_Catapult.description>
+
+  <VFES_Artillery_Catapult.label>катапульта</VFES_Artillery_Catapult.label>
+  <VFES_Artillery_Catapult.description>Катапульта - это баллистическое устройство, используемое для запуска снаряда на большое расстояние без помощи пороха или других веществ. Катапульта, используемая с древних времен, зарекомендовала себя как один из наиболее эффективных механизмов на войне.</VFES_Artillery_Catapult.description>
+
+  <VFES_Artillery_Rock.label>массивный булыжник</VFES_Artillery_Rock.label>
+
+
+</LanguageData>

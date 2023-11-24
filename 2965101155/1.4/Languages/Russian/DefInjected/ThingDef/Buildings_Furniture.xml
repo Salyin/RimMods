@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechanicBed.label>ремкровать</ATR_MechanicBed.label>
+  <ATR_MechanicBed.description>Аналог больничной кровати для проведения операций на андроидах. Ремкровать имеет встроенный приёмник питания и позволяет андроидам заряжаться, а ряд дополнительных функций предоставляет механику преимущество при проведении операций.</ATR_MechanicBed.description>
+
+  <ATR_MechanicCabinet.label>ремшкаф</ATR_MechanicCabinet.label>
+  <ATR_MechanicCabinet.description>Небольшой шкаф, который можно использовать в сочетании с ремкроватями. В нём содержится ряд полезных инструментов для успешного проведения операций.</ATR_MechanicCabinet.description>
+
+
+</LanguageData>

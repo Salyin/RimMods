@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Things/FTC_Item.xml-->
+               <!-- Stew -->
+<FTC_MealStew.label>Рагу</FTC_MealStew.label>
+                     <!-- A combination of solid food ingredients that have been cooked in liquid. -->
+<FTC_MealStew.description>Комбинация твердых пищевых ингредиентов, приготовленных в жидкости.</FTC_MealStew.description>
+
+
+<!--/Defs/Things/FTC_Item.xml-->
+<!-- Stew -->
+<FTC_MealStew.label>Рагу</FTC_MealStew.label>
+<!-- A combination of solid food ingredients that have been cooked in liquid. -->
+<FTC_MealStew.description>Комбинация твердых пищевых ингредиентов, приготовленных в жидкости.</FTC_MealStew.description>
+
+</LanguageData>

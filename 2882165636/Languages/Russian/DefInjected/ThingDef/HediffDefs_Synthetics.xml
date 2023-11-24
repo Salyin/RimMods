@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Synthetic heart -->
+
+  <BionicHeart.label>Синтетическое сердце</BionicHeart.label>
+  <BionicHeart.description>Усовершенствованное искусственное сердце. Он оснащен синтетическими мышечными волокнами для реалистичного сердцебиения, а также высокоточным насосом для быстрой циркуляции крови во время сильного стресса. Это лучше, чем биологическое сердце почти во всех отношениях.</BionicHeart.description>
+
+
+  <!-- Synthetic lung -->
+
+  <SyntheticLung.label>Синтетическое легкое</SyntheticLung.label>
+  <SyntheticLung.description>Высокотехнологичная замена легкому. Издаёт тихий, жужащий звук.</SyntheticLung.description>
+
+
+  <!-- Synthetic stomach -->
+
+  <BionicStomach.label>Синтетический желудок</BionicStomach.label>
+  <BionicStomach.description>Усовершенствованный искусственный желудок. Набор датчиков и химических синтезаторов эффективно переваривает практически любые энергосодержащие пищевые продукты. Встроенная система очистки от пыли автоматически устраняет любые повреждения, вызванные сильными кислотами. Это лучше, чем биологический желудок почти во всех отношениях.</BionicStomach.description>
+
+
+  <!-- Synthetic liver -->
+
+  <SyntheticLiver.label>Синтетическая печень</SyntheticLiver.label>
+  <SyntheticLiver.description>Печень усиленная синтетическими волокнами чтобы снизить шанс отторжения.</SyntheticLiver.description>
+
+
+  <!-- Synthetic kidney -->
+
+  <SyntheticKidney.label>Синтетическая почка</SyntheticKidney.label>
+  <SyntheticKidney.description>Почка усиленная синтетическими волокнами чтобы снизить шанс отторжения.</SyntheticKidney.description>
+
+
+  <!-- Muscle stimulator -->
+
+  <MuscleStimulator.label>Мускульный стимулятор</MuscleStimulator.label>
+  <MuscleStimulator.description>С помощью специальных химических веществ и ударов электрическим током этот маленький чип способен стимулировать мышцы, чтобы они могли работать с максимальной производительностью.</MuscleStimulator.description>
+
+
+  <!-- AI chip -->
+
+  <AIChip.label>ИИ - Чип</AIChip.label>
+  <AIChip.description>С помощью особых химикатов и электроимпульсов этот маленький чип способен полностью восстановить сознание и мобильность пользователя. Необходимо открыть технологию "Операции на мозге".</AIChip.description>
+
+
+</LanguageData>

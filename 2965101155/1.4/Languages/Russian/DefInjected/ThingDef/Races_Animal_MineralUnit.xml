@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneMineralUnit.label>механическая овца</ATR_DroneMineralUnit.label>
+  <ATR_DroneMineralUnit.description>Механическая овца - предназначена для производства стали. Механическая овца не способна заряжаться, для её выживания необходима органическая пища.</ATR_DroneMineralUnit.description>
+  <ATR_DroneMineralUnit.tools.0.label>голова</ATR_DroneMineralUnit.tools.0.label>
+
+
+</LanguageData>

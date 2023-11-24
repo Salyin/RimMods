@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Blank rib -->
+
+  <SimpleRib.label>Заменитель ребра</SimpleRib.label>
+  <SimpleRib.description>A hollow artificial rib, with a tiny dispenser system. Ready to be filled to complete a rib replacement implant of choice.</SimpleRib.description>
+
+
+  <!-- Medical rib -->
+
+  <MedicalRib.label>Медицинское ребро</MedicalRib.label>
+  <MedicalRib.description>Искусственное ребро оснащённое маленькими фильтрами крови и дозаторами антибиотиков для поддержки здоровья пользователя.</MedicalRib.description>
+
+
+  <!-- Drugged rib -->
+
+  <DruggedRib.label>Стимулирующее ребро</DruggedRib.label>
+  <DruggedRib.description>Искусственное ребро оснащённое дозатором алкоголя, повышая настроение пользователя.</DruggedRib.description>
+
+
+  <!-- Adrenaline rib -->
+
+  <AdrenalineRib.label>Адреналиновое ребро</AdrenalineRib.label>
+  <AdrenalineRib.description>Искусственное ребро оснащённое дозатором адреналина, позволяет чувствовать себя в форме и бодрячком.</AdrenalineRib.description>
+
+
+  <!-- Painkiller rib -->
+
+  <PainkillerRib.label>Обезболивающее ребро</PainkillerRib.label>
+  <PainkillerRib.description>Искусственное ребро оснащённое маленькими дозаторами морфина, приглушающими боль пользователя. Побочные эффекты - лёгочные заболевания.</PainkillerRib.description>
+
+
+  <!-- Heater rib -->
+
+  <HeaterRib.label>Согревающие ребро</HeaterRib.label>
+  <HeaterRib.description>Искусственное ребро, содержащее приводимую в действие микрореактором спираль, вызывающую тепло, для обогрева тела изнутри.</HeaterRib.description>
+
+
+  <!-- Cooler rib -->
+
+  <CoolerRib.label>Охлаждающие ребро</CoolerRib.label>
+  <CoolerRib.description>Искусственное ребро с микросистемой охлаждения, повышающей эффективность теплообмена через кожные выхлопы.</CoolerRib.description>
+
+
+  <!-- Coagulator rib -->
+
+  <CoagulatorRib.label>Кровоостанавливающие ребро</CoagulatorRib.label>
+  <CoagulatorRib.description>Искусственное ребро, оснащенное маленькими останавливающими-дозаторами, реагирующими на кровопотерю, что облегчает свертывание крови в попытке уменьшить кровотечение..</CoagulatorRib.description>
+
+
+  <!-- Respiration rib -->
+
+  <RespirationRib.label>Дыхательное ребро</RespirationRib.label>
+  <RespirationRib.description>Искусственное ребро, которое работает с диафрагмой, помогая регулировать характер дыхания для повышения эффективности и преодоления стресса..</RespirationRib.description>
+
+
+  <!-- Wake-up rib -->
+
+  <WakeUpRib.label>Пробуждающие ребро</WakeUpRib.label>
+  <WakeUpRib.description>Искусственное ребро, оснащенное маленькими дозаторами wake-up, чтобы пользователь не спал и не отвлекался.</WakeUpRib.description>
+
+
+</LanguageData>

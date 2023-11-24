@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Surgery to shutdown any incapacitated mechanical unit -->
+
+  <ATR_ShutdownMechanical.label>отключить ядро</ATR_ShutdownMechanical.label>
+  <ATR_ShutdownMechanical.description>Полное отключение автономного ядра андроида от нейроинтерфейса. Память андроида не уничтожается окончательно и его можно реанимировать.</ATR_ShutdownMechanical.description>
+  <ATR_ShutdownMechanical.jobString>Отключает ядро.</ATR_ShutdownMechanical.jobString>
+
+
+  <!-- Surgery to remove body parts from mechanical units -->
+
+  <ATR_RemoveBodyPartAndroid.label>удалить деталь</ATR_RemoveBodyPartAndroid.label>
+  <ATR_RemoveBodyPartAndroid.description>Удалить деталь.</ATR_RemoveBodyPartAndroid.description>
+  <ATR_RemoveBodyPartAndroid.jobString>Удаляет деталь.</ATR_RemoveBodyPartAndroid.jobString>
+
+
+  <!-- Surgery to restore body parts in mechanical units -->
+
+  <ATR_RestoreBodyPartAndroid.label>восстановить деталь</ATR_RestoreBodyPartAndroid.label>
+  <ATR_RestoreBodyPartAndroid.description>Восстановить деталь.</ATR_RestoreBodyPartAndroid.description>
+  <ATR_RestoreBodyPartAndroid.jobString>Восстанавливает деталь.</ATR_RestoreBodyPartAndroid.jobString>
+
+
+  <!-- Surgery to repaint mechanical units -->
+
+  <ATR_RepaintMechanical.label>перекрасить</ATR_RepaintMechanical.label>
+  <ATR_RepaintMechanical.description>Перекрасить корпус андроида.</ATR_RepaintMechanical.description>
+  <ATR_RepaintMechanical.jobString>Перекрашивает андроида.</ATR_RepaintMechanical.jobString>
+
+
+  <!-- Surgery to increase the maintenance level of a unit to a certain extent. -->
+
+  <ATR_DoEmergencyMaintenance.label>аварийное техобслуживание</ATR_DoEmergencyMaintenance.label>
+  <ATR_DoEmergencyMaintenance.description>Провести аварийное техобслуживание. Поскольку техобслуживание - это в основном внутренняя деятельность, операция сможет довести состояние корпуса только до 40%.</ATR_DoEmergencyMaintenance.description>
+  <ATR_DoEmergencyMaintenance.jobString>Ремонтирует андроида.</ATR_DoEmergencyMaintenance.jobString>
+
+
+  <!-- Surgery to reprogram drones to serve the colony -->
+
+  <ATR_ReprogramDrone.label>перепрограммировать дрон</ATR_ReprogramDrone.label>
+  <ATR_ReprogramDrone.description>Перепрограммирование дронов - простая и тонкая операция. Однако предыдущие владельцы могли установить защиту от взлома, поэтому в случае неудачи существует высокий риск уничтожения дрона.</ATR_ReprogramDrone.description>
+  <ATR_ReprogramDrone.jobString>Перепрограммирует дрон.</ATR_ReprogramDrone.jobString>
+
+
+  <!-- Reboot, akin to anesthetic but requiring no medicine -->
+
+  <ATR_RebootUnit.label>перезагрузить</ATR_RebootUnit.label>
+  <ATR_RebootUnit.description>Перезагрузка - очень простая операция по перезапуску нейроинтерфейса андроида, без каких-либо побочных эффектов или последствий.</ATR_RebootUnit.description>
+  <ATR_RebootUnit.jobString>Перегружает андроида.</ATR_RebootUnit.jobString>
+
+
+  <!-- Overclocking -->
+
+  <ATR_ApplyOverclocking.label>применить разгон</ATR_ApplyOverclocking.label>
+  <ATR_ApplyOverclocking.description>Простая операция по перестройки механического узла, для обхода сертификатов защиты, позволяющая повысить общую производительность.\n\nРазгон также увеличивает энергопотребление, тепловыделение и создает нагрузку для всех систем андроида.</ATR_ApplyOverclocking.description>
+  <ATR_ApplyOverclocking.jobString>Применяет разгон.</ATR_ApplyOverclocking.jobString>
+
+  <ATR_ResetOverclocking.label>сбросить разгон</ATR_ResetOverclocking.label>
+  <ATR_ResetOverclocking.description>Простая операция по перестройки механического узла, для сброса всех настроек к заводским.</ATR_ResetOverclocking.description>
+  <ATR_ResetOverclocking.jobString>Сбрасывает разгон.</ATR_ResetOverclocking.jobString>
+
+
+</LanguageData>

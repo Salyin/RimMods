@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Mechanic.label>механик</ATR_Mechanic.label>
+  <ATR_Mechanic.description>Механики чинят тех, кто выведен из строя и находится в кровати. Они заботятся и о поселенцах, и о пленниках.</ATR_Mechanic.description>
+  <ATR_Mechanic.labelShort>механик</ATR_Mechanic.labelShort>
+  <ATR_Mechanic.pawnLabel>Механик</ATR_Mechanic.pawnLabel>
+  <ATR_Mechanic.gerundLabel>Ремонтировать</ATR_Mechanic.gerundLabel>
+  <ATR_Mechanic.verb>Ремонтировать</ATR_Mechanic.verb>
+
+
+</LanguageData>

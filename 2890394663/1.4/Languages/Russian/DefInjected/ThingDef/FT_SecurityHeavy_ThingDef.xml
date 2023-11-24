@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_SecurityHeavy.xml-->
+                  <!-- howitzer -->
+<FT_TurretPrince.label>гаубица</FT_TurretPrince.label>
+                        <!-- An artillery that gave up part of the direct-fire capability in pursuit of high precision and light-weighted.
+
+ Correctly called 155mm howitzer model NK-33L "Prince" ,It is a lightweight artillery designed to improve maneuverability. -->
+<FT_TurretPrince.description>Артиллерия, которая отказалась от части возможностей прямой наводки в погоне за высокой точностью и малым весом.\n\n Правильно называется 155-мм гаубица модели НК-33Л &quot;Князь&quot;, Это легкая артиллерия, разработанная для улучшения маневренности.</FT_TurretPrince.description>
+                                            <!-- Shots until barrel change -->
+<FT_TurretPrince.comps.Comp_Refuelable.fuelLabel>Выстрелы до замены ствола</FT_TurretPrince.comps.Comp_Refuelable.fuelLabel>
+                                                 <!-- Barrel durability -->
+<FT_TurretPrince.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FT_TurretPrince.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                   <!-- Cannot shoot: Needs new reinforced barrel -->
+<FT_TurretPrince.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: Требуется новый усиленный ствол</FT_TurretPrince.comps.Comp_Refuelable.outOfFuelMessage>
+                      <!-- howitzer -->
+<FT_Gun_TurretPrince.label>гаубица</FT_Gun_TurretPrince.label>
+                            <!-- An artillery that gave up part of the direct-fire capability in pursuit of high precision and light-weighted.
+
+ Correctly called 155mm howitzer model NK-33L "Prince" ,It is a lightweight artillery designed to improve maneuverability. -->
+<FT_Gun_TurretPrince.description>Артиллерия, которая отказалась от части возможностей прямой наводки в погоне за высокой точностью и малым весом.\n\n Правильно называется 155-мм гаубица модели НК-33Л &quot;Князь&quot;, Это легкая артиллерия, разработанная для улучшения маневренности.</FT_Gun_TurretPrince.description>
+                  <!-- field cannon -->
+<FT_TurretEmpero.label>field cannon</FT_TurretEmpero.label>
+                        <!-- an artillery that can only shoot horizontally at close range due to extremely high Muzzle velocity,but it is high accuracy. 
+
+ Correctly called 155mm caliber howitzer model NK-30 "Empero",it is a relieable artillery designed for Interstellar Industries Complex Nara, provide the technical support of those pre-industrial world incapable to fight against the mechanoid armies. -->
+<FT_TurretEmpero.description>артиллерия, которая может стрелять только горизонтально на близком расстоянии из-за чрезвычайно высокой дульной скорости, но при этом обладает высокой точностью. \n\n Правильно называемая 155-мм гаубица модели НК-30 &quot;Имперо&quot;, это надежная артиллерия, разработанная для Межзвездного Промышленного Комплекса Нара, обеспечивающая техническую поддержку тех доиндустриальных миров, которые не способны бороться с механоидными армиями.</FT_TurretEmpero.description>
+                                            <!-- Shots until barrel change -->
+<FT_TurretEmpero.comps.Comp_Refuelable.fuelLabel>Выстрелы до замены ствола</FT_TurretEmpero.comps.Comp_Refuelable.fuelLabel>
+                                                 <!-- Barrel durability -->
+<FT_TurretEmpero.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FT_TurretEmpero.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                   <!-- Cannot shoot: Needs new reinforced barrel -->
+<FT_TurretEmpero.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: Требуется новый усиленный ствол</FT_TurretEmpero.comps.Comp_Refuelable.outOfFuelMessage>
+                      <!-- field cannon -->
+<FT_Gun_TurretEmpero.label>field cannon</FT_Gun_TurretEmpero.label>
+                            <!-- A powerful direct-firing cannon with high accuracy. -->
+<FT_Gun_TurretEmpero.description>Мощная пушка прямого выстрела с высокой точностью.</FT_Gun_TurretEmpero.description>
+
+</LanguageData>

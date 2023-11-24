@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EPIA_OrganicOptimizer.label>органический оптимизатор</EPIA_OrganicOptimizer.label>
+  <EPOE_Redundancy.label>EPOE избыточность</EPOE_Redundancy.label>
+
+
+  <!-- Won't see if nothing exists in the list -->
+
+  <EPIA_TailRedundancy.label>инопланетные хвосты (оригинал)</EPIA_TailRedundancy.label>
+
+
+  <!--Prostheses-->
+  <!--<BasicProstheses.label>Базовые протезы</BasicProstheses.label>-->
+  <!--<SimpleProstheses.label>Простые протезы</SimpleProstheses.label>-->
+  <!--<BionicProstheses.label>Бионические протезы</BionicProstheses.label>-->
+  <!--<AdvancedProstheses.label>Улучшенные бионические протезы</AdvancedProstheses.label>-->
+  <!--Organs-->
+  <!--<SurrogateOrgans.label>Заменители органов</SurrogateOrgans.label>-->
+  <!--<SyntheticOrgans.label>Синтетические органы</SyntheticOrgans.label>-->
+
+</LanguageData>

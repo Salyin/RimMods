@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_ConnectedSkyMindAttacked.stages.0.label>SkyMind атакована</ATR_ConnectedSkyMindAttacked.stages.0.label>
+  <ATR_ConnectedSkyMindAttacked.stages.0.description>Сеть SkyMind, к которой я подключился, подверглась кибератаке! Я не чувствую себя в безопасности.</ATR_ConnectedSkyMindAttacked.stages.0.description>
+
+  <ATR_AttackedViaSkyMind.stages.0.label>подвергся атаке</ATR_AttackedViaSkyMind.stages.0.label>
+  <ATR_AttackedViaSkyMind.stages.0.description>Я подвергся кибератаке из-за бреши в сети SkyMind, к которой я подключился! Я чувствую себя оскорбленным - как после этого я могу думать, что это безопасно?</ATR_AttackedViaSkyMind.stages.0.description>
+
+  <ATR_TrolledViaSkyMind.stages.0.label>тролинг</ATR_TrolledViaSkyMind.stages.0.label>
+  <ATR_TrolledViaSkyMind.stages.0.description>Хакеры приложили много усилий, чтобы взломать сеть SkyMind только для того, чтобы обидеть и оскорбить меня!? У кого хватило наглости сделать такое - и почему мы не смогли это предотвратить?</ATR_TrolledViaSkyMind.stages.0.description>
+
+  <ATR_SurrogatePuppetThought.stages.0.label>суррогатная кукла</ATR_SurrogatePuppetThought.stages.0.label>
+  <ATR_SurrogatePuppetThought.stages.0.description>Мы превратили разумное существо в глупую куклу. Оно может выглядеть нормально, но у него нет интеллекта! Мы убили его и превратили его тело в бездушную оболочку!</ATR_SurrogatePuppetThought.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  	<!-- Mechlord Warcasket -->
+	
+	<VFEPirates.WarcasketDef MayRequire="Ludeon.RimWorld.Biotech" ParentName="VFEP_WarcasketHelmetBase">
+    <defName>WarcasketHelmet_Mechlord</defName>
+    <label>mechlord warcasket helmet</label>
+    <shortDescription>A warcasket helmet designed for use by combat mechanitors</shortDescription>
+    <description>A 10th generation warcasket helmet designed for use by mechanitors in combat situations. It boosts the work speed of all mechs controlled by the mechanitor wearing it by 20%. Additionally, the chest and head pieces help the wearer resist the effects of toxic environments created by extensive mechanoid use.</description>	  
+    <graphicData>
+      <texPath>Things/Pawn/Warcasketlike/Mechlord/WarcasketHelmet</texPath>
+    </graphicData>
+    <uiIconScale>1.25</uiIconScale>
+    <statBases>
+		<Mass>12</Mass>
+		<ArmorRating_Sharp>1.85</ArmorRating_Sharp>
+		<ArmorRating_Blunt>1.0</ArmorRating_Blunt>
+		<ArmorRating_Heat>1.5</ArmorRating_Heat>
+		<Insulation_Cold>4</Insulation_Cold>
+		<Insulation_Heat>2</Insulation_Heat>
+		<EquipDelay>1</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+		<MechBandwidth>12</MechBandwidth>
+		<WorkSpeedGlobalOffsetMech>0.20</WorkSpeedGlobalOffsetMech>
+		<ToxicResistance>0.5</ToxicResistance>
+		<MoveSpeed>-0.1</MoveSpeed>
+		<SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">0.1</SlaveSuppressionOffset>
+    </equippedStatOffsets>
+    <costList>
+		<NanostructuringChip>2</NanostructuringChip>
+		<ComponentSpacer>6</ComponentSpacer>
+		<Plasteel>120</Plasteel>
+		<Uranium>20</Uranium>
+    </costList>
+    <researchPrerequisites>
+		<li>VFEP_SpacerWarcaskets</li>
+		<li>UltraMechtech</li>
+    </researchPrerequisites>
+    <apparel>
+	  <mechanitorApparel>true</mechanitorApparel>
+      <bodyPartGroups>
+        <li>FullHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Pawn/Warcasketlike/Mechlord/WarcasketHelmet</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>Warcasket</li>
+		<li>WarcasketVeteran</li>
+		<li>WarcasketAll</li>
+      </tags>
+    </apparel>
+  </VFEPirates.WarcasketDef>	
+	
+	<VFEPirates.WarcasketDef MayRequire="Ludeon.RimWorld.Biotech" ParentName="VFEP_WarcasketArmorBase">
+		<defName>Warcasket_Mechlord</defName>
+		<label>mechlord warcasket</label>
+		<shortDescription>a warcasket designed for use by combat mechanitors.</shortDescription>
+		<description>A 10th generation warcasket designed for use by mechanitors in combat situations. It allows the wearer greater use of their hands so they can work on their mechs even in the heat of battle. This model has a weaker shield than other spacer-tech warcaskets. Additionally, the chest and head pieces help the wearer resist the effects of toxic environments created by extensive mechanoid use.</description>
+		<graphicData>
+			<texPath>Things/Pawn/Warcasketlike/Mechlord/Warcasket</texPath>
+		</graphicData>
+		<statBases>
+			<Mass>80</Mass>
+			<ArmorRating_Sharp>1.85</ArmorRating_Sharp>
+			<ArmorRating_Blunt>1.0</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.5</ArmorRating_Heat>
+			<Insulation_Cold>43</Insulation_Cold>
+			<Insulation_Heat>14</Insulation_Heat>
+			<EquipDelay>1</EquipDelay>
+		</statBases>
+		<equippedStatOffsets>
+			<MechBandwidth>12</MechBandwidth>
+			<ToxicResistance>0.5</ToxicResistance>
+			<MoveSpeed>-0.2</MoveSpeed>
+			<SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">0.3</SlaveSuppressionOffset>
+		</equippedStatOffsets>
+		<costList>
+		    <NanostructuringChip>2</NanostructuringChip>
+			<PowerfocusChip>1</PowerfocusChip>
+			<ComponentSpacer>8</ComponentSpacer>
+			<Plasteel>150</Plasteel>
+			<Uranium>30</Uranium>
+		</costList>
+		<apparel>
+			<mechanitorApparel>true</mechanitorApparel>
+			<bodyPartGroups>
+				<li>Torso</li>
+				<li>Legs</li>
+				<li>Feet</li>
+			</bodyPartGroups>
+			<wornGraphicPath>Things/Pawn/Warcasketlike/Mechlord/Warcasket</wornGraphicPath>
+			<layers>
+			    <li>OnSkin</li>
+				<li>Middle</li>
+				<li>Shell</li>
+			</layers>
+			<tags>
+				<li>Warcasket</li>
+				<li>WarcasketVeteran</li>
+				<li>WarcasketAll</li>
+			</tags>
+		</apparel>
+		<researchPrerequisites>
+			<li>VFEP_SpacerWarcaskets</li>
+			<li>UltraMechtech</li>
+		</researchPrerequisites>
+		<comps>
+			<li Class="VFECore.CompProperties_ShieldBubble">
+				<compClass>VFECore.CompShieldBubble</compClass>
+				<blockRangedAttack>true</blockRangedAttack>
+				<blockMeleeAttack>false</blockMeleeAttack>
+				<showWhenDrafted>true</showWhenDrafted>
+				<showOnHostiles>true</showOnHostiles>
+				<showOnNeutralInCombat>true</showOnNeutralInCombat>
+				<shieldTexPath>Other/ShieldBubble</shieldTexPath>
+				<EnergyShieldRechargeRate>1</EnergyShieldRechargeRate>
+				<EnergyShieldEnergyMax>75</EnergyShieldEnergyMax>
+				<chargeFullyWhenMade>true</chargeFullyWhenMade>
+				<minShieldSize>2.1</minShieldSize>
+				<maxShieldSize>2.7</maxShieldSize>
+				<disableRotation>true</disableRotation>
+			</li>
+		</comps>
+		<modExtensions>
+			<li Class="VFECore.ApparelExtension">
+				<traitsOnEquip>
+					<li>MechanitorWarcasketTrait</li>
+				</traitsOnEquip>
+				<traitsOnUnequip>
+					<li>VFEP_Shellcasket</li>
+				</traitsOnUnequip>
+				<carryingCapacity>75</carryingCapacity>
+				<pawnCapacityMinLevels>
+					<li>
+						<capacity>Moving</capacity>
+						<minLevel>0.7</minLevel>
+					</li>
+					<li>
+						<capacity>Manipulation</capacity>
+						<minLevel>0.7</minLevel>
+					</li>
+				</pawnCapacityMinLevels>
+			</li>
+		</modExtensions>
+	</VFEPirates.WarcasketDef>
+	
+	<VFEPirates.WarcasketDef MayRequire="Ludeon.RimWorld.Biotech" ParentName="VFEP_WarcasketShoulderPadBase">
+		<defName>WarcasketShoulders_Mechlord</defName>
+		<label>mechlord warcasket shoulders</label>
+		<shortDescription>a warcasket designed for use by combat mechanitors.</shortDescription>
+		<description>A 10th generation warcasket designed for use by mechanitors in combat situations. The shoulderpads include an a powerful antenna array allowing for an additional control group, as well as special tools that improve mech repair speed.</description>
+		<graphicData>
+			<texPath>Things/Pawn/Warcasketlike/Mechlord/WarcasketShoulders</texPath>
+		</graphicData>
+		<statBases>
+			<Mass>42</Mass>
+			<ArmorRating_Sharp>1.85</ArmorRating_Sharp>
+			<ArmorRating_Blunt>1.0</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.5</ArmorRating_Heat>
+			<Insulation_Cold>18</Insulation_Cold>
+			<Insulation_Heat>12</Insulation_Heat>
+			<EquipDelay>2</EquipDelay>
+		</statBases>
+		<equippedStatOffsets>
+			<MechBandwidth>8</MechBandwidth>
+			<MechControlGroups>1</MechControlGroups>
+			<MechRepairSpeed>1</MechRepairSpeed>
+			<MechFormingSpeed>0.5</MechFormingSpeed>
+			<MoveSpeed>-0.1</MoveSpeed>
+			<SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">0.2</SlaveSuppressionOffset>
+		</equippedStatOffsets>
+		<costList>
+			<PowerfocusChip>1</PowerfocusChip>
+			<ComponentSpacer>1</ComponentSpacer>
+			<Plasteel>60</Plasteel>
+			<Uranium>20</Uranium>
+		</costList>
+		<researchPrerequisites>
+			<li>VFEP_SpacerWarcaskets</li>
+			<li>UltraMechtech</li>
+		</researchPrerequisites>
+		<apparel>
+			<mechanitorApparel>true</mechanitorApparel>
+			<bodyPartGroups>
+				<li>Shoulders</li>
+				<li>Arms</li>
+				<li>Hands</li>
+				<li>Neck</li>
+			</bodyPartGroups>
+			<wornGraphicPath>Things/Pawn/Warcasketlike/Mechlord/WarcasketShoulders</wornGraphicPath>
+			<layers>
+				<li>OnSkin</li>
+				<li>Middle</li>
+				<li>Shell</li>
+			</layers>
+			<tags>
+				<li>Warcasket</li>
+				<li>WarcasketVeteran</li>
+				<li>WarcasketAll</li>
+			</tags>
+		</apparel>
+	</VFEPirates.WarcasketDef>
+		
+	
+ 
+</Defs>

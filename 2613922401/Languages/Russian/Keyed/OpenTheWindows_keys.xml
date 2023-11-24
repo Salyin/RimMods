@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--ui-->
+  <ClosedWindow>Закрыто</ClosedWindow>
+  <EmergencyClosed>Заблокировано из-за чрезвычайной ситуации</EmergencyClosed>
+  <butVenting>, но проветривает.</butVenting>
+  <notVenting>Герметично</notVenting>
+  <Facing>Направлено на {0}.</Facing>
+  <LandscapeToThe>Ориентированно на {0}</LandscapeToThe>
+  <cantDetermineSides>Невозможно определить, какая сторона внешняя.</cantDetermineSides>
+  <ManualCommandNote>На это задание будет назначен колонист.</ManualCommandNote>
+  <CommandDesignateOpenCloseWindowLabel>Открыть/Закрыть</CommandDesignateOpenCloseWindowLabel>
+  <CommandDesignateOpenCloseWindowDesc>Дать колонистам задачу на открытие или закрытие этого окна.</CommandDesignateOpenCloseWindowDesc>
+  <CommandOpenCloseWindowLightLabel>Впускать свет</CommandOpenCloseWindowLightLabel>
+  <CommandOpenCloseWindowLightDesc>Разрешить или заблокировать прохождение света через окно.</CommandOpenCloseWindowLightDesc>
+  <CommandOpenCloseWindowVentLabel>Проветривать</CommandOpenCloseWindowVentLabel>
+  <CommandOpenCloseWindowVentDesc>Разрешить или заблокировать прохождение воздуха через окно.</CommandOpenCloseWindowVentDesc>
+  <CommandAutoVentilation>Режим проветривания</CommandAutoVentilation>
+  <CommandAutoVentilationDesc>Позволить этому окну открываться и закрываться автоматически, когда температура в комнате становится некомфортной.</CommandAutoVentilationDesc>
+  <DisabledForAutoVentilation>Следует установкам режима проветривания.</DisabledForAutoVentilation>
+  <TrackingTemperature>Отслеживание температуры.</TrackingTemperature>
+  <WaitingTemperatureNormalization>Подождите, пока температура выровняется.</WaitingTemperatureNormalization>
+  <CantTrackTemperature>У смежной комнаты отсуствует крыша, невозможно отслеживать температуру.</CantTrackTemperature>
+  <CommandCloseOnEmergency>Заблокировать при чрезвычайной ситуации</CommandCloseOnEmergency>
+  <CommandCloseOnEmergencyDesc>Позволить этому окну блокироваться, при срабатывании тревоги.</CommandCloseOnEmergencyDesc>
+  <DisabledByEmergency>Нормальное функционирование отключено при чрезвычайной ситуации.</DisabledByEmergency>
+  <NaturalLightMap>Показать естественный свет.</NaturalLightMap>
+
+  <!--settings-->
+  <OpenTheWindows>Windows</OpenTheWindows>
+  <IndoorsNoNaturalLightPenalty>Усиление нужды пребывания на свежем воздухе</IndoorsNoNaturalLightPenalty>
+  <IndoorsNoNaturalLightPenaltyDesc>Ускоряет снижение уровня потребности в свежем воздухе. когда колонист находится в помещении, но не у окна.</IndoorsNoNaturalLightPenaltyDesc>
+  <LightTransmission>Пропуск света через окна</LightTransmission>
+  <LightTransmissionIncludesRoofs>в том числе через устройства в потолке</LightTransmissionIncludesRoofs>
+  <LightTransmissionDesc>Количество внешнего света, которое проникает через стекла и раму окна. В реальном мире это 90%.</LightTransmissionDesc>
+  <ComfortableTemperature>Комфортный уровень температуры (°C)</ComfortableTemperature>
+  <ComfortableTemperatureDesc>Желаемый температурный диапазон для функции автоматического проветривания. По умолчанию установлена температура комфортная для человека.</ComfortableTemperatureDesc>
+  <BeautySensitivityReduction>Снижение чувствительности к окружающей красоте</BeautySensitivityReduction>
+  <BeautySensitivityReductionDesc>Снижает чувствительность колонистов к окружающей красоте, чтобы компенсировать красоту ландшафта, добавленную модом "Nature is Beautiful" и видимую из окон.</BeautySensitivityReductionDesc>
+  <BeautyFromBuildings>Добавить вид из окна к расчету красоты помещения.</BeautyFromBuildings>
+  <BeautyFromBuildingsDesc>Если этот флажок установлен, красота объектов, которые видно из окна (включая скульптуры) будет добавлена к расчету красоты помещения, наряду с растениями и другими предметами.</BeautyFromBuildingsDesc>
+  <LinkOptionsLabel>Настройка графики стен</LinkOptionsLabel>
+  <RequiresRestart>требуется перезапуск</RequiresRestart>
+  <LinkWindowsAndWalls>Связать с окнами</LinkWindowsAndWalls>
+  <LinkVentsAndWalls>Связать с вентиляцией &amp; кондиционерами</LinkVentsAndWalls>
+  <LinkFridgesAndWalls>Связать с вентиляцией, кондиционерами &amp; холодильниками</LinkFridgesAndWalls>
+  <AlarmOptionsLabel>&lt;i&gt;Better Pawn Control&lt;/i&gt; совместимость</AlarmOptionsLabel>
+  <AlarmReactDefault>В чрезвычайной ситуации по умолчанию блокировать окно</AlarmReactDefault>
+
+  <ShowButton>Кнопка показа наложения света</ShowButton>
+
+</LanguageData>

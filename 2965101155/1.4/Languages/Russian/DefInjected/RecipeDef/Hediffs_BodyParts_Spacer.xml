@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced Arm -->
+
+  <ATR_Install_AdvancedArm.label>установить кибернетическую руку</ATR_Install_AdvancedArm.label>
+  <ATR_Install_AdvancedArm.description>Установить кибернетическую руку.</ATR_Install_AdvancedArm.description>
+  <ATR_Install_AdvancedArm.jobString>Устанавливает кибернетическую руку.</ATR_Install_AdvancedArm.jobString>
+
+
+  <!-- Advanced Leg -->
+
+  <ATR_Install_AdvancedLeg.label>установить кибернетическую ногу</ATR_Install_AdvancedLeg.label>
+  <ATR_Install_AdvancedLeg.description>Установить кибернетическую ногу.</ATR_Install_AdvancedLeg.description>
+  <ATR_Install_AdvancedLeg.jobString>Устанавливает кибернетическую ногу.</ATR_Install_AdvancedLeg.jobString>
+
+
+  <!-- Advanced Visual Sensor -->
+
+  <ATR_Install_AdvancedVisualSensor.label>установить оптический сверхдатчик</ATR_Install_AdvancedVisualSensor.label>
+  <ATR_Install_AdvancedVisualSensor.description>Установить оптический сверхдатчик.</ATR_Install_AdvancedVisualSensor.description>
+  <ATR_Install_AdvancedVisualSensor.jobString>Устанавливает оптический сверхдатчик.</ATR_Install_AdvancedVisualSensor.jobString>
+
+
+  <!-- Advanced Audio Sensor -->
+
+  <ATR_Install_AdvancedAudioSensor.label>установить звуковой сверхдатчик</ATR_Install_AdvancedAudioSensor.label>
+  <ATR_Install_AdvancedAudioSensor.description>Установить звуковой сверхдатчик.</ATR_Install_AdvancedAudioSensor.description>
+  <ATR_Install_AdvancedAudioSensor.jobString>Устанавливает звуковой сверхдатчик.</ATR_Install_AdvancedAudioSensor.jobString>
+
+
+  <!-- Advanced Heatsink -->
+
+  <ATR_Install_AdvancedHeatsink.label>установить усиленный радиатор</ATR_Install_AdvancedHeatsink.label>
+  <ATR_Install_AdvancedHeatsink.description>Установить усиленный радиатор.</ATR_Install_AdvancedHeatsink.description>
+  <ATR_Install_AdvancedHeatsink.jobString>Устанавливает усиленный радиатор.</ATR_Install_AdvancedHeatsink.jobString>
+
+
+  <!-- Advanced Coolant Pump -->
+
+  <ATR_Install_AdvancedCoolantPump.label>установить усиленный гидронасос</ATR_Install_AdvancedCoolantPump.label>
+  <ATR_Install_AdvancedCoolantPump.description>Установить усиленный гидронасос.</ATR_Install_AdvancedCoolantPump.description>
+  <ATR_Install_AdvancedCoolantPump.jobString>Устанавливает усиленный гидронасос.</ATR_Install_AdvancedCoolantPump.jobString>
+
+
+  <!-- Advanced Battery -->
+
+  <ATR_Install_AdvancedBattery.label>установить сверхнакопитель</ATR_Install_AdvancedBattery.label>
+  <ATR_Install_AdvancedBattery.description>Установить сверхнакопитель.</ATR_Install_AdvancedBattery.description>
+  <ATR_Install_AdvancedBattery.jobString>Устанавливает сверхнакопитель.</ATR_Install_AdvancedBattery.jobString>
+
+
+  <!-- Advanced Mechanite Storage -->
+
+  <ATR_Install_AdvancedMechaniteStorage.label>установить сверхконденсатор</ATR_Install_AdvancedMechaniteStorage.label>
+  <ATR_Install_AdvancedMechaniteStorage.description>Установить сверхконденсатор.</ATR_Install_AdvancedMechaniteStorage.description>
+  <ATR_Install_AdvancedMechaniteStorage.jobString>Устанавливает сверхконденсатор.</ATR_Install_AdvancedMechaniteStorage.jobString>
+
+
+  <!-- Advanced Reactor -->
+
+  <ATR_Install_AdvancedReactor.label>установить биореактор</ATR_Install_AdvancedReactor.label>
+  <ATR_Install_AdvancedReactor.description>Установить биореактор.</ATR_Install_AdvancedReactor.description>
+  <ATR_Install_AdvancedReactor.jobString>Устанавливает биореактор.</ATR_Install_AdvancedReactor.jobString>
+
+
+  <!-- Organic Charger -->
+
+  <ATR_Install_OrganicCharger.label>установить приёмник энергии</ATR_Install_OrganicCharger.label>
+  <ATR_Install_OrganicCharger.description>Установить приёмник энергии.</ATR_Install_OrganicCharger.description>
+  <ATR_Install_OrganicCharger.jobString>Устанавливает приёмник энергии.</ATR_Install_OrganicCharger.jobString>
+
+
+</LanguageData>

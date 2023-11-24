@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_T5Colonist.label>Т5 Андроид житель</ATR_T5Colonist.label>
+  <ATR_T5Colonist.labelPlural>Т5 Андроиды жители</ATR_T5Colonist.labelPlural>
+  <ATR_T5Colonist.labelMale>Т5 Андроид житель</ATR_T5Colonist.labelMale>
+  <ATR_T5Colonist.labelMalePlural>Т5 Андроиды жители</ATR_T5Colonist.labelMalePlural>
+  <ATR_T5Colonist.labelFemale>Т5 Андроид жительница</ATR_T5Colonist.labelFemale>
+  <ATR_T5Colonist.labelFemalePlural>Т5 Андроиды жительницы</ATR_T5Colonist.labelFemalePlural>
+
+  <ATR_T4Colonist.label>Т4 Андроид житель</ATR_T4Colonist.label>
+  <ATR_T4Colonist.labelPlural>Т4 Андроиды жители</ATR_T4Colonist.labelPlural>
+  <ATR_T4Colonist.labelMale>Т4 Андроид житель</ATR_T4Colonist.labelMale>
+  <ATR_T4Colonist.labelMalePlural>Т4 Андроиды жители</ATR_T4Colonist.labelMalePlural>
+  <ATR_T4Colonist.labelFemale>Т4 Андроид жительница</ATR_T4Colonist.labelFemale>
+  <ATR_T4Colonist.labelFemalePlural>Т4 Андроиды жительницы</ATR_T4Colonist.labelFemalePlural>
+
+  <ATR_T3Colonist.label>Т3 Андроид житель</ATR_T3Colonist.label>
+  <ATR_T3Colonist.labelPlural>Т3 Андроиды жители</ATR_T3Colonist.labelPlural>
+  <ATR_T3Colonist.labelMale>Т3 Андроид житель</ATR_T3Colonist.labelMale>
+  <ATR_T3Colonist.labelMalePlural>Т3 Андроиды жители</ATR_T3Colonist.labelMalePlural>
+  <ATR_T3Colonist.labelFemale>Т3 Андроид жительница</ATR_T3Colonist.labelFemale>
+  <ATR_T3Colonist.labelFemalePlural>Т3 Андроиды жительницы</ATR_T3Colonist.labelFemalePlural>
+
+  <ATR_T2Colonist.label>Т2 Андроид житель</ATR_T2Colonist.label>
+  <ATR_T2Colonist.labelPlural>Т2 Андроиды жители</ATR_T2Colonist.labelPlural>
+  <ATR_T2Colonist.labelMale>Т2 Андроид житель</ATR_T2Colonist.labelMale>
+  <ATR_T2Colonist.labelMalePlural>Т2 Андроиды жители</ATR_T2Colonist.labelMalePlural>
+  <ATR_T2Colonist.labelFemale>Т2 Андроид жительница</ATR_T2Colonist.labelFemale>
+  <ATR_T2Colonist.labelFemalePlural>Т2 Андроиды жительницы</ATR_T2Colonist.labelFemalePlural>
+
+  <ATR_T1Colonist.label>Т1 Андроид житель</ATR_T1Colonist.label>
+  <ATR_T1Colonist.labelPlural>Т1 Андроиды жители</ATR_T1Colonist.labelPlural>
+  <ATR_T1Colonist.labelMale>Т1 Андроид житель</ATR_T1Colonist.labelMale>
+  <ATR_T1Colonist.labelMalePlural>Т1 Андроиды жители</ATR_T1Colonist.labelMalePlural>
+  <ATR_T1Colonist.labelFemale>Т1 Андроид жительница</ATR_T1Colonist.labelFemale>
+  <ATR_T1Colonist.labelFemalePlural>Т1 Андроиды жительницы</ATR_T1Colonist.labelFemalePlural>
+
+
+  <!-- Androids With Real Backstories -->
+
+  <ATR_T4Refugee.label>Т4 Андроид беженец</ATR_T4Refugee.label>
+  <ATR_T4Refugee.labelPlural>Т4 Андроиды беженцы</ATR_T4Refugee.labelPlural>
+  <ATR_T4Refugee.labelMale>Т4 Андроид беженец</ATR_T4Refugee.labelMale>
+  <ATR_T4Refugee.labelMalePlural>Т4 Андроиды беженцы</ATR_T4Refugee.labelMalePlural>
+  <ATR_T4Refugee.labelFemale>Т4 Андроид беженка</ATR_T4Refugee.labelFemale>
+  <ATR_T4Refugee.labelFemalePlural>Т4 Андроиды беженки</ATR_T4Refugee.labelFemalePlural>
+
+  <ATR_T3Refugee.label>Т3 Андроид беженец</ATR_T3Refugee.label>
+  <ATR_T3Refugee.labelPlural>Т3 Андроиды беженцы</ATR_T3Refugee.labelPlural>
+  <ATR_T3Refugee.labelMale>Т3 Андроид беженец</ATR_T3Refugee.labelMale>
+  <ATR_T3Refugee.labelMalePlural>Т3 Андроиды беженцы</ATR_T3Refugee.labelMalePlural>
+  <ATR_T3Refugee.labelFemale>Т3 Андроид беженка</ATR_T3Refugee.labelFemale>
+  <ATR_T3Refugee.labelFemalePlural>Т3 Андроиды беженки</ATR_T3Refugee.labelFemalePlural>
+
+  <ATR_T2Refugee.label>Т2 Андроид беженец</ATR_T2Refugee.label>
+  <ATR_T2Refugee.labelPlural>Т2 Андроиды беженцы</ATR_T2Refugee.labelPlural>
+  <ATR_T2Refugee.labelMale>Т2 Андроид беженец</ATR_T2Refugee.labelMale>
+  <ATR_T2Refugee.labelMalePlural>Т2 Андроиды беженцы</ATR_T2Refugee.labelMalePlural>
+  <ATR_T2Refugee.labelFemale>Т2 Андроид беженка</ATR_T2Refugee.labelFemale>
+  <ATR_T2Refugee.labelFemalePlural>Т2 Андроиды беженки</ATR_T2Refugee.labelFemalePlural>
+
+  <ATR_T1Refugee.label>Т1 Андроид беженец</ATR_T1Refugee.label>
+  <ATR_T1Refugee.labelPlural>Т1 Андроиды беженцы</ATR_T1Refugee.labelPlural>
+  <ATR_T1Refugee.labelMale>Т1 Андроид беженец</ATR_T1Refugee.labelMale>
+  <ATR_T1Refugee.labelMalePlural>Т1 Андроиды беженцы</ATR_T1Refugee.labelMalePlural>
+  <ATR_T1Refugee.labelFemale>Т1 Андроид беженка</ATR_T1Refugee.labelFemale>
+  <ATR_T1Refugee.labelFemalePlural>Т1 Андроиды беженки</ATR_T1Refugee.labelFemalePlural>
+
+
+</LanguageData>

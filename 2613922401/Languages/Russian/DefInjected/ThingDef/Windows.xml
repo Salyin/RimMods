@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SimpleOpenWindow.label>деревенское окно</SimpleOpenWindow.label>
+  <SimpleOpenWindow.description>Простое низкотехнологичное окно, представляющее собой дыру в стене. Оснащено заслонкой для управления светом, но почти не удерживает тепло внутри помещения.</SimpleOpenWindow.description>
+  <SimpleOpenWindow_Blueprint.label>деревенское окно (проект)</SimpleOpenWindow_Blueprint.label>
+  <SimpleOpenWindow_Frame.label>деревенское окно (в процессе сборки)</SimpleOpenWindow_Frame.label>
+  <SimpleOpenWindow_Frame.description>Простое низкотехнологичное окно, представляющее собой дыру в стене. Оснащено заслонкой для управления светом, но почти не удерживает тепло внутри помещения.</SimpleOpenWindow_Frame.description>
+
+  <OpenWindow.label>окно</OpenWindow.label>
+  <OpenWindow.description>Окно со стеклом и ставнями. Может регулировать уровень света и воздуха в помещении. Из него открывается вид на окружающий ландшафт.</OpenWindow.description>
+  <OpenWindow_Blueprint.label>окно (проект)</OpenWindow_Blueprint.label>
+  <OpenWindow_Frame.label>окно (в процессе сборки)</OpenWindow_Frame.label>
+  <OpenWindow_Frame.description>Окно со стеклом и ставнями. Может регулировать уровень света и воздуха в помещении. Из него открывается вид на окружающий ландшафт.</OpenWindow_Frame.description>
+
+  <LargeOpenWindow.label>большое окно</LargeOpenWindow.label>
+  <LargeOpenWindow.description>Большое стеклянное окно со ставнями, пропускающее большое количество света, воздуха и дающее отличный обзор на окружающий ландшафт.</LargeOpenWindow.description>
+  <LargeOpenWindow_Blueprint.label>большое окно (проект)</LargeOpenWindow_Blueprint.label>
+  <LargeOpenWindow_Frame.label>большое окно (в процессе сборки)</LargeOpenWindow_Frame.label>
+  <LargeOpenWindow_Frame.description>Большое стеклянное окно со ставнями, пропускающее большое количество света, воздуха и дающее отличный обзор на окружающий ландшафт.</LargeOpenWindow_Frame.description>
+
+  <HugeOpenWindow.label>панорамное окно</HugeOpenWindow.label>
+  <HugeOpenWindow.description>Огромное высокое окно с вращающимся бриз-солейлом. Позволяет впустить в помещение много света.</HugeOpenWindow.description>
+  <HugeOpenWindow_Blueprint.label>панорамное окно (проект)</HugeOpenWindow_Blueprint.label>
+  <HugeOpenWindow_Frame.label>панорамное окно (в процессе сборки)</HugeOpenWindow_Frame.label>
+  <HugeOpenWindow_Frame.description>Огромное высокое окно с вращающимся бриз-солейлом. Позволяет впустить в помещение много света.</HugeOpenWindow_Frame.description>
+
+  <ReinforcedOpenWindow.label>бронированное окно</ReinforcedOpenWindow.label>
+  <ReinforcedOpenWindow.description>Небольшое армированное окно со стеклом и ставнями. Может регулировать уровень света и воздуха в помещении.</ReinforcedOpenWindow.description>
+  <ReinforcedOpenWindow_Blueprint.label>бронированное окно (проект)</ReinforcedOpenWindow_Blueprint.label>
+  <ReinforcedOpenWindow_Frame.label>бронированное окно (в процессе сборки)</ReinforcedOpenWindow_Frame.label>
+  <ReinforcedOpenWindow_Frame.description>Небольшое армированное окно со стеклом и ставнями. Может регулировать уровень света и воздуха в помещении.</ReinforcedOpenWindow_Frame.description>
+
+  <LargeReinforcedOpenWindow.label>большое бронированное окно</LargeReinforcedOpenWindow.label>
+  <LargeReinforcedOpenWindow.description>Большое армированное окно, пропускающее большое количество света, воздуха и дающее отличный обзор на окружающий ландшафт.</LargeReinforcedOpenWindow.description>
+  <LargeReinforcedOpenWindow_Blueprint.label>большое бронированное окно (проект)</LargeReinforcedOpenWindow_Blueprint.label>
+  <LargeReinforcedOpenWindow_Frame.label>большое бронированное окно (в процессе сборки)</LargeReinforcedOpenWindow_Frame.label>
+  <LargeReinforcedOpenWindow_Frame.description>Большое армированное окно, пропускающее большое количество света, воздуха и дающее отличный обзор на окружающий ландшафт.</LargeReinforcedOpenWindow_Frame.description>
+
+
+</LanguageData>

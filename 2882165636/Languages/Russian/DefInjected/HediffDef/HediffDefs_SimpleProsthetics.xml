@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Prosthetic leg -->
+
+  <SimpleProstheticLeg.label>Простой протез ноги</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>Установленный простой протез ноги.</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.labelNoun>Простой протез ноги</SimpleProstheticLeg.labelNoun>
+
+
+  <!-- Prosthetic arm -->
+
+  <SimpleProstheticArm.label>Простой протез руки</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>Установленный простой протез руки.</SimpleProstheticArm.description>
+  <SimpleProstheticArm.comps.0.tools.0.label>рука</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>Простой протез руки</SimpleProstheticArm.labelNoun>
+
+
+  <!-- Cochlear implant -->
+
+  <CochlearImplant.label>Слуховой имлпант</CochlearImplant.label>
+  <CochlearImplant.description>Установленный слуховой имплантат.</CochlearImplant.description>
+  <CochlearImplant.labelNoun>Слуховой имплантат</CochlearImplant.labelNoun>
+
+
+  <!-- Golden eye -->
+
+  <GoldenEye.label>Золотой глаз</GoldenEye.label>
+  <GoldenEye.description>Установленный золотой глаз.</GoldenEye.description>
+
+
+  <!-- Light receptor -->
+
+  <LightReceptor.label>Заменитель глаза</LightReceptor.label>
+  <LightReceptor.description>Установленный заменитель глаза.</LightReceptor.description>
+
+
+  <!-- Simple spine replacement -->
+
+  <SimpleSpine.label>Заменитель позвоночника</SimpleSpine.label>
+  <SimpleSpine.description>Установленный заменитель позвоночника.</SimpleSpine.description>
+
+
+  <!-- Prosthetic hand -->
+
+  <SimpleProstheticHand.label>Простой протез кисти</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>Установленный простой протез кисти.</SimpleProstheticHand.description>
+  <SimpleProstheticHand.comps.0.tools.0.label>кисть</SimpleProstheticHand.comps.0.tools.0.label>
+
+
+  <!-- Prosthetic foot -->
+
+  <SimpleProstheticFoot.label>Простой протез ступни</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>Установленный простой протез ступни.</SimpleProstheticFoot.description>
+
+
+  <!-- Prosthetic finger -->
+
+  <SimpleProstheticFinger.label>Простой протез пальца</SimpleProstheticFinger.label>
+  <SimpleProstheticFinger.description>Установленный простой протец пальца.</SimpleProstheticFinger.description>
+  <SimpleProstheticFinger.labelNoun>Простой протез пальца</SimpleProstheticFinger.labelNoun>
+
+
+  <!-- Prosthetic toe -->
+
+  <SimpleProstheticToe.label>Простой протез пальца ноги</SimpleProstheticToe.label>
+  <SimpleProstheticToe.description>Установленный простой протез пальца ноги.</SimpleProstheticToe.description>
+  <SimpleProstheticToe.labelNoun>Простой протез пальца ноги</SimpleProstheticToe.labelNoun>
+
+
+  <!-- Hydraulic jaw -->
+
+  <HydraulicJaw.label>Гидравлическая челюсть</HydraulicJaw.label>
+  <HydraulicJaw.description>Установленная гидровлическая челюсть.</HydraulicJaw.description>
+  <HydraulicJaw.comps.0.tools.0.label>Челюсть</HydraulicJaw.comps.0.tools.0.label>
+
+
+  <!-- Artificial nose -->
+
+  <ArtificialNose.label>Искусственный нос</ArtificialNose.label>
+  <ArtificialNose.description>Установленный искусственный нос.</ArtificialNose.description>
+
+
+  <!-- Replacement radius -->
+
+  <ReplacementRadius.label>Заменитель лучевой кости</ReplacementRadius.label>
+  <ReplacementRadius.description>Установленный заменитель лучевой кости.</ReplacementRadius.description>
+
+
+  <!-- Scyther blade -->
+
+  <EPOE_ScytherBlade.label>Клинок жнеца</EPOE_ScytherBlade.label>
+  <EPOE_ScytherBlade.description>Установленный клинок жнеца.</EPOE_ScytherBlade.description>
+  <EPOE_ScytherBlade.comps.0.tools.0.label>Клинок</EPOE_ScytherBlade.comps.0.tools.0.label>
+
+
+  <!--<ArtificialPelvis.label>Искусственный таз</ArtificialPelvis.label>-->
+
+</LanguageData>

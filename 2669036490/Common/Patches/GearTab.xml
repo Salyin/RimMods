@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>RPG Style Inventory Revamped</li>
+		</mods>
+		<nomatch Class="PatchOperationFindMod">
+			<mods>
+				<li>Combat Extended</li>
+			</mods>
+			<match Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[@Name="BasePawn"]/inspectorTabs/li[text()="CombatExtended.ITab_Inventory"]</xpath>
+				<value>
+					<li>AwesomeInventory.UI.AwesomeInventoryTab</li>
+				</value>
+			</match>
+			<nomatch Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[@Name="BasePawn"]/inspectorTabs/li[text()="ITab_Pawn_Gear"]</xpath>
+				<value>
+					<li>AwesomeInventory.UI.AwesomeInventoryTab</li>
+				</value>
+			</nomatch>
+		</nomatch>
+	</Operation>
+</Patch>

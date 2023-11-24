@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <!-- Guard condition (without this, if no target exists for replace, replace will throw an error) -->
+    <Operation Class="PatchOperationConditional">
+        <xpath>/Defs/TerrainDef[boolean(statBases)]/statBases[boolean(MarketValue)]
+            | /Defs/TerrainTemplateDef[boolean(statBases)]/statBases[boolean(MarketValue)]</xpath>
+        <match Class="PatchOperationReplace">
+            <xpath>/Defs/TerrainDef[boolean(statBases)]/statBases[boolean(MarketValue)]/MarketValue
+                | /Defs/TerrainTemplateDef[boolean(statBases)]/statBases[boolean(MarketValue)]/MarketValue</xpath>
+            <value>
+                <MarketValue>1</MarketValue>
+            </value>
+        </match>
+    </Operation>
+
+    <!-- Give statBases to target floors that lack one -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/TerrainDef[boolean(costList) and not(boolean(statBases))]
+            | /Defs/TerrainTemplateDef[boolean(costList) and not(boolean(statBases))]</xpath>
+        <value>
+            <statBases />
+        </value>
+    </Operation>
+
+    <!-- Give MarketValue to target floors that lack one -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/TerrainDef[boolean(costList) or boolean(statBases/WorkToBuild)]/statBases[count(MarketValue) = 0]
+            | /Defs/TerrainTemplateDef[boolean(costList) or boolean(statBases/WorkToBuild)]/statBases[count(MarketValue) = 0]</xpath>
+        <value>
+            <MarketValue>1</MarketValue>
+        </value>
+    </Operation>
+</Patch>

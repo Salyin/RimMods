@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Power arm -->
+
+  <PowerArm.label>Силовая рука</PowerArm.label>
+  <PowerArm.description>Установленная силовая рука.</PowerArm.description>
+  <PowerArm.comps.0.tools.0.label>рука</PowerArm.comps.0.tools.0.label>
+  <PowerArm.labelNoun>Силовая рука</PowerArm.labelNoun>
+
+
+  <!-- Advanced power arm -->
+
+  <AdvancedPowerArm.label>Улучшенная силовая рука</AdvancedPowerArm.label>
+  <AdvancedPowerArm.description>Установленная улучшенная силовая рука.</AdvancedPowerArm.description>
+  <AdvancedPowerArm.comps.0.tools.0.label>рука</AdvancedPowerArm.comps.0.tools.0.label>
+  <AdvancedPowerArm.labelNoun>Улучшенная силовая рука arm</AdvancedPowerArm.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced bionic eye -->
+
+  <AdvancedBionicEye.label>Улучшенный бионический глаз</AdvancedBionicEye.label>
+  <AdvancedBionicEye.description>Позволяет пользователю прекрасно видеть в темноте и сквозь стены.</AdvancedBionicEye.description>
+
+
+  <!-- Advanced bionic arm -->
+
+  <AdvancedBionicArm.label>Улучшенная бионическая рука</AdvancedBionicArm.label>
+  <AdvancedBionicArm.description>Помните как вы мучились с открытием банок? Теперь вы будете мучиться с тем, как бы не раздавить банку.</AdvancedBionicArm.description>
+
+
+  <!-- Advanced Bionic Leg -->
+
+  <AdvancedBionicLeg.label>Улучшенная бионическая нога</AdvancedBionicLeg.label>
+  <AdvancedBionicLeg.description>Впечатляющие технологии позволяют пользователю перемещаться быстрее чем когда-либо.</AdvancedBionicLeg.description>
+
+
+  <!-- Advanced bionic spine -->
+
+  <AdvancedBionicSpine.label>Улучшенный бионический позвоночник</AdvancedBionicSpine.label>
+  <AdvancedBionicSpine.description>Это прочное устройство поддерживает спину и позволяет работать и передвигаться гораздо проще.</AdvancedBionicSpine.description>
+
+
+  <!-- Advanced bionic ear -->
+
+  <AdvancedBionicEar.label>Улучшенное бионическое ухо</AdvancedBionicEar.label>
+  <AdvancedBionicEar.description>Это устройство позволит пользователю слышать лучше чем летучие мыши.</AdvancedBionicEar.description>
+
+
+  <!-- Advanced bionic hand -->
+
+  <AdvancedBionicHand.label>Улучшенная бионическая кисть</AdvancedBionicHand.label>
+  <AdvancedBionicHand.description>Некоторые люди рубят свои руки только для того, чтобы получить этот великолепный кусок технологий.</AdvancedBionicHand.description>
+
+
+  <!-- Advanced bionic foot -->
+
+  <AdvancedBionicFoot.label>Улучшенная бионическая ступня</AdvancedBionicFoot.label>
+  <AdvancedBionicFoot.description>Десятки сервомоторов предоставят быстрое и максимально комфортное передвижение.</AdvancedBionicFoot.description>
+
+
+  <!-- Advanced bionic finger -->
+
+  <AdvancedBionicFinger.label>Улучшенный бионический палец</AdvancedBionicFinger.label>
+  <AdvancedBionicFinger.description>Ультрасовременный искусственный палец, дополнительно усовершенствованный по сравнению со стандартными моделями. Чувствительные датчики и высокоскоростные беспроводные передатчики, проходящие через толстый, но легкий пластиковый корпус, обеспечивают наилучшую точность и сцепление, намного превосходящие биологические пальцы..</AdvancedBionicFinger.description>
+
+
+  <!-- Advanced bionic toe -->
+
+  <AdvancedBionicToe.label>Улучшенный биологические палец ноги</AdvancedBionicToe.label>
+  <AdvancedBionicToe.description>Ультрасовременный искусственный палец ноги, дополнительно усовершенствованный по сравнению со стандартными моделями. Тонкие датчики и высокоскоростные беспроводные передатчики, проходящие через толстый, но легкий корпус из пластали, делают эти пальцы непревзойденными, когда дело доходит до движения и контроля, намного превосходя биологические пальцы.</AdvancedBionicToe.description>
+
+
+  <!-- Advanced bionic jaw -->
+
+  <AdvancedBionicJaw.label>Улучшенная бионическая челюсть</AdvancedBionicJaw.label>
+  <AdvancedBionicJaw.description>Голос издаваемый этой челюстью такой прекрасный, что даже некоторые механоиды не могут перестать слушать этот звук.</AdvancedBionicJaw.description>
+
+
+  <!-- Exoskeleton suit -->
+
+  <ExoskeletonSuit.label>Экзоскелет</ExoskeletonSuit.label>
+  <ExoskeletonSuit.description>Высокотехнологичное устройтво состоящие из двух частей: лёгкая скелетная структура для разгрузки спины и сервомоторы делающие носителя сильнее.</ExoskeletonSuit.description>
+
+
+  <!-- Protective exoskeleton -->
+
+  <EPIA_ProtectiveExoskeleton.label>Защитный экзоскелет</EPIA_ProtectiveExoskeleton.label>
+  <EPIA_ProtectiveExoskeleton.description>Высокотехнологичное устройство, состоящее из легкой каркасной конструкции и серводвигателей для поддержки самого себя и системы смягчения повреждений, используемой для защиты пользователя..</EPIA_ProtectiveExoskeleton.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_M7Mech.label>M7 Дредноут</ATR_M7Mech.label>
+  <ATR_M7Mech.description>M7 Дредноут - разновидность древних боевых механоидов. Это медленные и очень мощные боевые машины, сконструированные для ведения боевых действий в любых условиях.</ATR_M7Mech.description>
+  <ATR_M7Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>обшивка</ATR_M7Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <ATR_M7Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>обшивка</ATR_M7Mech.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <ATR_M7Mech.tools.0.label>правый кулак</ATR_M7Mech.tools.0.label>
+  <ATR_M7Mech.tools.1.label>левый кулак</ATR_M7Mech.tools.1.label>
+
+
+</LanguageData>

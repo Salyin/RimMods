@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Smelt_EPOE_DamagedScytherBlade.label>Переплавить поврежденный клинок жнеца</Smelt_EPOE_DamagedScytherBlade.label>
+  <Smelt_EPOE_DamagedScytherBlade.description>Используйте тепло и сильные электромагниты, чтобы извлечь полезный металл из поврежденного клинка жнеца.</Smelt_EPOE_DamagedScytherBlade.description>
+  <Smelt_EPOE_DamagedScytherBlade.jobString>Переплавить поврежденный клинок жнеца.</Smelt_EPOE_DamagedScytherBlade.jobString>
+
+
+  <!-- RecipeDef>
+		<defName>EPIA_ScrapProsthesis</defName>
+		<label>disassemble prosthesis</label>
+		<description>Scrap and disassemble unwanted prosthesis for materials.</description>
+		<jobString>Disassembling prosthesis.</jobString>
+		<workAmount>300</workAmount>
+		<workSpeedStat>ButcheryMechanoidSpeed</workSpeedStat>
+		<workSkill>Crafting</workSkill>
+		<effectWorking>ButcherMechanoid</effectWorking>
+		<soundWorking>Recipe_ButcherCorpseMechanoid</soundWorking>
+		<recipeUsers>
+			<li>TableMachining</li>
+			<li>TableSimpleProsthetic</li>
+		</recipeUsers>
+		<specialProducts>
+			<li>Smelted</li>
+		</specialProducts>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>BodyPartsProsthetic</li>
+						<li>BodyPartsBionic</li>
+						<li>BodyPartsUltra</li>
+						<li>EPIA_OrganicOptimizer</li>
+						<li>EPOE_Redundancy</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>BodyPartsProsthetic</li>
+				<li>BodyPartsBionic</li>
+				<li>BodyPartsUltra</li>
+				<li>EPIA_OrganicOptimizer</li>
+				<li>EPOE_Redundancy</li>
+			</categories>
+		</fixedIngredientFilter>
+		<defaultIngredientFilter>
+			<categories>
+				<li>BodyPartsProsthetic</li>
+				<li>EPOE_Redundancy</li>
+			</categories>
+		</defaultIngredientFilter>
+	</RecipeDef -->
+
+  <Make_EPOE_MAAI_Chip_UseAICore.label>Смастерить 5 MA-AI чип из ядра ИИ</Make_EPOE_MAAI_Chip_UseAICore.label>
+  <Make_EPOE_MAAI_Chip_UseAICore.description>Смастерить 5 MA-AI из ядра ИИ.</Make_EPOE_MAAI_Chip_UseAICore.description>
+  <Make_EPOE_MAAI_Chip_UseAICore.jobString>Создает 5 MA-AI чип.</Make_EPOE_MAAI_Chip_UseAICore.jobString>
+
+
+</LanguageData>

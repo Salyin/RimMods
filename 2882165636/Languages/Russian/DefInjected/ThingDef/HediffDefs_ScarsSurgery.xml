@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Synthetic tissue -->
+
+  <SyntheticSkin.label>Синтетическая кожа</SyntheticSkin.label>
+  <SyntheticSkin.description>Небольшой кусочек синтетической кожи. На ощупь как настоящая кожа.</SyntheticSkin.description>
+
+
+  <!-- ThingDef Name="EPIANeuroGraphicBase" ParentName="EPIASyntheticBase" Abstract="True">
+		<graphicData Inherit="False">
+			<texPath>Things/Item/BodyPart/GlitterworldPart</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef -->
+
+  <NeuromuscularFramework.label>Нервно-мышечный каркас</NeuromuscularFramework.label>
+  <NeuromuscularFramework.description>Набор синтетических мышц и искусственных нервов, способных идеально воссоздать функцию здорового торса.</NeuromuscularFramework.description>
+
+
+  <!-- Neuro-cure framework -->
+
+  <NeurocureFramework.label>Нейро структурный исцелитель</NeurocureFramework.label>
+  <NeurocureFramework.description>Набор высокоразвитых наномашин, синтетической мозговой ткани и искусственных нервов, способных восстанавливать функции мозга. Используется для лечения черепно-мозговых травм, слабоумия и болезни Альцгеймера.\ n \ Требуется исследование хирургии головного мозга для использования.</NeurocureFramework.description>
+
+
+  <!-- Synthetic bone -->
+
+  <EPIA_SyntheticBone.label>Синтетическая кость</EPIA_SyntheticBone.label>
+  <EPIA_SyntheticBone.description>Регулируемая синтетическая кость, готовая к трансформации и формованию в заменяющую кость, которая была утеряна или отсутствует. После установки синтетическая кость приобретает постоянную форму, а состав материала начинает меняться, приближаясь к реальному, что делает ее почти неотличимой от остальной структуры скелета.</EPIA_SyntheticBone.description>
+
+
+</LanguageData>

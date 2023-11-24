@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BasicAutopsy.label>Anatomie de base</BasicAutopsy.label>
+  <BasicAutopsy.description>Le massacre de cadavres pour obtenir des organes internes est souvent utilisé dans les cérémonies religieuses, il est à la fois très primitif et barbare. Débloquez la construction de la table d'autopsie.</BasicAutopsy.description>
+
+  <AdvancedAutopsy.label>Anatomie avancée</AdvancedAutopsy.label>
+  <AdvancedAutopsy.description>Le processus de dissection amélioré permet des opérations de prélèvement d'organes plus humaines et plus fines.</AdvancedAutopsy.description>
+
+  <GlitterworldAutopsy.label>Anatomie high-tech</GlitterworldAutopsy.label>
+  <GlitterworldAutopsy.description>Avec les bons outils, la formation et la haute technologie, vous pouvez atteindre un taux de réussite de prélèvement d'organes très élevé.</GlitterworldAutopsy.description>
+
+  <AnimalAutopsy.label>Anatomie animale</AnimalAutopsy.label>
+  <AnimalAutopsy.description>L'ablation chirurgicale des organes bioniques des carcasses d'animaux est autorisée.</AnimalAutopsy.description>
+
+
+</LanguageData>

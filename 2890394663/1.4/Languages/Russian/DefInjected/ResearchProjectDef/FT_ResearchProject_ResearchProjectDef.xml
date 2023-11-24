@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_ResearchProject.xml-->
+           <!-- ENIAC -->
+<FT_ENIAC.label>ENIAC</FT_ENIAC.label>
+                 <!-- [Interstellar Industries Complex Nara Terminal]
+	[ version="1.0"] [ encoding="utf-8" ]
+Loading....
+
+[To user]
+Being able to build ENIAC and read this information means that you or your civilization already has the minimum requirements for the realization of the technology in the disc...
+
+OS&gt;:_ -->
+<FT_ENIAC.description>[Interstellar Industries Complex Nara Terminal] [ version=&quot;1.0&quot;] [ encoding=&quot;utf-8&quot; ] Загрузка.... [Пользователю] Способность построить ENIAC и прочитать эту информацию означает, что вы или ваша цивилизация уже обладает минимальными требованиями для реализации технологии в дис... OS>:_</FT_ENIAC.description>
+           <!-- lathe -->
+<FT_Lathe.label>lathe</FT_Lathe.label>
+                 <!-- Build lathe for early-stage compoment and reinforced barrel making. -->
+<FT_Lathe.description>Построить токарный станок для изготовления ранних компоментов и усиленных стволов.</FT_Lathe.description>
+                    <!-- heavy artillery -->
+<FT_HeavyArtillery.label>тяжёлая артиллерия</FT_HeavyArtillery.label>
+                          <!-- Using ENIAC to calculate the artillery ballistics table, unlock the design of heavy artilleries. -->
+<FT_HeavyArtillery.description>Используя ENIAC для расчета таблицы баллистики артиллерии, разблокируйте проектирование тяжелых артиллерийских орудий.</FT_HeavyArtillery.description>
+                      <!-- Industrial Cannon -->
+<FT_IndustrialCannon.label>Industrial Cannon</FT_IndustrialCannon.label>
+                            <!-- Using reinforced barrel to build AT and AA Guns. -->
+<FT_IndustrialCannon.description>Использование усиленного ствола для создания AT и AA орудий.</FT_IndustrialCannon.description>
+              <!-- Concrete -->
+<FT_Concrete.label>Бетон</FT_Concrete.label>
+                    <!-- crush and smelt stony material to concrete. -->
+<FT_Concrete.description>дробить и плавить каменистый материал до состояния бетона.</FT_Concrete.description>
+               <!-- chemistry -->
+<FT_Chemistry.label>химия</FT_Chemistry.label>
+                     <!-- Build Chemistry Table that can artificially synthesize compounds such as Neutroamine. -->
+<FT_Chemistry.description>Постройте химический стол, на котором можно искусственно синтезировать такие соединения, как нейтроамин.</FT_Chemistry.description>
+
+</LanguageData>

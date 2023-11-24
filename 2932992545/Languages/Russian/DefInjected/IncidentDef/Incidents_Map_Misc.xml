@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Condition events -->
+
+  <VEE_Drought.label>засуха</VEE_Drought.label>
+  <VEE_Drought.letterText>Началась необычная засуха.\n\nЗасуха разрушительна для жизни растений и остановит рост всех культур, вне гидропонных ферм или почвы с высоким плодородием.</VEE_Drought.letterText>
+  <VEE_Drought.letterLabel>Засуха</VEE_Drought.letterLabel>
+
+  <VEE_SpaceBattle.label>космическая битва</VEE_SpaceBattle.label>
+  <VEE_SpaceBattle.letterText>Несколько массивных космических кораблей вступили в бой на орбите планеты. Пропущенные выстрелы и обломки могут ударить по земле в этом районе. Это может привести к массовым пожарам.</VEE_SpaceBattle.letterText>
+  <VEE_SpaceBattle.letterLabel>Космическая битва</VEE_SpaceBattle.letterLabel>
+
+
+  <!-- Regular events -->
+
+  <VEE_MeteoriteShower.label>метеоритный дождь</VEE_MeteoriteShower.label>
+  <VEE_MeteoriteShower.letterText>В этом районе упало несколько крупных метеоритов. Они оставили после себя большие залежи ресурсов.</VEE_MeteoriteShower.letterText>
+  <VEE_MeteoriteShower.letterLabel>Метеоритный дождь</VEE_MeteoriteShower.letterLabel>
+
+  <VEE_AnimalPodCrash.label>крушение капсулы с животным</VEE_AnimalPodCrash.label>
+  <VEE_ShuttleCrash.label>крушение шаттла</VEE_ShuttleCrash.label>
+  <VEE_Earthquake.label>землетрясение</VEE_Earthquake.label>
+  <VEE_Cargopodsweapons.label>грузовые контейнеры с оружием</VEE_Cargopodsweapons.label>
+  <VEE_Cargopodsapparel.label>грузовые контейнеры с одеждой</VEE_Cargopodsapparel.label>
+  <VEE_CaravanAnimalsWanderIn.label>животные из каравана проходят мимо</VEE_CaravanAnimalsWanderIn.label>
+  <VEE_CropSprout.label>заросли растений</VEE_CropSprout.label>
+  <VEE_BattleAnimalsWanderIn.label>боевое животное проходит мимо</VEE_BattleAnimalsWanderIn.label>
+  <VEE_WildMenWanderIn.label>одичавшие люди проходят мимо</VEE_WildMenWanderIn.label>
+  <VEE_HuntingParty.label>охотничий отряд</VEE_HuntingParty.label>
+
+
+</LanguageData>

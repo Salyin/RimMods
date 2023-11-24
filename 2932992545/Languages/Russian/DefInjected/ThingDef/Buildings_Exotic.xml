@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEE_ShipChunkHuman.label>обломок корабля</VEE_ShipChunkHuman.label>
+  <VEE_ShipChunkHuman.description>Обломок космического корабля. Его можно разобрать для получения ценных ресурсов.</VEE_ShipChunkHuman.description>
+
+  <VEE_Shuttle.label>обломок шаттла</VEE_Shuttle.label>
+  <VEE_Shuttle.description>Обломок шаттла. Его можно разобрать для получения ценных ресурсов.</VEE_Shuttle.description>
+
+  <ShuttleChunkIncoming.label>обломок шаттла (падает)</ShuttleChunkIncoming.label>
+
+
+  <!-- Slag Incoming -->
+
+  <SlagIncoming.label>обломки (падают)</SlagIncoming.label>
+
+
+</LanguageData>

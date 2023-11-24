@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Storefront_Sell.label>продажа</Storefront_Sell.label>
+  <Storefront_Sell.verb>продавать</Storefront_Sell.verb>
+  <Storefront_Sell.gerund>продает</Storefront_Sell.gerund>
+
+  <Storefront_StandBy.label>обслуживание</Storefront_StandBy.label>
+  <Storefront_StandBy.verb>обслуживает</Storefront_StandBy.verb>
+  <Storefront_StandBy.gerund>обслуживать</Storefront_StandBy.gerund>
+
+</LanguageData>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionic eye -->
+
+  <BionicEye.label>Бионический глаз</BionicEye.label>
+  <BionicEye.description>Высокие технологии дали возможность не только полностью заменить натуральный глаз, но и дать сверхзрение.</BionicEye.description>
+
+
+  <!-- Bionic leg -->
+
+  <BionicLeg.label>Бионическая нога</BionicLeg.label>
+  <BionicLeg.description>Бионическая нога использует передовые технологии, чтобы дать её владельцу большой комфорт при передвижении и силу.</BionicLeg.description>
+
+
+  <!-- Bionic arm -->
+
+  <BionicArm.label>Бионическая рука</BionicArm.label>
+  <BionicArm.description>Одна из самых лучших замен руки. Дает экстремальную силу её пользователю.</BionicArm.description>
+
+
+  <!-- Bionic spine -->
+
+  <BionicSpine.label>Бионический позвоночник</BionicSpine.label>
+  <BionicSpine.description>Этот легкое устройство может заменить поврежденный позвоночник.</BionicSpine.description>
+
+
+  <!-- Bionic ear -->
+
+  <BionicEar.label>Бионический ушной имплантат</BionicEar.label>
+  <BionicEar.description>Устройство расширяющее основные функции барабанной перепонки.</BionicEar.description>
+
+
+  <!-- Bionic hand -->
+
+  <BionicHand.label>Бионическая кисть</BionicHand.label>
+  <BionicHand.description>Позволяет пользователю выполнять поставленные задачи быстрее, чем с обычными руками.</BionicHand.description>
+
+
+  <!-- Bionic FOot -->
+
+  <BionicFoot.label>Бионическая ступня</BionicFoot.label>
+  <BionicFoot.description>Протез позволяет быстро ходить при этом не спотыкаясь.</BionicFoot.description>
+
+
+  <!-- Bionic finger -->
+
+  <BionicFinger.label>Бионический палец</BionicFinger.label>
+  <BionicFinger.description>Усовершенствованный искусственный палец. Чувствительные датчики и высокоскоростные беспроводные передатчики, проходящие через толстый, но легкий пластиковый корпус, обеспечивают наилучшую точность и сцепление, намного превосходящие биологические пальцы..</BionicFinger.description>
+
+
+  <!-- Bionic toe -->
+
+  <BionicToe.label>Бионический палец ноги</BionicToe.label>
+  <BionicToe.description>Усовершенствованный искусственный палец ноги. Тонкие датчики и высокоскоростные беспроводные передатчики, проходящие через толстый, но легкий корпус из пластали, делают эти пальцы непревзойденными, когда дело доходит до движения и контроля, намного превосходя биологические пальцы.</BionicToe.description>
+
+
+  <!-- Bionic Jaw -->
+
+  <BionicJaw.label>Бионический челюстной имплантат</BionicJaw.label>
+  <BionicJaw.description>Помимо набора усиленных зубов, имплантат также идет с голосовым модулятором.</BionicJaw.description>
+
+
+  <!-- Silent jaw -->
+
+  <SilentJaw.label>"Молчаливый" челюстной имплантат</SilentJaw.label>
+  <SilentJaw.description>Эта версия бионической челюсти поставляется без голосового модулятора. Полезно для грубых пациентов.</SilentJaw.description>
+
+
+</LanguageData>

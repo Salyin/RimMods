@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Things/FTC_Decoration.xml-->
+                  <!-- stack sandbag (1x2) -->
+<FTC_SandBag1x2c.label>стек мешок с песком (1x2)</FTC_SandBag1x2c.label>
+                        <!-- A stockpile of sandbags, can provide a tough cover or be used as decoration in the colony. -->
+<FTC_SandBag1x2c.description>Запас мешков с песком может служить прочным укрытием или использоваться в качестве украшения в колонии.</FTC_SandBag1x2c.description>
+                  <!-- stack sandbag (2x2) -->
+<FTC_SandBag2x2c.label>стек мешок с песком (2x2)</FTC_SandBag2x2c.label>
+                        <!-- A stockpile of sandbags, can provide a tough cover or be used as decoration in the colony. -->
+<FTC_SandBag2x2c.description>Запас мешков с песком может служить прочным укрытием или использоваться в качестве украшения в колонии.</FTC_SandBag2x2c.description>
+                   <!-- facility conduit -->
+<FTC_PowerConduit.label>кабелепровод сооружения</FTC_PowerConduit.label>
+                         <!-- A bundle of electrical cables for moving power around inside fortifications. it's tough and lay beneath the floor so it also looks fine to people. -->
+<FTC_PowerConduit.description>Пучок электрических кабелей для передачи электроэнергии внутри укреплений. он прочный и лежит под полом, так что людям он тоже нравится.</FTC_PowerConduit.description>
+                <!-- mosaic -->
+<FTC_FloorDeco.label>мозаика</FTC_FloorDeco.label>
+                      <!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDeco.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDeco.description>
+                 <!-- line -->
+<FTC_FloorDecoB.label>линия</FTC_FloorDecoB.label>
+                       <!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDecoB.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDecoB.description>
+                 <!-- strip -->
+<FTC_FloorDecoC.label>полоска</FTC_FloorDecoC.label>
+                       <!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDecoC.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDecoC.description>
+                  <!-- diagonal mosaic -->
+<FTC_FloorDeco_D.label>диагональная мозаика</FTC_FloorDeco_D.label>
+                        <!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDeco_D.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDeco_D.description>
+                   <!-- diagonal liner -->
+<FTC_FloorDecoB_D.label>диагональный вкладыш</FTC_FloorDecoB_D.label>
+                         <!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDecoB_D.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDecoB_D.description>
+                   <!-- diagonal strip -->
+<FTC_FloorDecoC_D.label>диагональная обшивка</FTC_FloorDecoC_D.label>
+                         <!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDecoC_D.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDecoC_D.description>
+
+
+<!--/Defs/Things/FTC_Decoration.xml-->
+<!-- stack sandbag (1x2) -->
+<FTC_SandBag1x2c.label>стек мешок с песком (1x2)</FTC_SandBag1x2c.label>
+<!-- A stockpile of sandbags, can provide a tough cover or be used as decoration in the colony. -->
+<FTC_SandBag1x2c.description>Запас мешков с песком может служить прочным укрытием или использоваться в качестве украшения в колонии.</FTC_SandBag1x2c.description>
+<!-- stack sandbag (2x2) -->
+<FTC_SandBag2x2c.label>стек мешок с песком (2x2)</FTC_SandBag2x2c.label>
+<!-- A stockpile of sandbags, can provide a tough cover or be used as decoration in the colony. -->
+<FTC_SandBag2x2c.description>Запас мешков с песком может служить прочным укрытием или использоваться в качестве украшения в колонии.</FTC_SandBag2x2c.description>
+<!-- facility conduit -->
+<FTC_PowerConduit.label>кабелепровод сооружения</FTC_PowerConduit.label>
+<!-- A bundle of electrical cables for moving power around inside fortifications. it's tough and lay beneath the floor so it also looks fine to people. -->
+<FTC_PowerConduit.description>Пучок электрических кабелей для передачи электроэнергии внутри укреплений. он прочный и лежит под полом, так что людям он тоже нравится.</FTC_PowerConduit.description>
+<!-- mosaic -->
+<FTC_FloorDeco.label>мозаика</FTC_FloorDeco.label>
+<!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDeco.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDeco.description>
+<!-- line -->
+<FTC_FloorDecoB.label>линия</FTC_FloorDecoB.label>
+<!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDecoB.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDecoB.description>
+<!-- strip -->
+<FTC_FloorDecoC.label>полоска</FTC_FloorDecoC.label>
+<!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDecoC.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDecoC.description>
+<!-- diagonal mosaic -->
+<FTC_FloorDeco_D.label>диагональная мозаика</FTC_FloorDeco_D.label>
+<!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDeco_D.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDeco_D.description>
+<!-- diagonal liner -->
+<FTC_FloorDecoB_D.label>диагональный вкладыш</FTC_FloorDecoB_D.label>
+<!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDecoB_D.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDecoB_D.description>
+<!-- diagonal strip -->
+<FTC_FloorDecoC_D.label>диагональная обшивка</FTC_FloorDecoC_D.label>
+<!-- A staggered decorative floor tiles that can make the people living in the bunker feel a little more beautiful. -->
+<FTC_FloorDecoC_D.description>Уложенная в шахматном порядке декоративная напольная плитка, которая может заставить людей, живущих в бункере, чувствовать себя немного красивее.</FTC_FloorDecoC_D.description>
+
+</LanguageData>

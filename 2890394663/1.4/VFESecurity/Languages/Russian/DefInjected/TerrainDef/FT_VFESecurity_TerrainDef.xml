@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/VFESecurity/Defs/FT_VFESecurity.xml-->
+                        <!-- fortified trench floor -->
+<FT_VFES_TrenchTerrain.label>дно укрепленной траншеи</FT_VFES_TrenchTerrain.label>
+                          <!-- fortified platform -->
+<FT_VFES_PlatformTerrain.label>укреплённая платформа</FT_VFES_PlatformTerrain.label>
+
+</LanguageData>

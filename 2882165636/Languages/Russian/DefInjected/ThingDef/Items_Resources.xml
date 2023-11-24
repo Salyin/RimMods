@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EPOE_DamagedScytherBlade.label>Поврежденный клинок жнеца</EPOE_DamagedScytherBlade.label>
+  <EPOE_DamagedScytherBlade.description>Поврежденный клинок, извлеченный из мертвого механоида-жнеца. Не очень полезно в его нынешнем состоянии. Может быть восстановлен на верстаке для протезирования или выплавлен для получения пластали.</EPOE_DamagedScytherBlade.description>
+
+  <EPOE_MAAI_Chip.label>MA-AI chip</EPOE_MAAI_Chip.label>
+  <EPOE_MAAI_Chip.description>Искусственный интеллект помощника врача. Используется в качестве специализированного компонента в современных и деликатных имплантатах с системой искусственного интеллекта, которая может обрабатывать все сложные процессы устройства, не обременяя пользователя.</EPOE_MAAI_Chip.description>
+
+
+</LanguageData>

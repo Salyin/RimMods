@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Tier4Android.label>T4 Андроид</ATR_Tier4Android.label>
+  <ATR_Tier4Android.description>Андроид четвертого уровня - вершина известной теории и практики создания андроидов. Он отличается наличием специального ядра искусственного интеллекта, усовершенствованным корпусом и уникальными внутренними компонентами, изготовленными по самым современным технологиям.\n\nАндроиды четвертого уровня обладают высокими физическими и умственными способностями, и это часто приводит к тщеславию, нарциссизму и пренебрежению к другим моделям.</ATR_Tier4Android.description>
+  <ATR_Tier4Android.tools.0.label>правый кулак</ATR_Tier4Android.tools.0.label>
+  <ATR_Tier4Android.tools.1.label>левый кулак</ATR_Tier4Android.tools.1.label>
+  <ATR_Tier4Android.tools.2.label>голова</ATR_Tier4Android.tools.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Colonist Bar Below Dev Buttons</name>
+  <author>Foxy</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>Foxy.ColonistBarBelowDev</packageId>
+  <description><![CDATA[
+When dev mode is active, move colonist bar down a little, so it doesnt touch dev buttons.
+]]></description>
+
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>DerekBickley.LTOColonyGroupsFinal</li>
+  </loadAfter>
+</ModMetaData>

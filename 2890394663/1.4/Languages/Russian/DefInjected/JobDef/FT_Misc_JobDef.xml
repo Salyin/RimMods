@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_Misc.xml-->
+                                <!-- entering facility -->
+<FT_EnterBunkerFacility.reportString>вход в объект</FT_EnterBunkerFacility.reportString>
+                     <!-- Listen to the radio. -->
+<FT_UseRadio.reportString>Слушать радио.</FT_UseRadio.reportString>
+
+</LanguageData>

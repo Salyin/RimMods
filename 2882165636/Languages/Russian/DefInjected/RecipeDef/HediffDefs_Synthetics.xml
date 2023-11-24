@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Synthetic heart -->
+
+  <InstallBionicHeart.label>Имплантировать синтетическое сердце</InstallBionicHeart.label>
+  <InstallBionicHeart.description>Имплантировать синтетическое сердце.</InstallBionicHeart.description>
+  <InstallBionicHeart.jobString>Имплантирует синтетическое сердце.</InstallBionicHeart.jobString>
+
+
+  <!-- Synthetic lung -->
+
+  <InstallSyntheticLung.label>Имплантировать синтетическое лёгкое</InstallSyntheticLung.label>
+  <InstallSyntheticLung.description>Имплантировать синтетическое лёгкое.</InstallSyntheticLung.description>
+  <InstallSyntheticLung.jobString>Имплантирует интетическое лёгкое.</InstallSyntheticLung.jobString>
+
+
+  <!-- Synthetic stomach -->
+
+  <InstallBionicStomach.label>Имплантировать синтетический желудок</InstallBionicStomach.label>
+  <InstallBionicStomach.description>Имплантировать синтетический желудок.</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>Имплантирует синтетический желудок.</InstallBionicStomach.jobString>
+
+
+  <!-- Synthetic liver -->
+
+  <InstallSyntheticLiver.label>Имплантировать синтетическую печень</InstallSyntheticLiver.label>
+  <InstallSyntheticLiver.description>Имплантировать синтетическую печень.</InstallSyntheticLiver.description>
+  <InstallSyntheticLiver.jobString>Имплантирует синтетическую печень.</InstallSyntheticLiver.jobString>
+
+
+  <!-- Synthetic kidney -->
+
+  <InstallSyntheticKidney.label>Имплантировать синтетическую почку</InstallSyntheticKidney.label>
+  <InstallSyntheticKidney.description>Имплантировать синтетическую почку.</InstallSyntheticKidney.description>
+  <InstallSyntheticKidney.jobString>Имплантирует синтетическую почку.</InstallSyntheticKidney.jobString>
+
+
+  <!-- Muscle stimulator -->
+
+  <InstallMuscleStimulatorArms.label>Имплантировать Стимулятор мышц рук</InstallMuscleStimulatorArms.label>
+  <InstallMuscleStimulatorArms.description>Имплантировать Стимулятор мышц рук.</InstallMuscleStimulatorArms.description>
+  <InstallMuscleStimulatorArms.jobString>Имплантирует Стимулятор мышц рук.</InstallMuscleStimulatorArms.jobString>
+
+  <InstallMuscleStimulatorLegs.label>Имплантировать Стимулятор мышц ног</InstallMuscleStimulatorLegs.label>
+  <InstallMuscleStimulatorLegs.description>Имплантировать Стимулятор мышц ног.</InstallMuscleStimulatorLegs.description>
+  <InstallMuscleStimulatorLegs.jobString>Имплантирует Стимулятор мышц ног.</InstallMuscleStimulatorLegs.jobString>
+
+
+  <!-- AI chip -->
+
+  <CreateAIChip.label>Смастерить ИИ-Чип</CreateAIChip.label>
+  <CreateAIChip.description>Создание ИИ-Чипа. Требует золото и продвинутые компоненты для высококачественной микросхемы.</CreateAIChip.description>
+  <CreateAIChip.jobString>Создаёт синтетический орган.</CreateAIChip.jobString>
+
+  <InstallAIChip.label>Имплантировать ИИ-Чип</InstallAIChip.label>
+  <InstallAIChip.description>Имплантировать ИИ-Чип.</InstallAIChip.description>
+  <InstallAIChip.jobString>Имплантирует ИИ-Чип.</InstallAIChip.jobString>
+
+  <RemoveAIChip.label>Удалить ИИ-Чип</RemoveAIChip.label>
+  <RemoveAIChip.description>Удалить ИИ-Чип.</RemoveAIChip.description>
+  <RemoveAIChip.jobString>Удаляет ИИ-Чип.</RemoveAIChip.jobString>
+
+
+</LanguageData>

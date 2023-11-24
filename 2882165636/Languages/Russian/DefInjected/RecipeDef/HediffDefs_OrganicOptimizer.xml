@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Organic optimizing nanobots -->
+
+  <EPOE_OrganicOptimizing.label>Органические оптимизирующие наноботы</EPOE_OrganicOptimizing.label>
+  <EPOE_OrganicOptimizing.description>Улучшайте и раскрывайте потенциал естественной части тела с помощью органических оптимизирующих наноботов, при этом хирург тщательно следит за первоначальным применением и прогрессом.</EPOE_OrganicOptimizing.description>
+  <EPOE_OrganicOptimizing.jobString>Оптимизация наноботами части тела.</EPOE_OrganicOptimizing.jobString>
+
+  <EPIA_OrganicOptimizing_Organ.label>Органические оптимизирующие наноботы органов</EPIA_OrganicOptimizing_Organ.label>
+  <EPIA_OrganicOptimizing_Organ.description>Улучшайте и раскрывайте потенциал естественного органа с помощью органических оптимизирующих наноботов, при этом хирург тщательно следит за первоначальным применением и прогрессом.</EPIA_OrganicOptimizing_Organ.description>
+  <EPIA_OrganicOptimizing_Organ.jobString>Оптимизация органа наноботами.</EPIA_OrganicOptimizing_Organ.jobString>
+
+
+  <!-- Eyes: Improved reactive pupil -->
+
+  <EPOE_InstinctOptimizingEyes.label>Улучшенный реактивный зрачок</EPOE_InstinctOptimizingEyes.label>
+  <EPOE_InstinctOptimizingEyes.description>Улучшите инстинктивную реакцию глаз с помощью наноботов, оптимизирующих инстинкт, улучшая точность попадания и прицеливания. Хирург тщательно следит за первоначальным применением и прогрессом.</EPOE_InstinctOptimizingEyes.description>
+  <EPOE_InstinctOptimizingEyes.jobString>Оптимизация зрачка с помощью наноботов.</EPOE_InstinctOptimizingEyes.jobString>
+
+
+  <!-- Hand: Improved hand reflex -->
+
+  <EPOE_InstinctOptimizingHands.label>Улучшенный рефлекс рук</EPOE_InstinctOptimizingHands.label>
+  <EPOE_InstinctOptimizingHands.description>Улучшайте инстинктивную реакцию рук с помощью наноботов, оптимизирующих инстинкт, улучшая скорость прицеливания, нанося удары оружием ближнего боя и общую тренировочную работу. с хирургом, тщательно следящим за первоначальным применением и прогрессом.</EPOE_InstinctOptimizingHands.description>
+  <EPOE_InstinctOptimizingHands.jobString>Оптимизация наноботами рефлексы рук.</EPOE_InstinctOptimizingHands.jobString>
+
+
+  <!-- Foot: nimble instinct -->
+
+  <EPOE_InstinctOptimizingFoot.label>Инстинкт уклонения</EPOE_InstinctOptimizingFoot.label>
+  <EPOE_InstinctOptimizingFoot.description>Улучшите инстинктивную реакцию ног с помощью наноботов, оптимизирующих инстинкт, улучшая способность уклоняться от входящих атак ближнего боя. Хирург тщательно следит за первоначальным применением и прогрессом.</EPOE_InstinctOptimizingFoot.description>
+  <EPOE_InstinctOptimizingFoot.jobString>Оптимизация наноботами ноги.</EPOE_InstinctOptimizingFoot.jobString>
+
+
+</LanguageData>

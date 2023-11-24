@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Outland_DottedTiles</defName>
+		<label>dotted tiles</label>
+	</DesignatorDropdownGroupDef>
+
+	<TerrainDef Abstract="True" ParentName="OutlandTileStoneBase" Name="OutlandDottedTilesBase">
+		<texturePath>Outland/Terrain/DottedTiles</texturePath>
+		<statBases>
+			<WorkToBuild>1100</WorkToBuild>
+			<Beauty>1</Beauty>
+		</statBases>
+		<designatorDropdown>Outland_DottedTiles</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandDottedTilesBase">
+		<defName>Outland_DottedTiles_Sandstone</defName>
+		<label>sandstone dotted tiles</label>
+		<color>(126,104,94)</color>
+		<costList>
+			<BlocksSandstone>4</BlocksSandstone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandDottedTilesBase">
+		<defName>Outland_DottedTiles_Granite</defName>
+		<label>granite dotted tiles</label>
+		<color>(105,95,97)</color>
+		<costList>
+			<BlocksGranite>4</BlocksGranite>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandDottedTilesBase">
+		<defName>Outland_DottedTiles_Limestone</defName>
+		<label>limestone dotted tiles</label>
+		<color>(158,153,135)</color>
+		<costList>
+			<BlocksLimestone>4</BlocksLimestone>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandDottedTilesBase">
+		<defName>Outland_DottedTiles_Slate</defName>
+		<label>slate dotted tiles</label>
+		<color>(100,100,100)</color>
+		<costList>
+			<BlocksSlate>4</BlocksSlate>
+		</costList>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandDottedTilesBase">
+		<defName>Outland_DottedTiles_Marble</defName>
+		<label>marble dotted tiles</label>
+		<color>(132,135,132)</color>
+		<costList>
+			<BlocksMarble>4</BlocksMarble>
+		</costList>
+	</TerrainDef>
+
+</Defs>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rotary Autocannon -->
+
+  <ATR_AutocannonShell.label>снаряд автопушки</ATR_AutocannonShell.label>
+
+  <ATR_RotaryAutocannon.label>автопушка</ATR_RotaryAutocannon.label>
+  <ATR_RotaryAutocannon.description>Это огромное оружие, больше любого человека, предназначенное для уничтожения даже самых многочисленных и бронированных противников, под шквал артиллерийских снарядов прямой наводки.\n\nТакое оружие, может монтироваться только на массивных боевых андроидов, это вызывает вопрос: было ли такое оружие изобретено для победы над мехами или было изобретено мехами для собственного пользования?</ATR_RotaryAutocannon.description>
+  <ATR_RotaryAutocannon.tools.0.label>ствол</ATR_RotaryAutocannon.tools.0.label>
+  <ATR_RotaryAutocannon.tools.1.label>магазин</ATR_RotaryAutocannon.tools.1.label>
+  <ATR_RotaryAutocannon.tools.2.label>сцепление</ATR_RotaryAutocannon.tools.2.label>
+
+
+  <!-- Rotary Shrapnelcannon -->
+
+  <ATR_ShrapnelcannonChunk.label>осколочный снаряд</ATR_ShrapnelcannonChunk.label>
+
+  <ATR_RotaryShrapnelcannon.label>осколочная пушка</ATR_RotaryShrapnelcannon.label>
+  <ATR_RotaryShrapnelcannon.description>Это огромное оружие, больше любого человека, предназначенное для уничтожения даже самых многочисленных и бронированных противников, под шквал артиллерийских снарядов прямой наводки.\n\nТакое оружие, может монтироваться только на массивных боевых андроидов, это вызывает вопрос: было ли такое оружие изобретено для победы над мехами или было изобретено мехами для собственного пользования?</ATR_RotaryShrapnelcannon.description>
+  <ATR_RotaryShrapnelcannon.tools.0.label>ствол</ATR_RotaryShrapnelcannon.tools.0.label>
+  <ATR_RotaryShrapnelcannon.tools.1.label>магазин</ATR_RotaryShrapnelcannon.tools.1.label>
+  <ATR_RotaryShrapnelcannon.tools.2.label>сцепление</ATR_RotaryShrapnelcannon.tools.2.label>
+
+
+  <!-- Headhunter Cannon -->
+
+  <ATR_HeadhunterCannon.label>охотник за головами</ATR_HeadhunterCannon.label>
+  <ATR_HeadhunterCannon.description>Это огромное оружие, больше любого человека, предназначенное для уничтожения даже самых многочисленных и бронированных противников, под шквал артиллерийских снарядов прямой наводки.\n\nТакое оружие, может монтироваться только на массивных боевых андроидов, это вызывает вопрос: было ли такое оружие изобретено для победы над мехами или было изобретено мехами для собственного пользования?</ATR_HeadhunterCannon.description>
+  <ATR_HeadhunterCannon.tools.0.label>ствол</ATR_HeadhunterCannon.tools.0.label>
+  <ATR_HeadhunterCannon.tools.1.label>магазин</ATR_HeadhunterCannon.tools.1.label>
+  <ATR_HeadhunterCannon.tools.2.label>сцепление</ATR_HeadhunterCannon.tools.2.label>
+
+
+  <!-- Mech Poleaxe -->
+
+  <ATR_MechPoleaxe.label>огромная секира</ATR_MechPoleaxe.label>
+  <ATR_MechPoleaxe.description>Это огромное оружие, больше любого человека, предназначенное для уничтожения даже самых многочисленных и бронированных противников, под шквал артиллерийских снарядов прямой наводки.\n\nТакое оружие, может монтироваться только на массивных боевых андроидов, это вызывает вопрос: было ли такое оружие изобретено для победы над мехами или было изобретено мехами для собственного пользования?</ATR_MechPoleaxe.description>
+  <ATR_MechPoleaxe.tools.0.label>лезвие</ATR_MechPoleaxe.tools.0.label>
+  <ATR_MechPoleaxe.tools.1.label>лезвие</ATR_MechPoleaxe.tools.1.label>
+  <ATR_MechPoleaxe.tools.2.label>ударник</ATR_MechPoleaxe.tools.2.label>
+
+
+</LanguageData>

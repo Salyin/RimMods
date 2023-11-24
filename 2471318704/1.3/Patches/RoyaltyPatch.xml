@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Royalty</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<operations>
+
+			        <li Class="PatchOperationReplace">
+				<xpath>/Defs/TerrainDef[defName="AB_FinestoneRoseQuartz"]/label</xpath>
+				<value>
+				<label>изысканная плитка из розового кварца</label>
+				</value>
+			        </li>
+       				<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName="AB_FinestoneRoseQuartz"]</xpath>
+				<value>
+			        <description>Роскошная каменная плитка без малейшего изъяна, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве. Эта плитка сделана из экзотических материалов.</description>
+				</value>
+				</li>
+				
+			        <li Class="PatchOperationReplace">
+				<xpath>/Defs/TerrainDef[defName="AB_FinestoneMudstone"]/label</xpath>
+				<value>
+				<label>изысканная плитка из аргиллита</label>
+				</value>
+			        </li>
+       				<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName="AB_FinestoneMudstone"]</xpath>
+				<value>
+			        <description>Роскошная каменная плитка без малейшего изъяна, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве. Эта плитка сделана из экзотических материалов.</description>
+				</value>
+				</li>
+				
+			        <li Class="PatchOperationReplace">
+				<xpath>/Defs/TerrainDef[defName="AB_FinestoneCragstone"]/label</xpath>
+				<value>
+				<label>изысканная плитка из скального камня</label>
+				</value>
+			        </li>
+       				<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName="AB_FinestoneCragstone"]</xpath>
+				<value>
+			        <description>Роскошная каменная плитка без малейшего изъяна, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве. Эта плитка сделана из экзотических материалов.</description>
+				</value>
+				</li>
+
+			        <li Class="PatchOperationReplace">
+				<xpath>/Defs/TerrainDef[defName="AB_FinestoneObsidian"]/label</xpath>
+				<value>
+				<label>изысканная плитка из обсидиана</label>
+				</value>
+			        </li>
+       				<li Class="PatchOperationAdd">
+				<xpath>/Defs/TerrainDef[defName="AB_FinestoneObsidian"]</xpath>
+				<value>
+			        <description>Роскошная каменная плитка без малейшего изъяна, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве. Эта плитка сделана из экзотических материалов.</description>
+				</value>
+				</li>
+				
+			</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+
+
+
+
+
+
+
+
+

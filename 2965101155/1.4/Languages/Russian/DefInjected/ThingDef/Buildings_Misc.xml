@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MaintenanceSpot.label>место техобслуживания</ATR_MaintenanceSpot.label>
+  <ATR_MaintenanceSpot.description>Назначает место для проведения техобслуживания. Андроиды предпочтут заниматься техобслуживанием здесь. Месту техобслуживания можно назначить владельцев.</ATR_MaintenanceSpot.description>
+
+
+</LanguageData>

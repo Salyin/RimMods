@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MinceOrgans.label>перемолоть органы</MinceOrgans.label>
+  <MinceOrgans.description>Пропустить через мясорубку человеческие органы, чтобы получить съедобное мясо. Отличная еда для заключённых.</MinceOrgans.description>
+  <MinceOrgans.jobString>Перемалывает органы.</MinceOrgans.jobString>
+
+
+</LanguageData>

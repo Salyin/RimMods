@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_Security.xml-->
+                <!-- shell shock -->
+<FT_ShellShock.label>контузия</FT_ShellShock.label>
+                      <!-- a psychological disturbance caused by prolonged exposure to active warfare, especially being under bombardment -->
+<FT_ShellShock.description>психологическое расстройство, вызванное длительным пребыванием в активных боевых действиях, особенно под бомбардировками</FT_ShellShock.description>
+                         <!-- initial -->
+<FT_ShellShock.stages.0.label>Начальный</FT_ShellShock.stages.0.label>
+                         <!-- initial -->
+<FT_ShellShock.stages.1.label>Начальный</FT_ShellShock.stages.1.label>
+                         <!-- minor -->
+<FT_ShellShock.stages.2.label>незначительное</FT_ShellShock.stages.2.label>
+                         <!-- serious -->
+<FT_ShellShock.stages.3.label>серьезный</FT_ShellShock.stages.3.label>
+                         <!-- catatonic -->
+<FT_ShellShock.stages.4.label>кататонический</FT_ShellShock.stages.4.label>
+                         <!-- extreme -->
+<FT_ShellShock.stages.5.label>крайний</FT_ShellShock.stages.5.label>
+
+</LanguageData>

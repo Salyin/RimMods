@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SkyMind Towers Abstract -->
+
+  <ATR_SkyMindRelay.label>релейная башня SkyMind</ATR_SkyMindRelay.label>
+  <ATR_SkyMindRelay.description>Релейная башня SkyMind действует как передатчик для андроидов, подключенных к ней. Такие башни необходимы для удаленного управления суррогатами. Релейная башня имеет емкость для трех непрерывно соединенных устройств.</ATR_SkyMindRelay.description>
+
+  <ATR_SkyMindNetwork.label>сетевая башня SkyMind</ATR_SkyMindNetwork.label>
+  <ATR_SkyMindNetwork.description>Сетевая башня SkyMind действует как мощный сетевой хост для андроидов, подключенных к ней. Такие башни необходимы для удаленного управления суррогатами, различным сетевыми операциями и переноса сознания. Сетевая башня имеет емкость для пятнадцати непрерывно соединенных устройств.</ATR_SkyMindNetwork.description>
+
+
+</LanguageData>

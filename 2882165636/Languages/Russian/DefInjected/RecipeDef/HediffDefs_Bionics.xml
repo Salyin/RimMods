@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionic hand -->
+
+  <InstallBionicHand.label>Вживить бионическую кисть</InstallBionicHand.label>
+  <InstallBionicHand.description>Вживление бионической кисти.</InstallBionicHand.description>
+  <InstallBionicHand.jobString>Вживляет бионическую кисть.</InstallBionicHand.jobString>
+
+
+  <!-- Bionic FOot -->
+
+  <InstallBionicFoot.label>Вживить бионическую ступню</InstallBionicFoot.label>
+  <InstallBionicFoot.description>Вживление бионической ступни.</InstallBionicFoot.description>
+  <InstallBionicFoot.jobString>Вживляет бионическую ступню.</InstallBionicFoot.jobString>
+
+
+  <!-- Bionic finger -->
+
+  <InstallBionicFinger.label>Вживить бионический палец</InstallBionicFinger.label>
+  <InstallBionicFinger.description>Вживить бионический палец.</InstallBionicFinger.description>
+  <InstallBionicFinger.jobString>Вживляет бионический палец.</InstallBionicFinger.jobString>
+
+
+  <!-- Bionic toe -->
+
+  <InstallBionicToe.label>Вживить бионический палец ноги</InstallBionicToe.label>
+  <InstallBionicToe.description>Вживить бионический палец ноги.</InstallBionicToe.description>
+  <InstallBionicToe.jobString>Вживляет бионический палец ноги.</InstallBionicToe.jobString>
+
+
+  <!-- Bionic Jaw -->
+
+  <InstallBionicJaw.label>Вживить бионический челюстной имплантат</InstallBionicJaw.label>
+  <InstallBionicJaw.description>Вживление бионического челюстного имплантата.</InstallBionicJaw.description>
+  <InstallBionicJaw.jobString>Вживляет бионический челюстной имплантат.</InstallBionicJaw.jobString>
+
+
+  <!-- Silent jaw -->
+
+  <InstallSilentJaw.label>Вживить "молчаливый" челюстной имплантат</InstallSilentJaw.label>
+  <InstallSilentJaw.description>Вживление "молчаливого" челюстного имплантата.</InstallSilentJaw.description>
+  <InstallSilentJaw.jobString>Вживляет "молчаливый" челюстной имплантат.</InstallSilentJaw.jobString>
+
+
+</LanguageData>

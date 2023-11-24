@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CORE MODEL DEFINITIONS -->
+
+  <ATR_AndroidT2Surrogate.label>T2 Андроид суррогат</ATR_AndroidT2Surrogate.label>
+  <ATR_AndroidT2Surrogate.labelPlural>T2 Андроиды суррогаты</ATR_AndroidT2Surrogate.labelPlural>
+  <ATR_AndroidT2Surrogate.labelMale>T2 Андроид суррогат</ATR_AndroidT2Surrogate.labelMale>
+  <ATR_AndroidT2Surrogate.labelMalePlural>T2 Андроиды суррогаты</ATR_AndroidT2Surrogate.labelMalePlural>
+  <ATR_AndroidT2Surrogate.labelFemale>T2 Андроид суррогат</ATR_AndroidT2Surrogate.labelFemale>
+  <ATR_AndroidT2Surrogate.labelFemalePlural>T2 Андроиды суррогаты</ATR_AndroidT2Surrogate.labelFemalePlural>
+
+  <ATR_AndroidT3Surrogate.label>T3 Андроид суррогат</ATR_AndroidT3Surrogate.label>
+  <ATR_AndroidT3Surrogate.labelPlural>T3 Андроиды суррогаты</ATR_AndroidT3Surrogate.labelPlural>
+  <ATR_AndroidT3Surrogate.labelMale>T3 Андроид суррогат</ATR_AndroidT3Surrogate.labelMale>
+  <ATR_AndroidT3Surrogate.labelMalePlural>T3 Андроиды суррогаты</ATR_AndroidT3Surrogate.labelMalePlural>
+  <ATR_AndroidT3Surrogate.labelFemale>T3 Андроид суррогат</ATR_AndroidT3Surrogate.labelFemale>
+  <ATR_AndroidT3Surrogate.labelFemalePlural>T3 Андроиды суррогаты</ATR_AndroidT3Surrogate.labelFemalePlural>
+
+  <ATR_AndroidT4Surrogate.label>T4 Андроид суррогат</ATR_AndroidT4Surrogate.label>
+  <ATR_AndroidT4Surrogate.labelPlural>T4 Андроиды суррогаты</ATR_AndroidT4Surrogate.labelPlural>
+  <ATR_AndroidT4Surrogate.labelMale>T4 Андроид суррогат</ATR_AndroidT4Surrogate.labelMale>
+  <ATR_AndroidT4Surrogate.labelMalePlural>T4 Андроиды суррогаты</ATR_AndroidT4Surrogate.labelMalePlural>
+  <ATR_AndroidT4Surrogate.labelFemale>T4 Андроид суррогат</ATR_AndroidT4Surrogate.labelFemale>
+  <ATR_AndroidT4Surrogate.labelFemalePlural>T4 Андроиды суррогаты</ATR_AndroidT4Surrogate.labelFemalePlural>
+
+
+</LanguageData>

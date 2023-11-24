@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="OutlandTerrain.PatchOperation_SettingActive">
+		<settings>
+			<li>additionalStoneFloors</li>
+		</settings>
+		<inactive Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/TerrainDef[@ParentName="OutlandBevelCornerTilesBase" or @ParentName="OutlandWarpedTilesBase" or @ParentName="OutlandOrnateTilesBase" or @ParentName="OutlandIrregularTilesCrackedBase" or @ParentName="OutlandIrregularTilesBase" or @ParentName="OutlandDottedTilesBase" or @ParentName="OutlandCrackedTilesBase" or @ParentName="OutlandCrackedPatternedTilesBase" or @ParentName="OutlandCobblestoneBase" or @ParentName="OutlandBrickRoadCrackedBase" or @ParentName="OutlandBrickRoadBase"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/TerrainDef[@Name="OutlandBevelCornerTilesBase" or @Name="OutlandWarpedTilesBase" or @Name="OutlandOrnateTilesBase" or @Name="OutlandIrregularTilesCrackedBase" or @Name="OutlandIrregularTilesBase" or @Name="OutlandDottedTilesBase" or @Name="OutlandCrackedTilesBase" or @Name="OutlandCrackedPatternedTilesBase" or @Name="OutlandCobblestoneBase" or @Name="OutlandBrickRoadCrackedBase" or @Name="OutlandBrickRoadBase"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/DesignatorDropdownGroupDef[defName="Outland_BevelCornerTiles" or defName="Outland_WarpedTiles" or defName="Outland_OrnateTiles" or defName="Outland_IrregularTilesCracked" or defName="Outland_IrregularTiles" or defName="Outland_DottedTiles" or defName="Outland_CrackedTiles" or defName="Outland_CrackedPatternedTiles" or defName="Outland_Cobblestone" or defName="Outland_BrickRoadCracked" or defName="Outland_BrickRoad"]</xpath>
+				</li>
+			</operations>
+		</inactive>
+	</Operation>
+
+</Patch>

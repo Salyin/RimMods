@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_Misc.xml-->
+                   <!-- mobile chemfuel generator -->
+<FT_FuelGenerator.label>мобильный генератор химического топлива</FT_FuelGenerator.label>
+                         <!-- Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
+<FT_FuelGenerator.description>Вырабатывает энергию, потребляя химическое топливо. Должен периодически заправляться вручную.</FT_FuelGenerator.description>
+           <!-- E.N.I.A.C. -->
+<FT_ENIAC.label>E.N.I.A.C.</FT_ENIAC.label>
+                 <!-- Electronic Numerical Integrator And Computer Or simply call it Eniac, big and highly consume power energy, Increases research speed when placed near hi-tech research bench and unlocks new research projects from reading the Disk.
+	Each research bench can connect to 4 ENIAC. -->
+<FT_ENIAC.description>Электронный числовой интегратор и компьютер или просто называемый Эниак, большой и сильно потребляющий энергию, увеличивает скорость исследования при размещении рядом с высокотехнологичным исследовательским стендом и разблокирует новые исследовательские проекты от чтения Диска. Каждый исследовательский стенд может подключаться к 4 ENIAC.</FT_ENIAC.description>
+                  <!-- Antenna Tower -->
+<FT_AntennaTower.label>Антенная башня</FT_AntennaTower.label>
+                        <!-- A bigger version of orbital trade beacon,(WIP), will have more function in the future. -->
+<FT_AntennaTower.description>Большая версия орбитального торгового маяка, (WIP), будет иметь больше функций в будущем.</FT_AntennaTower.description>
+           <!-- Radio terminal -->
+<FT_Radio.label>Радиотерминал</FT_Radio.label>
+                 <!-- Allows radio contact with other factions and orbital traders,also when interrogating the frequency band, some interference that may be precious metals can be located,(WIP), will have more function in the future. -->
+<FT_Radio.description>Позволяет осуществлять радиоконтакт с другими фракциями и орбитальными торговцами, также при опросе частотного диапазона, некоторые помехи, которые могут быть драгоценными металлами могут быть расположены, (WIP), будет иметь больше функций в будущем.</FT_Radio.description>
+
+</LanguageData>

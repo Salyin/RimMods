@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced Arm -->
+
+  <ATR_AdvancedArm.label>кибернетическая рука</ATR_AdvancedArm.label>
+  <ATR_AdvancedArm.description>Более высокая надежность и дорогие компоненты, дают этой руке значительное преимущество перед заводским аналогом.</ATR_AdvancedArm.description>
+
+
+  <!-- Advanced Leg -->
+
+  <ATR_AdvancedLeg.label>кибернетическая нога</ATR_AdvancedLeg.label>
+  <ATR_AdvancedLeg.description>Более высокая надежность и дорогие компоненты, дают этой ноге значительное преимущество перед заводским аналогом.</ATR_AdvancedLeg.description>
+
+
+  <!-- Advanced Visual Sensor -->
+
+  <ATR_AdvancedVisualSensor.label>оптический сверхдатчик</ATR_AdvancedVisualSensor.label>
+  <ATR_AdvancedVisualSensor.description>Более высокое разрешение матрицы и дорогие компоненты, дают этому датчику значительное преимущество перед заводским аналогом.</ATR_AdvancedVisualSensor.description>
+
+
+  <!-- Advanced Audio Sensor -->
+
+  <ATR_AdvancedAudioSensor.label>звуковой сверхдатчик</ATR_AdvancedAudioSensor.label>
+  <ATR_AdvancedAudioSensor.description>Более высокие частоты звуковой карты и дорогие компоненты, дают этому датчику значительное преимущество перед заводским аналогом.</ATR_AdvancedAudioSensor.description>
+
+
+  <!-- Advanced Heatsink -->
+
+  <ATR_AdvancedHeatsink.label>усиленный радиатор</ATR_AdvancedHeatsink.label>
+  <ATR_AdvancedHeatsink.description>Более прочная рама и дорогие компоненты, дают этому радиатору значительное преимущество перед заводским аналогом.</ATR_AdvancedHeatsink.description>
+
+
+  <!-- Advanced Coolant Pump -->
+
+  <ATR_AdvancedCoolantPump.label>усиленный гидронасос</ATR_AdvancedCoolantPump.label>
+  <ATR_AdvancedCoolantPump.description>Более мощный электромотор и дорогие компоненты, дают этому гидронасосу значительное преимущество перед заводским аналогом.</ATR_AdvancedCoolantPump.description>
+
+
+  <!-- Advanced Battery -->
+
+  <ATR_AdvancedBattery.label>сверхнакопитель</ATR_AdvancedBattery.label>
+  <ATR_AdvancedBattery.description>Новый сверхсовременный накопитель вместо старого аккумулятора. Увеличивает ёмкость батарей андроида, и позволяет дольше автономно существовать без подзарядки.</ATR_AdvancedBattery.description>
+
+
+  <!-- Advanced Mechanite Storage -->
+
+  <ATR_AdvancedMechaniteStorage.label>сверхконденсатор</ATR_AdvancedMechaniteStorage.label>
+  <ATR_AdvancedMechaniteStorage.description>Более высокая емкость и дорогие компоненты, дают этому гиперконденсатору значительное преимущество перед заводским аналогом.\n\nУвеличенное количество механитов, ускоряют скорость восстановления повреждений.</ATR_AdvancedMechaniteStorage.description>
+
+
+  <!-- Advanced Reactor -->
+
+  <ATR_AdvancedReactor.label>биореактор</ATR_AdvancedReactor.label>
+  <ATR_AdvancedReactor.description>Новый сверхсовременный биореактор вместо старого генератора. Уменьшает потерю энергии и количество органической пищи нужное для автономного существования андроида.</ATR_AdvancedReactor.description>
+
+
+  <!-- Organic Charger -->
+
+  <ATR_OrganicCharger.label>приёмник энергии</ATR_OrganicCharger.label>
+  <ATR_OrganicCharger.description>сверхсовременный кибернетический имплант, который позволяет органическим существа, заряжаться. Он никак не мешает потреблению пищи, но потребует больше энергии, увеличивая общую энергетическую потребность владельца.\n\nИз-за потока энергии возбуждающей нейроны мозга, владелец приёмника не сможет уснуть, пока процесс зарядки не закончится.</ATR_OrganicCharger.description>
+
+
+</LanguageData>

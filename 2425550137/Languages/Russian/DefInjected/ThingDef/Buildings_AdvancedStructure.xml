@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Deployable Barrier -->
+
+  <VFES_DeployableBarrier.label>выдвижной барьер</VFES_DeployableBarrier.label>
+  <VFES_DeployableBarrier.description>Выдвижной барьер, который выглядит как обычная напольная плитка в отключенном состоянии. Обеспечивает отличное укрытие от дальнобойных атак. В сложенном состоянии получает вдвое меньше урона.</VFES_DeployableBarrier.description>
+
+
+  <!-- Deployable Turret -->
+
+  <VFES_Turret_FloorTurret.label>выдвижная двуствольная турель</VFES_Turret_FloorTurret.label>
+  <VFES_Turret_FloorTurret.description>Выдвижная двухствольная автоматическая боевая турель, которая выглядит как обычная напольная плитка в отключенном состоянии. В сложенном состоянии получает вдвое меньше урона. Требуется сталь для восстановления стволов после интенсивного использования. При повреждении может взорваться. Управляется тупым искуственным интеллектом, поэтому остерегайтесь дружественного огня.</VFES_Turret_FloorTurret.description>
+
+  <VFES_Gun_FloorTurret.label>выдвижная двуствольная турель</VFES_Gun_FloorTurret.label>
+  <VFES_Gun_FloorTurret.description>Два автоматических ствола, предназначенные для установки на турель.</VFES_Gun_FloorTurret.description>
+
+
+  <!-- HMG Complex (3.15,1.45) -->
+
+  <VFES_Turret_HMGComplex.label>крупнокалиберный пулемет</VFES_Turret_HMGComplex.label>
+  <VFES_Turret_HMGComplex.description>Стационарный крупнокалиберный пулемет, установленный на мешки с песком для укрытия.</VFES_Turret_HMGComplex.description>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.fuelLabel>Выстрелов до перезарядки</VFES_Turret_HMGComplex.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.fuelGizmoLabel>Патроны</VFES_Turret_HMGComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_HMGComplex.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: закончились патроны</VFES_Turret_HMGComplex.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Gun_HMGComplex.label>крупнокалиберный пулемет</VFES_Gun_HMGComplex.label>
+  <VFES_Gun_HMGComplex.description>Крупнокалиберный пулемет, предназначенный для установки на мешки.</VFES_Gun_HMGComplex.description>
+
+  <VFES_Bullet_HMGComplex.label>крупнокалиберная пулеметная пуля</VFES_Bullet_HMGComplex.label>
+
+
+</LanguageData>

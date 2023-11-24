@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EPIA_EMP_Disorientation.label>Дезориентация</EPIA_EMP_Disorientation.label>
+  <EPIA_EMP_Disorientation.description>Последствия поражения мозга электрическим током. Обычно это вызвано обратной связью от мозговых имплантатов, пораженных импульсами ЭМИ.</EPIA_EMP_Disorientation.description>
+
+  <EPIA_EMP_ProtectiveExoskeleton.label>Отключенный защитный экзоскелет</EPIA_EMP_ProtectiveExoskeleton.label>
+  <EPIA_EMP_ProtectiveExoskeleton.description>Электромагнитный импульс отключает функцию смягчения повреждений защитного экзоскелета и становится мертвым грузом, который обременяет пользователя на некоторое время.</EPIA_EMP_ProtectiveExoskeleton.description>
+
+  <EPIA_AIPersonaCore_GlitchMinor.label>Незначительный сбой в работе искусственного интеллекта</EPIA_AIPersonaCore_GlitchMinor.label>
+  <EPIA_AIPersonaCore_GlitchMinor.description>Ядро искусственного интеллекта потерпело незначительный сбой в своей системе и ведет себя раздражающим образом. Со временем он может восстановиться, и лечение может замедлить тяжесть этого состояния до тех пор, пока системная ошибка не устранится сама по себе..</EPIA_AIPersonaCore_GlitchMinor.description>
+  <EPIA_AIPersonaCore_GlitchMinor.stages.0.label>незначительный</EPIA_AIPersonaCore_GlitchMinor.stages.0.label>
+  <EPIA_AIPersonaCore_GlitchMinor.stages.1.label>незначительный</EPIA_AIPersonaCore_GlitchMinor.stages.1.label>
+  <EPIA_AIPersonaCore_GlitchMinor.stages.2.label>значительный</EPIA_AIPersonaCore_GlitchMinor.stages.2.label>
+  <EPIA_AIPersonaCore_GlitchMinor.stages.3.label>критический</EPIA_AIPersonaCore_GlitchMinor.stages.3.label>
+
+  <EPIA_AIPersonaCore_GlitchMajor.label>Значительные сбои в работе искусственного интеллекта</EPIA_AIPersonaCore_GlitchMajor.label>
+  <EPIA_AIPersonaCore_GlitchMajor.description>Ядро искусственного интеллекта потерпело серьезный сбой в своей системе и ведет себя злонамеренно. Со временем он может восстановиться, и лечение может замедлить тяжесть этого состояния до тех пор, пока системная ошибка не устранится сама по себе..</EPIA_AIPersonaCore_GlitchMajor.description>
+  <EPIA_AIPersonaCore_GlitchMajor.stages.0.label>minor</EPIA_AIPersonaCore_GlitchMajor.stages.0.label>
+  <EPIA_AIPersonaCore_GlitchMajor.stages.1.label>major</EPIA_AIPersonaCore_GlitchMajor.stages.1.label>
+  <EPIA_AIPersonaCore_GlitchMajor.stages.2.label>critical</EPIA_AIPersonaCore_GlitchMajor.stages.2.label>
+  <EPIA_AIPersonaCore_GlitchMajor.stages.3.label>critical</EPIA_AIPersonaCore_GlitchMajor.stages.3.label>
+
+  <EPIA_AIPersonaCore_GlitchCritical.label>Критические сбои в работе искусственного интеллекта </EPIA_AIPersonaCore_GlitchCritical.label>
+  <EPIA_AIPersonaCore_GlitchCritical.description>Ядро искусственного интеллекта потерпело критический сбой в своей системе и ведет себя крайне злонамеренно. Со временем он может восстановиться, и лечение может замедлить тяжесть этого состояния до тех пор, пока системная ошибка не устранится сама по себе..</EPIA_AIPersonaCore_GlitchCritical.description>
+  <EPIA_AIPersonaCore_GlitchCritical.stages.0.label>minor</EPIA_AIPersonaCore_GlitchCritical.stages.0.label>
+  <EPIA_AIPersonaCore_GlitchCritical.stages.1.label>major</EPIA_AIPersonaCore_GlitchCritical.stages.1.label>
+  <EPIA_AIPersonaCore_GlitchCritical.stages.2.label>critical</EPIA_AIPersonaCore_GlitchCritical.stages.2.label>
+  <EPIA_AIPersonaCore_GlitchCritical.stages.3.label>critical</EPIA_AIPersonaCore_GlitchCritical.stages.3.label>
+
+  <EPIA_AIPersonaCore_EMPed.label>ИИ ЭМИ шок</EPIA_AIPersonaCore_EMPed.label>
+  <EPIA_AIPersonaCore_EMPed.description>Ядро искусственного интеллекта было поражено импульсом ЭМИ и быстро пытается восстановить свою полную функциональность. Сбои в системе, скорее всего, появятся и причинят злонамеренный вред пользователю.</EPIA_AIPersonaCore_EMPed.description>
+  <EPIA_AIPersonaCore_EMPed.stages.0.label>незначительный</EPIA_AIPersonaCore_EMPed.stages.0.label>
+  <EPIA_AIPersonaCore_EMPed.stages.1.label>значительный</EPIA_AIPersonaCore_EMPed.stages.1.label>
+  <EPIA_AIPersonaCore_EMPed.stages.2.label>критический</EPIA_AIPersonaCore_EMPed.stages.2.label>
+  <EPIA_AIPersonaCore_EMPed.stages.3.label>критический</EPIA_AIPersonaCore_EMPed.stages.3.label>
+
+
+</LanguageData>

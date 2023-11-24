@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <GeneCategoryDef>
+    <defName>AFU_HeadAttachment</defName>
+    <label>AFU Head Attachments</label>
+    <!-- Cosmetic 290  hair 285  -->
+    <displayPriorityInXenotype>288</displayPriorityInXenotype>
+    <!-- Cosmetic -100 -->
+    <displayPriorityInGenepack>-102</displayPriorityInGenepack>
+  </GeneCategoryDef>
+
+  <GeneCategoryDef>
+    <defName>AFU_BodyAttachment</defName>
+    <label>AFU Body Attachments</label>
+    <!-- Cosmetic_Skin 280 Misc 270-->
+    <displayPriorityInXenotype>278</displayPriorityInXenotype>
+    <!-- Cosmetic_Skin -110 -->
+    <displayPriorityInGenepack>-112</displayPriorityInGenepack>
+  </GeneCategoryDef>
+
+</Defs>

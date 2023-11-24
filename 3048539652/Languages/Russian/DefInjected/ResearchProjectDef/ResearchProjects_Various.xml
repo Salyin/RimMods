@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VVE_ClassicCars.label>Классика</VVE_ClassicCars.label>
+	<VVE_ClassicCars.description>Научитесь строить изысканные классические автомобили, такие как "Антилопа". Для исследования этого проекта необходимо найти и восстановить обломки "Антилопа".</VVE_ClassicCars.description>
+
+	<VVE_SuperCars.label>Сверхкары</VVE_SuperCars.label>
+	<VVE_SuperCars.description>Научитесь строить быстрые и роскошные суперкары, такие как "Молния". Для исследования этого проекта необходимо найти и восстановить обломки "Молния".</VVE_SuperCars.description>
+
+	<VVE_BattleTanks.label>Боевые машины</VVE_BattleTanks.label>
+	<VVE_BattleTanks.description>Научитесь строить тяжело бронированные боевые танки, такие как "Маршал", оснащенные различным оружием. Для исследования этого проекта необходимо найти и восстановить обломки "Маршал".</VVE_BattleTanks.description>
+
+	<VVE_LightArmoredVehicles.label>Легкие бронемашины</VVE_LightArmoredVehicles.label>
+	<VVE_LightArmoredVehicles.description>Научитесь строить легкие бронированные транспортные средства, такие как "Паладин" или "Барсук", способные эффективно перевозить солдат и обеспечивать их огневой поддержкой. Для исследования этого проекта необходимо найти и восстановить обломки "Паладин" или "Барсук".</VVE_LightArmoredVehicles.description>
+
+	<VVE_OffroadJeeps.label>Внедорожники</VVE_OffroadJeeps.label>
+	<VVE_OffroadJeeps.description>Научитесь строить внедорожники, такие как "Кочевник", способные проходить любую местность с легкостью. Для исследования этого проекта необходимо найти и восстановить обломки "Кочевник".</VVE_OffroadJeeps.description>
+
+	<VVE_Louie.label>Луи</VVE_Louie.label>
+	<VVE_Louie.description>Научитесь строить крупный транспортный вертолет под названием "Луи", способный доставлять грузы и войска на большие расстояния. Для исследования этого проекта необходимо найти и восстановить обломки "Луи".</VVE_Louie.description>
+
+	<VVE_BigRigs.label>Дальнобойщики</VVE_BigRigs.label>
+	<VVE_BigRigs.description>Научитесь строить крупные грузовики для дальних перевозок, такие как "Большая Фура" или "Эрмано", способные перевозить огромные грузы на огромные расстояния. Для исследования этого проекта необходимо найти и восстановить обломки "Большая Фура" или "Эрмано".</VVE_BigRigs.description>
+
+	<VVE_Cherokee.label>Чероки</VVE_Cherokee.label>
+	<VVE_Cherokee.description>Научитесь строить грузовой вертолет с двумя роторами под названием "Чероки", способный перевозить тысячи килограммов грузов. Для исследования этого проекта необходимо найти и восстановить обломки "Чероки".</VVE_Cherokee.description>
+
+	<VVE_SelfpropelledArtillery.label>Самоходки</VVE_SelfpropelledArtillery.label>
+	<VVE_SelfpropelledArtillery.description>Научитесь строить мощную самоходную артиллерию, такую как "Удар", способную наносить урон врагам на ближайших территориях. Для исследования этого проекта необходимо найти и восстановить обломки "Удар".</VVE_SelfpropelledArtillery.description>
+
+
+</LanguageData>

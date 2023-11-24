@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanical Part Pack -->
+
+  <ATR_PartPack.label>комплект механических деталей</ATR_PartPack.label>
+  <ATR_PartPack.description>Комплект деталей предназначенный для замены стандартных компонентов андроидов, начиная от целых ног и рук, заканчивая сложными батареями и компонентами. Базовые заранее запрограммированные механиты формируют себя под новые более сложные задачи.</ATR_PartPack.description>
+
+
+  <!-- Drone Resurrector Kit -->
+
+  <ATR_DroneResurrectorKit.label>комплект реанимации дрона</ATR_DroneResurrectorKit.label>
+  <ATR_DroneResurrectorKit.description>Специализированный комплект деталей и инструментов, способных реанимировать отключенного или поврежденного дрона. Комплект реанимации так же может реанимировать механических животных. Реанимированные дроны, должны полностью перезагрузиться, чтобы снова начать работу.</ATR_DroneResurrectorKit.description>
+  <ATR_DroneResurrectorKit.comps.0.useLabel>Реанимировать дрона</ATR_DroneResurrectorKit.comps.0.useLabel>
+
+
+  <!-- Android Resurrection Kit -->
+
+  <ATR_AndroidResurrectorKit.label>комплект реанимации андроида</ATR_AndroidResurrectorKit.label>
+  <ATR_AndroidResurrectorKit.description>Продвинутый специализированный комплект деталей и инструментов, способных реанимировать отключенного или поврежденного андроида. Продвинутый комплект реанимации может реанимировать любое механическое существо. Реанимированные андроиды, должны полностью перезагрузиться, чтобы снова начать работу.</ATR_AndroidResurrectorKit.description>
+  <ATR_AndroidResurrectorKit.comps.0.useLabel>Реанимировать андроида</ATR_AndroidResurrectorKit.comps.0.useLabel>
+
+
+  <!-- Simple Repair Stim -->
+
+  <ATR_RepairStimSimple.label>кустарный ремкомплект</ATR_RepairStimSimple.label>
+  <ATR_RepairStimSimple.description>Небольшой кустарный ремкомплект, содержит промышленные компоненты и инструменты для аварийного ремонта. Кустарный ремкомплект не имеет некоторых очень полезных инструментов, необходимых для более серьезных повреждений или операций, и больше подходит для оперативного ремонта на поле боя.</ATR_RepairStimSimple.description>
+
+
+  <!-- Intermediate Repair Stim -->
+
+  <ATR_RepairStimIntermediate.label>базовый ремкомплект</ATR_RepairStimIntermediate.label>
+  <ATR_RepairStimIntermediate.description>Стандартизированный базовый ремкомплект, содержит промышленные компоненты и инструменты для аварийного и профессионального ремонта. Базовый ремкомплект является основным инструментом любого механика. Хорошо подходит для целого ряда задач, функциональный и практичный.</ATR_RepairStimIntermediate.description>
+
+
+  <!-- Advanced Repair Stim -->
+
+  <ATR_RepairStimAdvanced.label>передовой ремкомплект</ATR_RepairStimAdvanced.label>
+  <ATR_RepairStimAdvanced.description>Сверхсовременный передовой ремкомплект, содержит массив высокотехнологичных механитов и инструменты для аварийного и мастерского ремонта. Относительно редкий, такие ремкомплекты высоко ценятся механиками и любым уважающим себя андроидом. Высокотехнологичные механиты могут починить любые, даже очень сложные повреждения.</ATR_RepairStimAdvanced.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Storefront_Selling.label>Продажа</Storefront_Selling.label>
+  <Storefront_Selling.description>Продавайте товары клиентам.</Storefront_Selling.description>
+  <Storefront_Selling.labelShort>Продажа</Storefront_Selling.labelShort>
+  <Storefront_Selling.pawnLabel>Кассир</Storefront_Selling.pawnLabel>
+  <Storefront_Selling.gerundLabel>продажа</Storefront_Selling.gerundLabel>
+  <Storefront_Selling.verb>Продавать</Storefront_Selling.verb>
+
+</LanguageData>

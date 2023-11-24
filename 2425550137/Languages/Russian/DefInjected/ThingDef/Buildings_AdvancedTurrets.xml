@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Double Autocannon -->
+
+  <VFES_Turret_AutocannonDouble.label>сдвоенная автопушка</VFES_Turret_AutocannonDouble.label>
+  <VFES_Turret_AutocannonDouble.description>Тяжелая автоматическая турель с двумя стволами. Ее крупнокалиберные снаряда наносят тяжелые повреждения на значительных дистанциях, но стволы необходимо ремонтировать после интенсивного использования. Она не может стрелять по близким целям и взрывается при повреждениях.</VFES_Turret_AutocannonDouble.description>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>Выстрелов до обслуживания стволов</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>Прочность стволов</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>Стрельба невозможна: требуется обслуживание стволов</VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_TurretDoubleAutocannon_Top.label>сдвоенная автопушка</VFES_TurretDoubleAutocannon_Top.label>
+  <VFES_TurretDoubleAutocannon_Top.description>Самозарядная крупнокалиберная сдвоенная пушка, предназначенная для установки на турель.</VFES_TurretDoubleAutocannon_Top.description>
+
+</LanguageData>

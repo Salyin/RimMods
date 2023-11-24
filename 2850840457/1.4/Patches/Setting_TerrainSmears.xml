@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="OutlandTerrain.PatchOperation_SettingActive">
+		<settings>
+			<li>terrainSmears</li>
+		</settings>
+		<active Class="PatchOperationSequence">
+			<!-- <success>Always</success> -->
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ScatterableDef[defName="DirtSmearA" or defName="DirtSmearB" or defName="GraySmearA" or defName="GraySmearB"]/texturePath</xpath>
+					<value>
+						<texturePath>Outland/Alpha</texturePath>
+					</value>
+				</li>
+			</operations>
+		</active>
+	</Operation>
+
+</Patch>

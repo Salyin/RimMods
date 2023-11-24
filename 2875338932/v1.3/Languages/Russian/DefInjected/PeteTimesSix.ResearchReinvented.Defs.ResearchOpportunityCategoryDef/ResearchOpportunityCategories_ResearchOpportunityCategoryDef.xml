@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Theory.label>теория</Theory.label>
+<Theory.description>Теоретическое или абстрактное исследование.</Theory.description>
+<Prototyping.label>Прототипирование</Prototyping.label>
+<Prototyping.description>Построение прототипов. Производство прототипов занимает гораздо больше времени и, как правило, имеет более низкое качество из-за их экспериментального характера. От исследователя потребуются как исследовательские навыки, так и применимые к продукту рабочие навыки.</Prototyping.description>
+<Tooling.label>Инструментарий</Tooling.label>
+<Tooling.description>Анализ инструментов, используемых при производстве исследуемой продукции.</Tooling.description>
+<ReverseEngineering.label>Реверс-инжиниринг</ReverseEngineering.label>
+<ReverseEngineering.description>Реверс-инжиниринг существующих образцов продукции.</ReverseEngineering.description>
+<ForwardEngineering.label>Производственный опыт</ForwardEngineering.label>
+<ForwardEngineering.description>Получение опыта от продуктов с уже известным производственным процессом.</ForwardEngineering.description>
+<Logistics.label>Логистика</Logistics.label>
+<Logistics.description>Определение эффективных средств снабжения.</Logistics.description>
+<Geology.label>Геология</Geology.label>
+<Geology.description>Анализ геологических проб.</Geology.description>
+<Biology.label>Биология</Biology.label>
+<Biology.description>Анализ биологических образцов, таких как черенки или семена растений.</Biology.description>
+<Chemistry.label>Химия</Chemistry.label>
+<Chemistry.description>Анализ химических образцов, таких как фармацевтические препараты или другие средства.</Chemistry.description>
+<Gastronomy.label>Гастрономия</Gastronomy.label>
+<Gastronomy.description>Анализ пищевых ингредиентов или блюд.</Gastronomy.description>
+<Material.label>Изучение материалов</Material.label>
+<Material.description>Изучение возможного сырья, используемого в строительстве или производстве.</Material.description>
+
+</LanguageData>

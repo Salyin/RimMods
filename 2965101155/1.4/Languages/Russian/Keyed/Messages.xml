@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- General -->
+  <ATR_SkyMindConnectionFailed>Не удалось подключиться к SkyMind. Проверьте доступность сети.</ATR_SkyMindConnectionFailed>
+  <ATR_SkyMindConnectionFailedNoNetwork>Не удалось подключиться к SkyMind. Нет доступной сети.</ATR_SkyMindConnectionFailedNoNetwork>
+
+  <ATR_GridlockerCleared>Гридблокер был успешно расшифрован и отключен.</ATR_GridlockerCleared>
+
+  <!-- Core -->
+  <ATR_RemoveCloudPawnSuccess>Связь интеллекта {0} была удалена.</ATR_RemoveCloudPawnSuccess>
+
+  <ATR_ReplicateCloudPawnFailed>Не удалось инициировать репликацию. Недостаточно пространства SkyMind, доступного для распределения.</ATR_ReplicateCloudPawnFailed>
+
+  <!-- Player hacking -->
+  <ATR_HackOperationFailed>В ходе кибератаки, вам не удалось взломать систему безопасности целевой фракции. Никаких последствий не ожидается.</ATR_HackOperationFailed>
+  <ATR_DisruptorHackSuccess>DDOS-атака прошла успешно. Вражеские андроиды ослаблены.</ATR_DisruptorHackSuccess>
+
+  <ATR_NoArrival>Навигационная системы жертвы, никак не отреагировала на ваш запрос, а после фракция перезагрузила свою навигационную систему. На этот раз им повезло.</ATR_NoArrival>
+
+  <!-- Android Interfaces -->
+  <ATR_NewbootAndroidCreated>Создан андроид. Установите интерфейс, чтобы инициализировать его ядро.</ATR_NewbootAndroidCreated>
+  <ATR_InterfaceRemoved>Интерфейс андроида удален. Все данные личности и управления были уничтожены. Установите новый интерфейс, чтобы инициализировать его ядро.</ATR_InterfaceRemoved>
+
+  <!-- Mechfaller -->
+  <ATR_HostileMechFall>Дредноут прибыл, но идентифицирует всё как враждебное! Он также активировал механизм отложенного самоуничтожения.</ATR_HostileMechFall>
+
+  <!-- Link -->
+  <ATR_CannotConnect>Попытка подключения не удалась, убедитесь в доступности сети и жизнеспособности цели.</ATR_CannotConnect>
+  <ATR_SurrogateControlled>{0} подключен к новому суррогату</ATR_SurrogateControlled>
+  <ATR_OperationInitiated>Соединение SkyMind установлено по запросу {0}. Не отключайте соединение до завершения операции.</ATR_OperationInitiated>
+  <ATR_OperationCompleted>Сеть SkyMind завершила операцию</ATR_OperationCompleted>
+  <ATR_OperationCompletedDesc>Сеть SkyMind успешно завершила операцию по запросу {0}</ATR_OperationCompletedDesc>
+  <ATR_OperationFailure>Операция SkyMind не удалась!</ATR_OperationFailure>
+  <ATR_OperationFailureDesc>Во время операции с разумом, из-за потери связи SkyMind у {0}, произошло критическое повреждение памяти.</ATR_OperationFailureDesc>
+
+  <!-- Surgeries -->
+  <MessageMedicalOperationFailureMinorAndroid>{0} допустил незначительную ошибку во время работы и прервал мехоперацию на {1}.</MessageMedicalOperationFailureMinorAndroid>
+  <MessageMedicalOperationFailureCatastrophicAndroid>{0} допустил критическую ошибку при попытке выполнить мехоперацию на {1}.</MessageMedicalOperationFailureCatastrophicAndroid>
+  <MessageMedicalOperationFailureRidiculousAndroid>{0} допустил серьезную ошибку при попытке выполнить мехоперацию на {1}.</MessageMedicalOperationFailureRidiculousAndroid>
+  <MessageMedicalOperationFailureFatalAndroid>{0} допустил критическую ошибку при попытке выполнить мехоперацию на {1}, что вызвало непреднамеренный ущерб. Мехоперация нанесла необратимое повреждение ядру, что привело к полной потере памяти и сознания.</MessageMedicalOperationFailureFatalAndroid>
+
+</LanguageData>

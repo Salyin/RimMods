@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Android Mechinator Patch</name> <!-- The name of your mod in the mod list -->
+  <author>InfoDeprived</author>
+  <packageId>InfoDeprived.AndroidMechinatorPatch</packageId> <!-- a unique identifier for your mod. Must contain only a-z and periods, no spaces. -->
+  <supportedVersions> <!-- the version(s) your mod supports -->
+    <li>1.4</li>
+  </supportedVersions>
+  <description>This is a patch allowing the Androids from Android Tiers Reforged to become Mechinators. It works on T1-5, however I havent tested the M series. This is my first mod, let me know if there are any issues! </description>
+</ModMetaData>

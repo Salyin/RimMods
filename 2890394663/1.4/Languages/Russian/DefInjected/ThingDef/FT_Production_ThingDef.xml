@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_Production.xml-->
+                <!-- Lathe -->
+<FT_TableLathe.label>Токарный станок</FT_TableLathe.label>
+                      <!-- A machine that rotates a workpiece about an axis of rotation to perform various operations. -->
+<FT_TableLathe.description>Машина, вращающая заготовку вокруг оси вращения для выполнения различных операций.</FT_TableLathe.description>
+                    <!-- Chemistry Table -->
+<FT_TableChemistry.label>Химическая таблица</FT_TableChemistry.label>
+                          <!-- A table that can artificially synthesize compounds such as Neutroamine. -->
+<FT_TableChemistry.description>Стол, который может искусственно синтезировать такие соединения, как нейтроамин.</FT_TableChemistry.description>
+                   <!-- ConcreteMixer -->
+<FT_TableConcrete.label>Бетономешалка</FT_TableConcrete.label>
+                         <!-- A machine that crushes and mixes stony materials into concrete dusts -->
+<FT_TableConcrete.description>Машина для дробления и смешивания каменистых материалов в бетонную пыль</FT_TableConcrete.description>
+
+</LanguageData>

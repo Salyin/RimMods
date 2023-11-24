@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_InternalCorePump.label>гидронасос</ATR_InternalCorePump.label>
+  <ATR_MechanicalHeatsink.label>радиатор</ATR_MechanicalHeatsink.label>
+  <ATR_InternalBattery.label>аккумулятор</ATR_InternalBattery.label>
+  <ATR_MechaniteStorage.label>гиперконденсатор</ATR_MechaniteStorage.label>
+  <ATR_InternalGenerator.label>генератор</ATR_InternalGenerator.label>
+
+
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ornamental cat -->
+  <AFU_HA_CatEar.label>观赏猫耳</AFU_HA_CatEar.label>
+  <!-- EN: Carriers of this gene grow cat-like ears. -->
+  <AFU_HA_CatEar.description>这种基因的携带者会长出观赏猫的耳朵。</AFU_HA_CatEar.description>
+  
+  <!-- EN: Deer ear -->
+  <AFU_HA_DeerEar.label>鹿耳</AFU_HA_DeerEar.label>
+  <!-- EN: Carriers of this gene grow deer-like ears, adults own antlers. -->
+  <AFU_HA_DeerEar.description>这种基因的携带者拥有鹿的耳朵，成年后会长出大型鹿角。</AFU_HA_DeerEar.description>
+  
+  <!-- EN: Fox ear -->
+  <AFU_HA_FoxEar.label>狐耳</AFU_HA_FoxEar.label>
+  <!-- EN: Carriers of this gene grow fox-like ears. -->
+  <AFU_HA_FoxEar.description>这种基因的携带者会长出狐狸的耳朵。</AFU_HA_FoxEar.description>
+  
+  <!-- EN: Little Deer ear -->
+  <AFU_HA_LovelyDeerEar.label>小鹿耳</AFU_HA_LovelyDeerEar.label>
+  <!-- EN: Carriers of this gene grow little deer-like ears, adults own antlers. -->
+  <AFU_HA_LovelyDeerEar.description>这种基因的携带者拥有小鹿的耳朵，成年后会长出小型鹿角。</AFU_HA_LovelyDeerEar.description>
+  
+  <!-- EN: Lovely cat ear -->
+  <AFU_HA_LoverlyCatEar.label>可爱猫耳</AFU_HA_LoverlyCatEar.label>
+  <!-- EN: Carriers of this gene grow lovely cat-like ears. -->
+  <AFU_HA_LoverlyCatEar.description>一种为服务业而诞生的人造基因，被植入这种基因的人会长出卡通化的猫耳。</AFU_HA_LoverlyCatEar.description>
+  
+  <!-- EN: Lovely rabbit ear -->
+  <AFU_HA_LoverlyRabbitEar.label>可爱兔耳</AFU_HA_LoverlyRabbitEar.label>
+  <!-- EN: Carriers of this gene grow white lovely rabbit-like ears. -->
+  <AFU_HA_LoverlyRabbitEar.description>仿造某种文化中服务员的服饰制造的人造基因，被植入这种基因的人会长出白色的装饰性兔耳。</AFU_HA_LoverlyRabbitEar.description>
+  
+  <!-- EN: Rabbit ear -->
+  <AFU_HA_RabbitEar.label>兔耳</AFU_HA_RabbitEar.label>
+  <!-- EN: Carriers of this gene grow rabbit-like ears. -->
+  <AFU_HA_RabbitEar.description>这种基因的携带者会长出兔子的耳朵。</AFU_HA_RabbitEar.description>
+  
+  <!-- EN: Rat ear -->
+  <AFU_HA_RatEar.label>鼠耳</AFU_HA_RatEar.label>
+  <!-- EN: Carriers of this gene grow rat-like ears.The back of the ear is covered with hair. -->
+  <AFU_HA_RatEar.description>这种基因的携带者会长出老鼠的耳朵，耳朵的背面被毛发覆盖。</AFU_HA_RatEar.description>
+  
+  <!-- EN: Short hair fox ear -->
+  <AFU_HA_ShortHairFoxEar.label>短毛狐耳</AFU_HA_ShortHairFoxEar.label>
+  <!-- EN: Carriers of this gene grow short corsac fox-like ears, which improves their heat dissipation efficiency. -->
+  <AFU_HA_ShortHairFoxEar.description>这种基因的携带者会长出短毛的狐耳，有助于散热。</AFU_HA_ShortHairFoxEar.description>
+  
+  <!-- EN: Spiked horn -->
+  <AFU_HA_SpikedHorn.label>刺角</AFU_HA_SpikedHorn.label>
+  <!-- EN: Carriers of this gene grow spiked horns. -->
+  <AFU_HA_SpikedHorn.description>这种基因的携带者额头上会长出不规则的黑色刺角。</AFU_HA_SpikedHorn.description>
+  
+</LanguageData>

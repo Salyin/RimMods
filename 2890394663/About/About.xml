@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RUS Fortifications - Industriall</name>
+	<author>radmir1995</author>
+	<packageId>radmir1995.Fortifications</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>radmir1995.Fortress.Industrial</li>
+	</loadAfter>
+	<description>
+Это частично машинный перевод. Делал перевод для себя. Тут могут быть какие-либо ошибки. Про них вы можете написать в комментариях, по возможности исправлю и буду всем отвечать.
+Полностью переведено.
+Если вы хотите меня поддержать - вы можете подарить награду этому переводу, добавить его в избранные и поставить лайк, написать свой комментарий и оценить его.
+	Перевод Fortifications - Industrial</description>
+</ModMetaData>

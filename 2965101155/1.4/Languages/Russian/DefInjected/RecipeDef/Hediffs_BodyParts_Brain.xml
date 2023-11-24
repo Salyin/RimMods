@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Autonomous Core -->
+
+  <ATR_Install_AutonomousCore.label>установить автономное ядро</ATR_Install_AutonomousCore.label>
+  <ATR_Install_AutonomousCore.description>Установить автономное ядро.</ATR_Install_AutonomousCore.description>
+  <ATR_Install_AutonomousCore.jobString>Устанавливает автономное ядро.</ATR_Install_AutonomousCore.jobString>
+
+
+  <!-- SkyMind Receiver Core -->
+
+  <Install_ReceiverCore.label>установить ядро приемник</Install_ReceiverCore.label>
+  <Install_ReceiverCore.description>Установить ядро приемник.</Install_ReceiverCore.description>
+  <Install_ReceiverCore.jobString>Устанавливает ядро приемник.</Install_ReceiverCore.jobString>
+
+
+  <!-- SkyMind Receiver -->
+
+  <ATR_Install_SkyMindReceiver.label>установить приёмник SkyMind</ATR_Install_SkyMindReceiver.label>
+  <ATR_Install_SkyMindReceiver.description>Установить приёмник SkyMind.</ATR_Install_SkyMindReceiver.description>
+  <ATR_Install_SkyMindReceiver.jobString>Устанавливает приёмник SkyMind.</ATR_Install_SkyMindReceiver.jobString>
+
+  <ATR_RemoveSkyMindReceiver.label>удалить приёмник SkyMind</ATR_RemoveSkyMindReceiver.label>
+  <ATR_RemoveSkyMindReceiver.description>Удалить приёмник SkyMind.</ATR_RemoveSkyMindReceiver.description>
+  <ATR_RemoveSkyMindReceiver.jobString>Удаляет приёмник SkyMind.</ATR_RemoveSkyMindReceiver.jobString>
+
+
+  <!-- SkyMind Transceiver -->
+
+  <ATR_Install_SkyMindTransceiver.label>установить передатчик SkyMind</ATR_Install_SkyMindTransceiver.label>
+  <ATR_Install_SkyMindTransceiver.description>Установить передатчик SkyMind.</ATR_Install_SkyMindTransceiver.description>
+  <ATR_Install_SkyMindTransceiver.jobString>Устанавливает передатчик SkyMind.</ATR_Install_SkyMindTransceiver.jobString>
+
+  <ATR_RemoveOrganicSkyMindTransceiver.label>удалить передатчик SkyMind</ATR_RemoveOrganicSkyMindTransceiver.label>
+  <ATR_RemoveOrganicSkyMindTransceiver.description>Удалить передатчик SkyMind.</ATR_RemoveOrganicSkyMindTransceiver.description>
+  <ATR_RemoveOrganicSkyMindTransceiver.jobString>Удаляет передатчик SkyMind.</ATR_RemoveOrganicSkyMindTransceiver.jobString>
+
+
+</LanguageData>

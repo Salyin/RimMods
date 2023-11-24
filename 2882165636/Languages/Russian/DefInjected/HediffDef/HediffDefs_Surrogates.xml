@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Surrogate heart -->
+
+  <SimpleProstheticHeart.label>Заменитель сердца</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.description>Установленный заменитель сердца.</SimpleProstheticHeart.description>
+
+
+  <!-- Surrogate lung -->
+
+  <SurrogateLung.label>Заменитель лёгкого</SurrogateLung.label>
+  <SurrogateLung.description>Установленный заменитель лёгкого.</SurrogateLung.description>
+
+
+  <!-- Surrogate stomach -->
+
+  <SurrogateStomach.label>Заменитель желудка</SurrogateStomach.label>
+  <SurrogateStomach.description>Установленный заменитель желудка.</SurrogateStomach.description>
+
+
+  <!-- Surrogate liver -->
+
+  <SurrogateLiver.label>Заменитель печени</SurrogateLiver.label>
+  <SurrogateLiver.description>Установленный заменитель печени.</SurrogateLiver.description>
+
+
+  <!-- Surrogate kidney -->
+
+  <SurrogateKidney.label>Заменитель почки</SurrogateKidney.label>
+  <SurrogateKidney.description>Установленный заменитель почки.</SurrogateKidney.description>
+
+
+  <!-- Brain stimulator -->
+
+  <BrainStimulator.label>Стимулятор мозга</BrainStimulator.label>
+  <BrainStimulator.description>Установленный стимулятор мозга.</BrainStimulator.description>
+
+
+  <!--<SurrogateHeart.label>Заменитель сердца</SurrogateHeart.label>-->
+
+</LanguageData>

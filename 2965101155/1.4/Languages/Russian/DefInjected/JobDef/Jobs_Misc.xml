@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_RechargeBattery.reportString>перезарядка аккумулятора</ATR_RechargeBattery.reportString>
+  <ATR_ResurrectMechanical.reportString>реанимирует TargetA</ATR_ResurrectMechanical.reportString>
+  <ATR_TendMechanical.reportString>ремонтирует TargetA</ATR_TendMechanical.reportString>
+  <ATR_GenerateInsight.reportString>генерирование информации SkyMind</ATR_GenerateInsight.reportString>
+  <ATR_DoMaintenanceUrgent.reportString>самообслуживание</ATR_DoMaintenanceUrgent.reportString>
+  <ATR_DoMaintenanceIdle.reportString>самообслуживание</ATR_DoMaintenanceIdle.reportString>
+
+
+</LanguageData>

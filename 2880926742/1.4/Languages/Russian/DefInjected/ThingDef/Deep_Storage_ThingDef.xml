@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--1.4/Defs/Deep_Storage.xml-->
+                  <!-- Organ Fridge -->
+<DSP_OrganFridge.label>Холодильник для органов</DSP_OrganFridge.label>
+                        <!-- A deep, insulated cold box for storing organs, prosthetics, and other body parts. 
+
+Note: because organs in Rimworld do not rot, this building does not require electricity. -->
+<DSP_OrganFridge.description>Глубокий изолированный холодильный бокс для хранения органов, протезов и других частей тела. \n\nПримечание: поскольку органы в Rimworld не гниют, это здание не требует электричества.</DSP_OrganFridge.description>
+             <!-- Barrel -->
+<DSP_Barrel.label>Бочка</DSP_Barrel.label>
+                   <!-- A large barrel for storing copious amounts of liquid. You can only store one type of item in it at a time, because it's a barrel, and you're pouring liquid into it. -->
+<DSP_Barrel.description>Большая бочка для хранения большого количества жидкости. Вы можете хранить в нем только один тип предметов одновременно, потому что это бочка, и вы наливаете в нее жидкость.</DSP_Barrel.description>
+               <!-- Firewood Rack -->
+<DSP_WoodRack.label>Стеллаж для дров</DSP_WoodRack.label>
+                     <!-- A metal frame with a cover designed for storing firewood outside, without the wood getting wet. -->
+<DSP_WoodRack.description>Металлический каркас с крышкой, предназначенный для хранения дров снаружи, без намокания древесины.</DSP_WoodRack.description>
+          <!-- Bin -->
+<DSP_Bin.label>Контейнер</DSP_Bin.label>
+                <!-- A large bin for storing a lot of one type of thing. On the plus side, it's faster to store things than a skip, since you don't need to arrange anything. -->
+<DSP_Bin.description>Большой контейнер для хранения большого количества вещей одного типа. С положительной стороны, хранить вещи в нем быстрее, так как вам не нужно сортировать различные предметы.</DSP_Bin.description>
+
+</LanguageData>

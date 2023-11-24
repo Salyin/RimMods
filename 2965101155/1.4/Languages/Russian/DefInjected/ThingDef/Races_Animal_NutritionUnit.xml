@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneNutritionUnit.label>механическая корова</ATR_DroneNutritionUnit.label>
+  <ATR_DroneNutritionUnit.description>Механическая корова - предназначена для получения питательного орграствора. Механическая корова не способна заряжаться, для её выживания необходима органическая пища.</ATR_DroneNutritionUnit.description>
+  <ATR_DroneNutritionUnit.tools.0.label>голова</ATR_DroneNutritionUnit.tools.0.label>
+
+
+</LanguageData>

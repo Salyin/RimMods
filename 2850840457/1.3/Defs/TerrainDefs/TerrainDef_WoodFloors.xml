@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Outland_WoodFloor</defName>
+		<label>wood floor</label>
+	</DesignatorDropdownGroupDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodFloor</defName>
+		<label>wood floor</label>
+		<texturePath>Outland/Terrain/WoodFloor</texturePath>
+		<designatorDropdown>Outland_WoodFloor</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodFloorAlt</defName>
+		<label>wood floor alt</label>
+		<texturePath>Outland/Terrain/WoodFloorAlt</texturePath>
+		<designatorDropdown>Outland_WoodFloor</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodFloorRuined</defName>
+		<label>wood floor ruined</label>
+		<texturePath>Outland/Terrain/WoodFloorRuined</texturePath>
+		<designatorDropdown>Outland_WoodFloor</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodFloorRuinedAlt</defName>
+		<label>wood floor ruined alt</label>
+		<texturePath>Outland/Terrain/WoodFloorAltRuined</texturePath>
+		<designatorDropdown>Outland_WoodFloor</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodFloorWarped</defName>
+		<label>wood floor warped</label>
+		<texturePath>Outland/Terrain/WarpedWoodFloor</texturePath>
+		<designatorDropdown>Outland_WoodFloor</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_HorizontalWoodFloor</defName>
+		<label>horizontal wood floor</label>
+		<texturePath>Outland/Terrain/HWoodFloor</texturePath>
+		<designatorDropdown>Outland_WoodFloor</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_HorizontalWoodFloorAlt</defName>
+		<label>horizontal wood floor alt</label>
+		<texturePath>Outland/Terrain/HWoodFloorAlt</texturePath>
+		<designatorDropdown>Outland_WoodFloor</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_HorizontalWoodFloorRuined</defName>
+		<label>horizontal wood floor ruined</label>
+		<texturePath>Outland/Terrain/HWoodFloorRuined</texturePath>
+		<designatorDropdown>Outland_WoodFloor</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_HorizontalWoodFloorRuinedAlt</defName>
+		<label>horizontal wood floor ruined alt</label>
+		<texturePath>Outland/Terrain/HWoodFloorAltRuined</texturePath>
+		<designatorDropdown>Outland_WoodFloor</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_HorizontalWoodFloorWarped</defName>
+		<label>horizontal wood floor warped</label>
+		<texturePath>Outland/Terrain/HWarpedWoodFloor</texturePath>
+		<designatorDropdown>Outland_WoodFloor</designatorDropdown>
+	</TerrainDef>
+	
+</Defs>

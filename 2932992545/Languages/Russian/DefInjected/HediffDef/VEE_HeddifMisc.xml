@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Traitor.label>предатель</Traitor.label>
+  <Traitor.description>Просто мерзкий предатель.</Traitor.description>
+
+  <MightJoin.label>может присоединиться</MightJoin.label>
+  <MightJoin.description>Возможно присоединение к поселению.</MightJoin.description>
+
+
+</LanguageData>

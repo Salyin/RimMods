@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insight Assistant -->
+
+  <ATR_InsightAssistant.label>сопроцессор исследователь</ATR_InsightAssistant.label>
+  <ATR_InsightAssistant.description>Установленный дополнительный процессор исследователь.</ATR_InsightAssistant.description>
+
+
+  <!-- General Assistant -->
+
+  <ATR_GeneralAssistant.label>базовый сопроцессор</ATR_GeneralAssistant.label>
+  <ATR_GeneralAssistant.description>Установленный дополнительный процессор.</ATR_GeneralAssistant.description>
+
+
+  <!-- Combat Assistant -->
+
+  <ATR_CombatAssistant.label>сопроцессор коммандос</ATR_CombatAssistant.label>
+  <ATR_CombatAssistant.description>Установленный дополнительный процессор коммандос.</ATR_CombatAssistant.description>
+
+
+  <!-- Mechanic Assistant -->
+
+  <ATR_MechanicAssistant.label>сопроцессор механик</ATR_MechanicAssistant.label>
+  <ATR_MechanicAssistant.description>Установленный дополнительный процессор механик.</ATR_MechanicAssistant.description>
+
+
+  <!-- Construction Assistant -->
+
+  <ATR_ConstructionAssistant.label>сопроцессор строитель</ATR_ConstructionAssistant.label>
+  <ATR_ConstructionAssistant.description>Установленный дополнительный процессор строитель.</ATR_ConstructionAssistant.description>
+
+
+  <!-- Excavation Assistant -->
+
+  <ATR_ExcavationAssistant.label>сопроцессор шахтер</ATR_ExcavationAssistant.label>
+  <ATR_ExcavationAssistant.description>Установленный дополнительный процессор шахтер.</ATR_ExcavationAssistant.description>
+
+
+  <!-- Victual Assistant -->
+
+  <ATR_VictualAssistant.label>сопроцессор биолог</ATR_VictualAssistant.label>
+  <ATR_VictualAssistant.description>Установленный дополнительный процессор биолог.</ATR_VictualAssistant.description>
+
+
+  <!-- Cultivation Assistant -->
+
+  <ATR_CultivationAssistant.label>сопроцессор садовник</ATR_CultivationAssistant.label>
+  <ATR_CultivationAssistant.description>Установленный дополнительный процессор садовник.</ATR_CultivationAssistant.description>
+
+
+  <!-- Medicine Assistant -->
+
+  <ATR_MedicineAssistant.label>сопроцессор медик</ATR_MedicineAssistant.label>
+  <ATR_MedicineAssistant.description>Установленный дополнительный процессор медик.</ATR_MedicineAssistant.description>
+
+
+  <!-- Social Assistant -->
+
+  <ATR_SocialAssistant.label>сопроцессор торговец</ATR_SocialAssistant.label>
+  <ATR_SocialAssistant.description>Установленный дополнительный процессор торговец.</ATR_SocialAssistant.description>
+
+
+  <!-- Mental Assistant -->
+
+  <ATR_MentalAssistant.label>сопроцессор психолог</ATR_MentalAssistant.label>
+  <ATR_MentalAssistant.description>Установленный дополнительный процессор психолог.</ATR_MentalAssistant.description>
+
+
+  <!-- Psychic Assistant -->
+
+  <ATR_PsychicAssistant.label>сопроцессор псионик</ATR_PsychicAssistant.label>
+  <ATR_PsychicAssistant.description>Установленный дополнительный процессор псионик.</ATR_PsychicAssistant.description>
+
+
+  <!-- Controller Assistant -->
+
+  <ATR_ControllerAssistant.label>сопроцессор механитор</ATR_ControllerAssistant.label>
+  <ATR_ControllerAssistant.description>Установленный дополнительный процессор механитор.</ATR_ControllerAssistant.description>
+
+
+  <!-- Sapient Assistant -->
+
+  <ATR_SapientAssistant.label>ИИ технопроцессор</ATR_SapientAssistant.label>
+  <ATR_SapientAssistant.description>Установленный дополнительный ИИ технопроцессор.</ATR_SapientAssistant.description>
+  <ATR_SapientAssistant.stages.0.label>зарождающийся интеллект</ATR_SapientAssistant.stages.0.label>
+  <ATR_SapientAssistant.stages.1.label>детский интеллект</ATR_SapientAssistant.stages.1.label>
+  <ATR_SapientAssistant.stages.2.label>молодой интеллект</ATR_SapientAssistant.stages.2.label>
+  <ATR_SapientAssistant.stages.3.label>взрослый интеллект</ATR_SapientAssistant.stages.3.label>
+  <ATR_SapientAssistant.stages.4.label>мудрый интеллект</ATR_SapientAssistant.stages.4.label>
+  <ATR_SapientAssistant.stages.5.label>единый интеллект</ATR_SapientAssistant.stages.5.label>
+
+
+</LanguageData>

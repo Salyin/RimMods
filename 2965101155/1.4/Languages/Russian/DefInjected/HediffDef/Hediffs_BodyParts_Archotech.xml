@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cybertech Arm -->
+
+  <ATR_CybertechArm.label>технорука</ATR_CybertechArm.label>
+  <ATR_CybertechArm.description>Установленная технорука.</ATR_CybertechArm.description>
+  <ATR_CybertechArm.comps.0.tools.0.label>кулак</ATR_CybertechArm.comps.0.tools.0.label>
+
+
+  <!-- Advanced Leg -->
+
+  <ATR_CybertechLeg.label>технонога</ATR_CybertechLeg.label>
+  <ATR_CybertechLeg.description>Установленная технонога.</ATR_CybertechLeg.description>
+
+
+  <!-- Cybertech Visual Sensor -->
+
+  <ATR_ArchotechVisualSensor.label>оптический технодатчик</ATR_ArchotechVisualSensor.label>
+  <ATR_ArchotechVisualSensor.description>Установленный оптический технодатчик.</ATR_ArchotechVisualSensor.description>
+
+
+  <!-- Cybertech Audio Sensor -->
+
+  <ATR_CybertechAudioSensor.label>звуковой технодатчик</ATR_CybertechAudioSensor.label>
+  <ATR_CybertechAudioSensor.description>Установленный звуковой технодатчик.</ATR_CybertechAudioSensor.description>
+
+
+  <!-- Cybertech Heatsink -->
+
+  <ATR_CybertechHeatsink.label>технорадиатор</ATR_CybertechHeatsink.label>
+  <ATR_CybertechHeatsink.description>Установленный технорадиатор.</ATR_CybertechHeatsink.description>
+
+
+  <!-- Cybertech Coolant Pump -->
+
+  <ATR_CybertechCoolantPump.label>технонасос</ATR_CybertechCoolantPump.label>
+  <ATR_CybertechCoolantPump.description>Установленный технонасос.</ATR_CybertechCoolantPump.description>
+
+
+  <!-- Cybertech Battery -->
+
+  <ATR_CybertechBattery.label>технонакопитель</ATR_CybertechBattery.label>
+  <ATR_CybertechBattery.description>Установленный технонакопитель.</ATR_CybertechBattery.description>
+
+
+  <!-- Cybertech Mechanite Storage -->
+
+  <ATR_CybertechMechaniteStorage.label>техноконденсатор</ATR_CybertechMechaniteStorage.label>
+  <ATR_CybertechMechaniteStorage.description>Установленный техноконденсатор.</ATR_CybertechMechaniteStorage.description>
+
+
+  <!-- Cybertech Reactor -->
+
+  <ATR_CybertechReactor.label>технореактор</ATR_CybertechReactor.label>
+  <ATR_CybertechReactor.description>Установленный технореактор.</ATR_CybertechReactor.description>
+
+
+</LanguageData>

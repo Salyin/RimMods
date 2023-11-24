@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ImpossibleToHarvest.label>Autoriser les cadavres dont les organes ne peuvent pas être prélevés</ImpossibleToHarvest.label>
+  <ImpossibleToHarvest.description>Les cadavres sans organes amovibles ni implants sont autorisés.</ImpossibleToHarvest.description>
+
+  <PossibleToHarvest.label>Cadavres qui permettent la récolte d'organes</PossibleToHarvest.label>
+  <PossibleToHarvest.description>Les cadavres avec organes amovibles ou implants sont autorisés.</PossibleToHarvest.description>
+
+  <HasBionics.label>Cadavres humains avec implants autorisés</HasBionics.label>
+  <HasBionics.description>Les cadavres humains avec des parties artificielles du corps sont autorisés.</HasBionics.description>
+
+  <DoesntHaveBionics.label>Autoriser les cadavres humains sans implants</DoesntHaveBionics.label>
+  <DoesntHaveBionics.description>Les cadavres humains sans parties artificielles du corps sont autorisés.</DoesntHaveBionics.description>
+
+  <ImpossibleToHarvestAnimal.label>Les carcasses d'animaux sans implants sont autorisées</ImpossibleToHarvestAnimal.label>
+  <ImpossibleToHarvestAnimal.description>Les carcasses d'animaux sans parties artificielles amovibles du corps sont autorisées.</ImpossibleToHarvestAnimal.description>
+
+  <PossibleToHarvestAnimal.label>Les carcasses d'animaux avec implants sont autorisées</PossibleToHarvestAnimal.label>
+  <PossibleToHarvestAnimal.description>Les carcasses d'animaux avec des parties artificielles amovibles du corps sont autorisées.</PossibleToHarvestAnimal.description>
+
+
+</LanguageData>

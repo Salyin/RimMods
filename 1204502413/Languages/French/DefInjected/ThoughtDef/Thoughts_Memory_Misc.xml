@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HarvestedHumanlikeCorpse.stages.0.label>J'ai prélevé les organes d'un cadavre</HarvestedHumanlikeCorpse.stages.0.label>
+  <HarvestedHumanlikeCorpse.stages.0.description>J'ai coupé les organes de quelqu'un comme une bête.</HarvestedHumanlikeCorpse.stages.0.description>
+
+  <KnowHarvestedHumanlikeCorpse.stages.0.label>Nous avons prélevé des organes sur un cadavre</KnowHarvestedHumanlikeCorpse.stages.0.label>
+  <KnowHarvestedHumanlikeCorpse.stages.0.description>Nous avons prélevé des organes sur un cadavre pour un bénéfice, mais c'était effrayant.</KnowHarvestedHumanlikeCorpse.stages.0.description>
+
+
+</LanguageData>

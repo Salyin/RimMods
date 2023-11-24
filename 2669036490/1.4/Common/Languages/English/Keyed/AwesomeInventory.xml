@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- Inventory Window -->
+    <AwesomeInventory_Belt>Belt</AwesomeInventory_Belt>
+    <AwesomeInventory_ChooseLoadout>Choose an Awesome Inventory loadout</AwesomeInventory_ChooseLoadout>
+    <AwesomeInventory_ExtraApparels>Extra Equipped Apparels</AwesomeInventory_ExtraApparels>
+    <AwesomeInventory_GreedyTab>Greedy (List)</AwesomeInventory_GreedyTab>
+    <AwesomeInventory_Head>Head Overhead</AwesomeInventory_Head>
+    <AwesomeInventory_JealousTab>Jealous (RPG Style)</AwesomeInventory_JealousTab>
+    <AwesomeInventory_MakeEmptyLoadout>Make empty loadout for {0}</AwesomeInventory_MakeEmptyLoadout>
+    <AwesomeInventory_MakeNewLoadout>Make new loadout for {0}</AwesomeInventory_MakeNewLoadout>
+    <AwesomeInventory_MassCarried>Mass carried</AwesomeInventory_MassCarried>
+    <AwesomeInventory_Pants>Legs OnSkin Layer</AwesomeInventory_Pants>
+    <AwesomeInventory_PrimaryWeapon>Primary Weapon</AwesomeInventory_PrimaryWeapon>
+    <AwesomeInventory_TorsoMiddle>Torso Middle Layer</AwesomeInventory_TorsoMiddle>
+    <AwesomeInventory_TorsoOnSkin>Torso OnSkin Layer</AwesomeInventory_TorsoOnSkin>
+    <AwesomeInventory_TorsoShell>Torso Shell Layer</AwesomeInventory_TorsoShell>
+    <AwesomeInventory_UnloadNow>Unload Now</AwesomeInventory_UnloadNow>
+
+    <!-- Loadout Window -->
+    <AwesomeInventory_AddToAllLoadout>Add to all loadout</AwesomeInventory_AddToAllLoadout>
+    <AwesomeInventory_Assorted>Assorted {0}</AwesomeInventory_Assorted>
+    <AwesomeInventory_DisplayName>Awesome Inventory</AwesomeInventory_DisplayName>
+    <AwesomeInventory_Blacklist>Blacklist</AwesomeInventory_Blacklist>
+    <AwesomeInventory_CantExceedStackCount>Cannot exceed stack count.</AwesomeInventory_CantExceedStackCount>
+    <AwesomeInventory_CantUnloadIncapableManipulation>Pawn can't perform unload action due to incapable of manipulation.</AwesomeInventory_CantUnloadIncapableManipulation>
+    <AwesomeInventory_ChooseMaterialAndQuality>Choose Material and Quality</AwesomeInventory_ChooseMaterialAndQuality>
+    <AwesomeInventory_CopyLoadout>Copy Loadout</AwesomeInventory_CopyLoadout>
+    <AwesomeInventory_CostumeSettings>Costume settings</AwesomeInventory_CostumeSettings>
+    <AwesomeInventory_CountFieldTip>Number of items</AwesomeInventory_CountFieldTip>
+    <AwesomeInventory_Customize>Customize</AwesomeInventory_Customize>
+    <AwesomeInventory_DeleteLoadout>Delete Loadout</AwesomeInventory_DeleteLoadout>
+    <AwesomeInventory_DontUseCostume>Don't use costume</AwesomeInventory_DontUseCostume>
+    <AwesomeInventory_DragToReorder>Drag to reorder</AwesomeInventory_DragToReorder>
+    <AwesomeInventory_EmptyLoadout>Empty Loadout</AwesomeInventory_EmptyLoadout>
+    <AwesomeInventory_GlobalApparelSetting>Loadout top level setting</AwesomeInventory_GlobalApparelSetting>
+    <AwesomeInventory_GlobalOutfitSettingWarning>Be advised: Settings here take precedence over those of apparels in Loadout window(Weapons and other items are not affected).</AwesomeInventory_GlobalOutfitSettingWarning>
+    <AwesomeInventory_ImportLoadout>Import items from other loadouts</AwesomeInventory_ImportLoadout>
+    <AwesomeInventory_LoadoutName>{0}'s Loadout</AwesomeInventory_LoadoutName>
+    <AwesomeInventory_MouseOverNumbersForDetails>Mouse over number for details</AwesomeInventory_MouseOverNumbersForDetails>
+    <AwesomeInventory_NewLoadout>New Loadout</AwesomeInventory_NewLoadout>
+    <AwesomeInventory_NoLoadout>No Loadout</AwesomeInventory_NoLoadout>
+    <AwesomeInventory_NoLoadoutSelected>No loadout selected</AwesomeInventory_NoLoadoutSelected>
+    <AwesomeInventory_NoMaterial>No Material Available</AwesomeInventory_NoMaterial>
+    <AwesomeInventory_OpenLoadout>Open Loadout</AwesomeInventory_OpenLoadout>
+    <AwesomeInventory_PreviewQuality>Preview Quality: </AwesomeInventory_PreviewQuality>
+    <AwesomeInventory_RestockAlways>Restock at first opportunity</AwesomeInventory_RestockAlways>
+    <AwesomeInventory_RestockBottomThreshold>Only restock when inventory level drops to:</AwesomeInventory_RestockBottomThreshold>
+
+    <AwesomeInventory_RightClickForMoreOptions>Right click for more options</AwesomeInventory_RightClickForMoreOptions>
+    <AwesomeInventory_SelectLoadout>Select Loadout</AwesomeInventory_SelectLoadout>
+    <AwesomeInventory_SortListAlphabetically>Sort list alphabetically</AwesomeInventory_SortListAlphabetically>
+    <AwesomeInventory_SourceAllTip>All items</AwesomeInventory_SourceAllTip>
+    <AwesomeInventory_SourceApparelTip>Apparels</AwesomeInventory_SourceApparelTip>
+    <AwesomeInventory_SourceFilterTip>Filter</AwesomeInventory_SourceFilterTip>
+    <AwesomeInventory_SourceGenericTip>Generic items</AwesomeInventory_SourceGenericTip>
+    <AwesomeInventory_SourceMeleeTip>Melee weapons</AwesomeInventory_SourceMeleeTip>
+    <AwesomeInventory_SourceMinifiedTip>Minified items</AwesomeInventory_SourceMinifiedTip>
+    <AwesomeInventory_SourceRangedTip>Ranged weapons</AwesomeInventory_SourceRangedTip>
+    <AwesomeInventory_Separate>Separate</AwesomeInventory_Separate>
+    <AwesomeInventory_SelectorStuff>Selected Stuff</AwesomeInventory_SelectorStuff>
+    <AwesomeInventory_StockMode>Stock mode</AwesomeInventory_StockMode>
+    <AwesomeInventory_StuffSource>Stuff Source</AwesomeInventory_StuffSource>
+    <AwesomeInventory_TryToDeleteLastLoadout>Cannot delete the last loadout</AwesomeInventory_TryToDeleteLastLoadout>
+    <AwesomeInventory_UseGenericStuff>Use generic stuff for all apparel in loadout</AwesomeInventory_UseGenericStuff>
+    <AwesomeInventory_Weight>Weight</AwesomeInventory_Weight>
+    <AwesomeInventory_Wishlist>Wish list</AwesomeInventory_Wishlist>
+        <!-- Combat Extended -->
+        <AwesomeInventory_SelectedWeapon>Selected Weapon: </AwesomeInventory_SelectedWeapon>
+        <AwesomeInventory_SelectedAmmo>Selected Ammo: </AwesomeInventory_SelectedAmmo>
+
+    <!-- Costume Window -->
+    <AwesomeInventory_CreateCostume>Create Costume</AwesomeInventory_CreateCostume>
+    <AwesomeInventory_CopyCostume>Copy Costume</AwesomeInventory_CopyCostume>
+    <AwesomeInventory_CopySuffix> - Copy</AwesomeInventory_CopySuffix>
+    <AwesomeInventory_Costume> Costume</AwesomeInventory_Costume>
+    <AwesomeInventory_DeleteCostume>Delete Costume</AwesomeInventory_DeleteCostume>
+    <AwesomeInventory_ItemsInCostume>Items in costume</AwesomeInventory_ItemsInCostume>
+    <AwesomeInventory_ApparelsInLoadout>Apparels in loadout</AwesomeInventory_ApparelsInLoadout>
+    <AwesomeInventory_NoCostumeAvailable>No costume available</AwesomeInventory_NoCostumeAvailable>
+    <AwesomeInventory_NoCostumeSelected>Please select a costume.</AwesomeInventory_NoCostumeSelected>
+    <AwesomeInventory_SelectCostume>Select Costume</AwesomeInventory_SelectCostume>
+
+    <!-- Overview Window -->
+    <AwesomeInventory_EquippedItems>Equipped items</AwesomeInventory_EquippedItems>
+    <AwesomeInventory_InventoryItems>Items in inventory</AwesomeInventory_InventoryItems>
+    <AwesomeInventory_InventoryView>Inventory View</AwesomeInventory_InventoryView>
+    <AwesomeInventory_Loadouts>Loadouts</AwesomeInventory_Loadouts>
+    <AwesomeInventory_LoadoutTabTip1>Ctrl+Drag to copy item from one loadout to another.</AwesomeInventory_LoadoutTabTip1>
+    <AwesomeInventory_LoadoutTabTip2>Right-Click to remove item from loadout.</AwesomeInventory_LoadoutTabTip2>
+    <AwesomeInventory_LoadoutView>Loadout View</AwesomeInventory_LoadoutView>
+    <AwesomeInventory_MakeLoadout>Make loadout</AwesomeInventory_MakeLoadout>
+    <AwesomeInventory_MakeLoadoutFrom>Make loadout from equipped items</AwesomeInventory_MakeLoadoutFrom>
+    <AwesomeInventory_MissingItems>Missing items</AwesomeInventory_MissingItems>
+
+    <!-- Stat Panel -->
+    <AwesomeInventory_StatPanel>Stat Panel</AwesomeInventory_StatPanel>
+    <AwesomeInventory_AddRemoveStat>Add\Remove Stat</AwesomeInventory_AddRemoveStat>
+
+    <!-- Labels -->
+    <AwesomeInventory_GenericMeal_Label>Generic Meals</AwesomeInventory_GenericMeal_Label>
+    <AwesomeInventory_AIGenericRawFood_Label>Generic RawFood</AwesomeInventory_AIGenericRawFood_Label>
+    <AwesomeInventory_AIGenericDrugs_Label>Generic Drugs</AwesomeInventory_AIGenericDrugs_Label>
+    <AwesomeInventory_AIGenericMedicine_Label>Generic Medicine</AwesomeInventory_AIGenericMedicine_Label>
+    <AwesomeInventory_AIGenericMeatRaw_Label>Generic Meat</AwesomeInventory_AIGenericMeatRaw_Label>
+
+    <!-- Descriptions -->
+    <AwesomeInventory_AIGenericMeal_Description>Placeholder for any perishable meals. Intended for compatibility with pawns automatically picking up a meal for themselves. It has the same mass as a fine meal.</AwesomeInventory_AIGenericMeal_Description>
+    <AwesomeInventory_AIGenericRawFood_Description>Placeholder for any raw food.  Intended for compatibility with pawns automatically picking up raw food to train animals.</AwesomeInventory_AIGenericRawFood_Description>
+    <AwesomeInventory_AIGenericDrugs_Description>Placeholder for any drugs. It includes medical drugs and has the same mass as Flake.</AwesomeInventory_AIGenericDrugs_Description>
+    <AwesomeInventory_AIGenericMedicine_Description>Placeholder for any medicine. Most commonly used by doctors.</AwesomeInventory_AIGenericMedicine_Description>
+    <AwesomeInventory_AIGenericMeatRaw_Description>Placeholder for any raw meat. Most commonly used by animal trainers.</AwesomeInventory_AIGenericMeatRaw_Description>
+
+
+    <!-- Gizmo -->
+    <AwesomeInventory_Consume>Consume {0}</AwesomeInventory_Consume>
+    <AwesomeInventory_ClearDrugSelection>Clear drug selection.</AwesomeInventory_ClearDrugSelection>
+    <AwesomeInventory_CurrentHotSwapCostume>Current hot swap costume: {0}</AwesomeInventory_CurrentHotSwapCostume>
+    <AwesomeInventory_HotSwapInterrupted>Hot swap was interrupted</AwesomeInventory_HotSwapInterrupted>
+    <AwesomeInventory_NotCapaleChangingApparel>{0} is not capable of changing apparel. </AwesomeInventory_NotCapaleChangingApparel>
+    <AwesomeInventory_NoCostumeForHotSwap>No costume available. Choose a loadout for pawn that has costumes</AwesomeInventory_NoCostumeForHotSwap>
+    <AwesomeInventory_NoDrugSelected>No drug selected</AwesomeInventory_NoDrugSelected>
+    <AwesomeInventory_ForceHotSwap>Force hot swap</AwesomeInventory_ForceHotSwap>
+    <AwesomeInventory_SameCostumeForHotSwap>Current active costume is the same as hot-swap costume</AwesomeInventory_SameCostumeForHotSwap>
+
+
+    <!-- Mod settings -->
+    <AwesomeInventory_AutoEquipWeapon>Find and equip weapon</AwesomeInventory_AutoEquipWeapon>
+    <AwesomeInventory_ChooseThemeColorForQuality>Choose theme for quality color:</AwesomeInventory_ChooseThemeColorForQuality>
+    <AwesomeInventory_DisableWindowInModSetting>Disable this window in mod setting</AwesomeInventory_DisableWindowInModSetting>
+    <AwesomeInventory_ExplainFeatures>Explanations on Loadout/Costume</AwesomeInventory_ExplainFeatures>
+    <AwesomeInventory_GearTabHeight>Gear tab height:</AwesomeInventory_GearTabHeight>
+    <AwesomeInventory_GearTabWidht>Gear tab width:</AwesomeInventory_GearTabWidht>
+    <AwesomeInventory_GoNuts>Go Nuts!</AwesomeInventory_GoNuts>
+    <AwesomeInventory_OpenLoadoutFromContextMenu>Allow pop-up window</AwesomeInventory_OpenLoadoutFromContextMenu>
+    <AwesomeInventory_PatchAllRaces>Patch all races</AwesomeInventory_PatchAllRaces>
+    <AwesomeInventory_TipsOnCostume>How to use costume</AwesomeInventory_TipsOnCostume>
+    <AwesomeInventory_TipsForHotSwap>How to hot swap costume</AwesomeInventory_TipsForHotSwap>
+    <AwesomeInventory_ToggleGearTab>Toggle Gear Tab</AwesomeInventory_ToggleGearTab>
+    <AwesomeInventory_UseGearTabToggle>Use gear tab gizmo/toggle</AwesomeInventory_UseGearTabToggle>
+    <AwesomeInventory_UseHotSwap>Use Hot-swap</AwesomeInventory_UseHotSwap>
+    <AwesomeInventory_UseLoadout>Use Loadout</AwesomeInventory_UseLoadout>
+    <AwesomeInventory_ShowRestartButton>Show Restart button</AwesomeInventory_ShowRestartButton>
+    <AwesomeInventory_UseTakeDrug>Use Take Drug gizmo</AwesomeInventory_UseTakeDrug>
+
+    <!-- Option texts on context menu -->
+    <AwesomeInventory_AddToLoadout>Add to {0}</AwesomeInventory_AddToLoadout>
+    <AwesomeInventory_Default>Awesome Inventory Default</AwesomeInventory_Default>
+    <AwesomeInventory_Equip>Equip {0} and keep the retired</AwesomeInventory_Equip>
+    <AwesomeInventory_ForceWear>Force wear {0} and keep the replaced</AwesomeInventory_ForceWear>
+    <AwesomeInventory_Pickup>Pick up {0}</AwesomeInventory_Pickup>
+    <AwesomeInventory_PutAway>Put Away {0}</AwesomeInventory_PutAway>
+    <AwesomeInventory_RemoveFromLoadout>Remove from {0}</AwesomeInventory_RemoveFromLoadout>
+    <AwesomeInventory_Wear>Wear {0} and keep the replaced</AwesomeInventory_Wear>
+    <AwesomeInventory_VanillaWear>Wear {0}</AwesomeInventory_VanillaWear>
+
+    <!-- Tooltips -->
+    <AwesomeInventory_Ascetic>Ascetic</AwesomeInventory_Ascetic>
+    <AwesomeInventory_AutoEquipWeaponTooltip>Allows Awesome Inventory choose and equip weapons for unarmed pawns.</AwesomeInventory_AutoEquipWeaponTooltip>
+    <AwesomeInventory_BlacklistTooltip>Items that fit in blacklist will not be considered for the Wish list. Blacklist will not come into effect if items in it do not fit the Wish list.</AwesomeInventory_BlacklistTooltip>
+    <AwesomeInventory_CurrentTemperature>Current Temperature</AwesomeInventory_CurrentTemperature>
+    <AwesomeInventory_OpenLoadoutFromContextMenuTooltip> Open loadout window when you equip/wear items on the map</AwesomeInventory_OpenLoadoutFromContextMenuTooltip>
+    <AwesomeInventory_PatchAllRacesTooltip>Patch all races to use Awesome Inventory's gear tab.</AwesomeInventory_PatchAllRacesTooltip>
+    <AwesomeInventory_PreviewQuality_Tooltip>Choose quality level for preview item. </AwesomeInventory_PreviewQuality_Tooltip>
+    <AwesomeInventory_Tips>Tips: {0}</AwesomeInventory_Tips>
+    <AwesomeInventory_Separate_Tooltip>Set quality and hit points for each selected stuff separately.</AwesomeInventory_Separate_Tooltip>
+    <AwesomeInventory_ShowRestartButtonTooltip>Show the restart button when in dev mode.</AwesomeInventory_ShowRestartButtonTooltip>
+    <AwesomeInventory_UseGearTabToggleTooltip>Gear tab toggle allows users to bind hot key to open the gear tab.</AwesomeInventory_UseGearTabToggleTooltip>
+    <AwesomeInventory_UseLoadoutTooltip>Use the loadout system provided by Awesome Inventory.</AwesomeInventory_UseLoadoutTooltip>
+    <AwesomeInventory_UseTakeDrugTooltip>Use the Take Drug gizmo which gives pawns a shortcut to ingest drugs in their inventory.</AwesomeInventory_UseTakeDrugTooltip>
+    <AwesomeInventory_WishlistTooltip>Pawn will actively looking for items in the Wish list.</AwesomeInventory_WishlistTooltip>
+
+    <!-- Messages -->
+    <AwesomeInventory_FailToDrop>{0} failed to drop {1}</AwesomeInventory_FailToDrop>
+    <AwesomeInventory_NoDrugInInventory>No {0} in {1}'s inventory</AwesomeInventory_NoDrugInInventory>
+    <AwesomeInventory_ErrorReport>Awesome Inventory has encountered an error, please report back to the author.</AwesomeInventory_ErrorReport>
+
+
+</LanguageData>

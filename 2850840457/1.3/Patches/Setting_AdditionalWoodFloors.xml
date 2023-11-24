@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<Operation Class="OutlandTerrain.PatchOperation_SettingActive">
+		<settings>
+			<li>additionalWoodFloors</li>
+		</settings>
+		<inactive Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/TerrainDef[@ParentName="OutlandWoodFloorBase"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/TerrainDef[@Name="OutlandWoodFloorBase"]</xpath>
+				</li>
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/DesignatorDropdownGroupDef[defName="Outland_WoodFloor" or defName="Outland_WoodBoards"]</xpath>
+				</li>
+			</operations>
+		</inactive>
+	</Operation>
+
+</Patch>

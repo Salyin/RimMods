@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechanicalAssemblyPod.label>сборочная капсула</ATR_MechanicalAssemblyPod.label>
+  <ATR_MechanicalAssemblyPod.description>Сборочная капсула, предназначенная для сборки и воспроизводства андроидов, и механических животных.</ATR_MechanicalAssemblyPod.description>
+
+  <ATR_MechPartWorkbench.label>робототехнический верстак</ATR_MechPartWorkbench.label>
+  <ATR_MechPartWorkbench.description>Робототехнический верстак, который вмещает все необходимое оборудование для изготовления ремкомплектов и запасных деталей андроидов.</ATR_MechPartWorkbench.description>
+
+
+</LanguageData>

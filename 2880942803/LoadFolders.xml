@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+	<v1.4>
+		<li>/</li>
+		<li IfModActive="Nals.ChibiBody">Compatibility/ChibiBody</li>
+		<li IfModActive="Nals.CompatibleBody2">Compatibility/CompatibileBody2</li>
+		<li IfModActive="Xeva.XevaFBpack.11">Compatibility/Xeva</li>
+	</v1.4>
+</loadFolders>

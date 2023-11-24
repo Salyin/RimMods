@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_AndroidT2CollectiveTrader.label>T2 Андроид торговец</ATR_AndroidT2CollectiveTrader.label>
+  <ATR_AndroidT2CollectiveTrader.labelPlural>T2 Андроиды торговцы</ATR_AndroidT2CollectiveTrader.labelPlural>
+  <ATR_AndroidT2CollectiveTrader.labelMale>T2 Андроид торговец</ATR_AndroidT2CollectiveTrader.labelMale>
+  <ATR_AndroidT2CollectiveTrader.labelMalePlural>T2 Андроиды торговцы</ATR_AndroidT2CollectiveTrader.labelMalePlural>
+  <ATR_AndroidT2CollectiveTrader.labelFemale>T2 Андроид торговец</ATR_AndroidT2CollectiveTrader.labelFemale>
+  <ATR_AndroidT2CollectiveTrader.labelFemalePlural>T2 Андроиды торговцы</ATR_AndroidT2CollectiveTrader.labelFemalePlural>
+
+  <ATR_AndroidT1CollectiveSoldier.label>T1 Андроид солдат</ATR_AndroidT1CollectiveSoldier.label>
+  <ATR_AndroidT1CollectiveSoldier.labelPlural>T1 Андроиды солдаты</ATR_AndroidT1CollectiveSoldier.labelPlural>
+  <ATR_AndroidT1CollectiveSoldier.labelMale>T1 Андроид солдат</ATR_AndroidT1CollectiveSoldier.labelMale>
+  <ATR_AndroidT1CollectiveSoldier.labelMalePlural>T1 Андроиды солдаты</ATR_AndroidT1CollectiveSoldier.labelMalePlural>
+  <ATR_AndroidT1CollectiveSoldier.labelFemale>T1 Андроид солдат</ATR_AndroidT1CollectiveSoldier.labelFemale>
+  <ATR_AndroidT1CollectiveSoldier.labelFemalePlural>T1 Андроиды солдаты</ATR_AndroidT1CollectiveSoldier.labelFemalePlural>
+
+  <ATR_AndroidT2CollectiveSoldier.label>T2 Андроид солдат</ATR_AndroidT2CollectiveSoldier.label>
+  <ATR_AndroidT2CollectiveSoldier.labelPlural>T2 Андроиды солдаты</ATR_AndroidT2CollectiveSoldier.labelPlural>
+  <ATR_AndroidT2CollectiveSoldier.labelMale>T2 Андроид солдат</ATR_AndroidT2CollectiveSoldier.labelMale>
+  <ATR_AndroidT2CollectiveSoldier.labelMalePlural>T2 Андроиды солдаты</ATR_AndroidT2CollectiveSoldier.labelMalePlural>
+  <ATR_AndroidT2CollectiveSoldier.labelFemale>T2 Андроид солдат</ATR_AndroidT2CollectiveSoldier.labelFemale>
+  <ATR_AndroidT2CollectiveSoldier.labelFemalePlural>T2 Андроиды солдаты</ATR_AndroidT2CollectiveSoldier.labelFemalePlural>
+
+  <ATR_AndroidT3CollectiveSoldier.label>T3 Андроид солдат</ATR_AndroidT3CollectiveSoldier.label>
+  <ATR_AndroidT3CollectiveSoldier.labelPlural>T3 Андроиды солдаты</ATR_AndroidT3CollectiveSoldier.labelPlural>
+  <ATR_AndroidT3CollectiveSoldier.labelMale>T3 Андроид солдат</ATR_AndroidT3CollectiveSoldier.labelMale>
+  <ATR_AndroidT3CollectiveSoldier.labelMalePlural>T3 Андроиды солдаты</ATR_AndroidT3CollectiveSoldier.labelMalePlural>
+  <ATR_AndroidT3CollectiveSoldier.labelFemale>T3 Андроид солдат</ATR_AndroidT3CollectiveSoldier.labelFemale>
+  <ATR_AndroidT3CollectiveSoldier.labelFemalePlural>T3 Андроиды солдаты</ATR_AndroidT3CollectiveSoldier.labelFemalePlural>
+
+  <ATR_AndroidT4CollectiveSoldier.label>T4 Андроид солдат</ATR_AndroidT4CollectiveSoldier.label>
+  <ATR_AndroidT4CollectiveSoldier.labelPlural>T4 Андроиды солдаты</ATR_AndroidT4CollectiveSoldier.labelPlural>
+  <ATR_AndroidT4CollectiveSoldier.labelMale>T4 Андроид солдат</ATR_AndroidT4CollectiveSoldier.labelMale>
+  <ATR_AndroidT4CollectiveSoldier.labelMalePlural>T4 Андроиды солдаты</ATR_AndroidT4CollectiveSoldier.labelMalePlural>
+  <ATR_AndroidT4CollectiveSoldier.labelFemale>T4 Андроид солдат</ATR_AndroidT4CollectiveSoldier.labelFemale>
+  <ATR_AndroidT4CollectiveSoldier.labelFemalePlural>T4 Андроиды солдаты</ATR_AndroidT4CollectiveSoldier.labelFemalePlural>
+
+  <ATR_AndroidT4CollectiveLeader.label>лидер андроидов</ATR_AndroidT4CollectiveLeader.label>
+  <ATR_AndroidT4CollectiveLeader.labelPlural>лидеры андроидов</ATR_AndroidT4CollectiveLeader.labelPlural>
+  <ATR_AndroidT4CollectiveLeader.labelMale>лидер андроидов</ATR_AndroidT4CollectiveLeader.labelMale>
+  <ATR_AndroidT4CollectiveLeader.labelMalePlural>лидеры андроидов</ATR_AndroidT4CollectiveLeader.labelMalePlural>
+  <ATR_AndroidT4CollectiveLeader.labelFemale>лидер андроидов</ATR_AndroidT4CollectiveLeader.labelFemale>
+  <ATR_AndroidT4CollectiveLeader.labelFemalePlural>лидеры андроидов</ATR_AndroidT4CollectiveLeader.labelFemalePlural>
+
+
+</LanguageData>

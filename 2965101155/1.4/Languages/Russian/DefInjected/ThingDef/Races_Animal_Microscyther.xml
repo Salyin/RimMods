@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MicroScyther.label>скарабей</ATR_MicroScyther.label>
+  <ATR_MicroScyther.description>Механический скарабей - предназначен для эффективного уничтожения целей. Рой скарабеев имеет ограниченный срок службы их аккумуляторов, ничего не дают при уничтожении и атакуют всё, что не является скарабеем.</ATR_MicroScyther.description>
+  <ATR_MicroScyther.tools.0.label>голова</ATR_MicroScyther.tools.0.label>
+  <ATR_MicroScyther.tools.1.label>левое крыло</ATR_MicroScyther.tools.1.label>
+  <ATR_MicroScyther.tools.2.label>правое крыло</ATR_MicroScyther.tools.2.label>
+
+
+</LanguageData>

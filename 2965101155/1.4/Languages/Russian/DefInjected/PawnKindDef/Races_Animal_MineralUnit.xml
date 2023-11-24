@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneMineralUnit.label>механическая овца</ATR_DroneMineralUnit.label>
+  <ATR_DroneMineralUnit.labelPlural>механические овцы</ATR_DroneMineralUnit.labelPlural>
+  <ATR_DroneMineralUnit.labelMale>механический баран</ATR_DroneMineralUnit.labelMale>
+  <ATR_DroneMineralUnit.labelMalePlural>механические бараны</ATR_DroneMineralUnit.labelMalePlural>
+  <ATR_DroneMineralUnit.labelFemale>механическая овца</ATR_DroneMineralUnit.labelFemale>
+  <ATR_DroneMineralUnit.labelFemalePlural>механические овцы</ATR_DroneMineralUnit.labelFemalePlural>
+
+
+</LanguageData>

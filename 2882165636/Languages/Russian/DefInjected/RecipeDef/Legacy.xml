@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CreateBionicEye.label>Смастерить бионический глаз</CreateBionicEye.label>
+  <CreateBionicEye.description>Создание бионического глаза из пластали.</CreateBionicEye.description>
+  <CreateBionicEye.jobString>Создаёт бионический протез.</CreateBionicEye.jobString>
+
+  <CreateBionicLeg.label>Смастерить бионическую ногу</CreateBionicLeg.label>
+  <CreateBionicLeg.description>Улучшение простого протеза ноги с помощью пластали и компонентов.</CreateBionicLeg.description>
+  <CreateBionicLeg.jobString>Создаёт бионический протез.</CreateBionicLeg.jobString>
+
+  <CreateBionicArm.label>Смастерить бионическую руку</CreateBionicArm.label>
+  <CreateBionicArm.description>Улучшение простого протеза руки с помощью пластали и компонентов.</CreateBionicArm.description>
+  <CreateBionicArm.jobString>Создаёт бионический протез.</CreateBionicArm.jobString>
+
+  <CreateBionicSpine.label>Смастерить бионический позвоночник</CreateBionicSpine.label>
+  <CreateBionicSpine.description>Создание бионического позвоночника из стали и пластали.</CreateBionicSpine.description>
+  <CreateBionicSpine.jobString>Создаёт бионический протез.</CreateBionicSpine.jobString>
+
+  <CreateBionicEar.label>Смастерить бионическое ухо</CreateBionicEar.label>
+  <CreateBionicEar.description>Создание бионического уха из пластали.</CreateBionicEar.description>
+  <CreateBionicEar.jobString>Создаёт бионический протез.</CreateBionicEar.jobString>
+
+  <CreateBionicHand.label>Смастерить бионическую кисть</CreateBionicHand.label>
+  <CreateBionicHand.description>Улучшение простого протеза кисти с помощью пластали и компонентов.</CreateBionicHand.description>
+  <CreateBionicHand.jobString>Создаёт бионический протез.</CreateBionicHand.jobString>
+
+  <CreateBionicFoot.label>Смастерить бионическую ступню</CreateBionicFoot.label>
+  <CreateBionicFoot.description>Улучшение простого протеза ступни с помощью пластали и компонентов.</CreateBionicFoot.description>
+  <CreateBionicFoot.jobString>Создаёт бионический протез.</CreateBionicFoot.jobString>
+
+  <EPIA_UpgradeBionicFinger.label>Смастерить бионический палец</EPIA_UpgradeBionicFinger.label>
+  <EPIA_UpgradeBionicFinger.description>Улучшение простого протез пальца с помощью пластали и компонентов.</EPIA_UpgradeBionicFinger.description>
+  <EPIA_UpgradeBionicFinger.jobString>Создаёт бионический палец.</EPIA_UpgradeBionicFinger.jobString>
+
+  <EPIA_UpgradeBionicToe.label>Смастерить бионический палец ноги</EPIA_UpgradeBionicToe.label>
+  <EPIA_UpgradeBionicToe.description>Улучшение простого протез пальца ноги с помощью пластали и компонентов.</EPIA_UpgradeBionicToe.description>
+  <EPIA_UpgradeBionicToe.jobString>Создаёт бионический палец ноги.</EPIA_UpgradeBionicToe.jobString>
+
+  <CreateBionicJaw.label>Смастерить бионическую челюсть</CreateBionicJaw.label>
+  <CreateBionicJaw.description>Создание бионической челюсти из стали и пластали.</CreateBionicJaw.description>
+  <CreateBionicJaw.jobString>Создаёт бионический протез.</CreateBionicJaw.jobString>
+
+  <CreateSilentJaw.label>Смастерить "молчаливую" челюсть</CreateSilentJaw.label>
+  <CreateSilentJaw.description>Создание бионической "молчаливой" челюсти из стали и пластали.</CreateSilentJaw.description>
+  <CreateSilentJaw.jobString>Создаёт бионический протез.</CreateSilentJaw.jobString>
+
+  <CreateSyntheticHeart.label>Смастерить синтетическое сердце</CreateSyntheticHeart.label>
+  <CreateSyntheticHeart.description>Создание синтетического сердца из гиперткани, продвинутых компонентов и заменителя сердца.</CreateSyntheticHeart.description>
+  <CreateSyntheticHeart.jobString>Создаёт синтетический орган.</CreateSyntheticHeart.jobString>
+
+  <CreateSyntheticLung.label>Смастерить синтетическое лёгкое</CreateSyntheticLung.label>
+  <CreateSyntheticLung.description>Создает синтетический лёгкое из гиперткни, продвинутых компонентов и заменителя лёгкого.</CreateSyntheticLung.description>
+  <CreateSyntheticLung.jobString>Создаёт синтетический орган.</CreateSyntheticLung.jobString>
+
+  <CreateSyntheticStomach.label>Смастерить синтетический желудок</CreateSyntheticStomach.label>
+  <CreateSyntheticStomach.description>Создание синтетического желудка из гиперткни, продвинутых компонентов и заменителя желудка.</CreateSyntheticStomach.description>
+  <CreateSyntheticStomach.jobString>Создаёт синтетический орган.</CreateSyntheticStomach.jobString>
+
+  <CreateSyntheticLiver.label>Создать синтетическую печень</CreateSyntheticLiver.label>
+  <CreateSyntheticLiver.description>Создание синтетической печени из гиперткни, продвинутых компонентов и заменителя печени.</CreateSyntheticLiver.description>
+  <CreateSyntheticLiver.jobString>Создаёт синтетический орган.</CreateSyntheticLiver.jobString>
+
+  <CreateSyntheticKidney.label>Смастерить синтетическую почку</CreateSyntheticKidney.label>
+  <CreateSyntheticKidney.description>Создание синтетической почки из гиперткани, продвинутых компонентов и заменителя почки.</CreateSyntheticKidney.description>
+  <CreateSyntheticKidney.jobString>Создаёт синтетический орган.</CreateSyntheticKidney.jobString>
+
+
+</LanguageData>

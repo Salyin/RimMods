@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechanicalSurgeryOutcomeBase.outcomes.1.letterLabel>Операция над {PATIENT_labelShort} провалилась</ATR_MechanicalSurgeryOutcomeBase.outcomes.1.letterLabel>
+  <ATR_MechanicalSurgeryOutcomeBase.outcomes.1.letterText>{SURGEON_labelShort}{SURGEON_gender ? совершил : совершила} фатальную ошибку во время оперирования {PATIENT_labelShort} из-за особой сложности операции: {RECIPE_label}.</ATR_MechanicalSurgeryOutcomeBase.outcomes.1.letterText>
+  <ATR_MechanicalSurgeryOutcomeBase.outcomes.2.letterLabel>Операция над {PATIENT_labelShort} провалилась</ATR_MechanicalSurgeryOutcomeBase.outcomes.2.letterLabel>
+  <ATR_MechanicalSurgeryOutcomeBase.outcomes.2.letterText>{SURGEON_labelShort}{SURGEON_gender ? совершил : совершила} серьёзную ошибку во время операции ({RECIPE_label}) над {PATIENT_labelShort}.</ATR_MechanicalSurgeryOutcomeBase.outcomes.2.letterText>
+  <ATR_MechanicalSurgeryOutcomeBase.outcomes.3.letterLabel>Операция над {PATIENT_labelShort} провалилась</ATR_MechanicalSurgeryOutcomeBase.outcomes.3.letterLabel>
+  <ATR_MechanicalSurgeryOutcomeBase.outcomes.3.letterText>{SURGEON_labelShort} {SURGEON_gender ? совершил : совершила} нелепую ошибку во время операции ({RECIPE_label}) над {PATIENT_labelShort}.</ATR_MechanicalSurgeryOutcomeBase.outcomes.3.letterText>
+  <ATR_MechanicalSurgeryOutcomeBase.outcomes.4.letterLabel>Операция над {PATIENT_labelShort} провалилась</ATR_MechanicalSurgeryOutcomeBase.outcomes.4.letterLabel>
+  <ATR_MechanicalSurgeryOutcomeBase.outcomes.4.letterText>{SURGEON_labelShort} {SURGEON_gender ? не справился : не справилась} с операцией ({RECIPE_label}) над {PATIENT_labelShort}..</ATR_MechanicalSurgeryOutcomeBase.outcomes.4.letterText>
+
+
+</LanguageData>

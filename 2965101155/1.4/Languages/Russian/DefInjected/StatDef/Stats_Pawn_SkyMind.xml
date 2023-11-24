@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Surrogate Limit Bonus -->
+
+  <ATR_SurrogateLimitBonus.label>Суррогатный бонус</ATR_SurrogateLimitBonus.label>
+  <ATR_SurrogateLimitBonus.description>Сколько дополнительных суррогатов может контролировать эта пешка, не страдая от разделения сознания.</ATR_SurrogateLimitBonus.description>
+
+
+</LanguageData>

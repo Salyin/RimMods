@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cavalry Spikes -->
+
+  <VFES_CavalrySpikes.label>защитные колья</VFES_CavalrySpikes.label>
+  <VFES_CavalrySpikes.description>Деревянные колья, расположенные в ряд и служащие оборонительным укреплением. Очень дешевы и быстро строятся, обеспечивают базовое укрытие и наносят урон противникам, пытающимся пройти через них. Ломаются через некоторое время.</VFES_CavalrySpikes.description>
+  <VFES_CavalrySpikes_Blueprint.label>защитные колья (схема)</VFES_CavalrySpikes_Blueprint.label>
+  <VFES_CavalrySpikes_Frame.label>защитные колья (в процессе сборки)</VFES_CavalrySpikes_Frame.label>
+  <VFES_CavalrySpikes_Frame.description>Деревянные колья, расположенные в ряд и служащие оборонительным укреплением. Очень дешевы и быстро строятся, обеспечивают базовое укрытие и наносят урон противникам, пытающимся пройти через них. Ломаются через некоторое время.</VFES_CavalrySpikes_Frame.description>
+
+
+</LanguageData>

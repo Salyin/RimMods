@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Vanilla/Defs/Things/FTC_Bunker.xml-->
+                    <!-- quad machinegun bunker -->
+<FTC_Bunker_Turret.label>четырехместный пулеметный бункер</FTC_Bunker_Turret.label>
+                          <!-- a manned stationary machinegun bunker half buried beneath as a permanent fortification, Gunner can safely man the gun inside 
+
+ This is a permanent structure, site wisely. -->
+<FTC_Bunker_Turret.description>обитаемый стационарный пулеметный бункер, наполовину зарытый под землю как постоянное укрепление, пулеметчик может безопасно управлять орудием внутриa manned stationary machinegun bunker half buried beneath as a permanent fortification, Gunner can safely man the gun inside \n\n Это постоянное сооружение, размещайте его с умом..</FTC_Bunker_Turret.description>
+                                              <!-- Shots until ammo exhaust -->
+<FTC_Bunker_Turret.comps.Comp_Refuelable.fuelLabel>Выстрелы до исчерпания патронов</FTC_Bunker_Turret.comps.Comp_Refuelable.fuelLabel>
+                                                   <!-- Ammunition -->
+<FTC_Bunker_Turret.comps.Comp_Refuelable.fuelGizmoLabel>Боеприпасы</FTC_Bunker_Turret.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                     <!-- Cannot shoot: Needs ammo -->
+<FTC_Bunker_Turret.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: нужны патроны</FTC_Bunker_Turret.comps.Comp_Refuelable.outOfFuelMessage>
+                 <!-- quad machine gun -->
+<FTC_Bunker_Gun.label>счетверённый пулемётquad machine gun</FTC_Bunker_Gun.label>
+                       <!-- four machinegun mounted inside bunker. -->
+<FTC_Bunker_Gun.description>четыре пулемета, установленные внутри бункера.</FTC_Bunker_Gun.description>
+                      <!-- Tank Bunker -->
+<FTC_AntiTank_Turret.label>Танковый бункер</FTC_AntiTank_Turret.label>
+                            <!-- a fixed tank turret mounting on a half-buried concrete box. n
+ As a bunker fortification, the gunner could operate the weapon internally until it was destroyed.
+
+ This is a permanent structure, site wisely. -->
+<FTC_AntiTank_Turret.description>неподвижная башня танка, установленная на полузасыпанном бетонном ящике.a fixed tank turret mounting on a half-buried concrete box. n\n В качестве укрепления бункера наводчик мог управлять орудием внутри, пока оно не было уничтожено.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_AntiTank_Turret.description>
+                                                <!-- Shots until barrel change -->
+<FTC_AntiTank_Turret.comps.Comp_Refuelable.fuelLabel>Выстрелы до смены ствола</FTC_AntiTank_Turret.comps.Comp_Refuelable.fuelLabel>
+                                                     <!-- Barrel durability -->
+<FTC_AntiTank_Turret.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FTC_AntiTank_Turret.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                       <!-- Cannot shoot: Needs new reinforced barrel -->
+<FTC_AntiTank_Turret.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: нужен новый усиленный ствол</FTC_AntiTank_Turret.comps.Comp_Refuelable.outOfFuelMessage>
+                   <!-- anti tank cannon turret -->
+<FTC_AntiTank_Gun.label>башня противотанковой пушкиanti tank cannon turret</FTC_AntiTank_Gun.label>
+                         <!-- an anti tank cannon mounted on an armoured turret. -->
+<FTC_AntiTank_Gun.description>противотанковая пушка, установленная на бронированной башне.an anti tank cannon mounted on an armoured turret.</FTC_AntiTank_Gun.description>
+                      <!-- coastal batterey -->
+<FTC_Batterey_Turret.label>береговая батарея</FTC_Batterey_Turret.label>
+                            <!-- A heavy navy gun mounted on a large concrete bunker that can effectively destroy enemies within range. n
+ as a permanent fortification, Gunner can safely man the gun inside 
+
+ This is a permanent structure, site wisely. -->
+<FTC_Batterey_Turret.description>Тяжелое военно-морское орудие, установленное на большом бетонном бункере, может эффективно уничтожать врагов в пределах досягаемости. n\n как постоянное укрепление, артиллерист может безопасно установить пушку внутри \n\n Это постоянное сооружение, размещайте его с умом..</FTC_Batterey_Turret.description>
+                                                <!-- Shots until barrel change -->
+<FTC_Batterey_Turret.comps.Comp_Refuelable.fuelLabel>Выстрелы до смены ствола</FTC_Batterey_Turret.comps.Comp_Refuelable.fuelLabel>
+                                                     <!-- Barrel durability -->
+<FTC_Batterey_Turret.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FTC_Batterey_Turret.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                       <!-- Cannot shoot: Needs new reinforced barrel -->
+<FTC_Batterey_Turret.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: нужен новый усиленный ствол</FTC_Batterey_Turret.comps.Comp_Refuelable.outOfFuelMessage>
+                   <!-- coastal artillery -->
+<FTC_Batterey_Gun.label>береговая артиллерия</FTC_Batterey_Gun.label>
+                         <!-- a navy gun turret, two operater is required to man this gun. -->
+<FTC_Batterey_Gun.description>морская орудийная башня, для управления этой пушкой требуется два оператора.</FTC_Batterey_Gun.description>
+                         <!-- heavy explosive shell -->
+<FT_Bullet_BatteryShell.label>тяжелый фугасный снаряд</FT_Bullet_BatteryShell.label>
+
+</LanguageData>

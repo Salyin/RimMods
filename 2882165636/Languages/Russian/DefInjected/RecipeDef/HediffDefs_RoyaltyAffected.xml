@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Joywire -->
+
+  <RemoveJoywire.label>Удалить чип счастья</RemoveJoywire.label>
+  <RemoveJoywire.description>Удалить чип счастья.</RemoveJoywire.description>
+  <RemoveJoywire.jobString>Удаляет чип счастья.</RemoveJoywire.jobString>
+
+
+  <!-- Painstopper -->
+
+  <RemovePainstopper.label>Удалить чип обезболивания</RemovePainstopper.label>
+  <RemovePainstopper.description>Удалить чип обезболивания.</RemovePainstopper.description>
+  <RemovePainstopper.jobString>Удаляет чип обезболивания.</RemovePainstopper.jobString>
+
+
+  <!-- Power arm -->
+
+  <CreatePowerArm.label>Смастерить силовую руку</CreatePowerArm.label>
+  <CreatePowerArm.description>Установить силовой коготь на бионическую руку не то просто как кажется, но блин, это круто!</CreatePowerArm.description>
+  <CreatePowerArm.jobString>Создаёт бионический протез.</CreatePowerArm.jobString>
+
+  <InstallPowerArm.label>Установить силовую руку</InstallPowerArm.label>
+  <InstallPowerArm.description>Установка силовой руки.</InstallPowerArm.description>
+  <InstallPowerArm.jobString>Устанавливает силовую руку.</InstallPowerArm.jobString>
+
+
+  <!-- Advanced power arm -->
+
+  <CreateAdvancedPowerArm.label>Модернизировать силовую руку</CreateAdvancedPowerArm.label>
+  <CreateAdvancedPowerArm.description>Модернизация бионической руки с помощью продвинутых компонентов.</CreateAdvancedPowerArm.description>
+  <CreateAdvancedPowerArm.jobString>Улучшает бионический протез.</CreateAdvancedPowerArm.jobString>
+
+  <InstallAdvancedPowerArm.label>Установить улучшенную силовую руку</InstallAdvancedPowerArm.label>
+  <InstallAdvancedPowerArm.description>Установить улучшенную силовую руку.</InstallAdvancedPowerArm.description>
+  <InstallAdvancedPowerArm.jobString>Устанавливает улучшенную силовую руку.</InstallAdvancedPowerArm.jobString>
+
+
+</LanguageData>

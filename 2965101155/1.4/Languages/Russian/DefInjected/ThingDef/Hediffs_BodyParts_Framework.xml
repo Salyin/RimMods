@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plasteel Plating -->
+
+  <ATR_PlatingPlasteel.label>пласталевый каркас</ATR_PlatingPlasteel.label>
+  <ATR_PlatingPlasteel.description>Каркас усиленный пласталью. Обладает немного повышенной стойкостью к повреждениям.</ATR_PlatingPlasteel.description>
+
+
+  <!-- Guardian -->
+
+  <ATR_GuardianFrame.label>бронированный каркас</ATR_GuardianFrame.label>
+  <ATR_GuardianFrame.description>Усиленный каркас, предназначенный для выдерживания экстремально высоких температур, будь то естественных, случайных или доставленных Молотовым, прямо под ноги. Изоляционные материалы так же защищают от холода.</ATR_GuardianFrame.description>
+
+
+  <!-- Hydraulic -->
+
+  <ATR_HydraulicFrame.label>гидравлический каркас</ATR_HydraulicFrame.label>
+  <ATR_HydraulicFrame.description>Гидравлический каркас, предназначенный для увеличения максимального переносимого веса, с которым каркас может безопасно справиться в краткосрочной и долгосрочной перспективе. Переработанное строение каркаса также увеличивает общую эффективность андроида.</ATR_HydraulicFrame.description>
+
+
+  <!-- Suppressor -->
+
+  <ATR_SuppressorFrame.label>урезанный каркас</ATR_SuppressorFrame.label>
+  <ATR_SuppressorFrame.description>Урезанная версия каркаса, предназначенная для подавления боевых возможностей андроида. Этот каркас использует внутреннее программное обеспечение, препятствующее андроиду, использовать любой вид оружия. Намеренно обладает более хрупкой конструкцией, чтобы снизить боевые возможности без ухудшения общей эффективности андроида.</ATR_SuppressorFrame.description>
+
+
+  <!-- Composite Plating -->
+
+  <ATR_CompositePlating.label>композитный каркас</ATR_CompositePlating.label>
+  <ATR_CompositePlating.description>Композитный каркас изготовленный из сплава закаленной пластали и жидких механитов. Обладает высокой стойкостью к повреждениям.</ATR_CompositePlating.description>
+
+
+  <!-- Refined -->
+
+  <ATR_RefinedFrame.label>изысканный каркас</ATR_RefinedFrame.label>
+  <ATR_RefinedFrame.description>Изысканный каркас обладает резной гравировкой, эргономичными деталями и утонченной структурой. Разработан чтобы выглядеть максимально изысканно и чрезвычайно богато. Каркас никак не усилят андроида, но бесспорно, выглядит он по-настоящему богато.</ATR_RefinedFrame.description>
+
+
+  <!-- Sanitary -->
+
+  <ATR_SanitaryFrame.label>стерильный каркас</ATR_SanitaryFrame.label>
+  <ATR_SanitaryFrame.description>Стерильный каркас, обработанный и продезинфицированный, обеспечивающий нулевое содержание каких-либо микроорганизмов. Этот каркас невозможно замарать, он также оптимизирован для очень плавных движений, которые требуются для операций и обработки ран.</ATR_SanitaryFrame.description>
+
+
+  <!-- Mobility -->
+
+  <ATR_MobilityFrame.label>подвижный каркас</ATR_MobilityFrame.label>
+  <ATR_MobilityFrame.description>Подвижный каркас, предназначенный для плавности и эффективности движения. Этот каркас имеет уникальный дизайн и специализированные противовесы с новыми внешними компонентами, чтобы минимизировать потери скорости и импульса, а также обеспечить превосходную гибкость и ловкость.</ATR_MobilityFrame.description>
+
+
+</LanguageData>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bionic spine -->
+
+  <BionicSpine.label>Бионический позвоночник</BionicSpine.label>
+  <BionicSpine.description>Установленный бионический позвоночник.</BionicSpine.description>
+  <BionicSpine.labelNoun>Бионический позвоночник</BionicSpine.labelNoun>
+
+
+  <!-- Bionic hand -->
+
+  <BionicHand.label>Бионическая кисть</BionicHand.label>
+  <BionicHand.description>Установленная Бионическая кисть.</BionicHand.description>
+  <BionicHand.comps.0.tools.0.label>кисть</BionicHand.comps.0.tools.0.label>
+  <BionicHand.labelNoun>Бионическая кисть</BionicHand.labelNoun>
+
+
+  <!-- Bionic FOot -->
+
+  <BionicFoot.label>Бионическая ступня</BionicFoot.label>
+  <BionicFoot.description>Установленная бионическая ступня.</BionicFoot.description>
+  <BionicFoot.labelNoun>Бионическая ступня</BionicFoot.labelNoun>
+
+
+  <!-- Bionic finger -->
+
+  <BionicFinger.label>Бионический палец</BionicFinger.label>
+  <BionicFinger.description>Установленный бионический палец.</BionicFinger.description>
+  <BionicFinger.labelNoun>Бионическая палец</BionicFinger.labelNoun>
+
+
+  <!-- Bionic toe -->
+
+  <BionicToe.label>Бионический палец ноги</BionicToe.label>
+  <BionicToe.description>Установленный бионический палец ноги.</BionicToe.description>
+  <BionicToe.labelNoun>Бионический палец ноги</BionicToe.labelNoun>
+
+
+  <!-- Bionic Jaw -->
+
+  <BionicJaw.label>Бионический челюстной имплантат</BionicJaw.label>
+  <BionicJaw.description>Установленный бионический челюстной имплантат.</BionicJaw.description>
+  <BionicJaw.comps.0.tools.0.label>Челюсть</BionicJaw.comps.0.tools.0.label>
+  <BionicJaw.labelNoun>Бионический челюстной имплантат</BionicJaw.labelNoun>
+
+
+  <!-- Silent jaw -->
+
+  <SilentJaw.label>"Немой" челюстной имплантат</SilentJaw.label>
+  <SilentJaw.description>Установленный Немой челюстной имплантат.</SilentJaw.description>
+  <SilentJaw.comps.0.tools.0.label>Челюсть</SilentJaw.comps.0.tools.0.label>
+  <SilentJaw.labelNoun>Немой челюстной имплантат</SilentJaw.labelNoun>
+
+
+  <!--<MedicalRib.label>Медицинское ребро</MedicalRib.label>-->
+  <!--<BionicEar.label>Бионический ушной имплантат</BionicEar.label>-->
+  <!--<PowerArm.label>Силовая рука</PowerArm.label>-->
+  <!--<DruggedRib.label>Стимулирующее ребро</DruggedRib.label>-->
+  <!--<AdrenalineRib.label>Адреналиновое ребро</AdrenalineRib.label>-->
+  <!--<PainkillerRib.label>Обезболивающее ребро</PainkillerRib.label>-->
+
+</LanguageData>

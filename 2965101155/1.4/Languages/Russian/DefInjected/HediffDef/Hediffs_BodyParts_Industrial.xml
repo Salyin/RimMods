@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mining Utility Arm -->
+
+  <ATR_MiningArm.label>роборука-бур</ATR_MiningArm.label>
+  <ATR_MiningArm.description>Установленная роборука-бур.</ATR_MiningArm.description>
+  <ATR_MiningArm.comps.0.tools.0.label>бур</ATR_MiningArm.comps.0.tools.0.label>
+
+
+  <!-- Agriculture Utility Arm -->
+
+  <ATR_AgriArm.label>роборука-садовник</ATR_AgriArm.label>
+  <ATR_AgriArm.description>Установленная роборука-садовник.</ATR_AgriArm.description>
+  <ATR_AgriArm.comps.0.tools.0.label>кулак</ATR_AgriArm.comps.0.tools.0.label>
+
+
+  <!-- Pacification Utility Arm -->
+
+  <ATR_PacificationArm.label>роборука-усмиритель</ATR_PacificationArm.label>
+  <ATR_PacificationArm.description>Установленная роборука-усмиритель.</ATR_PacificationArm.description>
+  <ATR_PacificationArm.comps.0.tools.0.label>электрокулак</ATR_PacificationArm.comps.0.tools.0.label>
+
+
+  <!-- Scalpel Utility Arm -->
+
+  <ATR_ScalpelArm.label>роборука-скальпель</ATR_ScalpelArm.label>
+  <ATR_ScalpelArm.description>Установленная роборука-скальпель.</ATR_ScalpelArm.description>
+  <ATR_ScalpelArm.comps.0.tools.0.label>скальпель</ATR_ScalpelArm.comps.0.tools.0.label>
+
+
+  <!-- Rending Utility Arm -->
+
+  <ATR_RendingArm.label>роборука-палач</ATR_RendingArm.label>
+  <ATR_RendingArm.description>Установленная роборука-палач.</ATR_RendingArm.description>
+  <ATR_RendingArm.comps.0.tools.0.label>резец</ATR_RendingArm.comps.0.tools.0.label>
+  <ATR_RendingArm.comps.0.tools.1.label>лезвие</ATR_RendingArm.comps.0.tools.1.label>
+
+
+  <!-- Makeshift Leg -->
+
+  <ATR_MakeshiftMechLeg.label>кустарная нога</ATR_MakeshiftMechLeg.label>
+  <ATR_MakeshiftMechLeg.description>Установленная кустарная нога.</ATR_MakeshiftMechLeg.description>
+
+
+  <!-- Makeshift Arm -->
+
+  <ATR_MakeshiftMechArm.label>кустарная рука</ATR_MakeshiftMechArm.label>
+  <ATR_MakeshiftMechArm.description>Установленная кустарная рука.</ATR_MakeshiftMechArm.description>
+  <ATR_MakeshiftMechArm.comps.0.tools.0.label>кулак</ATR_MakeshiftMechArm.comps.0.tools.0.label>
+
+
+  <!-- Voice Synthesizer -->
+
+  <ATR_AutomodulatedVoiceSynthesizer.label>автомодулированный голос</ATR_AutomodulatedVoiceSynthesizer.label>
+  <ATR_AutomodulatedVoiceSynthesizer.description>Установленный автомодулированный голос.</ATR_AutomodulatedVoiceSynthesizer.description>
+
+  <ATR_CoerciveVoiceSynthesizer.label>подавительный голос</ATR_CoerciveVoiceSynthesizer.label>
+  <ATR_CoerciveVoiceSynthesizer.description>Установленный подавительный голос.</ATR_CoerciveVoiceSynthesizer.description>
+
+</LanguageData>

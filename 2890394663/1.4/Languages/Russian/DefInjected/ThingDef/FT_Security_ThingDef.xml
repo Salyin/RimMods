@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_Security.xml-->
+              <!-- Anti Air Gun -->
+<FT_TurretAA.label>Противовоздушная пушка</FT_TurretAA.label>
+                    <!-- A manned autocannon that launches solid metal bullets.It is rapid fired makes it useful for attacking aerial target or enemies in the field. -->
+<FT_TurretAA.description>Пилотируемая автопушка, стреляющая металлическими пулями. Скорострельность делает ее полезной для атаки воздушных целей или врагов в полевых условиях.</FT_TurretAA.description>
+                                        <!-- Shots until barrel change -->
+<FT_TurretAA.comps.Comp_Refuelable.fuelLabel>Выстрелы до замены ствола</FT_TurretAA.comps.Comp_Refuelable.fuelLabel>
+                                             <!-- Barrel durability -->
+<FT_TurretAA.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FT_TurretAA.comps.Comp_Refuelable.fuelGizmoLabel>
+                                               <!-- Cannot shoot: Needs new reinforced barrel -->
+<FT_TurretAA.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: Требуется новый усиленный ствол</FT_TurretAA.comps.Comp_Refuelable.outOfFuelMessage>
+                  <!-- Anti Air Autocannon -->
+<FT_Gun_TurretAA.label>Противовоздушная автопушка</FT_Gun_TurretAA.label>
+                        <!-- An Autocannon designed to defend the area of skies, but also a nice weapon for the land targets. -->
+<FT_Gun_TurretAA.description>Автопушка, предназначенная для защиты района неба, но также хорошее оружие для наземных целей.</FT_Gun_TurretAA.description>
+                    <!-- uranium APT shell -->
+<FT_Bullet_AAShell.label>урановый снаряд APT</FT_Bullet_AAShell.label>
+              <!-- Anti Tank Gun -->
+<FT_TurretAT.label>Противотанковая пушка</FT_TurretAT.label>
+                    <!-- A manned rifle cannon that launches solid metal shells.It is accurate makes it useful for attacking groups of enemies in the field or sniping the small fortifications. -->
+<FT_TurretAT.description>Пушка, стреляющая цельными металлическими снарядами. Точность делает ее полезной для нападения на группы врагов в поле или снайперской стрельбы по небольшим укреплениям.</FT_TurretAT.description>
+                                        <!-- Shots until barrel change -->
+<FT_TurretAT.comps.Comp_Refuelable.fuelLabel>Выстрелы до замены ствола</FT_TurretAT.comps.Comp_Refuelable.fuelLabel>
+                                             <!-- Barrel durability -->
+<FT_TurretAT.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FT_TurretAT.comps.Comp_Refuelable.fuelGizmoLabel>
+                                               <!-- Cannot shoot: Needs new reinforced barrel -->
+<FT_TurretAT.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: Требуется новый усиленный ствол</FT_TurretAT.comps.Comp_Refuelable.outOfFuelMessage>
+                  <!-- Anti Tank Cannon -->
+<FT_Gun_TurretAT.label>Противотанковая пушка</FT_Gun_TurretAT.label>
+                        <!-- A uranium slug cannon designed to snipe the heavy-armed target in range. -->
+<FT_Gun_TurretAT.description>Пушка с урановыми пулями, предназначенная для поражения тяжеловооруженной цели в радиусе действия.</FT_Gun_TurretAT.description>
+                    <!-- armor piercing shell -->
+<FT_Bullet_ATShell.label>armor piercing shell</FT_Bullet_ATShell.label>
+                   <!-- infantry mortar -->
+<FT_Turret_Mortar.label>пехотный миномёт</FT_Turret_Mortar.label>
+                         <!-- A light-weighted mortar that launches all kinds of shells. Improved firing speed with a simplified design, but inaccurate, useful for attacking large fortifications than groups of enemies in the field. -->
+<FT_Turret_Mortar.description>Легкий миномет, который запускает все виды снарядов. Улучшенная скорострельность при упрощенной конструкции, но неточная, полезна для атаки больших укреплений, чем групп врагов на поле.</FT_Turret_Mortar.description>
+                                             <!-- Shots until barrel change -->
+<FT_Turret_Mortar.comps.Comp_Refuelable.fuelLabel>Выстрелы до замены ствола</FT_Turret_Mortar.comps.Comp_Refuelable.fuelLabel>
+                                                  <!-- Barrel durability -->
+<FT_Turret_Mortar.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FT_Turret_Mortar.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                    <!-- Cannot shoot: Needs new reinforced barrel -->
+<FT_Turret_Mortar.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: Требуется новый усиленный ствол</FT_Turret_Mortar.comps.Comp_Refuelable.outOfFuelMessage>
+                      <!-- mortar -->
+<FT_Artillery_Mortar.label>раствор</FT_Artillery_Mortar.label>
+                            <!-- Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
+<FT_Artillery_Mortar.description>Mortar launcher. Перебрасывает бомбы через стены. Очень неточный, но дальнобойный.</FT_Artillery_Mortar.description>
+                   <!-- Machine Gun Nest -->
+<FT_Turret_Bunker.label>Machine Gun Nest</FT_Turret_Bunker.label>
+                         <!-- A stationry turret strengthen with materials. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+<FT_Turret_Bunker.description>Стационарная башня укрепляется материалами. Требуется сталь для восстановления ствола после интенсивного использования. Может взорваться при повреждении. Его тупым мозгом ИИ нельзя управлять напрямую, поэтому остерегайтесь дружественного огня.</FT_Turret_Bunker.description>
+                                               <!-- Shots until barrel change -->
+<FT_Turret_Bunker.comps.Comp_Refuelable-0.fuelLabel>Выстрелы до замены ствола</FT_Turret_Bunker.comps.Comp_Refuelable-0.fuelLabel>
+                                                    <!-- Barrel durability -->
+<FT_Turret_Bunker.comps.Comp_Refuelable-0.fuelGizmoLabel>Прочность ствола</FT_Turret_Bunker.comps.Comp_Refuelable-0.fuelGizmoLabel>
+                                                      <!-- Cannot shoot: Needs new barrel -->
+<FT_Turret_Bunker.comps.Comp_Refuelable-0.outOfFuelMessage>Не может стрелять: Нужен новый ствол</FT_Turret_Bunker.comps.Comp_Refuelable-0.outOfFuelMessage>
+                                               <!-- Shots until barrel change -->
+<FT_Turret_Bunker.comps.Comp_Refuelable-1.fuelLabel>Выстрелы до замены ствола</FT_Turret_Bunker.comps.Comp_Refuelable-1.fuelLabel>
+                                                    <!-- Barrel durability -->
+<FT_Turret_Bunker.comps.Comp_Refuelable-1.fuelGizmoLabel>Прочность ствола</FT_Turret_Bunker.comps.Comp_Refuelable-1.fuelGizmoLabel>
+                                                      <!-- Cannot shoot: Needs new barrel -->
+<FT_Turret_Bunker.comps.Comp_Refuelable-1.outOfFuelMessage>Не может стрелять: Нужен новый ствол</FT_Turret_Bunker.comps.Comp_Refuelable-1.outOfFuelMessage>
+                    <!-- Machine Gun Turret Bunker -->
+<FT_Turret_BunkerM.label>Бункер пулеметной турели</FT_Turret_BunkerM.label>
+                          <!-- A stationry turret strengthen with materials. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+<FT_Turret_BunkerM.description>Стационарная башня укрепляется материалами. Требуется сталь для восстановления ствола после интенсивного использования. Может взорваться при повреждении. Его тупым мозгом ИИ нельзя управлять напрямую, поэтому остерегайтесь дружественного огня.</FT_Turret_BunkerM.description>
+                                                <!-- Shots until barrel change -->
+<FT_Turret_BunkerM.comps.Comp_Refuelable-0.fuelLabel>Выстрелы до замены ствола</FT_Turret_BunkerM.comps.Comp_Refuelable-0.fuelLabel>
+                                                     <!-- Barrel durability -->
+<FT_Turret_BunkerM.comps.Comp_Refuelable-0.fuelGizmoLabel>Прочность ствола</FT_Turret_BunkerM.comps.Comp_Refuelable-0.fuelGizmoLabel>
+                                                       <!-- Cannot shoot: Needs new barrel -->
+<FT_Turret_BunkerM.comps.Comp_Refuelable-0.outOfFuelMessage>Не может стрелять: Нужен новый ствол</FT_Turret_BunkerM.comps.Comp_Refuelable-0.outOfFuelMessage>
+                                                <!-- Shots until barrel change -->
+<FT_Turret_BunkerM.comps.Comp_Refuelable-1.fuelLabel>Выстрелы до замены ствола</FT_Turret_BunkerM.comps.Comp_Refuelable-1.fuelLabel>
+                                                     <!-- Barrel durability -->
+<FT_Turret_BunkerM.comps.Comp_Refuelable-1.fuelGizmoLabel>Прочность ствола</FT_Turret_BunkerM.comps.Comp_Refuelable-1.fuelGizmoLabel>
+                                                       <!-- Cannot shoot: Needs new barrel -->
+<FT_Turret_BunkerM.comps.Comp_Refuelable-1.outOfFuelMessage>Не может стрелять: Нужен новый ствол</FT_Turret_BunkerM.comps.Comp_Refuelable-1.outOfFuelMessage>
+                    <!-- Machine Gun Bunker -->
+<FT_Turret_BunkerC.label>Пулеметный бункер</FT_Turret_BunkerC.label>
+                          <!-- A stationry turret strengthen with materials. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+<FT_Turret_BunkerC.description>Стационарная башня укрепляется материалами. Требуется сталь для восстановления ствола после интенсивного использования. Может взорваться при повреждении. Его тупым мозгом ИИ нельзя управлять напрямую, поэтому остерегайтесь дружественного огня.</FT_Turret_BunkerC.description>
+                                                <!-- Shots until barrel change -->
+<FT_Turret_BunkerC.comps.Comp_Refuelable-0.fuelLabel>Выстрелы до замены ствола</FT_Turret_BunkerC.comps.Comp_Refuelable-0.fuelLabel>
+                                                     <!-- Barrel durability -->
+<FT_Turret_BunkerC.comps.Comp_Refuelable-0.fuelGizmoLabel>Прочность ствола</FT_Turret_BunkerC.comps.Comp_Refuelable-0.fuelGizmoLabel>
+                                                       <!-- Cannot shoot: Needs new barrel -->
+<FT_Turret_BunkerC.comps.Comp_Refuelable-0.outOfFuelMessage>Не может стрелять: Нужен новый ствол</FT_Turret_BunkerC.comps.Comp_Refuelable-0.outOfFuelMessage>
+                                                <!-- Shots until barrel change -->
+<FT_Turret_BunkerC.comps.Comp_Refuelable-1.fuelLabel>Выстрелы до замены ствола</FT_Turret_BunkerC.comps.Comp_Refuelable-1.fuelLabel>
+                                                     <!-- Barrel durability -->
+<FT_Turret_BunkerC.comps.Comp_Refuelable-1.fuelGizmoLabel>Прочность ствола</FT_Turret_BunkerC.comps.Comp_Refuelable-1.fuelGizmoLabel>
+                                                       <!-- Cannot shoot: Needs new barrel -->
+<FT_Turret_BunkerC.comps.Comp_Refuelable-1.outOfFuelMessage>Не может стрелять: Нужен новый ствол</FT_Turret_BunkerC.comps.Comp_Refuelable-1.outOfFuelMessage>
+                    <!-- Military Machine Gun Nest -->
+<FT_Turret_BunkerF.label>Военное пулеметное гнездо</FT_Turret_BunkerF.label>
+                          <!-- A stationry turret strengthen with materials. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+<FT_Turret_BunkerF.description>Стационарная башня укрепляется материалами. Требуется сталь для восстановления ствола после интенсивного использования. Может взорваться при повреждении. Его тупым мозгом ИИ нельзя управлять напрямую, поэтому остерегайтесь дружественного огня.</FT_Turret_BunkerF.description>
+                                                <!-- Shots until barrel change -->
+<FT_Turret_BunkerF.comps.Comp_Refuelable-0.fuelLabel>Выстрелы до замены ствола</FT_Turret_BunkerF.comps.Comp_Refuelable-0.fuelLabel>
+                                                     <!-- Barrel durability -->
+<FT_Turret_BunkerF.comps.Comp_Refuelable-0.fuelGizmoLabel>Прочность ствола</FT_Turret_BunkerF.comps.Comp_Refuelable-0.fuelGizmoLabel>
+                                                       <!-- Cannot shoot: Needs new barrel -->
+<FT_Turret_BunkerF.comps.Comp_Refuelable-0.outOfFuelMessage>Не может стрелять: Нужен новый ствол</FT_Turret_BunkerF.comps.Comp_Refuelable-0.outOfFuelMessage>
+                                                <!-- Shots until barrel change -->
+<FT_Turret_BunkerF.comps.Comp_Refuelable-1.fuelLabel>Выстрелы до замены ствола</FT_Turret_BunkerF.comps.Comp_Refuelable-1.fuelLabel>
+                                                     <!-- Barrel durability -->
+<FT_Turret_BunkerF.comps.Comp_Refuelable-1.fuelGizmoLabel>Прочность ствола</FT_Turret_BunkerF.comps.Comp_Refuelable-1.fuelGizmoLabel>
+                                                       <!-- Cannot shoot: Needs new barrel -->
+<FT_Turret_BunkerF.comps.Comp_Refuelable-1.outOfFuelMessage>Не может стрелять: Нужен новый ствол</FT_Turret_BunkerF.comps.Comp_Refuelable-1.outOfFuelMessage>
+            <!-- machine gun -->
+<FT_Gun_MG.label>machine gun</FT_Gun_MG.label>
+                  <!-- An fully automatic gun made to be mounted on a turret. -->
+<FT_Gun_MG.description>Полностью автоматическое орудие, устанавливаемое на башне.</FT_Gun_MG.description>
+             <!-- Quad Machine gun -->
+<FT_Maxim4M.label>Quad Machine gun</FT_Maxim4M.label>
+                   <!-- A Tripod with Quadruple machine gun mounted so it Have a good firepower continuity,need a pawn man on it to operate. Requires steel to refurbish its barrels after heavy use. -->
+<FT_Maxim4M.description>Штатив с четырехствольным пулеметом, установленным так, чтобы он имел хорошую огневую мощь, нужен человек-пешка на нем, чтобы управлять. Требуется сталь для восстановления стволов после интенсивного использования.</FT_Maxim4M.description>
+                                       <!-- Shots until barrel change -->
+<FT_Maxim4M.comps.Comp_Refuelable.fuelLabel>Выстрелы до замены ствола</FT_Maxim4M.comps.Comp_Refuelable.fuelLabel>
+                                            <!-- Barrel durability -->
+<FT_Maxim4M.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FT_Maxim4M.comps.Comp_Refuelable.fuelGizmoLabel>
+                                              <!-- Cannot shoot: Needs new barrels -->
+<FT_Maxim4M.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: Нужны новые стволы</FT_Maxim4M.comps.Comp_Refuelable.outOfFuelMessage>
+                <!-- machine gun 4x mounted -->
+<FT_Gun_QuadMG.label>установленный пулемет 4x</FT_Gun_QuadMG.label>
+                      <!-- what can be better than A fully machine gun be mounted on a turret ? Four of them! -->
+<FT_Gun_QuadMG.description>what can be better than A fully machine gun be mounted on a turret ? Четыре из них!</FT_Gun_QuadMG.description>
+                <!-- Auto Cannon -->
+<FT_AutoCannon.label>Автопушка</FT_AutoCannon.label>
+                      <!-- A Tripod with high caliber machine gun mounted. Requires steel to refurbish its barrels after heavy use.it needs a pawn to man on it to operate. -->
+<FT_AutoCannon.description>Штатив с установленным на нем крупнокалиберным пулеметом. Требуется сталь для восстановления стволов после тяжелого использования.Для работы требуется пешка, чтобы человек на ней работал.</FT_AutoCannon.description>
+                                          <!-- Shots until barrel change -->
+<FT_AutoCannon.comps.Comp_Refuelable.fuelLabel>Выстрелы до замены ствола</FT_AutoCannon.comps.Comp_Refuelable.fuelLabel>
+                                               <!-- Barrel durability -->
+<FT_AutoCannon.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FT_AutoCannon.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                 <!-- Cannot shoot: Needs new barrels -->
+<FT_AutoCannon.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: Нужны новые стволы</FT_AutoCannon.comps.Comp_Refuelable.outOfFuelMessage>
+                    <!-- autocannon -->
+<FT_Gun_Autocannon.label>автопушка</FT_Gun_Autocannon.label>
+                          <!-- A self-loading large-bore cannon designed to attach to a turret. -->
+<FT_Gun_Autocannon.description>Самозарядная крупнокалиберная пушка, предназначенная для установки на башне.</FT_Gun_Autocannon.description>
+                   <!-- Recoilless Gun -->
+<FT_RecoillessGun.label>Безоткатное орудие</FT_RecoillessGun.label>
+                         <!-- A Tripod with Recoilless gun mounted.A light-weighted soloution of anti armour operation, Requires ReinforcedBarrel to refurbish its barrels after heavy use. also it needs a pawn to man on it to operate.
+	But notice, do not use it indoors!! -->
+<FT_RecoillessGun.description>Штатив с установленным на нем безоткатным орудием. Легкое решение для борьбы с бронетехникой. Требуется усиленный ствол для восстановления стволов после интенсивного использования. также для его работы нужна пешка, чтобы на нее поставить человека. Но учтите, не используйте его в помещении!!!</FT_RecoillessGun.description>
+                                             <!-- Shots until barrel change -->
+<FT_RecoillessGun.comps.Comp_Refuelable.fuelLabel>Выстрелы до замены ствола</FT_RecoillessGun.comps.Comp_Refuelable.fuelLabel>
+                                                  <!-- Barrel durability -->
+<FT_RecoillessGun.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FT_RecoillessGun.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                    <!-- Cannot shoot: Needs new barrels -->
+<FT_RecoillessGun.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: Нужны новые стволы</FT_RecoillessGun.comps.Comp_Refuelable.outOfFuelMessage>
+                    <!-- Recoilless Cannon -->
+<FT_Gun_Recoilless.label>Безоткатная пушка</FT_Gun_Recoilless.label>
+                          <!-- A Recoilless cannon designed to snipe the heavy-armed target in range. -->
+<FT_Gun_Recoilless.description>A Recoilless cannon designed to snipe the heavy-armed target in range.</FT_Gun_Recoilless.description>
+                         <!-- multi-barrel mortar -->
+<FT_Gun_TurretHexMortar.label>многоствольный раствор</FT_Gun_TurretHexMortar.label>
+                               <!-- Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
+<FT_Gun_TurretHexMortar.description>Mortar launcher. Перебрасывает бомбы через стены. Очень неточный, но дальнобойный.</FT_Gun_TurretHexMortar.description>
+                     <!-- Hexagonal Mortar Launcher -->
+<FT_TurretHexMortar.label>Шестиствольная минометная установка</FT_TurretHexMortar.label>
+                           <!-- A manned mortar launcher with six barrel, with some mysterious technology, it can shoot six mortar shells at one time, however, it's not accurate. -->
+<FT_TurretHexMortar.description>A manned mortar launcher with six barrel, with some mysterious technology, it can shoot six mortar shells at one time, however, it&apos;s not accurate.</FT_TurretHexMortar.description>
+                                               <!-- Shots until barrel change -->
+<FT_TurretHexMortar.comps.Comp_Refuelable.fuelLabel>Выстрелы до замены ствола</FT_TurretHexMortar.comps.Comp_Refuelable.fuelLabel>
+                                                    <!-- Barrel durability -->
+<FT_TurretHexMortar.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FT_TurretHexMortar.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                      <!-- Cannot shoot: Needs new reinforced barrel -->
+<FT_TurretHexMortar.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: Требуется новый усиленный ствол</FT_TurretHexMortar.comps.Comp_Refuelable.outOfFuelMessage>
+
+</LanguageData>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Simply More Bridges (Continued)</name>
+  <packageId>Mlie.SimplyMoreBridges</packageId>
+  <author>Lanilor</author>
+  <url>https://github.com/emipa606/SimplyMoreBridges</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of Lanilors mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1420241138
+
+[h2]Floors and bridges are of the same type in the game, terrainDef. That is why you cannot build floors on bridges, you can only replace one with the other. This is a limitation in the game and nothing I can change[/h2]
+
+- Splitted up the research-requirements for the bridges to make it more compatible with medival playthroughs.
+- Added an option to generate bridges from all materials, even from other mods. 
+- Also wooden bridges will be generated from all woody materials.
+- Added option to build bridges using other visuals; Flagstone, Paved tile and Concrete-visuals.
+- Added russian translation, thanks Uncle Shvya
+- Added slider to set the cost of the bridges
+- All bridges (except Flagstone) are now considered Floor for Royalty
+- All bridges built from beautiful material (Gold/Jade etc.) are considered Fine Floor
+- Added french translation, thanks qux!
+- All bridges should now inherit the beauty-value from the material they are made of
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+	[tr]
+		[td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/SimplyMoreBridges][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+
+[h1]New bridges types for heavy structure support and building in deep water![/h1]
+
+A simple mod that adds more briges types on top of the wood bridges that rimworld core provides. Heavy briges work the same way as wood ones, but also provide support for heavy stuctures. Deep water bridges can be built in deep water.
+
+You can build these new bridges out of steel, plasteel and stone types.
+
+Research "heavy bridges" and "deep water bridges" to build them.
+
+Can be added to an existing save. (To remove this mod, remove all steel bridges from your world first.)
+
+(This mod has nothing to do with any old bridges mod from B18. It reuses and extends the 1.0 core bridges code and adds a steel version.)
+
+
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2012484790]Last updated 2023-07-16[/url]</description>
+</ModMetaData>

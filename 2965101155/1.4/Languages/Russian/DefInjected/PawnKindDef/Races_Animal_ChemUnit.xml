@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_DroneChemUnit.label>механическая курица</ATR_DroneChemUnit.label>
+  <ATR_DroneChemUnit.labelPlural>механические курицы</ATR_DroneChemUnit.labelPlural>
+  <ATR_DroneChemUnit.labelMale>механический петух</ATR_DroneChemUnit.labelMale>
+  <ATR_DroneChemUnit.labelMalePlural>механические петухи</ATR_DroneChemUnit.labelMalePlural>
+  <ATR_DroneChemUnit.labelFemale>механическая курица</ATR_DroneChemUnit.labelFemale>
+  <ATR_DroneChemUnit.labelFemalePlural>механические курицы</ATR_DroneChemUnit.labelFemalePlural>
+
+
+</LanguageData>

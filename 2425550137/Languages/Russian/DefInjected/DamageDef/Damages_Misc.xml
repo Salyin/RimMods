@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Splinter -->
+
+  <VFES_SplinterArrow.label>осколок</VFES_SplinterArrow.label>
+  <VFES_SplinterArrow.deathMessage>{0} {0_gender ? проткнут : проткнута : проткнуто} насквозь осколком гигантского болта.</VFES_SplinterArrow.deathMessage>
+
+
+  <!-- Rock -->
+
+  <VFES_Rock.label>булыжник</VFES_Rock.label>
+  <VFES_Rock.deathMessage>{0} {0_gender ? размазан : размазана : размазано} гигантским булыжником.</VFES_Rock.deathMessage>
+
+
+  <!-- Flame -->
+
+  <VFES_HauntingFlame.label>пламя</VFES_HauntingFlame.label>
+  <VFES_HauntingFlame.deathMessage>{0} {0_gender ? сожжен : сожжена : сожжено}.</VFES_HauntingFlame.deathMessage>
+
+
+  <!-- None -->
+
+  <VFES_NoDMG.deathMessage>{0} {0_gender ? убит : убита : убито}.</VFES_NoDMG.deathMessage>
+
+
+</LanguageData>

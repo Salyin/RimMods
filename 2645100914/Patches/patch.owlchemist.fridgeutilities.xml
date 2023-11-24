@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<!-- Change from temperature to storage if using DS -->
+			<li MayRequire="lwm.deepstorage" Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[@Name="OwlFridgeBase"]/designationCategory</xpath>
+				<value>
+					<designationCategory>LWM_DS_Storage</designationCategory>
+				</value>
+			</li>
+			
+			<!-- Simple Storage, Deep Storage Plus, Little Storage, Rimstro -->
+			<li Class="PatchOperationAddModExtension">
+				<success>Always</success>
+				<xpath>Defs/ThingDef[@Name="RefrigerationBase" or 
+					defName="DSP_OrganFridge" or 
+					defName="sixdd_Small_RimFridge_Refrigerator" or 
+					defName="RS_fridge" or 
+					defName="RS_CounterB"]</xpath>
+				<value>
+					<li Class="SimpleFridge.Fridge" />
+				</value>
+			</li>
+			
+			<!-- Deep Storage Plus needs a dummy power comp -->
+			<li Class="PatchOperationAdd">
+				<success>Always</success>
+				<xpath>Defs/ThingDef[defName="DSP_OrganFridge"]/comps[not(li[@Class="CompProperties_Power"])]</xpath>
+				<value>
+					<li Class="CompProperties_Power">
+						<compClass>CompPowerTrader</compClass>
+						<basePowerConsumption>0</basePowerConsumption>
+					</li>
+				</value>
+			</li>
+			
+			<!-- Make Simple Storage's RimFridge dependency non-vital -->
+			<li MayRequire="jangodsoul.simplestorage.ref" Class="PatchOperationAttributeAdd">
+				<xpath>Defs/ThingDef[@Name="RefrigerationBase"]/comps/li[@Class="RimFridge.CompProperties_Refrigerator"]</xpath>
+				<attribute>MayRequire</attribute>
+				<value>rimfridge.kv.rw</value>
+			</li>
+			
+			<!-- Add power comps to rimstro fridge -->
+			<li MayRequire="lat.rimstro" Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="RS_fridge" or defName="RS_CounterB"]/comps[not(li[@Class="CompProperties_Flickable"]) and not(li[@Class="CompProperties_Power"])]</xpath>
+				<value>
+					<li Class="CompProperties_Flickable"/>
+					<li Class="CompProperties_Power">
+						<compClass>CompPowerTrader</compClass>
+						<basePowerConsumption>50</basePowerConsumption>
+					</li>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+</Patch>

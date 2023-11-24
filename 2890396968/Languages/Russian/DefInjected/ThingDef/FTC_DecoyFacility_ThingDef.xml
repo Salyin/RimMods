@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Things/FTC_DecoyFacility.xml-->
+                      <!-- infrasonic Decoy -->
+<FTC_InfrasonicDecoy.label>инфразвуковая приманка</FTC_InfrasonicDecoy.label>
+                            <!-- a facility which generating infrasound waves that induces angry animals and insectroid to the area where the facility is located to keep surrounding colonies safe, requiring electricity to operate. -->
+<FTC_InfrasonicDecoy.description>объект, генерирующий инфразвуковые волны, привлекающие разъяренных животных и насекомых в район, где расположен объект, для обеспечения безопасности окружающих колоний, для работы которого требуется электричество.</FTC_InfrasonicDecoy.description>
+                  <!-- electromagnetic signal decoy -->
+<FTC_SignalDecoy.label>ловушка электромагнитного сигнала</FTC_SignalDecoy.label>
+                        <!-- a facility which broadcasts disguised communications and forwards broadcasts. can hide the location of surrounding colonies from raid, requiring electricity to operate. -->
+<FTC_SignalDecoy.description>средство, которое транслирует замаскированные сообщения и пересылает трансляции. может скрыть расположение окружающих колоний от рейда, для работы требуется электричество.</FTC_SignalDecoy.description>
+                  <!-- enegry signal decoy -->
+<FTC_EnegryDecoy.label>ловушка энергетического сигнала</FTC_EnegryDecoy.label>
+                        <!-- a facility which artificially create high-energy signals allows hostile entities that rely on energy reflection to select targets to identify them as a priority target, thereby protecting surrounding colonies from threats. requiring electricity to operate. -->
+<FTC_EnegryDecoy.description>объект, который искусственно создает высокоэнергетические сигналы, позволяет враждебным сущностям, которые полагаются на отражение энергии, выбирать цели, чтобы идентифицировать их как приоритетную цель, тем самым защищая окружающие колонии от угроз. требуется электричество для работы.</FTC_EnegryDecoy.description>
+
+
+<!--/Defs/Things/FTC_DecoyFacility.xml-->
+<!-- infrasonic Decoy -->
+<FTC_InfrasonicDecoy.label>инфразвуковая приманка</FTC_InfrasonicDecoy.label>
+<!-- a facility which generating infrasound waves that induces angry animals and insectroid to the area where the facility is located to keep surrounding colonies safe, requiring electricity to operate. -->
+<FTC_InfrasonicDecoy.description>объект, генерирующий инфразвуковые волны, привлекающие разъяренных животных и насекомых в район, где расположен объект, для обеспечения безопасности окружающих колоний, для работы которого требуется электричество.</FTC_InfrasonicDecoy.description>
+<!-- electromagnetic signal decoy -->
+<FTC_SignalDecoy.label>ловушка электромагнитного сигнала</FTC_SignalDecoy.label>
+<!-- a facility which broadcasts disguised communications and forwards broadcasts. can hide the location of surrounding colonies from raid, requiring electricity to operate. -->
+<FTC_SignalDecoy.description>средство, которое транслирует замаскированные сообщения и пересылает трансляции. может скрыть расположение окружающих колоний от рейда, для работы требуется электричество.</FTC_SignalDecoy.description>
+<!-- enegry signal decoy -->
+<FTC_EnegryDecoy.label>ловушка энергетического сигнала</FTC_EnegryDecoy.label>
+<!-- a facility which artificially create high-energy signals allows hostile entities that rely on energy reflection to select targets to identify them as a priority target, thereby protecting surrounding colonies from threats. requiring electricity to operate. -->
+<FTC_EnegryDecoy.description>объект, который искусственно создает высокоэнергетические сигналы, позволяет враждебным сущностям, которые полагаются на отражение энергии, выбирать цели, чтобы идентифицировать их как приоритетную цель, тем самым защищая окружающие колонии от угроз. требуется электричество для работы.</FTC_EnegryDecoy.description>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Surrogate heart -->
+
+  <SimpleProstheticHeart.label>Заменитель сердца</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.description>Сердечный протез. Он содержит электродвигатель, который плавно перекачивает кровь по всему телу. Пользователи часто сообщают о чувстве усталости, но это лучше, чем альтернатива.</SimpleProstheticHeart.description>
+
+
+  <!-- Surrogate lung -->
+
+  <SurrogateLung.label>Заменитель легкого</SurrogateLung.label>
+  <SurrogateLung.description>Простейший заменитель легкого. Издаёт низкий, щёлкающий звук.</SurrogateLung.description>
+
+
+  <!-- Surrogate stomach -->
+
+  <SurrogateStomach.label>Заменитель желудка</SurrogateStomach.label>
+  <SurrogateStomach.description>Простейший заменитель желудка.</SurrogateStomach.description>
+
+
+  <!-- Surrogate liver -->
+
+  <SurrogateLiver.label>Заменитель печени</SurrogateLiver.label>
+  <SurrogateLiver.description>Простейший фильтр крови. Имеются проблемы с поддержанием постоянного уровня сахара в крови.</SurrogateLiver.description>
+
+
+  <!-- Surrogate kidney -->
+
+  <SurrogateKidney.label>Заменитель почки</SurrogateKidney.label>
+  <SurrogateKidney.description>Простейший заменитель почки. Один из его побочных эффектов это бледность.</SurrogateKidney.description>
+
+
+  <!-- Brain stimulator -->
+
+  <BrainStimulator.label>Стимулятор мозга</BrainStimulator.label>
+  <BrainStimulator.description>Маленькое устройство, которое делает все возможное, чтобы стимулировать оставшиеся участки мозга. Рекомендуется только при критическом повреждении мозга. Необходимо открыть технологию "Операции на мозге".</BrainStimulator.description>
+
+
+</LanguageData>

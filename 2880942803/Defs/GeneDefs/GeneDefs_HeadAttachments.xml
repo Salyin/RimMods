@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <GeneDef Name="AFU_HeadAttachmentGeneBase" Abstract="True"><!-- 耳朵-->
+        <biostatCpx>0</biostatCpx>
+        <biostatMet>0</biostatMet>
+        <randomChosen>true</randomChosen>
+        <endogeneCategory>Ears</endogeneCategory>
+        <displayCategory>AFU_HeadAttachment</displayCategory>
+        <displayOrderInCategory>50</displayOrderInCategory>
+        <iconColor>(0.75, 0.75, 0.75)</iconColor>
+        <graphicData>
+            <layer>PostHair</layer>
+            <drawNorthAfterHair>true</drawNorthAfterHair>
+            <useSkinShader>false</useSkinShader>
+            <drawLoc>HeadTop</drawLoc>
+        </graphicData>
+        <!-- Collides with other genes with the same tags-->
+        <exclusionTags>
+            <li>AFU_HeadAttachment</li>
+            <li>Ears</li>
+        </exclusionTags>
+    </GeneDef>
+	<GeneDef Name="AFU_HeadboneGeneBase" Abstract="True"><!-- 角-->
+        <biostatCpx>0</biostatCpx>
+        <biostatMet>0</biostatMet>
+        <randomChosen>true</randomChosen>
+        <endogeneCategory>Headbone</endogeneCategory>
+        <displayCategory>AFU_HeadAttachment</displayCategory>
+        <displayOrderInCategory>50</displayOrderInCategory>
+        <iconColor>(0.75, 0.75, 0.75)</iconColor>
+        <graphicData>
+            <layer>PostHair</layer>
+            <useSkinShader>false</useSkinShader>
+            <drawLoc>HeadTop</drawLoc>
+        </graphicData>
+        <!-- Collides with other genes with the same tags-->
+        <exclusionTags>
+            <li>AFU_Headbone</li>
+            <li>Headbone</li>
+        </exclusionTags>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_HeadAttachmentGeneBase">
+        <defName>AFU_HA_RabbitEar</defName>
+        <label>Rabbit ear</label>
+        <description>Carriers of this gene grow rabbit-like ears.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_RabbitEar</iconPath>
+		<displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/RabbitEar/RabbitEarA</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/RabbitEar/RabbitEarB</li>
+            </graphicPaths>
+            <colorType>Hair</colorType>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_HeadAttachmentGeneBase">
+        <defName>AFU_HA_LoverlyRabbitEar</defName>
+        <label>Lovely rabbit ear</label>
+        <description>Carriers of this gene grow white lovely rabbit-like ears.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_LovelyRabbitEar</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+        <graphicData>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/LovelyRabbitEar/LovelyRabbitEarA</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/LovelyRabbitEar/LovelyRabbitEarB</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/LovelyRabbitEar/LovelyRabbitEarC</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/LovelyRabbitEar/LovelyRabbitEarD</li>
+            </graphicPaths>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_HeadAttachmentGeneBase">
+        <defName>AFU_HA_DeerEar</defName>
+        <label>Deer ear</label>
+        <description>Carriers of this gene grow deer-like ears, adults own antlers.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_DeerEar</iconPath>
+		<displayOrderInCategory>10</displayOrderInCategory>
+        <graphicData>
+            <graphicPath>Things/Pawn/Humanlike/AFUHeadAttachments/DeerEar/DeerEarAdultA</graphicPath>
+            <colorType>Hair</colorType>
+        </graphicData>
+        <modExtensions>
+		<!--  双通道轮子，肤色发色 -->
+	    <!--<li Class="BetterGeneGraphicsFramework.ShaderSupport">
+				<shaderType>CutoutComplex</shaderType>
+				<colorType>Hair</colorType>
+				<colorTwoType>Skin</colorTwoType>
+            </li> -->
+            <li Class="BetterGeneGraphicsFramework.GraphicsWithAge">
+                <ages>
+                    <li>0</li>
+                    <li>18</li>
+                </ages>
+                <graphicPaths>
+                    <li>Things/Pawn/Humanlike/AFUHeadAttachments/DeerEar/DeerEarChildA</li>
+                    <li>Things/Pawn/Humanlike/AFUHeadAttachments/DeerEar/DeerEarAdultA</li>
+                </graphicPaths>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_HeadAttachmentGeneBase">
+        <defName>AFU_HA_LovelyDeerEar</defName>
+        <label>Little Deer ear</label>
+        <description>Carriers of this gene grow little deer-like ears, adults own antlers.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_LovelyDeerEar</iconPath>
+		<displayOrderInCategory>9</displayOrderInCategory>
+        <graphicData>
+            <graphicPath>Things/Pawn/Humanlike/AFUHeadAttachments/LovelyDeerEar/LovelyDeerEarAdultA</graphicPath>
+            <colorType>Hair</colorType>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.GraphicsWithAge">
+                <ages>
+                    <li>0</li>
+                    <li>18</li>
+                </ages>
+                <graphicPaths>
+                    <li>Things/Pawn/Humanlike/AFUHeadAttachments/LovelyDeerEar/LovelyDeerEarChildA</li>
+                    <li>Things/Pawn/Humanlike/AFUHeadAttachments/LovelyDeerEar/LovelyDeerEarAdultA</li>
+                </graphicPaths>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_HeadAttachmentGeneBase">
+        <defName>AFU_HA_LoverlyCatEar</defName>
+        <label>Lovely cat ear</label>
+        <description>Carriers of this gene grow lovely cat-like ears.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_LovelyCatEar</iconPath>
+		<displayOrderInCategory>21</displayOrderInCategory>
+        <graphicData>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/LovelyCatEar/LovelyCatEarA</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/LovelyCatEar/LovelyCatEarB</li>
+            </graphicPaths>
+            <colorType>Hair</colorType>
+        </graphicData>
+		<!--<modExtensions>
+        <li Class="BetterGeneGraphicsFramework.ShaderSupport">
+				<shaderType>CutoutComplex</shaderType>
+				<color>(52, 73, 102)</color>
+				<colorTwo>(191, 204, 148)</colorTwo>
+            </li> 
+        </modExtensions>-->
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_HeadAttachmentGeneBase">
+        <defName>AFU_HA_CatEar</defName>
+        <label>Ornamental cat</label>
+        <description>Carriers of this gene grow cat-like ears.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_CatEar</iconPath>
+		<displayOrderInCategory>20</displayOrderInCategory>
+        <graphicData>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/CatEar/CatEarA</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/CatEar/CatEarB</li>
+            </graphicPaths>
+            <colorType>Hair</colorType>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_HeadAttachmentGeneBase">
+        <defName>AFU_HA_ShortHairFoxEar</defName>
+        <label>Short hair fox ear</label>
+        <description>Carriers of this gene grow short corsac fox-like ears, which improves their heat dissipation efficiency.</description>
+        <biostatCpx>1</biostatCpx>
+        <biostatMet>-1</biostatMet>
+        <statOffsets>
+            <ComfyTemperatureMax>5</ComfyTemperatureMax>
+        </statOffsets>
+        <iconPath>UI/Icons/AFUGenes/Gene_ShortHairFoxEar</iconPath>
+		<displayOrderInCategory>27</displayOrderInCategory>
+        <graphicData>
+            <graphicPath>Things/Pawn/Humanlike/AFUHeadAttachments/ShortHairFoxEar/ShortHairFoxEarA</graphicPath>
+            <colorType>Hair</colorType>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_HeadAttachmentGeneBase">
+        <defName>AFU_HA_FoxEar</defName>
+        <label>Fox ear</label>
+        <description>Carriers of this gene grow fox-like ears.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_FoxEar</iconPath>
+		<displayOrderInCategory>25</displayOrderInCategory>
+        <graphicData>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/FoxEar/FoxEarA</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/FoxEar/FoxEarB</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/FoxEar/FoxEarC</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/FoxEar/FoxEarD</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/FoxEar/FoxEarE</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/FoxEar/FoxEarF</li>
+            </graphicPaths>
+            <colorType>Hair</colorType>
+        </graphicData>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_HeadboneGeneBase">
+        <defName>AFU_HA_SpikedHorn</defName>
+        <label>Spiked horn</label>
+        <description>Carriers of this gene grow spiked horns.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_SpikedHorn</iconPath>
+		<displayOrderInCategory>60</displayOrderInCategory>
+        <graphicData>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/SpikedHorn/SpikedHornA</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/SpikedHorn/SpikedHornB</li>
+            </graphicPaths>
+        </graphicData>
+    </GeneDef>
+	
+    <GeneDef ParentName = "AFU_HeadAttachmentGeneBase">
+        <defName>AFU_HA_RatEar</defName>
+        <label>Rat ear</label>
+        <description>Carriers of this gene grow rat-like ears.The back of the ear is covered with hair.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_RatEar</iconPath>
+		<displayOrderInCategory>6</displayOrderInCategory>
+        <graphicData>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/RatEar/RatEarA</li>
+                <li>Things/Pawn/Humanlike/AFUHeadAttachments/RatEar/RatEarB</li>
+				<li>Things/Pawn/Humanlike/AFUHeadAttachments/RatEar/RatEarC</li>
+				<li>Things/Pawn/Humanlike/AFUHeadAttachments/RatEar/RatEarD</li>
+            </graphicPaths>
+        </graphicData>
+        <modExtensions>
+			<li Class="BetterGeneGraphicsFramework.ShaderSupport">
+				<shaderType>CutoutComplex</shaderType>
+				<colorType>Hair</colorType>
+				<colorTwoType>Skin</colorTwoType>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+
+</Defs>

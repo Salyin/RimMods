@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ResearchProjectDef>
+		<defName>BasicProsthetics</defName>
+		<label>Basic prosthetics</label>
+		<description>Understanding the basic shape of different body parts and combining that knowledge with basic woodworking, you can now use directly install basic prosthesis.
+
+Peg legs, wooden feet, wooden hands, dentures, eye patch and ear bandages are direct surgeries with a single wood log or textile.
+
+Hook hand and steel arm are crafted at a smithy.</description>
+		<baseCost>150</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tab>EPOE</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>2</researchViewY>
+		<tags>
+			<li>ClassicStart</li>
+		</tags>
+	</ResearchProjectDef -->
+
+  <Prosthetics.label>Протезирования</Prosthetics.label>
+  <Prosthetics.description>Создавайте недорогие протезы частей тела для замены утраченных конечностей. Требуется квалифицированный врач для прикрепления.</Prosthetics.description>
+
+  <Bionics.label>Бионика</Bionics.label>
+  <Bionics.description>Исследование мелкой моторики и схем открывает возможность сделать более продвинутые протезы.</Bionics.description>
+
+  <AdvancedBionics.label>Продвинутая бионика</AdvancedBionics.label>
+  <AdvancedBionics.description>Улучшение бионики с помощью вансидиума для лучшего результата.</AdvancedBionics.description>
+
+  <RibReplacements.label>Замена ребер</RibReplacements.label>
+  <RibReplacements.description>С открытием чрезвычайно маленьких устройств для введения лекарств, вы подумываете о расположении их в ребрах. Вы можете создавать и вставлять импланты рёбер.</RibReplacements.description>
+
+  <SurrogateOrgans.label>Заменители органов</SurrogateOrgans.label>
+  <SurrogateOrgans.description>Изучая медицину мы разобрались как создавать простые заменители органов для замены недостающих.</SurrogateOrgans.description>
+
+  <SyntheticOrgans.label>Синтетические органы</SyntheticOrgans.label>
+  <SyntheticOrgans.description>Дальнейшие исследования в нанотехнологии позволяют создавать невероятно хорошо спроектированные искусственные органы.</SyntheticOrgans.description>
+
+  <EPOE_SyntheticRepair.label>Синтетический ремонт</EPOE_SyntheticRepair.label>
+  <EPOE_SyntheticRepair.description>Дальнейшие исследования в области нанотехнологий позволяют печатать невероятно хорошо спроектированные искусственные ткани и нервы, которые помогают при заживлении шрамов, слабости и повреждении спины. Открывает рецепты синтетических тканей и нервно-мышечного каркаса на синтетическом нанопринтере.</EPOE_SyntheticRepair.description>
+
+  <EPOE_NeurologicalTreatment.label>Неврологическое лечение</EPOE_NeurologicalTreatment.label>
+  <EPOE_NeurologicalTreatment.description>Обширные исследования в области нанотехнологий позволяют печатать невероятно хорошо спроектированный каркасный комплект, состоящий из искусственных адаптируемых тканей мозга, нервов и наномашин, чтобы помочь в борьбе с деменцией, болезнью Альцгеймера, химическими повреждениями и рубцами в мозге. Разблокирует рецепт нейроисцелитель на синтетическом нано-принтере.\n\n нейроисцелитель лечит только деменцию и болезнь Альцгеймера, а не предотвращает их повторное появление.</EPOE_NeurologicalTreatment.description>
+
+  <BrainSurgery.label>Хирургия мозга</BrainSurgery.label>
+  <BrainSurgery.description>Позволяет вам проводить операции на мозге.</BrainSurgery.description>
+
+  <EPOE_Glitterworld_Implants.label>Продвинутые импланты</EPOE_Glitterworld_Implants.label>
+  <EPOE_Glitterworld_Implants.description>Позволяет вам создавать продвинутые импланты .</EPOE_Glitterworld_Implants.description>
+
+  <EPOE_AIPersonaCoreImplant.label>Имплант Ядер ИИ</EPOE_AIPersonaCoreImplant.label>
+  <EPOE_AIPersonaCoreImplant.description>Позволяет вам выполнить операцию по имплантации ядра личности искусственного интеллекта в мозг. Это обеспечивает мощный импульс сознания с помощью ИИ, но для этого потребуется регулярное медицинское обслуживание, чтобы ИИ не стал врагом для пользователя.</EPOE_AIPersonaCoreImplant.description>
+
+  <EPOE_OrganicOptimizer.label>Органическая оптимизация</EPOE_OrganicOptimizer.label>
+  <EPOE_OrganicOptimizer.description>Позволяет разрабатывать наноботов для оптимизации и раскрытия всего потенциала естественного организма, специально разработанных в помощь специалистам по очистке тела..</EPOE_OrganicOptimizer.description>
+
+  <EPOE_MAAIChip.label>MA-AI чип</EPOE_MAAIChip.label>
+  <EPOE_MAAIChip.description>Позволяет вам созать свой собственный MA-AI chip (Медецинский-искусственный интеллект-чип), без необходимости искать ядро ИИ.</EPOE_MAAIChip.description>
+
+
+  <!--=============================== Tier 0 ===================================-->
+  <!--<BasicProsthetics.label>Базовое протезирование</BasicProsthetics.label>-->
+  <!--<BasicProsthetics.description>Понимая форму ноги и комбинируя это знание с базовой деревообработкой, вы можете создавать деревянные ноги и другие базовые протезы.</BasicProsthetics.description>-->
+  <!--=============================== Tier 1 ===================================-->
+  <!--<SimpleProsthetics.label>Простое протезирование</SimpleProsthetics.label>-->
+  <!--<SimpleProsthetics.description>Расширенное исследование анатомии и эксперименты с металом дают вам возможность создавать простые протезы.</SimpleProsthetics.description>-->
+  <!--=============================== Tier 2 ===================================-->
+  <!--<VancidiumRefineryTech.label>Очистка вансидиума</VancidiumRefineryTech.label>-->
+  <!--<VancidiumRefineryTech.description>Во время объединения различных материалов, вы случайным образом создали очень легкий, но прочный материал, который можно использовать для создания улучшенных протезов. Вы можете создавать вансидиум в электроплавильне, а также производить продвинутые компоненты на верстаке для сборки компонентов!</VancidiumRefineryTech.description>-->
+  <!--=============================== Tier 2.5 ===================================-->
+
+</LanguageData>

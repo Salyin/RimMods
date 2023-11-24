@@ -1,0 +1,6 @@
+M:\Fast Steam\steamapps\common\RimWorld\Mods\ColonistBarBelowDev\Assemblies\ColonistBarBelowDev.dll
+M:\Fast Steam\steamapps\common\RimWorld\Mods\ColonistBarBelowDev\Assemblies\ColonistBarBelowDev.pdb
+M:\Fast Steam\steamapps\common\RimWorld\Mods\ColonistBarBelowDev\Source\obj\Debug\ColonistBarBelowDev.csproj.AssemblyReference.cache
+M:\Fast Steam\steamapps\common\RimWorld\Mods\ColonistBarBelowDev\Source\obj\Debug\ColonistBarBelowDev.csproj.CoreCompileInputs.cache
+M:\Fast Steam\steamapps\common\RimWorld\Mods\ColonistBarBelowDev\Source\obj\Debug\ColonistBarBelowDev.dll
+M:\Fast Steam\steamapps\common\RimWorld\Mods\ColonistBarBelowDev\Source\obj\Debug\ColonistBarBelowDev.pdb

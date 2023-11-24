@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATR_AlertServerHeatCritical>Перегрев сервера</ATR_AlertServerHeatCritical>
+  <ATR_AlertServerHeatCriticalDesc>Как минимум один из серверов имеет критически высокую температуру и может перегреться! Необходимо принять меры для предотвращения возможного возгорания и сохранения целостности сети!</ATR_AlertServerHeatCriticalDesc>
+
+  <ATR_AlertFullSkillServers>Максимум очков познания</ATR_AlertFullSkillServers>
+  <ATR_AlertFullSkillServersDesc>Достигнуто максимальное количество очков познания. Для продолжения записи новой информации необходимо расширить базу данных.</ATR_AlertFullSkillServersDesc>
+
+  <ATR_AlertFullHackingServers>Максимум очков взлома</ATR_AlertFullHackingServers>
+  <ATR_AlertFullHackingServersDesc>Достигнуто максимальное количество очков защиты. Для продолжения записи новой информации необходимо расширить базу данных.</ATR_AlertFullHackingServersDesc>
+
+  <ATR_AlertLowSecurity>Сеть под угрозой</ATR_AlertLowSecurity>
+  <ATR_AlertLowSecurityDesc>Количество доступных очков защиты может не обеспечить полной защиты от любой попытки взлома. Для увеличения уровня защиты необходимо установить дополнительные аналитические серверы для генерации дополнительных очков защиты. В связи с этим, рекомендуется быть крайне осторожным при использовании сети SkyMind.</ATR_AlertLowSecurityDesc>
+
+  <ATR_NeedMechanic>Требуется механик</ATR_NeedMechanic>
+  <ATR_NeedMechanicDesc>Эти андроидам нужен ремонт. У вас нет здоровых поселенцев, назначенных механиками.\n\n{0}\nВо вкладке «Работа» выберите здорового поселенца и поставьте галочку в колонке «Механик» напротив его имени. Механиты починят большинство повреждений со временем, однако механики значительно увеличат скорость восстановления и уменьшат вероятность побочных эффектов.</ATR_NeedMechanicDesc>
+
+</LanguageData>

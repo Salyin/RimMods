@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+	
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationRemove">
+				<xpath>Defs/TerrainDef[defName="Gravel" or defName="Sand" or defName="Mud" or defName="Ice"]/pollutedTexturePath</xpath>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/TerrainDef[defName="Soil"]/pollutedTexturePath</xpath>
+				<value>
+					<pollutedTexturePath>Terrain/Surfaces/Soil</pollutedTexturePath>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/TerrainDef[defName="SoilRich"]/pollutedTexturePath</xpath>
+				<value>
+					<pollutedTexturePath>Terrain/Surfaces/SoilRich</pollutedTexturePath>
+				</value>
+			</li>
+			<li Class="PatchOperationConditional">
+				<xpath>Defs/TerrainDef[defName="MarshyTerrain"]/pollutedTexturePath</xpath>
+				<match Class="PatchOperationReplace">
+					<xpath>Defs/TerrainDef[defName="MarshyTerrain"]/pollutedTexturePath</xpath>
+					<value>
+						<pollutedTexturePath>Terrain/Surfaces/MarshyTerrainPolluted</pollutedTexturePath>
+					</value>
+				</match>
+				<nomatch Class="PatchOperationAdd">
+					<xpath>Defs/TerrainDef[defName="MarshyTerrain"]</xpath>
+					<value>
+						<pollutedTexturePath>Terrain/Surfaces/MarshyTerrainPolluted</pollutedTexturePath>
+					</value>
+				</nomatch>
+			</li>
+		</operations>
+	</Operation>
+</Patch>

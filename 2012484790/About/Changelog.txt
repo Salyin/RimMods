@@ -1,0 +1,96 @@
+# Changelog for SimplyMoreBridges
+
+1.4.5 - All bridges should now be paintable, same as vanilla metal and wood-floors
+
+
+1.4.4 - Added setting to modify the steel to material ratio. Will now also ignore fake wood-types added by Vanilla Furniture Expanded - Architect.
+Used DeepL to update translations for ChineseSimplified, French, German, Russian
+
+
+1.4.3 - Added a base-beauty of 1, same as vanilla default value for floors.
+
+
+1.4.2 - Updated Russian translation, thanks uncleshvya
+
+
+1.4.1 - Mod updated for 1.4 and passed autotests.
+Used DeepL to update translations for ChineseSimplified, French, German, Russian
+
+
+1.3.5 - Fixed an issue in generating visuals for metal-bridges
+
+
+1.3.4 - More unique defname for the HugLib-news base-definition, to avoid conflicts with other mods.
+
+
+1.3.3 - Fixed error with deep/heavy bridges being switched. Also fixed affordance given and flameability for woody bridges
+
+
+1.3.2 - Will now generate bridges from woody-stuff as well
+
+
+1.3.1 - Colors of the bridges should now use the same color as land tiles of the same material
+
+
+1.0.29.0 - Bridges should now inherit the beauty value of the material they are made of
+
+
+1.0.28.0 - Mod updated for 1.3 and passed autotests
+
+
+1.0.27.0 - Fixed an issue with mods that adds stuff with similar names (Morrowrim)
+
+
+1.0.26.0 - Added french translation, thanks qux!
+
+
+1.0.25.0 - Missing null-check for stuffProperties caused some bridges to fail to generate
+
+
+1.0.24.0 - All bridges except flagstone is now considered Floor, bridges made of beautyful material is considered FineFloor
+
+
+1.0.23.0 - Updated russian folder-name
+
+
+1.0.22.0 - Metal bridges should now have the same color as the floor-version. Added translation tags.
+
+
+1.0.21.0 - Updated russian translation by uncleshvya
+
+
+1.0.20.0 - Added cost slider, corrected the visuals of the sterile bridge
+
+
+1.0.19.0 - Added sterile bridges made of silver
+
+
+1.0.18.0 - Concrete has the correct color now
+
+
+1.0.17.0 - Added the option to generate more visual styles of tiles
+
+
+1.0.16.0 - Bridges now have max hitpoints based on the material used to make them
+
+
+1.0.15.0 - Added russian translation, thanks uncleshvya
+
+
+1.0.14.0 - Fixed manifest and about-file
+
+
+1.0.13.0 - Added 1.2 support and fixed some research prereq
+
+
+1.0.12.0 - Loads the bridges as prefix rather than postfix to enable blueprint generation
+
+
+1.0.11.0 - Added support for building of all stoney and metaly materials
+
+
+1.0.10.0 - Fixed the order of the bridges in the dropdown that got jumbled as the research-requirements got split up
+
+
+1.0.9.0 - Added shadow-layer to the bridges-texture
+

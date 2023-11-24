@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- General -->
+  <ATR_ViableSources>Доступные источники:</ATR_ViableSources>
+  <ATR_ViableTargets>Доступные цели:</ATR_ViableTargets>
+  <ATR_NoAvailableTarget>Нет доступных целей для операции.</ATR_NoAvailableTarget>
+
+  <!-- Charging -->
+  <ATR_ForceCharge>Принудительная зарядка аккумулятора</ATR_ForceCharge>
+  <ATR_NoAvailableChargingSpots>Невозможно использовать, место для зарядки занято.</ATR_NoAvailableChargingSpots>
+  <ATR_NeedToAllowCharge>{0} отсутствует возможность зарядки.</ATR_NeedToAllowCharge>
+  <ATR_MassiveNotAllowed>Большие механические образцы, не могут использовать это.</ATR_MassiveNotAllowed>
+  <ATR_MassiveRequired>Только большие механические образцы, могут использовать это.</ATR_MassiveRequired>
+  <ATR_NoSurrogateMechanitors>Механиторы не могут быть суррогатами.</ATR_NoSurrogateMechanitors>
+</LanguageData>

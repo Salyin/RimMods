@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<BasicResearch.header_Direct>Базовые исследования</BasicResearch.header_Direct>
+<BasicResearch.shortDesc_Direct>Смотри на исследовательский стол, как на большой манекен.</BasicResearch.shortDesc_Direct>
+<AnalyseProductionFacility.header_Direct>Тесты инструментов</AnalyseProductionFacility.header_Direct>
+<AnalyseProductionFacility.header_Ancestor>Постулировать улучшения инструментов</AnalyseProductionFacility.header_Ancestor>
+<AnalyseProductionFacility.shortDesc_Direct>Изучите, какие инструменты можно использовать для изготовления вещей.</AnalyseProductionFacility.shortDesc_Direct>
+<Analyse.header_Ancestor>Набраться производственного опыта</Analyse.header_Ancestor>
+<Analyse.shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</Analyse.shortDesc_Direct>
+<AnalysePawn.shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</AnalysePawn.shortDesc_Direct>
+<AnalysePawnNonFlesh.shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</AnalysePawnNonFlesh.shortDesc_Direct>
+<AnalyseDissect.shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</AnalyseDissect.shortDesc_Direct>
+<AnalyseDissectNonFlesh.header_Direct>исследовать внутренности</AnalyseDissectNonFlesh.header_Direct>
+<AnalyseDissectNonFlesh.header_Ancestor>исследовать внутренности</AnalyseDissectNonFlesh.header_Ancestor>
+<AnalyseDissectNonFlesh.shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</AnalyseDissectNonFlesh.shortDesc_Direct>
+<AnalyseRawFood.header_Direct>Определить профиль вкуса</AnalyseRawFood.header_Direct>
+<AnalyseRawFood.shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</AnalyseRawFood.shortDesc_Direct>
+<AnalyseFood.header_Direct>воспроизвести рецепт</AnalyseFood.header_Direct>
+<AnalyseFood.header_Ancestor>повторить рецепт</AnalyseFood.header_Ancestor>
+<AnalyseFood.shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</AnalyseFood.shortDesc_Direct>
+<AnalyseDrug.header_Direct>Реверс-инжиниринг веществ</AnalyseDrug.header_Direct>
+<AnalyseDrug.shortDesc_Direct>Реверс-инжиниринг, чтобы разобраться.</AnalyseDrug.shortDesc_Direct>
+<AnalysePlant.header_Direct>наблюдать за ростом растений (на месте)</AnalysePlant.header_Direct>
+<AnalysePlant.shortDesc_Direct>Проанализируйте растение, чтобы разобраться.</AnalysePlant.shortDesc_Direct>
+<AnalyseHarvestProduct.header_Direct>Осматривать продукты урожая</AnalyseHarvestProduct.header_Direct>
+<AnalyseHarvestProduct.shortDesc_Direct>Анализ продуктов урожая, чтобы разобраться.</AnalyseHarvestProduct.shortDesc_Direct>
+<AnalyseIngredients.header_Direct>Анализ материала</AnalyseIngredients.header_Direct>
+<AnalyseIngredients.shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</AnalyseIngredients.shortDesc_Direct>
+<AnalyseIngredientsDrug.header_Direct>Анализ химических соединений</AnalyseIngredientsDrug.header_Direct>
+<AnalyseIngredientsDrug.shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</AnalyseIngredientsDrug.shortDesc_Direct>
+<AnalyseIngredientsFood.header_Direct>Анализ ингредиентов</AnalyseIngredientsFood.header_Direct>
+<AnalyseIngredientsFood.shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</AnalyseIngredientsFood.shortDesc_Direct>
+<AnalyseIngredientsRawFood.header_Direct>Анализ ингредиентов</AnalyseIngredientsRawFood.header_Direct>
+<AnalyseIngredientsRawFood.shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</AnalyseIngredientsRawFood.shortDesc_Direct>
+<AnalyseFuelDrug.header_Direct>Анализ активного ингредиента</AnalyseFuelDrug.header_Direct>
+<AnalyseFuelDrug.shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</AnalyseFuelDrug.shortDesc_Direct>
+<AnalyseFuelFood.header_Direct>Анализ содержания питательных веществ</AnalyseFuelFood.header_Direct>
+<AnalyseFuelFood.shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</AnalyseFuelFood.shortDesc_Direct>
+<AnalyseFuelFlammable.header_Direct>Анализ топливной эффективности</AnalyseFuelFlammable.header_Direct>
+<AnalyseFuelFlammable.shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</AnalyseFuelFlammable.shortDesc_Direct>
+<AnalyseFuel.header_Direct>Анализ средств снабжения</AnalyseFuel.header_Direct>
+<AnalyseFuel.shortDesc_Direct>Анализируйте материалы, чтобы разобраться.</AnalyseFuel.shortDesc_Direct>
+<AnalyseFloor.header_Direct>Реверс-инжиниринг пола</AnalyseFloor.header_Direct>
+<AnalyseFloor.header_Ancestor>Набраться опыта в строительстве</AnalyseFloor.header_Ancestor>
+<AnalyseFloor.shortDesc_Direct>Анализируйте местность, чтобы разобраться.</AnalyseFloor.shortDesc_Direct>
+<AnalyseSoil.header_Direct>Анализ почвы</AnalyseSoil.header_Direct>
+<AnalyseSoil.shortDesc_Direct>Проанализируйте почву, чтобы разобраться.</AnalyseSoil.shortDesc_Direct>
+<AnalyseTerrain.header_Direct>Анализ местности</AnalyseTerrain.header_Direct>
+<AnalyseTerrain.shortDesc_Direct>Анализируйте местность, чтобы разобраться.</AnalyseTerrain.shortDesc_Direct>
+
+</LanguageData>

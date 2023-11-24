@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Advanced bionic eye -->
+
+  <AdvancedBionicEye.label>Улучшенный бионический глаз</AdvancedBionicEye.label>
+  <AdvancedBionicEye.description>установленный Улучшенный бионический глаз.</AdvancedBionicEye.description>
+  <AdvancedBionicEye.labelNoun>Улучшенный бионический глаз</AdvancedBionicEye.labelNoun>
+
+
+  <!-- Advanced bionic arm -->
+
+  <AdvancedBionicArm.label>Улучшенная бионическая рука</AdvancedBionicArm.label>
+  <AdvancedBionicArm.description>установленная улучшенная бионическая рука.</AdvancedBionicArm.description>
+  <AdvancedBionicArm.comps.0.tools.0.label>Рука</AdvancedBionicArm.comps.0.tools.0.label>
+  <AdvancedBionicArm.labelNoun>Улучшенная бионическая рука</AdvancedBionicArm.labelNoun>
+
+
+  <!-- Advanced Bionic Leg -->
+
+  <AdvancedBionicLeg.label>Улучшенная бионическая нога</AdvancedBionicLeg.label>
+  <AdvancedBionicLeg.description>Установленная улучшенная бионическая нога.</AdvancedBionicLeg.description>
+  <AdvancedBionicLeg.labelNoun>Улучшенная бионическая нога</AdvancedBionicLeg.labelNoun>
+
+
+  <!-- Advanced bionic spine -->
+
+  <AdvancedBionicSpine.label>Улучшенный бионический позвоночник</AdvancedBionicSpine.label>
+  <AdvancedBionicSpine.description>Установленный улучшенный бионический позвоночник.</AdvancedBionicSpine.description>
+  <AdvancedBionicSpine.labelNoun>Улучшенный бионический позвоночник</AdvancedBionicSpine.labelNoun>
+
+
+  <!-- Advanced bionic ear -->
+
+  <AdvancedBionicEar.label>Улучшенное бионическое ухо</AdvancedBionicEar.label>
+  <AdvancedBionicEar.description>Устоновленное улучшенное бионическое ухо.</AdvancedBionicEar.description>
+  <AdvancedBionicEar.labelNoun>Улучшенное бионическое ухо</AdvancedBionicEar.labelNoun>
+
+
+  <!-- Advanced bionic hand -->
+
+  <AdvancedBionicHand.label>Улучшенная бионическая кисть</AdvancedBionicHand.label>
+  <AdvancedBionicHand.description>Установленная улучшенная бионическая кисть.</AdvancedBionicHand.description>
+  <AdvancedBionicHand.comps.0.tools.0.label>кисть</AdvancedBionicHand.comps.0.tools.0.label>
+  <AdvancedBionicHand.labelNoun>Улучшенная бионическая кисть</AdvancedBionicHand.labelNoun>
+
+
+  <!-- Advanced bionic foot -->
+
+  <AdvancedBionicFoot.label>Улучшенная бионическая ступня</AdvancedBionicFoot.label>
+  <AdvancedBionicFoot.description>Установленная улучшенная бионическая ступня.</AdvancedBionicFoot.description>
+  <AdvancedBionicFoot.labelNoun>Улучшенная бионическая ступня</AdvancedBionicFoot.labelNoun>
+
+
+  <!-- Advanced bionic finger -->
+
+  <AdvancedBionicFinger.label>Улучшенный бионический палец</AdvancedBionicFinger.label>
+  <AdvancedBionicFinger.description>Установленный улучшенный бионический палец.</AdvancedBionicFinger.description>
+  <AdvancedBionicFinger.labelNoun>Улучшенный бионический палец</AdvancedBionicFinger.labelNoun>
+
+
+  <!-- Advanced bionic toe -->
+
+  <AdvancedBionicToe.label>Улучшенный бионический палец ноги</AdvancedBionicToe.label>
+  <AdvancedBionicToe.description>Установленный Улучшенный бионический палец ноги.</AdvancedBionicToe.description>
+  <AdvancedBionicToe.labelNoun>Улучшенный бионический палец ноги</AdvancedBionicToe.labelNoun>
+
+
+  <!-- Advanced bionic jaw -->
+
+  <AdvancedBionicJaw.label>Улучшенная бионическая челюсть</AdvancedBionicJaw.label>
+  <AdvancedBionicJaw.description>Установленная улучшенная бионическая челюсть.</AdvancedBionicJaw.description>
+  <AdvancedBionicJaw.comps.0.tools.0.label>Челюсть</AdvancedBionicJaw.comps.0.tools.0.label>
+  <AdvancedBionicJaw.labelNoun>Улучшенная бионическая челюсть</AdvancedBionicJaw.labelNoun>
+
+
+  <!-- Exoskeleton suit -->
+
+  <ExoskeletonSuit.label>Экзоскелет</ExoskeletonSuit.label>
+  <ExoskeletonSuit.description>Установленный Экзоскелет.</ExoskeletonSuit.description>
+  <ExoskeletonSuit.labelNoun>Экзоскелет</ExoskeletonSuit.labelNoun>
+
+
+  <!-- Protective exoskeleton -->
+
+  <EPIA_ProtectiveExoskeleton.label>Защитный экзоскелет</EPIA_ProtectiveExoskeleton.label>
+  <EPIA_ProtectiveExoskeleton.description>Установленный защитный экзоскелет.</EPIA_ProtectiveExoskeleton.description>
+
+
+  <!--<AdvancedPowerArm.label>Улучшенная силовая рука</AdvancedPowerArm.label>-->
+
+</LanguageData>

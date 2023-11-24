@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_PartDecay.label>изношенная деталь</ATR_PartDecay.label>
+  <ATR_PartDecay.description>Эта деталь андроида - износилась и работает неоптимально. Для её замены требуется ремонт.</ATR_PartDecay.description>
+  <ATR_PartDecay.labelNoun>изношенная деталь</ATR_PartDecay.labelNoun>
+
+  <ATR_RustedPart.label>ржавая деталь</ATR_RustedPart.label>
+  <ATR_RustedPart.description>Эта деталь андроида - проржавела, хоть это и не сказывается на работоспособности, ржавые детали выглядят ужасно. Для её замены требуется ремонт.</ATR_RustedPart.description>
+  <ATR_RustedPart.labelNoun>ржавая деталь</ATR_RustedPart.labelNoun>
+
+  <ATR_PowerLoss.label>потеря энергии</ATR_PowerLoss.label>
+  <ATR_PowerLoss.description>Эта деталь андроида - почти полностью потеряла энергоснабжение. Хотя эта часть все еще может функционировать, потеря энергоснабжения сильно дисбалансирует общую систему и увеличивает потребление энергии.\n\nРемонт стабилизирует энергоснабжение, но проблема пройдет только тогда, когда механиты починят деталь.</ATR_PowerLoss.description>
+  <ATR_PowerLoss.labelNoun>потеря энергии</ATR_PowerLoss.labelNoun>
+
+  <ATR_DamagedCore.label>повреждение ядра</ATR_DamagedCore.label>
+  <ATR_DamagedCore.description>Ядро андроида - получило физическое повреждение и работает неоптимально. Повреждение ядра может привести к дополнительным проблемам памяти и нарушить общую функциональность. Для нормальной работы ядра, требуется ремонт.</ATR_DamagedCore.description>
+
+  <ATR_FailingCoolantValves.label>эрозия клапанов</ATR_FailingCoolantValves.label>
+  <ATR_FailingCoolantValves.description>Клапаны охлаждающей жидкости андроида - износились. Со временем корпус потеряет способность циркулировать хладагент, что приведет к серьезным последствиям и потери эффективности охлаждения. Для нормальной работы клапанов, требуется ремонт.</ATR_FailingCoolantValves.description>
+  <ATR_FailingCoolantValves.stages.0.label>незаметная</ATR_FailingCoolantValves.stages.0.label>
+  <ATR_FailingCoolantValves.stages.1.label>начальная</ATR_FailingCoolantValves.stages.1.label>
+  <ATR_FailingCoolantValves.stages.2.label>лёгкая</ATR_FailingCoolantValves.stages.2.label>
+  <ATR_FailingCoolantValves.stages.3.label>средняя</ATR_FailingCoolantValves.stages.3.label>
+  <ATR_FailingCoolantValves.stages.4.label>серьёзная</ATR_FailingCoolantValves.stages.4.label>
+
+  <ATR_RogueMechanites.label>утечка механитов</ATR_RogueMechanites.label>
+  <ATR_RogueMechanites.description>Гиперконденсатор получил критический сбой. Механиты разбредаются и препятствуют потоку хладагента. Гиперконденсатор требует срочный ремонт, поскольку механиты скапливаются в жизненно важных системах и повреждают клапаны хладагента, что приведёт к смертельному отказу оборудования.</ATR_RogueMechanites.description>
+  <ATR_RogueMechanites.stages.0.label>начальная</ATR_RogueMechanites.stages.0.label>
+  <ATR_RogueMechanites.stages.1.label>средняя</ATR_RogueMechanites.stages.1.label>
+  <ATR_RogueMechanites.stages.2.label>серьёзная</ATR_RogueMechanites.stages.2.label>
+  <ATR_RogueMechanites.stages.3.label>фатальная</ATR_RogueMechanites.stages.3.label>
+
+  <ATR_MaintenanceCritical.label>ужасное состояние</ATR_MaintenanceCritical.label>
+  <ATR_MaintenanceCritical.description>Корпус андроида находится в ужасном состоянии и его детали могут серьёзно выйти из строя. Сильно запущенный корпус более восприимчив к урону, обладает сниженной общей эффективностью и дольше восстанавливает повреждённые детали.</ATR_MaintenanceCritical.description>
+  <ATR_MaintenanceCritical.labelNoun>ужасное состояние</ATR_MaintenanceCritical.labelNoun>
+
+  <ATR_MaintenancePoor.label>плохое состояние</ATR_MaintenancePoor.label>
+  <ATR_MaintenancePoor.description>Корпус андроида находится в плохом состоянии и его детали могут выйти из строя. Запущенный корпус более восприимчив к урону и дольше восстанавливает повреждённые детали.</ATR_MaintenancePoor.description>
+  <ATR_MaintenancePoor.labelNoun>плохое состояние</ATR_MaintenancePoor.labelNoun>
+
+  <ATR_MaintenanceSatisfactory.label>хорошее состояние</ATR_MaintenanceSatisfactory.label>
+  <ATR_MaintenanceSatisfactory.description>Корпус андроида находится в хорошем состоянии и его детали невосприимчивы к спонтанному выходу из строя. Ухоженный корпус выглядит довольно приятно и менее восприимчив к урону, а так же потребляет меньше энергии.</ATR_MaintenanceSatisfactory.description>
+  <ATR_MaintenanceSatisfactory.labelNoun>хорошее состояние</ATR_MaintenanceSatisfactory.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plasteel Plating -->
+
+  <ATR_PlatingPlasteel.label>пласталевый каркас</ATR_PlatingPlasteel.label>
+  <ATR_PlatingPlasteel.description>Установленный пласталевый каркас.</ATR_PlatingPlasteel.description>
+
+
+  <!-- Guardian -->
+
+  <ATR_GuardianFrame.label>бронированный каркас</ATR_GuardianFrame.label>
+  <ATR_GuardianFrame.description>Установленный бронированный каркас.</ATR_GuardianFrame.description>
+
+
+  <!-- Hydraulic -->
+
+  <ATR_HydraulicFrame.label>гидравлический каркас</ATR_HydraulicFrame.label>
+  <ATR_HydraulicFrame.description>Установленный гидравлический каркас.</ATR_HydraulicFrame.description>
+
+
+  <!-- Suppressor -->
+
+  <ATR_SuppressorFrame.label>урезанный каркас</ATR_SuppressorFrame.label>
+  <ATR_SuppressorFrame.description>Установленный урезанный каркас.</ATR_SuppressorFrame.description>
+
+
+  <!-- Composite Plating -->
+
+  <ATR_CompositePlating.label>композитный каркас</ATR_CompositePlating.label>
+  <ATR_CompositePlating.description>Установленный композитный каркас.</ATR_CompositePlating.description>
+
+
+  <!-- Refined -->
+
+  <ATR_RefinedFrame.label>изысканный каркас</ATR_RefinedFrame.label>
+  <ATR_RefinedFrame.description>Установленный изысканный каркас.</ATR_RefinedFrame.description>
+
+
+  <!-- Sanitary -->
+
+  <ATR_SanitaryFrame.label>стерильный каркас</ATR_SanitaryFrame.label>
+  <ATR_SanitaryFrame.description>Установленный стерильный каркас.</ATR_SanitaryFrame.description>
+
+
+  <!-- Mobility -->
+
+  <ATR_MobilityFrame.label>подвижный каркас</ATR_MobilityFrame.label>
+  <ATR_MobilityFrame.description>Установленный подвижный каркас.</ATR_MobilityFrame.description>
+
+
+</LanguageData>

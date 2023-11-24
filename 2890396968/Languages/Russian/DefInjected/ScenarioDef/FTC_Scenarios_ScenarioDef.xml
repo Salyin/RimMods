@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Things/Scenarios/FTC_Scenarios.xml-->
+                   <!-- Abandoned frontline -->
+<FTC_LostFortress.label>Заброшенный фронт</FTC_LostFortress.label>
+                         <!-- You and the other two discovered this bunker while searching for a place to settle, the facility inside were relatively intact. No matter why the bunker was abandoned, you all decided to settle it here. -->
+<FTC_LostFortress.description>Вы и двое других обнаружили этот бункер, когда искали место для поселения, помещения внутри были относительно целы. Неважно, почему бункер был заброшен, вы все решили поселиться здесь.</FTC_LostFortress.description>
+                              <!-- A group of stray refugees. and a newly abandoned bunker. -->
+<FTC_LostFortress.scenario.summary>Группа бездомных беженцев. и недавно заброшенный бункер.</FTC_LostFortress.scenario.summary>
+                                                 <!-- everything seems new, machines, weapons, and there is even fuel and medicine in the stockpile, just like someone was still here a week ago.
+
+ the trace of the former owner is unknown, left over the ending of an untold story to us with many mysteries. but one thing can be sure, the story of us starts here. -->
+<FTC_LostFortress.scenario.parts.GameStartDialog.text>вроде все новое, станки, оружие, и даже горючее и лекарства на складе есть, как будто кто-то еще неделю назад тут был.\n\n след бывшего владельца неизвестен, остался конец нерассказанной нам истории со многими загадками. но в одном можно быть уверенным, история о нас начинается здесь.</FTC_LostFortress.scenario.parts.GameStartDialog.text>
+                                                                     <!-- An abandoned Bunker -->
+<FTC_LostFortress.scenario.parts.KCSG.AddStartingStructure.structureLabel>Заброшенный бункер</FTC_LostFortress.scenario.parts.KCSG.AddStartingStructure.structureLabel>
+                            <!-- Abandoned frontline -->
+<FTC_LostFortress.scenario.label>Заброшенный фронт</FTC_LostFortress.scenario.label>
+                                  <!-- You and the other two discovered this bunker while searching for a place to settle, the facility inside were relatively intact. No matter why the bunker was abandoned, you all decided to settle it here. -->
+<FTC_LostFortress.scenario.description>Вы и двое других обнаружили этот бункер, когда искали место для поселения, помещения внутри были относительно целы. Неважно, почему бункер был заброшен, вы все решили поселиться здесь.</FTC_LostFortress.scenario.description>
+
+
+<!--/Defs/Things/Scenarios/FTC_Scenarios.xml-->
+<!-- Abandoned frontline -->
+<FTC_LostFortress.label>Заброшенный фронт</FTC_LostFortress.label>
+<!-- You and the other two discovered this bunker while searching for a place to settle, the facility inside were relatively intact. No matter why the bunker was abandoned, you all decided to settle it here. -->
+<FTC_LostFortress.description>Вы и двое других обнаружили этот бункер, когда искали место для поселения, помещения внутри были относительно целы. Неважно, почему бункер был заброшен, вы все решили поселиться здесь.</FTC_LostFortress.description>
+<!-- A group of stray refugees. and a newly abandoned bunker. -->
+<FTC_LostFortress.scenario.summary>Группа бездомных беженцев. и недавно заброшенный бункер.</FTC_LostFortress.scenario.summary>
+<!-- everything seems new, machines, weapons, and there is even fuel and medicine in the stockpile, just like someone was still here a week ago.
+
+ the trace of the former owner is unknown, left over the ending of an untold story to us with many mysteries. but one thing can be sure, the story of us starts here. -->
+<FTC_LostFortress.scenario.parts.GameStartDialog.text>вроде все новое, станки, оружие, и даже горючее и лекарства на складе есть, как будто кто-то еще неделю назад тут был.\n\n след бывшего владельца неизвестен, остался конец нерассказанной нам истории со многими загадками. но в одном можно быть уверенным, история о нас начинается здесь.</FTC_LostFortress.scenario.parts.GameStartDialog.text>
+<!-- An abandoned Bunker -->
+<FTC_LostFortress.scenario.parts.KCSG.AddStartingStructure.structureLabel>Заброшенный бункер</FTC_LostFortress.scenario.parts.KCSG.AddStartingStructure.structureLabel>
+<!-- Abandoned frontline -->
+<FTC_LostFortress.scenario.label>Заброшенный фронт</FTC_LostFortress.scenario.label>
+<!-- You and the other two discovered this bunker while searching for a place to settle, the facility inside were relatively intact. No matter why the bunker was abandoned, you all decided to settle it here. -->
+<FTC_LostFortress.scenario.description>Вы и двое других обнаружили этот бункер, когда искали место для поселения, помещения внутри были относительно целы. Неважно, почему бункер был заброшен, вы все решили поселиться здесь.</FTC_LostFortress.scenario.description>
+
+</LanguageData>

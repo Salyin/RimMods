@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cat tail -->
+  <AFU_BA_CatTail.label>猫尾</AFU_BA_CatTail.label>
+  <!-- EN: Carriers of this gene grow cat-like tails. -->
+  <AFU_BA_CatTail.description>这种基因的携带者会长出猫的尾巴。</AFU_BA_CatTail.description>
+  
+  <!-- EN: Deer tail -->
+  <AFU_BA_DeerTail.label>鹿尾</AFU_BA_DeerTail.label>
+  <!-- EN: Carriers of this gene grow deer-like tails. -->
+  <AFU_BA_DeerTail.description>这种基因的携带者会长出鹿的尾巴。</AFU_BA_DeerTail.description>
+  
+  <!-- EN: Devil tail -->
+  <AFU_BA_DevilTail.label>小恶魔尾</AFU_BA_DevilTail.label>
+  <!-- EN: Carriers of this gene grow devil tails. -->
+  <AFU_BA_DevilTail.description>这种基因的携带者会长出小恶魔的尾巴。</AFU_BA_DevilTail.description>
+  
+  <!-- EN: Fluffy fox tail -->
+  <AFU_BA_FluffyFoxTail.label>蓬松狐尾</AFU_BA_FluffyFoxTail.label>
+  <!-- EN: Carriers of this gene grow large, fluffy fox-like tails that provides warm in cold wind. -->
+  <AFU_BA_FluffyFoxTail.description>这种基因的携带者会长出蓬松的狐尾，丰富的绒毛有助于抵御寒冷。</AFU_BA_FluffyFoxTail.description>
+  
+  <!-- EN: Fox tail -->
+  <AFU_BA_FoxTail.label>狐尾</AFU_BA_FoxTail.label>
+  <!-- EN: Carriers of this gene grow fox-like tails. -->
+  <AFU_BA_FoxTail.description>这种基因的携带者会长出狐狸的尾巴。</AFU_BA_FoxTail.description>
+  
+  <!-- EN: Lovely rabbit tail -->
+  <AFU_BA_LovelyRabbitTail.label>可爱兔尾</AFU_BA_LovelyRabbitTail.label>
+  <!-- EN: Carriers of this gene grow white lovely rabbit-like tails. -->
+  <AFU_BA_LovelyRabbitTail.description>仿造某种文化中服务员的服饰制造的人造基因，被植入这种基因的人会长出白色的绒球兔尾。</AFU_BA_LovelyRabbitTail.description>
+  
+  <!-- EN: NineTailedFox tail -->
+  <AFU_BA_NineTailedFox.label>九尾狐尾</AFU_BA_NineTailedFox.label>
+  <!-- EN: Carriers of this gene grow more fox-like tails as their ages grow. -->
+  <AFU_BA_NineTailedFox.description>传说中九尾狐的基因，能为携带者提供超凡的力量，拥有这种基因的人会随年龄增长不断生出新的尾巴。</AFU_BA_NineTailedFox.description>
+  
+  <!-- EN: Pig tail -->
+  <AFU_BA_PigTail.label>猪尾</AFU_BA_PigTail.label>
+  <!-- EN: Carriers of this gene grow pig tails. -->
+  <AFU_BA_PigTail.description>这种基因的携带者会长出猪的尾巴。</AFU_BA_PigTail.description>
+  
+  <!-- EN: Rabbit tail -->
+  <AFU_BA_RabbitTail.label>兔尾</AFU_BA_RabbitTail.label>
+  <!-- EN: Carriers of this gene grow rabbit-like tails. -->
+  <AFU_BA_RabbitTail.description>这种基因的携带者会长出兔子的尾巴。</AFU_BA_RabbitTail.description>
+  
+  <!-- EN: Rat tail -->
+  <AFU_BA_RatTail.label>鼠尾</AFU_BA_RatTail.label>
+  <!-- EN: Carriers of this gene grow rat tails. -->
+  <AFU_BA_RatTail.description>这种基因的携带者会长出老鼠的尾巴。</AFU_BA_RatTail.description>
+  
+  <!-- EN: Smooth lizard tail -->
+  <AFU_BA_SmoothLizardTail.label>黏腻蜥尾</AFU_BA_SmoothLizardTail.label>
+  <!-- EN: Carriers of this gene grow fat, slimy tails, and enemy weapons are easily slid away by the slime on their tails. -->
+  <AFU_BA_SmoothLizardTail.description>这种基因的携带者会长出肥厚黏腻的尾巴，敌人的武器很容易被尾巴上的粘液滑开。</AFU_BA_SmoothLizardTail.description>
+  
+  <!-- EN: Snake tail -->
+  <AFU_BA_SnakeTail.label>蛇尾</AFU_BA_SnakeTail.label>
+  <!-- EN: Carriers of this gene grow snake-like tails. -->
+  <AFU_BA_SnakeTail.description>这种基因的携带者会长出蛇的尾巴。</AFU_BA_SnakeTail.description>
+  
+  <!-- EN: Spiked lizard tail -->
+  <AFU_BA_SpikedLizardTail.label>蜥尾</AFU_BA_SpikedLizardTail.label>
+  <!-- EN: Carriers of this gene grow spiked lizard-like tails. -->
+  <AFU_BA_SpikedLizardTail.description>这种基因的携带者会长出蜥蜴的尾巴。</AFU_BA_SpikedLizardTail.description>
+  
+</LanguageData>

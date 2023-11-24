@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Oil -->
+  <FilthOil.label>石油</FilthOil.label>
+  <!-- EN: Oil on the ground. -->
+  <FilthOil.description>地上的石油。</FilthOil.description>
+  
+</LanguageData>

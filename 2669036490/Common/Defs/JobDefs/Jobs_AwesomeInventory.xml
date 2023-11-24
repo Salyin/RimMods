@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <JobDef>
+        <defName>AwesomeInventory_Unload</defName>
+        <driverClass>AwesomeInventory.Jobs.JobDriver_AwesomeInventory_Unload</driverClass>
+        <reportString>Unloading TargetA.</reportString>
+        <suspendable>false</suspendable>
+        <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+    </JobDef>
+
+    <JobDef>
+        <defName>AwesomeInventory_MapEquip</defName>
+        <driverClass>AwesomeInventory.Jobs.JobDriver_AwesomeInventory_MapEquip</driverClass>
+        <reportString>Equip TargetA.</reportString>
+        <suspendable>false</suspendable>
+        <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+    </JobDef>
+
+    <JobDef>
+        <defName>AwesomeInventory_Dress</defName>
+        <driverClass>AwesomeInventory.Jobs.JobDriver_AwesomeInventory_Dress</driverClass>
+        <reportString>Wear TargetA.</reportString>
+        <suspendable>false</suspendable>
+        <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+    </JobDef>
+
+    <JobDef>
+        <defName>AwesomeInventory_Undress</defName>
+        <driverClass>AwesomeInventory.Jobs.JobDriver_AwesomeInventory_Undress</driverClass>
+        <reportString>Removing TargetA.</reportString>
+        <suspendable>false</suspendable>
+        <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+    </JobDef>
+
+    <JobDef>
+        <defName>AwesomeInventory_TakeInventory</defName>
+        <driverClass>JobDriver_TakeInventory</driverClass>
+        <reportString>taking TargetA.</reportString>
+        <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+        <suspendable>false</suspendable>
+    </JobDef>
+
+    <JobDef>
+        <defName>AwesomeInventory_HotSwapStateChecker</defName>
+        <driverClass>AwesomeInventory.Jobs.JobDriver_AwesomeInventory_HotSwapStateChecker</driverClass>
+        <reportString>Finalize hot-swap</reportString>
+        <allowOpportunisticPrefix>false</allowOpportunisticPrefix>
+        <suspendable>false</suspendable>
+    </JobDef>
+</Defs>

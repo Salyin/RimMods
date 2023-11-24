@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ballista -->
+
+  <VFES_Stab.label>осколок</VFES_Stab.label>
+  <VFES_Stab.description>Колотая рана.</VFES_Stab.description>
+  <VFES_Stab.comps.0.labelTendedWell>перевязана</VFES_Stab.comps.0.labelTendedWell>
+  <VFES_Stab.comps.0.labelTendedWellInner>зашита</VFES_Stab.comps.0.labelTendedWellInner>
+  <VFES_Stab.comps.0.labelSolidTendedWell>устранена</VFES_Stab.comps.0.labelSolidTendedWell>
+  <VFES_Stab.injuryProps.destroyedLabel>отрезано</VFES_Stab.injuryProps.destroyedLabel>
+  <VFES_Stab.injuryProps.destroyedOutLabel>вырезано</VFES_Stab.injuryProps.destroyedOutLabel>
+  <VFES_Stab.labelNoun>нанесена колотая рана</VFES_Stab.labelNoun>
+
+
+</LanguageData>

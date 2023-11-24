@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <GeneDef Name="AFU_BodyAttachmentGeneBase" Abstract="True">
+        <biostatCpx>0</biostatCpx>
+        <biostatMet>0</biostatMet>
+        <randomChosen>true</randomChosen>
+        <displayCategory>AFU_BodyAttachment</displayCategory>
+        <displayOrderInCategory>50</displayOrderInCategory>
+        <iconColor>(0.75, 0.75, 0.75)</iconColor>
+        <graphicData>
+            <drawLoc>Tailbone</drawLoc>
+            <drawScale>1.33</drawScale>
+            <drawOffsetNorth>(0, 0, 0)</drawOffsetNorth>
+            <drawOffsetSouth>(0, 0, 0)</drawOffsetSouth>
+            <drawOffsetEast>(0, 0, 0)</drawOffsetEast>
+        </graphicData>
+        <exclusionTags>
+            <li>AFU_BodyAttachment</li>
+            <li>Tail</li>
+        </exclusionTags>
+        
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_RabbitTail</defName>
+        <label>Rabbit tail</label>
+        <description>Carriers of this gene grow rabbit-like tails.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_RabbitTail</iconPath>
+		<displayOrderInCategory>1</displayOrderInCategory>
+        <graphicData>
+            <graphicPath>Things/Pawn/Humanlike/AFUBodyAttachments/RabbitTail/RabbitTailA</graphicPath>
+            <colorType>Hair</colorType>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>true</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>(0, 0.2, 0)</male>
+                    <female>(0, 0.2, 0.11)</female>
+                    <hulk>(0, 0.2, 0.01)</hulk>
+                    <fat>(0, 0.2, 0)</fat>
+                    <thin>(0, 0.2, 0.05)</thin>
+                    <baby>(0, 0.2, -0.05999999)</baby>
+                    <child>(0, 0.2, 0.04)</child>
+					<femaleBB>(0, 0.2, 0.04)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(0.02, 0.02, 0.04)</male>
+                    <female>(0.05, 0.02, 0.14)</female>
+                    <hulk>(-0.08999999, 0.02, 0.04)</hulk>
+                    <fat>(-0.13, 0.02, 0.04)</fat>
+                    <thin>(0.02, 0.02, 0.13)</thin>
+                    <baby>(-0.05, 0.02, 0.01)</baby>
+                    <child>(0.02, 0.02, 0.07)</child>
+					<femaleBB>(-0.05, 0.02, 0.03)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_LovelyRabbitTail</defName>
+        <label>Lovely rabbit tail</label>
+        <description>Carriers of this gene grow white lovely rabbit-like tails.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_LovelyRabbitTail</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+        <graphicData>
+            <graphicPath>Things/Pawn/Humanlike/AFUBodyAttachments/LovelyRabbitTail/LovelyRabbitTailA</graphicPath>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>true</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>(0,0.2, 0)</male>
+                    <female>(0, 0.2, 0.11)</female>
+                    <hulk>(0, 0.2, 0.01)</hulk>
+                    <fat>(0, 0.2, 0)</fat>
+                    <thin>(0, 0.2, 0.05)</thin>
+                    <baby>(0, 0.2, -0.05999999)</baby>
+                    <child>(0, 0.2, 0.04)</child>
+					<femaleBB>(0, 0.2, 0.04)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(0.02, 0.02, 0.04)</male>
+                    <female>(0.04, 0.02, 0.12)</female>
+                    <hulk>(-0.08999999, 0.02, 0.04)</hulk>
+                    <fat>(-0.13, 0.02, 0.04)</fat>
+                    <thin>(0.02, 0.02, 0.13)</thin>
+                    <baby>(-0.05,0.02, 0.01)</baby>
+                    <child>(0.02, 0.02, 0.07)</child>
+					<femaleBB>(-0.05,0.02, 0.03)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_DeerTail</defName>
+        <label>Deer tail</label>
+        <description>Carriers of this gene grow deer-like tails.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_DeerTail</iconPath>
+		<displayOrderInCategory>10</displayOrderInCategory>
+        <graphicData>
+            <graphicPath>Things/Pawn/Humanlike/AFUBodyAttachments/DeerTail/DeerTailA</graphicPath>
+            <colorType>Hair</colorType>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>true</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>((0, 0.2, -0.04))</male>
+                    <female>(0, 0.2, 0.03)</female>
+                    <hulk>(0, 0.2, -0.06999999)</hulk>
+                    <fat>(0, 0.2, 0)</fat>
+                    <thin>(0, 0.2, 0.11)</thin>
+                    <baby>(0.02, 0.2, -0.08999999)</baby>
+                    <child>(0, 0.2, 0.02)</child>
+					<femaleBB>(0, 0.2, 0.03)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(0.08999999,0.02, -0.04)</male>
+                    <female>(0.11, 0.02, 0.06999999)</female>
+                    <hulk>(-0.02, 0.02, -0.02)</hulk>
+                    <fat>(-0.08999999, 0.02, 0)</fat>
+                    <thin>(0.16, 0.02, 0.07999999)</thin>
+                    <baby>(0.03, 0.02, 0)</baby>
+                    <child>(0.08, 0.02, 0.02)</child>
+					<femaleBB>(0, 0.02, 0)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_CatTail</defName>
+        <label>Cat tail</label>
+        <description>Carriers of this gene grow cat-like tails.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_CatTail</iconPath>
+		<displayOrderInCategory>20</displayOrderInCategory>
+        <graphicData>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUBodyAttachments/CatTail/CatTailA</li>
+                <li>Things/Pawn/Humanlike/AFUBodyAttachments/CatTail/CatTailB</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/CatTail/CatTailC</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/CatTail/CatTailD</li>
+            </graphicPaths>
+            <colorType>Hair</colorType>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>true</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>((0, 0.2, -0.14))</male>
+                    <female>(0, 0.2, -0.04)</female>
+                    <hulk>(0, 0.2, -0.17)</hulk>
+                    <fat>(0, 0.2, -0.09999999)</fat>
+                    <thin>(0, 0.2, -0.01)</thin>
+                    <baby>(0, 0.2, -0.16)</baby>
+                    <child>(0, 0.2, -0.07)</child>
+					<femaleBB>(0, 0.2, -0.06)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(0.02,0.02, -0.09999999)</male>
+                    <female>(0.04, 0.02, 0.02)</female>
+                    <hulk>(-0.06999999, 0.02, -0.05)</hulk>
+                    <fat>(-0.14,0.02, -0.04)</fat>
+                    <thin>(0.03, 0.02, 0.03)</thin>
+                    <baby>(-0.03, 0.02, -0.03)</baby>
+                    <child>(0.02, 0.02, 0.02)</child>
+					<femaleBB>(-0.03,0.02, -0.03)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_FoxTail</defName>
+        <label>Fox tail</label>
+        <description>Carriers of this gene grow fox-like tails.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_FoxTail</iconPath>
+		<displayOrderInCategory>25</displayOrderInCategory>
+        <graphicData>
+            <graphicPaths>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/FoxTail/FoxTailA</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/FoxTail/FoxTailB</li>
+			</graphicPaths>
+            <colorType>Hair</colorType>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>false</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>((0, 0.2, -0.04))</male>
+                    <female>(0, 0.2, 0.05)</female>
+                    <hulk>(0, 0.2, -0.07999999)</hulk>
+                    <fat>(0, 0.2, 0.04)</fat>
+                    <thin>(0, 0.2, 0.04)</thin>
+                    <baby>(0, 0.2, -0.06999999)</baby>
+                    <child>(0, 0.2, 0)</child>
+					<femaleBB>(0, 0.2, 0)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(0.05, 0.02, -0.05999999)</male>
+                    <female>(0.07999999, 0.02, 0.07999999)</female>
+                    <hulk>(-0.06999999, 0.02, -0.05)</hulk>
+                    <fat>(-0.07999999, 0.02, 0.05999999)</fat>
+                    <thin>(0.05, 0.02, 0.06999999)</thin>
+                    <baby>(-0.01, 0.02, 0.01)</baby>
+                    <child>(0.05, 0.02, 0.07)</child>
+					<femaleBB>(-0.01, 0.02, 0)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_FluffyFoxTail</defName>
+        <label>Fluffy fox tail</label>
+        <description>Carriers of this gene grow large, fluffy fox-like tails that provides warm in cold wind.</description>
+        <biostatCpx>1</biostatCpx>
+        <biostatMet>-1</biostatMet>
+        <statOffsets>
+            <ComfyTemperatureMin>-5</ComfyTemperatureMin>
+        </statOffsets>
+        <iconPath>UI/Icons/AFUGenes/Gene_FluffyFoxTail</iconPath>
+		<displayOrderInCategory>26</displayOrderInCategory>
+        <graphicData>
+            <graphicPaths>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/FluffyFoxTail/FluffyFoxTailA</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/FluffyFoxTail/FluffyFoxTailB</li>
+			</graphicPaths>
+            <colorType>Hair</colorType>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>true</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>((0, 0.2, 0.08999999))</male>
+                    <female>(0, 0.2, 0.17)</female>
+                    <hulk>(0, 0.2, -0.01)</hulk>
+                    <fat>(0, 0.2, 0.05)</fat>
+                    <thin>(0, 0.2, 0.22)</thin>
+                    <baby>(0, 0.2, -0.03)</baby>
+                    <child>(0, 0.2, 0.11)</child>
+					<femaleBB>(0, 0.2, 0.09)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(-0.27, 0.02, -0.01)</male>
+                    <female>(-0.23, 0.02, 0.11)</female>
+                    <hulk>(-0.3899999, 0.02, 0.03)</hulk>
+                    <fat>(-0.3399999, 0.02, 0.01)</fat>
+                    <thin>(-0.4199999, 0.02, 0.12)</thin>
+                    <baby>(0, 0.02, 0.02)</baby>
+                    <child>(-0.29, 0.02, 0.05)</child>
+					<femaleBB>(-0.35, 0.02, 0)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_SmoothLizardTail</defName>
+        <label>Smooth lizard tail</label>
+        <description>Carriers of this gene grow fat, slimy tails, and enemy weapons are easily slid away by the slime on their tails.</description>
+        <biostatCpx>1</biostatCpx>
+        <biostatMet>-1</biostatMet>
+        <statOffsets>
+            <!-- TODO Check THIS! -->
+            <MeleeDodgeChance>3</MeleeDodgeChance>
+        </statOffsets>
+        <iconPath>UI/Icons/AFUGenes/Gene_SmoothLizardTail</iconPath>
+		<displayOrderInCategory>40</displayOrderInCategory>
+        <graphicData>
+		    <drawScale>1.5</drawScale>
+            <colorType>Skin</colorType>
+            <graphicPaths>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/SmoothLizardTail/SmoothLizardTailA</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/SmoothLizardTail/SmoothLizardTailB</li>
+			</graphicPaths>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>false</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>((0, 0.2, -0.04))</male>
+                    <female>(0, 0.2, 0.03)</female>
+                    <hulk>(0, 0.2, -0.05)</hulk>
+                    <fat>(0, 0.2, 0)</fat>
+                    <thin>(0, 0.2, 0.02)</thin>
+                    <baby>(0,0.2,0)</baby>
+                    <child>(0, 0.2, 0.09)</child>
+					<femaleBB>(0, 0.2, 0)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(0.05999999, 0.02, -0.08999999)</male>
+                    <female>(0.08999999, 0.02, 0.06999999)</female>
+                    <hulk>(-0.01, 0.02, 0.01)</hulk>
+                    <fat>(-0.04, 0.02, 0.09999999)</fat>
+                    <thin>(0.03, 0.02, 0.02)</thin>
+                    <baby>(0.02,0.02,0.1)</baby>
+                    <child>(0.07, 0.02, 0.13)</child>
+					<femaleBB>(0.01, 0.02, 0)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_SpikedLizardTail</defName>
+        <label>Spiked lizard tail</label>
+        <description>Carriers of this gene grow spiked lizard-like tails.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_SpikedLizardTail</iconPath>
+		<displayOrderInCategory>45</displayOrderInCategory>
+        <graphicData>
+            <colorType>Skin</colorType>
+            <graphicPaths>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/SpikedLizardTail/SpikedLizardTailA</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/SpikedLizardTail/SpikedLizardTailB</li>
+			</graphicPaths>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>true</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>((0, 0.2, -0.08999999))</male>
+                    <female>(0, 0.2, 0)</female>
+                    <hulk>(0, 0.2, -0.09999999)</hulk>
+                    <fat>(0, 0.2, -0.04)</fat>
+                    <thin>(0, 0.2, 0.03)</thin>
+                    <baby>(0,0.2,-0.1)</baby>
+                    <child>(0, 0.2, 0)</child>
+					<femaleBB>(0, 0.2, -0.01)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(-0.16, 0.02, -0.11)</male>
+                    <female>(-0.15, 0.02, 0.03)</female>
+                    <hulk>(-0.29, 0.02, -0.05999999)</hulk>
+                    <fat>(-0.27, 0.02, -0.02)</fat>
+                    <thin>(-0.29, 0.02, 0.03)</thin>
+                    <baby>(-0.23,0.02,0.03)</baby>
+                    <child>(-0.18, 0.02, 0.08)</child>
+					<femaleBB>(-0.26, 0.02, -0.06)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_SnakeTail</defName>
+        <label>Snake tail</label>
+        <description>Carriers of this gene grow snake-like tails.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_SnakeTail</iconPath>
+		<displayOrderInCategory>46</displayOrderInCategory>
+        <graphicData>
+            <colorType>Skin</colorType>
+            <graphicPaths>
+			<li>Things/Pawn/Humanlike/AFUBodyAttachments/SnakeTail/SnakeTailA</li>
+			<li>Things/Pawn/Humanlike/AFUBodyAttachments/SnakeTail/SnakeTailB</li>
+			</graphicPaths>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>true</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>((0, 0.2, -0.08999999))</male>
+                    <female>(0, 0.2, 0)</female>
+                    <hulk>(0, 0.2, -0.09999999)</hulk>
+                    <fat>(0, 0.2, -0.04)</fat>
+                    <thin>(0, 0.2, 0.03)</thin>
+                    <baby>(0,0.2,-0.1)</baby>
+                    <child>(0, 0.2, 0)</child>
+					<femaleBB>(0, 0.2, -0.01)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(-0.18, 0.02, -0.08999999)</male>
+                    <female>(-0.15, 0.02, 0.03)</female>
+                    <hulk>(-0.29, 0.02, -0.05)</hulk>
+                    <fat>(-0.27, 0.02, -0.02)</fat>
+                    <thin>(-0.29, 0.02, 0.03)</thin>
+                    <baby>(-0.23,0.02,0.03)</baby>
+                    <child>(-0.18, 0.02, 0.08)</child>
+					<femaleBB>(-0.26, 0.02, -0.06)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_DevilTail</defName>
+        <label>Devil tail</label>
+        <description>Carriers of this gene grow devil tails.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_DevilTail</iconPath>
+		<displayOrderInCategory>60</displayOrderInCategory>
+        <graphicData>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUBodyAttachments/DevilTail/DevilTailA</li>
+                <li>Things/Pawn/Humanlike/AFUBodyAttachments/DevilTail/DevilTailB</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/DevilTail/DevilTailC</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/DevilTail/DevilTailD</li>
+            </graphicPaths>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>true</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>((0, 0.2, -0.04))</male>
+                    <female>(0, 0.2, 0.03)</female>
+                    <hulk>(0, 0.2, -0.09999999)</hulk>
+                    <fat>(0, 0.2, 0)</fat>
+                    <thin>(0, 0.2, 0.07999999)</thin>
+                    <baby>(0, 0.2, -0.17)</baby>
+                    <child>(0, 0.2, -0.01)</child>
+					<femaleBB>(0, 0.2, 0)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(0.05999999, 0.02, -0.05)</male>
+                    <female>(0.06999999, 0.02, 0.07999999)</female>
+                    <hulk>(-0.05999999, 0.02, -0.01)</hulk>
+                    <fat>(-0.12, 0.02, 0)</fat>
+                    <thin>(0.08999999, 0.02, 0.06999999)</thin>
+                    <baby>(-0.01, 0.02, -0.01)</baby>
+                    <child>(0.04, 0.02, 0.03)</child>
+					<femaleBB>(-0.02, 0.02, 0)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_PigTail</defName>
+        <label>Pig tail</label>
+        <description>Carriers of this gene grow pig tails.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_PigTail</iconPath>
+		<displayOrderInCategory>11</displayOrderInCategory>
+        <graphicData>
+			<colorType>Skin</colorType>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUBodyAttachments/PigTail/PigTailA</li>
+                <li>Things/Pawn/Humanlike/AFUBodyAttachments/PigTail/PigTailB</li>
+            </graphicPaths>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>true</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>(0, 0.2, -0.07999999)</male>
+                    <female>(0, 0.2, 0.02)</female>
+                    <hulk>(0, 0.2, -0.11)</hulk>
+                    <fat>(0, 0.2, 0)</fat>
+                    <thin>(0, 0.2, 0.06999999)</thin>
+                    <baby>(0, 0.2, -0.17)</baby>
+                    <child>(0, 0.2, -0.02)</child>
+					<femaleBB>(0, 0.2, -0.01)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(0.06999999, 0.02, -0.05)</male>
+                    <female>(0.07999999, 0.02, 0.05999999)</female>
+                    <hulk>(-0.04, 0.02, -0.01)</hulk>
+                    <fat>(-0.11, 0.02, 0)</fat>
+                    <thin>(0.12, 0.02, 0.06999999)</thin>
+                    <baby>(0.015,0.02, 0.025)</baby>
+                    <child>(0.05, 0.02, 0.03)</child>
+					<femaleBB>(0, 0.02, 0)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_NineTailedFox</defName>
+        <label>NineTailedFox tail</label>
+        <description>Carriers of this gene grow more fox-like tails as their ages grow.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_NineTailedFox</iconPath>
+	    <biostatCpx>9</biostatCpx>
+		<biostatMet>9</biostatMet>
+		<biostatArc>2</biostatArc><!-- TODO Check THIS! -->
+		<displayOrderInCategory>101</displayOrderInCategory>
+        <graphicData>
+			<drawScale>1.5</drawScale>
+			<colorType>Hair</colorType>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUBodyAttachments/NineTailedFox/NineTailedFoxOneA</li>
+            </graphicPaths>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.GraphicsWithAge">
+                <ages>
+                    <li>0</li>
+                    <li>7</li>
+                    <li>12</li>
+                    <li>19</li>
+                    <li>25</li>
+                </ages>
+                <graphicPaths>
+                    <li>Things/Pawn/Humanlike/AFUBodyAttachments/NineTailedFox/NineTailedFoxOneA</li>
+                    <li>Things/Pawn/Humanlike/AFUBodyAttachments/NineTailedFox/NineTailedFoxThreeA</li>
+                    <li>Things/Pawn/Humanlike/AFUBodyAttachments/NineTailedFox/NineTailedFoxFiveA</li>
+                    <li>Things/Pawn/Humanlike/AFUBodyAttachments/NineTailedFox/NineTailedFoxSevenA</li>
+                    <li>Things/Pawn/Humanlike/AFUBodyAttachments/NineTailedFox/NineTailedFoxNineA</li>
+                </graphicPaths>
+            </li>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>true</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>((0, 0.2, -0.12))</male>
+                    <female>(0, 0.2, -0.02)</female>
+                    <hulk>(0, 0.2, -0.17)</hulk>
+                    <fat>(0, 0.2, -0.07999999)</fat>
+                    <thin>(0, 0.2, 0.01)</thin>
+                    <baby>(0, 0.2, -0.12)</baby>
+                    <child>(0, 0.2, -0.04)</child>
+					<femaleBB>(0, 0.2, 0))</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(-0.24, 0.02, -0.13)</male>
+                    <female>(-0.23, 0.02, 0)</female>
+                    <hulk>(-0.3599999, 0.02, -0.05999999)</hulk>
+                    <fat>(-0.32, 0.02, -0.05999999)</fat>
+                    <thin>(-0.3899999, 0.02, 0.02)</thin>
+                    <baby>(-0.31, 0.02, -0.05)</baby>
+                    <child>(-0.26, 0.02, 0.01)</child>
+					<femaleBB>(-0.27, 0.02, 0)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+    <GeneDef ParentName = "AFU_BodyAttachmentGeneBase">
+        <defName>AFU_BA_RatTail</defName>
+        <label>Rat tail</label>
+        <description>Carriers of this gene grow rat tails.</description>
+        <iconPath>UI/Icons/AFUGenes/Gene_RatTail</iconPath>
+		<displayOrderInCategory>6</displayOrderInCategory>
+        <graphicData>
+			<colorType>Skin</colorType>
+            <graphicPaths>
+                <li>Things/Pawn/Humanlike/AFUBodyAttachments/RatTail/RatTailA</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/RatTail/RatTailB</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/RatTail/RatTailC</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/RatTail/RatTailD</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/RatTail/RatTailE</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/RatTail/RatTailF</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/RatTail/RatTailG</li>
+				<li>Things/Pawn/Humanlike/AFUBodyAttachments/RatTail/RatTailH</li>
+            </graphicPaths>
+        </graphicData>
+        <modExtensions>
+            <li Class="BetterGeneGraphicsFramework.BetterTailRendering">
+                <disableBodyTypeScaleForAdult>true</disableBodyTypeScaleForAdult>
+                <bodyTypeOffsetNorth>
+                    <male>(0, 0.2, -0.11)</male>
+                    <female>(0, 0.2, -0.02)</female>
+                    <hulk>(0, 0.2, -0.18)</hulk>
+                    <fat>(0, 0.2, -0.07)</fat>
+                    <thin>(0, 0.2, -0.02)</thin>
+                    <baby>(0, 0.2, -0.15)</baby>
+                    <child>(0, 0.2, -0.11)</child>
+					<femaleBB>(-0.02, 0.2, -0.08)</femaleBB>
+                </bodyTypeOffsetNorth>
+                <bodyTypeOffsetSouth>
+                    <male>(0,0,0)</male>
+                    <female>(0,0,0)</female>
+                    <hulk>(0,0,0)</hulk>
+                    <fat>(0,0,0)</fat>
+                    <thin>(0,0,0)</thin>
+                    <baby>(0,0,0)</baby>
+                    <child>(0,0,0)</child>
+                </bodyTypeOffsetSouth>
+                <bodyTypeOffsetEast>
+                    <male>(-0.01, 0.02, -0.07)</male>
+                    <female>(0.01, 0.02, 0.04)</female>
+                    <hulk>(-0.14, 0.02, -0.07)</hulk>
+                    <fat>(-0.17, 0.02, -0.06)</fat>
+                    <thin>(-0.01, 0.02, 0.04)</thin>
+                    <baby>(-0.09, 0.02, -0.06)</baby>
+                    <child>(-0.03, 0.02, -0.02)</child>
+					<femaleBB>(-0.06, 0.02, 0)</femaleBB>
+                </bodyTypeOffsetEast>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+</Defs>

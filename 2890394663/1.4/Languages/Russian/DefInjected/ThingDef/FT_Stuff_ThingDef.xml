@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/FT_Stuff.xml-->
+                    <!-- concrete -->
+<FT_BlocksConcrete.label>бетон</FT_BlocksConcrete.label>
+                          <!-- packs of concrete dust. Concrete is a strong building material but ugly to look at. -->
+<FT_BlocksConcrete.description>пачки бетонной пыли. Бетон - это прочный строительный материал, но некрасивый на вид.</FT_BlocksConcrete.description>
+                           <!-- reinforced concrete -->
+<FT_ReinforcedConcreteBag.label>железобетон</FT_ReinforcedConcreteBag.label>
+                                 <!-- bags of solid concrete powder with steel bars. Concrete is a strong building material but ugly to look at. -->
+<FT_ReinforcedConcreteBag.description>мешки с твердым бетонным порошком со стальными стержнями. Бетон - это прочный строительный материал, но некрасивый на вид.</FT_ReinforcedConcreteBag.description>
+                  <!-- fiber concrete plank -->
+<FT_WoodConcrete.label>тканеваяробетонная доска</FT_WoodConcrete.label>
+                        <!-- a mixture of cloth and concrete made into plank-shaped, able to make things which wood can make, but even better because it is more durable and fire-proofed -->
+<FT_WoodConcrete.description>смесь ткани и бетона, сделанная в форме доски, способная делать вещи, которые может делать дерево, но даже лучше, потому что она более прочная и пожаробезопасная</FT_WoodConcrete.description>
+                        <!-- Packed Concrete -->
+<FT_ConcreteCompressed.label>Упакованный бетон</FT_ConcreteCompressed.label>
+                              <!-- Bags of solid concrete dust.they are packed-ready for storage or trade. -->
+<FT_ConcreteCompressed.description>Мешки с твердой бетонной пылью.Они упакованы - готовы для хранения или торговли.</FT_ConcreteCompressed.description>
+
+</LanguageData>

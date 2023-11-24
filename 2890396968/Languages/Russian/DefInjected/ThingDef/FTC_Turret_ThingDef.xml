@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Things/FTC_Turret.xml-->
+                      <!-- multi-railed rocket Launcher -->
+<FTC_Katyusha_Turret.label>многозарядная ракетная установка</FTC_Katyusha_Turret.label>
+                            <!-- A manned stationary rocket launcher with eight rails, each of which can attach 2 rockets, can shoot sixteen shells at one time, however, it's far from accurate and consumes a huge amount of chemfuel each time it fires. -->
+<FTC_Katyusha_Turret.description>Пилотируемая стационарная ракетная установка с восемью рельсами, на каждой из которых можно закрепить 2 ракеты, может выстрелить шестнадцатью снарядами за один раз, однако она далеко не точна и потребляет огромное количество химического топлива при каждом выстреле.</FTC_Katyusha_Turret.description>
+                                                <!-- Shots until no propellant -->
+<FTC_Katyusha_Turret.comps.Comp_Refuelable.fuelLabel>Выстрелы до отсутствия ракет</FTC_Katyusha_Turret.comps.Comp_Refuelable.fuelLabel>
+                                                     <!-- propellant amount -->
+<FTC_Katyusha_Turret.comps.Comp_Refuelable.fuelGizmoLabel>количество ракет</FTC_Katyusha_Turret.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                       <!-- Cannot shoot: Needs more propellant -->
+<FTC_Katyusha_Turret.comps.Comp_Refuelable.outOfFuelMessage>Невозможно стрелять: нужно больше ракет.</FTC_Katyusha_Turret.comps.Comp_Refuelable.outOfFuelMessage>
+                   <!-- multi-railed rocket -->
+<FTC_Katyusha_Gun.label>многозарядная ракета</FTC_Katyusha_Gun.label>
+                         <!-- A railed rocket launcher. Lobs rocket shells over walls. Very inaccurate but mass-amount. -->
+<FTC_Katyusha_Gun.description>Рельсовая ракетная установка. Обстреливает стены ракетами. Очень неточно, но массово.</FTC_Katyusha_Gun.description>
+                    <!-- machinegun turret -->
+<FTC_TwinMG_Turret.label>пулеметная башня</FTC_TwinMG_Turret.label>
+                          <!-- a fixed machine gun turret mounting on a half-buried concrete box. n
+ As a turret fortification, the gunner could operate the weapon internally until it was destroyed, but could not receive direct orders.
+
+ This is a permanent structure, site wisely. -->
+<FTC_TwinMG_Turret.description>стационарная пулеметная турель, установленная на полузакопанном бетонном фундаменте. n\n В качестве укрепления башни наводчик мог управлять орудием изнутри до его уничтожения, но не мог получать прямые приказы.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_TwinMG_Turret.description>
+                                              <!-- Shots until barrel change -->
+<FTC_TwinMG_Turret.comps.Comp_Refuelable.fuelLabel>Выстрелы до смены ствола</FTC_TwinMG_Turret.comps.Comp_Refuelable.fuelLabel>
+                                                   <!-- Barrel durability -->
+<FTC_TwinMG_Turret.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FTC_TwinMG_Turret.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                     <!-- Cannot shoot: Out of ammo -->
+<FTC_TwinMG_Turret.comps.Comp_Refuelable.outOfFuelMessage>Не могу стрелять: нет патронов</FTC_TwinMG_Turret.comps.Comp_Refuelable.outOfFuelMessage>
+                 <!-- machine gun turret -->
+<FTC_TwinMG_Gun.label>пулемётная турель</FTC_TwinMG_Gun.label>
+                       <!-- Twin machine gun mounted on an armoured turret. -->
+<FTC_TwinMG_Gun.description>Сдвоенный пулемет установлен на бронированной башне.</FTC_TwinMG_Gun.description>
+                        <!-- autocannon turret -->
+<FTC_Autocannon_Turret.label>автопушка</FTC_Autocannon_Turret.label>
+                              <!-- a fixed autocannon gun turret mounting on a half-buried concrete box. n
+ As a turret fortification, the gunner could operate the weapon internally until it was destroyed, but could not receive direct orders.
+
+ This is a permanent structure, site wisely. -->
+<FTC_Autocannon_Turret.description>стационарная башня с автопушкой, установленная на полузакопанном бетонном фундаменте. n\n В качестве укрепления башни наводчик мог управлять орудием изнутри до его уничтожения, но не мог получать прямые приказы.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_Autocannon_Turret.description>
+                                                  <!-- Shots until barrel change -->
+<FTC_Autocannon_Turret.comps.Comp_Refuelable.fuelLabel>Выстрелы до смены ствола</FTC_Autocannon_Turret.comps.Comp_Refuelable.fuelLabel>
+                                                       <!-- Barrel durability -->
+<FTC_Autocannon_Turret.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FTC_Autocannon_Turret.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                         <!-- Cannot shoot: Needs new barrels -->
+<FTC_Autocannon_Turret.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: нужны новые стволы</FTC_Autocannon_Turret.comps.Comp_Refuelable.outOfFuelMessage>
+                     <!-- autocannon turret -->
+<FTC_Autocannon_Gun.label>автопушка</FTC_Autocannon_Gun.label>
+                           <!-- an autocannon mounted on an armoured turret. -->
+<FTC_Autocannon_Gun.description>автопушка, установленная на бронированной башне.</FTC_Autocannon_Gun.description>
+
+
+<!--/Defs/Things/FTC_Turret.xml-->
+<!-- multi-railed rocket Launcher -->
+<FTC_Katyusha_Turret.label>многозарядная ракетная установка</FTC_Katyusha_Turret.label>
+<!-- A manned stationary rocket launcher with eight rails, each of which can attach 2 rockets, can shoot sixteen shells at one time, however, it's far from accurate and consumes a huge amount of chemfuel each time it fires. -->
+<FTC_Katyusha_Turret.description>Пилотируемая стационарная ракетная установка с восемью рельсами, на каждой из которых можно закрепить 2 ракеты, может выстрелить шестнадцатью снарядами за один раз, однако она далеко не точна и потребляет огромное количество химического топлива при каждом выстреле.</FTC_Katyusha_Turret.description>
+<!-- Shots until no propellant -->
+<FTC_Katyusha_Turret.comps.Comp_Refuelable.fuelLabel>Выстрелы до отсутствия ракет</FTC_Katyusha_Turret.comps.Comp_Refuelable.fuelLabel>
+<!-- propellant amount -->
+<FTC_Katyusha_Turret.comps.Comp_Refuelable.fuelGizmoLabel>количество ракет</FTC_Katyusha_Turret.comps.Comp_Refuelable.fuelGizmoLabel>
+<!-- Cannot shoot: Needs more propellant -->
+<FTC_Katyusha_Turret.comps.Comp_Refuelable.outOfFuelMessage>Невозможно стрелять: нужно больше ракет.</FTC_Katyusha_Turret.comps.Comp_Refuelable.outOfFuelMessage>
+<!-- multi-railed rocket -->
+<FTC_Katyusha_Gun.label>многозарядная ракета</FTC_Katyusha_Gun.label>
+<!-- A railed rocket launcher. Lobs rocket shells over walls. Very inaccurate but mass-amount. -->
+<FTC_Katyusha_Gun.description>Рельсовая ракетная установка. Обстреливает стены ракетами. Очень неточно, но массово.</FTC_Katyusha_Gun.description>
+<!-- machinegun turret -->
+<FTC_TwinMG_Turret.label>пулеметная башня</FTC_TwinMG_Turret.label>
+<!-- a fixed machine gun turret mounting on a half-buried concrete box. n
+ As a turret fortification, the gunner could operate the weapon internally until it was destroyed, but could not receive direct orders.
+
+ This is a permanent structure, site wisely. -->
+<FTC_TwinMG_Turret.description>стационарная пулеметная турель, установленная на полузакопанном бетонном фундаменте. n\n В качестве укрепления башни наводчик мог управлять орудием изнутри до его уничтожения, но не мог получать прямые приказы.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_TwinMG_Turret.description>
+<!-- Shots until barrel change -->
+<FTC_TwinMG_Turret.comps.Comp_Refuelable.fuelLabel>Выстрелы до смены ствола</FTC_TwinMG_Turret.comps.Comp_Refuelable.fuelLabel>
+<!-- Barrel durability -->
+<FTC_TwinMG_Turret.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FTC_TwinMG_Turret.comps.Comp_Refuelable.fuelGizmoLabel>
+<!-- Cannot shoot: Out of ammo -->
+<FTC_TwinMG_Turret.comps.Comp_Refuelable.outOfFuelMessage>Не могу стрелять: нет патронов</FTC_TwinMG_Turret.comps.Comp_Refuelable.outOfFuelMessage>
+<!-- machine gun turret -->
+<FTC_TwinMG_Gun.label>пулемётная турель</FTC_TwinMG_Gun.label>
+<!-- Twin machine gun mounted on an armoured turret. -->
+<FTC_TwinMG_Gun.description>Сдвоенный пулемет установлен на бронированной башне.</FTC_TwinMG_Gun.description>
+<!-- autocannon turret -->
+<FTC_Autocannon_Turret.label>автопушка</FTC_Autocannon_Turret.label>
+<!-- a fixed autocannon gun turret mounting on a half-buried concrete box. n
+ As a turret fortification, the gunner could operate the weapon internally until it was destroyed, but could not receive direct orders.
+
+ This is a permanent structure, site wisely. -->
+<FTC_Autocannon_Turret.description>стационарная башня с автопушкой, установленная на полузакопанном бетонном фундаменте. n\n В качестве укрепления башни наводчик мог управлять орудием изнутри до его уничтожения, но не мог получать прямые приказы.\n\n Это постоянное сооружение, размещайте его с умом..</FTC_Autocannon_Turret.description>
+<!-- Shots until barrel change -->
+<FTC_Autocannon_Turret.comps.Comp_Refuelable.fuelLabel>Выстрелы до смены ствола</FTC_Autocannon_Turret.comps.Comp_Refuelable.fuelLabel>
+<!-- Barrel durability -->
+<FTC_Autocannon_Turret.comps.Comp_Refuelable.fuelGizmoLabel>Прочность ствола</FTC_Autocannon_Turret.comps.Comp_Refuelable.fuelGizmoLabel>
+<!-- Cannot shoot: Needs new barrels -->
+<FTC_Autocannon_Turret.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: нужны новые стволы</FTC_Autocannon_Turret.comps.Comp_Refuelable.outOfFuelMessage>
+<!-- autocannon turret -->
+<FTC_Autocannon_Gun.label>автопушка</FTC_Autocannon_Gun.label>
+<!-- an autocannon mounted on an armoured turret. -->
+<FTC_Autocannon_Gun.description>автопушка, установленная на бронированной башне.</FTC_Autocannon_Gun.description>
+
+</LanguageData>

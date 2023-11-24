@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AP_OutsideMapBounds>Prefab can't be built, it falls outside the map's bounds.</AP_OutsideMapBounds>
+	<AP_OccupiedBy>Prefab can't be built. {0} is blocking construction.</AP_OccupiedBy>
+	<AP_ImpassableTerrain>Prefab can't be built. Impassable terrain, "{0}" is blocking construction.</AP_ImpassableTerrain>
+	<AP_GeyserAt>Prefab can't be built over a steam geyser</AP_GeyserAt>
+	<AP_ImpassableTerrainDeploy>Can't deploy prefab on impassable terrain: "{0}"</AP_ImpassableTerrainDeploy>
+	<AP_GoBack>Go back</AP_GoBack>
+	<AP_NeedsDeployment>This prefab needs to be deployed by a colonist</AP_NeedsDeployment>
+	<AP_WillTurnInto>Structure that will be built: {0}</AP_WillTurnInto>
+	<AP_ChoosePrefabCategory>Select prefab category:</AP_ChoosePrefabCategory>
+	<AP_PrefabSearch>Search</AP_PrefabSearch>
+	<AP_PrefabFixedPrice>Prefab price: fixed value</AP_PrefabFixedPrice>
+	<AP_OrderNow>Order now</AP_OrderNow>
+	<AP_OrderNowWithVariation>Order now with...</AP_OrderNowWithVariation>
+	<AP_VariantLayout>Variant layout: {0}</AP_VariantLayout>
+	<AP_Silver>silver</AP_Silver>
+	<AP_Author>Prefab designed by: {0}</AP_Author>
+	<AP_ResearchNeeded>Research needed: {0}</AP_ResearchNeeded>
+	<AP_NoResearchNeeded>No research needed</AP_NoResearchNeeded>
+	<AP_ModsNeeded>Mods needed: {0}</AP_ModsNeeded>
+	<AP_NoModsNeeded>No mods or DLC needed</AP_NoModsNeeded>
+	<AP_PrefabDimensions>Prefab dimensions: {0} x {1} tiles</AP_PrefabDimensions>
+	<AP_SuggestedMods>Suggested mods (not essential to have): {0}</AP_SuggestedMods>
+	<AP_ResearchNotFinished>Research "{0}" needs to be finished before being able to buy this prefab</AP_ResearchNotFinished>
+	<AP_NotAllModsPresent>This prefab is lacking one or more mods needed to buy it</AP_NotAllModsPresent>
+	<AP_NotEnoughMoney>Not enough silver. You need at least {0} silver around valid trade beacons to buy this prefab</AP_NotEnoughMoney>
+	<AP_ModNotFound>{0} (not installed)</AP_ModNotFound>
+	<!-- Dev mode -->
+	<AP_TotalPrefabValue>Total prefab value estimated at {0} simoleons</AP_TotalPrefabValue>
+	<AP_PrefabLockingResearches>This prefab requires the following researches: {0}</AP_PrefabLockingResearches>
+	<AP_PrefabMods>This prefab requires the following mods: {0}</AP_PrefabMods>
+	<!-- Gizmos -->
+	<AP_BuildPrefab>Build prefab</AP_BuildPrefab>
+	<AP_BuildPrefabDesc>Build the prefab structure contained inside this builder. The prefab won't be built if there are already buildings or impassable terrain in the indicated area.</AP_BuildPrefabDesc>
+	<AP_UndeployPrefab>Undeploy prefab</AP_UndeployPrefab>
+	<AP_UndeployPrefabDesc>Cancels prefab deployment, transforming the prefab builder into an item that can be again moved.</AP_UndeployPrefabDesc>
+	<AP_OpenPrefabCatalog>Open prefab catalog</AP_OpenPrefabCatalog>
+	<AP_OpenPrefabCatalogDesc>Open a catalog to browse all available prefabs. To buy prefabs you'll need a trading beacon with silver on its effect radius.</AP_OpenPrefabCatalogDesc>
+	<!-- Mod Options -->
+	<AP_DevMode>Dev mode (requires game restart)</AP_DevMode>
+	<AP_DevModeDescription>Dev mode will allow you to build certain structures that are useful to create your own prefabs. As a player this won't do much for you. Requires a game restart.</AP_DevModeDescription>
+	<AP_NoSilverMode>No silver cost mode</AP_NoSilverMode>
+	<AP_NoSilverModeDescription>With this mode prefabs can be acquired on the catalog without paying for them. Intended for basebuilding and creative playthroughs.</AP_NoSilverModeDescription>
+	<AP_NoResearchLockingMode>No research locking mode</AP_NoResearchLockingMode>
+	<AP_NoResearchLockingModeDescription>With this mode prefabs can be acquired on the catalog even if the player doesn't have the required research projects finished. Not intended for a normal playthrough as it will get players access to non-researched items.</AP_NoResearchLockingModeDescription>
+	<AP_NoPrefabCatalog>No prefab catalog building mode (requires game restart)</AP_NoPrefabCatalog>
+	<AP_NoPrefabCatalogDescription>With this mode the prefab choosing dialog will be accessed via a designator in the Furniture architect menu, instead of having access to a prefab catalog building on the Misc architect menu.</AP_NoPrefabCatalogDescription>
+	<AP_NoModLockingMode>No mod locking mode</AP_NoModLockingMode>
+	<AP_NoModLockingModeDescription>With this mode active prefabs will still show up on the catalog even if the player doesn't have the required mods. Bear in mind that prefabs using mods you don't have will still be built, only lacking that mod's objects.</AP_NoModLockingModeDescription>
+	<AP_HideSilly>Hide "Silly" category</AP_HideSilly>
+	<AP_HideSillyDescription>On second thought, let's not go to Camelot. It is a silly place. Removes the "Silly" category, both from the prefab catalog and from appearing on traders, quest rewards, etc.</AP_HideSillyDescription>
+	<AP_CostMultiplier>Prefab cost multiplier</AP_CostMultiplier>
+	<AP_CostMultiplierDesc>By default, prefabs can be bought for 60% or the price of all the materials of their components. With this you can make them cheaper or more expensive to fit your needs.</AP_CostMultiplierDesc>
+	<AP_Reset>Reset</AP_Reset>
+	
+</LanguageData>

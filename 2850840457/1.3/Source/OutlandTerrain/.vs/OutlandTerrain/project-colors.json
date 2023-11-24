@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76d0e298-f0a0-46ab-8825-df959682ad01": {
+      "ProjectGuid": "76d0e298-f0a0-46ab-8825-df959682ad01",
+      "DisplayName": "OutlandTerrain",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

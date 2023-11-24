@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mining Utility Arm -->
+
+  <ATR_Install_MiningArm.label>установить роборуку-бур</ATR_Install_MiningArm.label>
+  <ATR_Install_MiningArm.description>Установить роборуку-бур.</ATR_Install_MiningArm.description>
+  <ATR_Install_MiningArm.jobString>Устанавливает роборуку-бур.</ATR_Install_MiningArm.jobString>
+
+
+  <!-- Agriculture Utility Arm -->
+
+  <ATR_Install_AgriArm.label>установить роборуку-садовник</ATR_Install_AgriArm.label>
+  <ATR_Install_AgriArm.description>Установить роборуку-садовник.</ATR_Install_AgriArm.description>
+  <ATR_Install_AgriArm.jobString>Устанавливает роборуку-садовник.</ATR_Install_AgriArm.jobString>
+
+
+  <!-- Pacification Utility Arm -->
+
+  <ATR_Install_PacificationArm.label>установить роборуку-усмиритель</ATR_Install_PacificationArm.label>
+  <ATR_Install_PacificationArm.description>Установить роборуку-усмиритель.</ATR_Install_PacificationArm.description>
+  <ATR_Install_PacificationArm.jobString>Устанавливает роборуку-усмиритель.</ATR_Install_PacificationArm.jobString>
+
+
+  <!-- Scalpel Utility Arm -->
+
+  <ATR_Install_ScalpelArm.label>установить роборуку-скальпель</ATR_Install_ScalpelArm.label>
+  <ATR_Install_ScalpelArm.description>Установить роборуку-скальпель.</ATR_Install_ScalpelArm.description>
+  <ATR_Install_ScalpelArm.jobString>Устанавливает роборуку-скальпель.</ATR_Install_ScalpelArm.jobString>
+
+
+  <!-- Rending Utility Arm -->
+
+  <ATR_Install_RendingArm.label>установить роборуку-палач</ATR_Install_RendingArm.label>
+  <ATR_Install_RendingArm.description>Установить роборуку-палач.</ATR_Install_RendingArm.description>
+  <ATR_Install_RendingArm.jobString>Устанавливает роборуку-палач.</ATR_Install_RendingArm.jobString>
+
+
+  <!-- Makeshift Leg -->
+
+  <ATR_Install_MakeshiftReplacementLeg.label>установить кустарную ногу</ATR_Install_MakeshiftReplacementLeg.label>
+  <ATR_Install_MakeshiftReplacementLeg.description>Установить кустарную ногу.</ATR_Install_MakeshiftReplacementLeg.description>
+  <ATR_Install_MakeshiftReplacementLeg.jobString>Устанавливает кустарную ногу.</ATR_Install_MakeshiftReplacementLeg.jobString>
+
+
+  <!-- Makeshift Arm -->
+
+  <ATR_Install_MakeshiftReplacementArm.label>установить кустарную руку</ATR_Install_MakeshiftReplacementArm.label>
+  <ATR_Install_MakeshiftReplacementArm.description>Установить кустарную руку.</ATR_Install_MakeshiftReplacementArm.description>
+  <ATR_Install_MakeshiftReplacementArm.jobString>Устанавливает кустарную руку.</ATR_Install_MakeshiftReplacementArm.jobString>
+
+
+  <!-- Voice Synthesizer -->
+  
+  <ATR_Install_AutomodulatedVoiceSynthesizer.label>установить автомодулированный голос</ATR_Install_AutomodulatedVoiceSynthesizer.label>
+  <ATR_Install_AutomodulatedVoiceSynthesizer.description>Установить автомодулированный голос.</ATR_Install_AutomodulatedVoiceSynthesizer.description>
+  <ATR_Install_AutomodulatedVoiceSynthesizer.jobString>Устанавливает автомодулированный голос.</ATR_Install_AutomodulatedVoiceSynthesizer.jobString>
+
+  <ATR_Install_CoerciveVoiceSynthesizer.label>установить подавительный голос</ATR_Install_CoerciveVoiceSynthesizer.label>
+  <ATR_Install_CoerciveVoiceSynthesizer.description>Установить подавительный голос.</ATR_Install_CoerciveVoiceSynthesizer.description>
+  <ATR_Install_CoerciveVoiceSynthesizer.jobString>Устанавливает подавительный голос.</ATR_Install_CoerciveVoiceSynthesizer.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndroidFactionGreetingHostileI>Зацикленное автоматическое сообщение, указывая на отсутствие интереса к общению в данный момент.</AndroidFactionGreetingHostileI>
+  <AndroidFactionGreetingHostileII>{0} подключается и начинает читать длинную речь против многочисленных недостатков вашей фракции. {0} требует от вас сделать жест «доброй воли», если мы хотим примирения с ними.</AndroidFactionGreetingHostileII>
+  <AndroidFactionGreetingHostileIII>Вас встречает долгая, наполненная статическим электричеством тишина.</AndroidFactionGreetingHostileIII>
+
+  <AndroidFactionGreetingWaryI>Глубокий механический голос {0} приветствует {NEGOTIATOR_labelShort}, и готов выслушать и рассмотреть любые предложения объективно и справедливо.</AndroidFactionGreetingWaryI>
+  <AndroidFactionGreetingWaryII>Автоматизированный ответ указывает, что {0} занят и что система автоматически перенаправит {NEGOTIATOR_labelShort}, когда появится время.</AndroidFactionGreetingWaryII>
+  <AndroidFactionGreetingWaryIII>{0} связывается с {NEGOTIATOR_labelShort}, заявляя, что сделал это очень осторожно и опасается за свою жизнь. {0} просит, чтобы переговоры продвигались быстро.</AndroidFactionGreetingWaryIII>
+
+  <AndroidFactionGreetingWarmI>{0} приветствует {NEGOTIATOR_labelShort} высоко оценивая вас, спрашивая, что можно сделать для взаимной выгоды и продвижения общего дела</AndroidFactionGreetingWarmI>
+  <AndroidFactionGreetingWarmII>{NEGOTIATOR_labelShort} встречает любезно сформулированное автоматическое сообщение. В нем указывается, что любой запрос будет иметь высокий приоритет, только после рассмотрении внутренних вопросов.</AndroidFactionGreetingWarmII>
+  <AndroidFactionGreetingWarmIII>{0} мгновенно соединяется и приветствует {NEGOTIATOR_labelShort}. {0} проявляет готовность выслушать любые предложения и с готовностью предлагает потенциальную помощь.</AndroidFactionGreetingWarmIII>
+
+</LanguageData>

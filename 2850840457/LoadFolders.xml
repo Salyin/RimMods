@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+	<v1.3>
+		<li>/</li>
+		<li>1.3</li>
+	</v1.3>
+	<v1.4>
+		<li>/</li>
+		<li>1.4</li>
+		<li IfModActive="Ludeon.RimWorld.Biotech">1.4/Mods/Biotech</li>
+		<li IfModActive="ReGrowth.BOTR.Core">1.4/Mods/ReGrowth</li>
+		<li IfModActive="Neronix17.Terraria">1.4/Mods/TerrariaBiomes</li>
+		<li IfModActive="Neronix17.Outland.Bloodgloom">1.4/Mods/Outland/Bloodgloom</li>
+	</v1.4>
+</loadFolders>

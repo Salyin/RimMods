@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>AFU Cosmetic Gene Expanded</name>
+	<author>金兔子拉面, telardo</author>
+	<packageId>JintuziLamian.Gene.XenoCosmetic</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+	    <li>
+			<packageId>telardo.BetterGeneGraphicsFramework</packageId>
+			<displayName>Better Gene Graphics Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2880940958</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>telardo.BetterGeneGraphicsFramework</li>
+	</loadAfter>
+	<description>Add 21 xeno cosmetic genes, replace 4 original textures./n 新增21个外观基因，替换4张原版基因贴图。</description>
+</ModMetaData>

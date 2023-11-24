@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_NewbootChildhood.title>Механический образец</ATR_NewbootChildhood.title>
+  <ATR_NewbootChildhood.titleShort>Андроид</ATR_NewbootChildhood.titleShort>
+  <ATR_NewbootChildhood.baseDesc>{PAWN_nameDef} впервые {PAWN_gender ? познал : познала} этот мир.</ATR_NewbootChildhood.baseDesc>
+
+  <ATR_MechanicalArchotechChildhood.title>Архотек</ATR_MechanicalArchotechChildhood.title>
+  <ATR_MechanicalArchotechChildhood.titleShort>Архотек</ATR_MechanicalArchotechChildhood.titleShort>
+  <ATR_MechanicalArchotechChildhood.baseDesc>Неизвестно, есть ли у архотеков детство, или хоть что-то настолько простое и базовое, как дата создания. Как же тогда кто-то может утверждать, что знает хоть что-то о юности такого существа?</ATR_MechanicalArchotechChildhood.baseDesc>
+
+  <ATR_MechanicalArchotechAdulthood.title>Архотек</ATR_MechanicalArchotechAdulthood.title>
+  <ATR_MechanicalArchotechAdulthood.titleShort>Архотек</ATR_MechanicalArchotechAdulthood.titleShort>
+  <ATR_MechanicalArchotechAdulthood.baseDesc>Архотеки окутаны тайной и остаются одним из наименее понятных явлений. Даже самые совершенные утопические миры не в состоянии постичь даже крупицы их архотек-цивилизации. Что же тогда рассказать о любом индивиде такой цивилизации? Может быть, они обладают силой, которую мы не можем понять, или знанием, которое не доступно нашему разуму. Возможно, они знают что-то о прошлом, настоящем или будущем, что мы не можем даже представить. Архотеки остаются загадкой, которую мы можем только пытаться разгадать, но никогда полностью не понять.</ATR_MechanicalArchotechAdulthood.baseDesc>
+
+
+</LanguageData>

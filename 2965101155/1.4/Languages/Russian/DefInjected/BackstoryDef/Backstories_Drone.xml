@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Childhoods -->
+
+  <ATR_MechChildhoodAncientDroneSoldier.title>Древний дрон</ATR_MechChildhoodAncientDroneSoldier.title>
+  <ATR_MechChildhoodAncientDroneSoldier.titleShort>Дрон</ATR_MechChildhoodAncientDroneSoldier.titleShort>
+  <ATR_MechChildhoodAncientDroneSoldier.baseDesc>{PAWN_nameDef} PAWN_gender ? был : была} {PAWN_gender ? собран : собрана}  архотеками, тысячи лет назад, без знания своего происхождения и цели. С какой целью архотеки создали {PAWN_possessive}?</ATR_MechChildhoodAncientDroneSoldier.baseDesc>
+
+  <ATR_MechChildhoodDrone.title>Трутень</ATR_MechChildhoodDrone.title>
+  <ATR_MechChildhoodDrone.titleShort>Трутень</ATR_MechChildhoodDrone.titleShort>
+  <ATR_MechChildhoodDrone.baseDesc>История жизни трутней настолько неинтересна, что многие создатели не утруждают себя отмечанием момента их пробуждения, и практически ни один такой дрон не знает собственной истории.</ATR_MechChildhoodDrone.baseDesc>
+
+  <ATR_MechChildhoodFreshBlank.title>Свежая оболочка</ATR_MechChildhoodFreshBlank.title>
+  <ATR_MechChildhoodFreshBlank.titleShort>Оболочка</ATR_MechChildhoodFreshBlank.titleShort>
+  <ATR_MechChildhoodFreshBlank.baseDesc>{PAWN_nameDef} {PAWN_gender ? был : была} {PAWN_gender ? собран : собрана} быть пустой оболочкой, готовой к тому, чтобы {PAWN_possessive} будущий владелец сформировал свои первые и единственные воспоминания.</ATR_MechChildhoodFreshBlank.baseDesc>
+
+
+  <!-- Adulthoods -->
+
+  <ATR_MechAdulthoodAncientDroneSoldier.title>Боевой дрон</ATR_MechAdulthoodAncientDroneSoldier.title>
+  <ATR_MechAdulthoodAncientDroneSoldier.titleShort>Дрон</ATR_MechAdulthoodAncientDroneSoldier.titleShort>
+  <ATR_MechAdulthoodAncientDroneSoldier.baseDesc>{PAWN_nameDef} {PAWN_gender ? был : была} {PAWN_gender ? собран : собрана} боевым дроном, {PAWN_gender ? который : которая} всегда {PAWN_gender ? был : была} {PAWN_gender ? способен : способна} воевать. Жуки, механоиды, повстанцы, имперцы, ничто из этого не имеет значения. Дронам все равно, с кем они воюют, и они не помнят, кого они убили.</ATR_MechAdulthoodAncientDroneSoldier.baseDesc>
+
+  <ATR_MechAdulthoodDrone.title>Дрон</ATR_MechAdulthoodDrone.title>
+  <ATR_MechAdulthoodDrone.titleShort>Дрон</ATR_MechAdulthoodDrone.titleShort>
+  <ATR_MechAdulthoodDrone.baseDesc>{PAWN_nameDef} является дроном, который продолжает нести службу на основе {PAWN_possessive} программы. Невозможно узнать, сколько раз менялась эта программа, дроны не беспокоятся об этом.</ATR_MechAdulthoodDrone.baseDesc>
+
+  <ATR_MechAdulthoodBlank.title>Пустой дрон</ATR_MechAdulthoodBlank.title>
+  <ATR_MechAdulthoodBlank.titleShort>Пустышка</ATR_MechAdulthoodBlank.titleShort>
+  <ATR_MechAdulthoodBlank.baseDesc>{PAWN_nameDef} не имеет ни интеллекта, ни памяти. {PAWN_pronoun} полностью {PAWN_gender ? лишен : лишена} характера и полезности.</ATR_MechAdulthoodBlank.baseDesc>
+
+
+</LanguageData>

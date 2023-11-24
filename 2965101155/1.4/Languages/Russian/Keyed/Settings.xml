@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Miscellaneous Keys -->
+  <ATR_ModTitle>Android Tiers Reforged</ATR_ModTitle>
+
+  <ATR_RestartRequired>Требуется перезагрузка</ATR_RestartRequired>
+  <ATR_RestartRequiredSectionDesc>Любые изменения настроек в этом разделе требуют перезапуска игры.</ATR_RestartRequiredSectionDesc>
+  <ATR_RestartRequiredPostDesc>Некоторые настройки требуют перезапуска игры для безопасности.</ATR_RestartRequiredPostDesc>
+
+
+  <ATR_ExpandMenu>Развернуть/Свернуть</ATR_ExpandMenu>
+
+  <!-- Mod Settings Page Keys -->
+  <ATR_SettingsTabTitle>Настройки</ATR_SettingsTabTitle>
+
+  <ATR_SettingsTabOption_Folded>&lt;</ATR_SettingsTabOption_Folded>
+  <ATR_SettingsTabOption_General>Основные</ATR_SettingsTabOption_General>
+  <ATR_SettingsTabOption_Power>Энергия</ATR_SettingsTabOption_Power>
+  <ATR_SettingsTabOption_Security>Защита</ATR_SettingsTabOption_Security>
+  <ATR_SettingsTabOption_Health>Здоровье</ATR_SettingsTabOption_Health>
+  <ATR_SettingsTabOption_Connectivity>Подключение</ATR_SettingsTabOption_Connectivity>
+  <ATR_SettingsTabOption_Stats>Статистика</ATR_SettingsTabOption_Stats>
+
+  <!-- General Settings -->
+  <ATR_ApplyPreset>Предустановки</ATR_ApplyPreset>
+
+  <!-- Gender Settings -->
+  <ATR_AndroidGenderNotice>Изменения коснутся только НОВЫХ андроидов</ATR_AndroidGenderNotice>
+  <ATR_AndroidsHaveGenders>Андроиды имеют пол</ATR_AndroidsHaveGenders>
+  <ATR_AndroidsPickGenders>Андроиды меняют пол при создании</ATR_AndroidsPickGenders>
+  <ATR_AndroidsFixedGenderSelector>Все андроиды - мужчины или женщины</ATR_AndroidsFixedGenderSelector>
+  <ATR_AndroidsGenderRatio>Шанс выбрать МУЖСКОЙ или ЖЕНСКИЙ пол</ATR_AndroidsGenderRatio>
+
+  <!-- Commonality Settings -->
+  <ATR_PlayerOnlyNote>Если отключить, андроиды будут существовать только тогда, когда их построит игрок.</ATR_PlayerOnlyNote>
+  <ATR_AndroidsAppearNaturally>Андроиды могут появляться как части фракций или событий</ATR_AndroidsAppearNaturally>
+
+  <ATR_AndroidFactionSettings>Какую роль играют фракции андроидов? Влияет только на НОВУЮ игру</ATR_AndroidFactionSettings>
+  <ATR_AndroidSocietiesExist>У андроидов есть свои фракции</ATR_AndroidSocietiesExist>
+  <ATR_AndroidRaidersExist>Андроиды пираты</ATR_AndroidRaidersExist>
+  <ATR_AndroidRaidersDesc>Работает как ванильная фракция пиратов</ATR_AndroidRaidersDesc>
+  <ATR_AndroidUnionistsExist>Андроиды чужеземцы</ATR_AndroidUnionistsExist>
+  <ATR_AndroidUnionistsDesc>Работает как ванильная фракция чужеземцев</ATR_AndroidUnionistsDesc>
+
+  <!-- Permission Settings-->
+  <ATR_bedRestrictionDefaultsToAll>Кровати подходят всем</ATR_bedRestrictionDefaultsToAll>
+  <ATR_bedRestrictionDefaultsToAllDesc>По умолчанию, энергокапсулы подходят только андроидам, а все остальные кровати - только органическим существам.</ATR_bedRestrictionDefaultsToAllDesc>
+
+  <!-- Consideration Settings -->
+  <ATR_isUsingCustomConsiderations>Использовать пользовательские настройки: {0}</ATR_isUsingCustomConsiderations>
+  <ATR_isUsingCustomConsiderationsDesc>Если «False» - Мод будет автоматически регенерировать то, что «Является/Не является» механическим при запуске игры, чтобы он мог найти новые модифицированные расы за вас.</ATR_isUsingCustomConsiderationsDesc>
+  <ATR_resetCustomConsiderations>Сброс настроек</ATR_resetCustomConsiderations>
+  <ATR_SettingsConsideredAndroid>Андроиды</ATR_SettingsConsideredAndroid>
+  <ATR_SettingsNotConsideredAndroid>Не андроиды</ATR_SettingsNotConsideredAndroid>
+  <ATR_SettingsConsideredDrone>Дроны</ATR_SettingsConsideredDrone>
+  <ATR_SettingsNotConsideredDrone>Не дроны</ATR_SettingsNotConsideredDrone>
+  <ATR_SettingsConsideredAnimal>Механические животные</ATR_SettingsConsideredAnimal>
+  <ATR_SettingsNotConsideredAnimals>Органические животные</ATR_SettingsNotConsideredAnimals>
+
+  <!-- Android Faction Settings -->
+  <ATR_AndroidFactionsNeverFlee>Фракции андроидов никогда не спасаются бегством</ATR_AndroidFactionsNeverFlee>
+
+  <!-- Rights Settings -->
+  <ATR_factionsWillDeclareRightsWars>Споры о правах</ATR_factionsWillDeclareRightsWars>
+  <ATR_factionsWillDeclareRightsWarsDesc>Фракции, настроенные против «Механики/Органики», объявят вам войну, если у вас есть «Механические/Органические» поселенцы.</ATR_factionsWillDeclareRightsWarsDesc>
+  <ATR_SettingsAntiMechanicalFaction>Фракции нетерпимые к андроидам</ATR_SettingsAntiMechanicalFaction>
+  <ATR_SettingsTolerateMechanicalFaction>Фракции терпимые к андроидам</ATR_SettingsTolerateMechanicalFaction>
+  <ATR_SettingsAntiOrganicFaction>Фракции нетерпимые к органике</ATR_SettingsAntiOrganicFaction>
+  <ATR_SettingsTolerateOrganicFaction>Фракции терпимые к органике</ATR_SettingsTolerateOrganicFaction>
+  <ATR_dronesTriggerRightsWars>Фракции нетерпимые к андроидам, объявляют войну за дронов</ATR_dronesTriggerRightsWars>
+  <ATR_prisonersTriggerRightsWars>Фракции объявляют войну за заключенных</ATR_prisonersTriggerRightsWars>
+  <ATR_slavesTriggerRightsWars>Фракции объявляют войну за рабов</ATR_slavesTriggerRightsWars>
+  <ATR_surrogatesTriggerRightsWars>Фракции объявляют войну за суррогатов</ATR_surrogatesTriggerRightsWars>
+  
+  <!-- Needs Settings -->
+  <ATR_AndroidOnlyNotice>Примечание: Это касается только тех, кто помечен как андроид. Дроны не имеют таких потребностей.</ATR_AndroidOnlyNotice>
+  <ATR_AndroidsNeedJoy>Андроиды имеют потребность: Удовлетворённость</ATR_AndroidsNeedJoy>
+  <ATR_AndroidsNeedBeauty>Андроиды имеют потребность: Красота окружения</ATR_AndroidsNeedBeauty>
+  <ATR_AndroidsNeedComfort>Андроиды имеют потребность: Комфорт</ATR_AndroidsNeedComfort>
+  <ATR_AndroidsNeedOutdoors>Андроиды имеют потребность: Свежий воздух</ATR_AndroidsNeedOutdoors>
+  <ATR_SettingsPresetDefault>По умолчанию</ATR_SettingsPresetDefault>
+  <ATR_SettingsPresetCustom>Пользовательский</ATR_SettingsPresetCustom>
+  
+  <!-- Power Settings -->
+  <ATR_wattsConsumedPerBodySize>Расход энергии на 1 размер тела при зарядке [500]</ATR_wattsConsumedPerBodySize>
+  <ATR_batteryPercentagePerRareTick>Процент заряда батареи в тик (4 секунды) [7%]</ATR_batteryPercentagePerRareTick>
+  <ATR_batteryPercentagePerTick>Скорость зарядки аккумулятора [1]</ATR_batteryPercentagePerTick>
+  <ATR_mechanicalsHaveDifferentBioprocessingEfficiency>Андроиды обрабатывают пищу иначе, чем органические существа</ATR_mechanicalsHaveDifferentBioprocessingEfficiency>
+  <ATR_mechanicalBioprocessingEfficiency>Эффективность питания [50%]</ATR_mechanicalBioprocessingEfficiency>
+  
+  <!-- Security Settings -->
+  
+  
+  <!-- Hostile Hacking -->
+  <ATR_EnemyHacksOccur>Кибератаки противника</ATR_EnemyHacksOccur>
+  <ATR_ChanceAlliesInterceptHack>Шанс союзников, перехватить кибератаку</ATR_ChanceAlliesInterceptHack>
+  <ATR_ChanceAlliesInterceptHackDesc>Процентный шанс того, что союзные фракции спасут вас от кибератаки противника, предотвращая любые негативные последствия, и давая вам бесплатные очки защиты.</ATR_ChanceAlliesInterceptHackDesc>
+  <ATR_PointsGainedOnInterceptPercentage>Очки защиты, при перехвате</ATR_PointsGainedOnInterceptPercentage>
+  <ATR_PointsGainedOnInterceptPercentageDesc>Когда союзник перехватывает атаку против вас, он жертвует вам очки защиты, в процентах от силы атаки. Это определяет, сколько очков защиты они вам дадут.</ATR_PointsGainedOnInterceptPercentageDesc>
+  <ATR_EnemyHackAttackStrengthModifier>Модификатор силы кибератаки противника</ATR_EnemyHackAttackStrengthModifier>
+  <ATR_EnemyHackAttackStrengthModifierDesc>Множитель количества очков взлома у противника. Менее 100% снижает частоту взломов, более 100% повышает её.</ATR_EnemyHackAttackStrengthModifierDesc>
+  <ATR_PercentageOfValueUsedForRansoms>Процент от стоимости предмета, за выкупа от криптоблокера</ATR_PercentageOfValueUsedForRansoms>
+  
+  <!-- Player Hacking -->
+  <ATR_PlayerCanHack>Кибератаки игрока [ОВ = Очки взлома]</ATR_PlayerCanHack>
+  <ATR_receiveFullHackingAlert>Предупреждение о превышении ОВ более 90%</ATR_receiveFullHackingAlert>
+  <ATR_RetaliationChanceOnFailure>Шанс ответных мер, при неудачном взломе</ATR_RetaliationChanceOnFailure>
+  <ATR_MinHackSuccessChance>Минимальный шанс успешного взлома</ATR_MinHackSuccessChance>
+  <ATR_MaxHackSuccessChance>Максимальный шанс успешного взлома</ATR_MaxHackSuccessChance>
+  
+  <!-- Health Settings -->
+  
+  
+  <!-- Medical -->
+  <ATR_medicinesAreInterchangeable>Взаимозаменяемые «Механические/Органические» аптечки</ATR_medicinesAreInterchangeable>
+  <ATR_showMechanicalSurgerySuccessChance>Отображение шансов на успех операций</ATR_showMechanicalSurgerySuccessChance>
+  <ATR_maxChanceMechanicOperationSuccess>Максимальное изменение шансов успеха операций</ATR_maxChanceMechanicOperationSuccess>
+  <ATR_chanceFailedOperationMinor>Шанс неудачных операций [75%]</ATR_chanceFailedOperationMinor>
+  <ATR_chancePartSavedOnFailure>Шанс возврата деталей после неудачных операций [75%]</ATR_chancePartSavedOnFailure>
+  
+  <!-- Maintenance -->
+  <ATR_maintenanceNeedExists>Андроиды нуждаются в техобслуживании</ATR_maintenanceNeedExists>
+  <ATR_receiveMaintenanceFailureLetters>Сообщать о проблемах, связанных с техобслуживанием</ATR_receiveMaintenanceFailureLetters>
+  <ATR_maintenancePartFailureRateFactor>Плохое техобслуживание может привести к отказу деталей</ATR_maintenancePartFailureRateFactor>
+  <ATR_maintenanceFallRateFactor>Как быстро происходит естественный ремонт</ATR_maintenanceFallRateFactor>
+  <ATR_maintenanceGainRateFactor>Как быстро набираются очки техобслуживания</ATR_maintenanceGainRateFactor>
+  
+  <!-- Hediffs -->
+  <ATR_hediffBlacklistWarning>Предупреждение: Чем больше в чёрном списке «Статусных эффектов», тем ниже производительность игры.</ATR_hediffBlacklistWarning>
+  <ATR_settingsBlacklistedMechanicalHediffs>Запрещённые «Статусы» для андроидов</ATR_settingsBlacklistedMechanicalHediffs>
+  <ATR_settingsAllowedMechanicalHediffs>Разрешённые «Статусы» для андроидов</ATR_settingsAllowedMechanicalHediffs>
+  
+  <!-- Connectivity Settings -->
+  
+  
+  <!-- Surrogates -->
+  <ATR_surrogatesAllowed>SkyMind суррогаты [ОП = Очки познания]</ATR_surrogatesAllowed>
+  <ATR_otherFactionsAllowedSurrogates>Фракции могут использовать суррогаты</ATR_otherFactionsAllowedSurrogates>
+  <ATR_minGroupSizeForSurrogates>Количество суррогатов в отрядах фракций </ATR_minGroupSizeForSurrogates>
+  <ATR_minSurrogatePercentagePerLegalGroup>Минимальный процент суррогатов в группе [20%]</ATR_minSurrogatePercentagePerLegalGroup>
+  <ATR_maxSurrogatePercentagePerLegalGroup>Максимальный процент суррогатов в группе [70%]</ATR_maxSurrogatePercentagePerLegalGroup>
+  <ATR_displaySurrogateControlIcon>Отображение иконки над суррогатами</ATR_displaySurrogateControlIcon>
+  <ATR_safeSurrogateConnectivityCountBeforePenalty>Суррогатов на одного оператора до штрафов [1] </ATR_safeSurrogateConnectivityCountBeforePenalty>
+  
+  <!-- Skills -->
+  <ATR_receiveFullSkillAlert>Предупреждение о превышении ОП более 90%</ATR_receiveFullSkillAlert>
+  <ATR_skillPointInsertionRate>Количество ОП, нужных для добавления [100] </ATR_skillPointInsertionRate>
+  <ATR_skillPointConversionRate>Количество XP, получаемого за каждое ОП [0.5] </ATR_skillPointConversionRate>
+  <ATR_passionSoftCap>Софт-кап до увеличения затрат ОП на интерес [8] </ATR_passionSoftCap>
+  <ATR_basePointsNeededForPassion>Количество ОП, необходимых для интереса [5000] </ATR_basePointsNeededForPassion>
+  
+  <!-- Cloud -->
+  <ATR_UploadingKills>Загрузка в SkyMind лишает тело сознания</ATR_UploadingKills>
+  <ATR_UploadingPermakills>Загрузка в SkyMind полностью убивает тело</ATR_UploadingPermakills>
+  <ATR_SkyMindOperationTimeRequired>Часов для выполнения операций SkyMind[24] </ATR_SkyMindOperationTimeRequired>
+  
+  <!-- Stats Settings -->
+  
+  
+  <!-- Traits -->
+  <ATR_traitBlacklistWarning>Предупреждение: Чем больше в чёрном списке «Черт характера», тем ниже производительность игры.</ATR_traitBlacklistWarning>
+  <ATR_settingsBlacklistedMechanicalTraits>Запрещённые черты для андроидов</ATR_settingsBlacklistedMechanicalTraits>
+  <ATR_settingsAllowedMechanicalTraits>Разрешённые черты для андроидов</ATR_settingsAllowedMechanicalTraits>
+  </LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Drought.label>Засуха</Drought.label>
+  <Drought.description>Наступила необычная засуха.\n\nЗасуха разрушительна для жизни растений и быстро уничтожит все культуры, вне гидропонных ферм. Быстро соберите урожай со всех растений, с которых можете.</Drought.description>
+  <Drought.endMessage>Засуха заканчивается.</Drought.endMessage>
+  <Drought.letterText>Началась необычная засуха.\n\nЗасуха разрушительна для жизни растений и остановит рост всех культур, вне гидропонных ферм или почвы с высоким плодородием.</Drought.letterText>
+
+  <SpaceBattle.label>Космическая битва</SpaceBattle.label>
+  <SpaceBattle.description>В небе бушует космический бой, который может длиться до половины дня.</SpaceBattle.description>
+  <SpaceBattle.endMessage>Космическая битва заканчивается.</SpaceBattle.endMessage>
+  <SpaceBattle.letterText>Несколько массивных космических кораблей вступили в бой на орбите планеты. Пропущенные выстрелы и обломки могут ударить по земле в этом районе. Это может привести к массовым пожарам.</SpaceBattle.letterText>
+
+
+</LanguageData>

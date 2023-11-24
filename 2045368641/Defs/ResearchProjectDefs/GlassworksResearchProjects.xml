@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchProjectDef>
+		<defName>GlassworksResearch</defName>
+		<label>glassworks</label>
+		<tab>Glassworks</tab>
+		<description>Produce glass by heating rock chunks until they melt and turn into a liquid.</description>
+		<techLevel>Industrial</techLevel>
+		<baseCost>500</baseCost>
+		<researchViewX>1</researchViewX>
+		<researchViewY>1</researchViewY>
+		<prerequisites>
+			<li>Electricity</li>
+		</prerequisites>
+	</ResearchProjectDef>
+	
+</Defs>

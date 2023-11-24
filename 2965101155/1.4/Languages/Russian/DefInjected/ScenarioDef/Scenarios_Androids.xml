@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_CrashlandedAndroids.label>брошенные андроиды</ATR_CrashlandedAndroids.label>
+  <ATR_CrashlandedAndroids.description>Вы завершили инициализацию ядра прямо перед тем, как войти в атмосферу планеты. Банки памяти последних данных пусты, и нет файлов, указывающих на назначение или вашу историю. Вы невредимы - этого пока достаточно.</ATR_CrashlandedAndroids.description>
+  <ATR_CrashlandedAndroids.scenario.name>Брошенные андроиды</ATR_CrashlandedAndroids.scenario.name>
+  <ATR_CrashlandedAndroids.scenario.summary>Трое выживших андроидов, совершивших аварийную посадку, — классический сценарий RimWorld с механическими пешками.</ATR_CrashlandedAndroids.scenario.summary>
+  <ATR_CrashlandedAndroids.scenario.description>Вы завершили инициализацию ядра прямо перед тем, как войти в атмосферу планеты. Банки памяти последних данных пусты, и нет файлов, указывающих на назначение или вашу историю. Вы невредимы - этого пока достаточно.</ATR_CrashlandedAndroids.scenario.description>
+  <ATR_CrashlandedAndroids.scenario.parts.16.text>Место аварии имеет поблизости органическую жизнь и сломанные части корабля. Планета пригодня для жизни. Оценки шансов на выживание находятся в допустимых пределах.</ATR_CrashlandedAndroids.scenario.parts.16.text>
+
+
+</LanguageData>

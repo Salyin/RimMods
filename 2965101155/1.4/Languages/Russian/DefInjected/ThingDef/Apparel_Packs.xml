@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_Apparel_ScorchPack.label>зажигательный ранец</ATR_Apparel_ScorchPack.label>
+  <ATR_Apparel_ScorchPack.description>Многоразовый ранец, содержащий легковоспламеняющуюся химическую смесь. Когда пешка открывает ранец, он будет яростно изрыгать пламя.\n\n\nПосле использования ранец нужно перезарядить химтопливом, прежде чем повторно его использовать.</ATR_Apparel_ScorchPack.description>
+  <ATR_Apparel_ScorchPack.verbs.0.label>выпустить огонь</ATR_Apparel_ScorchPack.verbs.0.label>
+
+
+</LanguageData>

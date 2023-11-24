@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechAirborne.label>скарабей</ATR_MechAirborne.label>
+  <ATR_MechAirborne.corePart.parts.2.customLabel>левый радиатор</ATR_MechAirborne.corePart.parts.2.customLabel>
+  <ATR_MechAirborne.corePart.parts.3.customLabel>правый радиатор</ATR_MechAirborne.corePart.parts.3.customLabel>
+  <ATR_MechAirborne.corePart.parts.4.parts.0.parts.1.customLabel>левый оптический датчик</ATR_MechAirborne.corePart.parts.4.parts.0.parts.1.customLabel>
+  <ATR_MechAirborne.corePart.parts.4.parts.0.parts.2.customLabel>правый оптический датчик</ATR_MechAirborne.corePart.parts.4.parts.0.parts.2.customLabel>
+  <ATR_MechAirborne.corePart.parts.5.customLabel>левое крыло</ATR_MechAirborne.corePart.parts.5.customLabel>
+  <ATR_MechAirborne.corePart.parts.6.customLabel>правое крыло</ATR_MechAirborne.corePart.parts.6.customLabel>
+
+
+</LanguageData>

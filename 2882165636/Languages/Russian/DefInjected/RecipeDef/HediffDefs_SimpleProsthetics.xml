@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Golden eye -->
+
+  <InstallGoldenEye.label>Имплантировать золотой глаз</InstallGoldenEye.label>
+  <InstallGoldenEye.description>Имплантировать золотой глаз.</InstallGoldenEye.description>
+  <InstallGoldenEye.jobString>Имплантирует золотой глаз.</InstallGoldenEye.jobString>
+
+
+  <!-- Light receptor -->
+
+  <InstallLightReceptor.label>install light receptor</InstallLightReceptor.label>
+  <InstallLightReceptor.description>Installs light receptor.</InstallLightReceptor.description>
+  <InstallLightReceptor.jobString>Installing light receptor.</InstallLightReceptor.jobString>
+
+
+  <!-- Simple spine replacement -->
+
+  <InstallSimpleSpine.label>Установить заменитель позвоночника</InstallSimpleSpine.label>
+  <InstallSimpleSpine.description>Установить заменитель позвоночника.</InstallSimpleSpine.description>
+  <InstallSimpleSpine.jobString>Устанавливает заменитель позвоночника.</InstallSimpleSpine.jobString>
+
+
+  <!-- Prosthetic hand -->
+
+  <InstallSimpleProstheticHand.label>Установить простой протез кисти</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>Установить простой протез кисти.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>Устанавливает простой протез кисти.</InstallSimpleProstheticHand.jobString>
+
+
+  <!-- Prosthetic foot -->
+
+  <InstallSimpleProstheticFoot.label>Установить простой протез ступни</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>Установить простой протез ступни.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>Устанавливает простой протез ступни</InstallSimpleProstheticFoot.jobString>
+
+
+  <!-- Prosthetic finger -->
+
+  <InstallSimpleProstheticFinger.label>Установить простой протез пальца</InstallSimpleProstheticFinger.label>
+  <InstallSimpleProstheticFinger.description>Установить простой протез пальца.</InstallSimpleProstheticFinger.description>
+  <InstallSimpleProstheticFinger.jobString>Устанавливает простой протез пальца.</InstallSimpleProstheticFinger.jobString>
+
+
+  <!-- Prosthetic toe -->
+
+  <InstallSimpleProstheticToe.label>Установить простой протез пальца ноги</InstallSimpleProstheticToe.label>
+  <InstallSimpleProstheticToe.description>Установить простой протез пальца ноги.</InstallSimpleProstheticToe.description>
+  <InstallSimpleProstheticToe.jobString>Устанавливает простой протез пальца ноги.</InstallSimpleProstheticToe.jobString>
+
+
+  <!-- Hydraulic jaw -->
+
+  <InstallHydraulicJaw.label>Установить гидравлическую челюсть</InstallHydraulicJaw.label>
+  <InstallHydraulicJaw.description>Установить гидравлическую челюсть.</InstallHydraulicJaw.description>
+  <InstallHydraulicJaw.jobString>Устанавливает гидравлическую челюсть.</InstallHydraulicJaw.jobString>
+
+
+  <!-- Artificial nose -->
+
+  <InstallArtificialNose.label>Имплантировать искусственный нос</InstallArtificialNose.label>
+  <InstallArtificialNose.description>Имплантировать искусственный нос.</InstallArtificialNose.description>
+  <InstallArtificialNose.jobString>Имплантирует искусственный нос.</InstallArtificialNose.jobString>
+
+
+  <!-- Replacement radius -->
+
+  <InstallReplacementRadius.label>Установить заменитель лучевой кости</InstallReplacementRadius.label>
+  <InstallReplacementRadius.description>Установить заменитель лучевой кости.</InstallReplacementRadius.description>
+  <InstallReplacementRadius.jobString>Устанавливает заменитель лучевой кости.</InstallReplacementRadius.jobString>
+
+
+  <!-- Scyther blade -->
+
+  <InstallScytherBlade.label>Установить клинок жнеца</InstallScytherBlade.label>
+  <InstallScytherBlade.description>Установить клинок жнеца.</InstallScytherBlade.description>
+  <InstallScytherBlade.jobString>Устанавливает клинок жнеца.</InstallScytherBlade.jobString>
+
+  <EPIA_RemoveScytherBlade.label>Удалить клинок жнеца</EPIA_RemoveScytherBlade.label>
+  <EPIA_RemoveScytherBlade.description>Удалить клинок жнеца.</EPIA_RemoveScytherBlade.description>
+  <EPIA_RemoveScytherBlade.jobString>Удаляет клинок жнеца.</EPIA_RemoveScytherBlade.jobString>
+
+
+</LanguageData>

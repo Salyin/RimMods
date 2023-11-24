@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Storefront_BrowseItems.reportString>просматривает товары</Storefront_BrowseItems.reportString>
+  <Storefront_BuyItem.reportString>покупает TargetA</Storefront_BuyItem.reportString>
+  
+  <Storefront_StandBy.reportString>ожидание клиентов</Storefront_StandBy.reportString>
+  <Storefront_Sell.reportString>продажа TargetB TargetA</Storefront_Sell.reportString>
+
+</LanguageData>
+
+

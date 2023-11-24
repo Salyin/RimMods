@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechFallTargetterBeam.label>целеуказатель для высадки M7</ATR_MechFallTargetterBeam.label>
+
+  <ATR_OrbitalTargeterMechFall.label>целеуказатель для высадки M7</ATR_OrbitalTargeterMechFall.label>
+  <ATR_OrbitalTargeterMechFall.description>Древнее устройство целеуказания. Оно подаёт сигнал на орбитальную платформу, которая десантирует в обозначенную точку боевой андроид класса M7 Дредноут.\n\nДанное устройство содержит один код активации и может быть использовано только один раз.</ATR_OrbitalTargeterMechFall.description>
+
+
+</LanguageData>

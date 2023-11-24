@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>FishIndustry</li>
+		</mods>
+		
+		<match Class="PatchOperationSequence">
+
+			<operations>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_Slimefish"]/label</xpath>
+				<value>
+				<label>слизнерыба</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_Slimefish"]/description</xpath>
+				<value>
+				<description>Кажется, эта рыба частично состоит из слизи. Мерзость!</description>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/PawnKindDef[defName="AB_Slimefish"]/label</xpath>
+				<value>
+				<label>слизнерыба</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_SlimefishMeat"]/label</xpath>
+				<value>
+				<label>филе слизнерыбы</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_SlimefishMeat"]/description</xpath>
+				<value>
+				<description>Сырое мясо слизнерыбы.\n\nТрудно пережёвываемое, студёнистое и безвкусное. По текстуре схоже с желатином.</description>
+				</value>
+			</li>
+
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_Jellyfungus"]/label</xpath>
+				<value>
+				<label>грибодуза</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_Jellyfungus"]/description</xpath>
+				<value>
+				<description>Эта рыба наполовину медуза, наполовину гриб.</description>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/PawnKindDef[defName="AB_Jellyfungus"]/label</xpath>
+				<value>
+				<label>грибодуза</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_JellyfungusMeat"]/label</xpath>
+				<value>
+				<label>мясо грибодузы</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_JellyfungusMeat"]/description</xpath>
+				<value>
+				<description>Сырое мясо грибодузы.\n\nНа вкус, как гриб, спрыснутый солёной водой</description>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_OcularFish"]/label</xpath>
+				<value>
+				<label>окулярная рыба</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_OcularFish"]/description</xpath>
+				<value>
+				<description>Эта рыба смотрит на тебя. Или могла бы, если бы была живой.</description>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/PawnKindDef[defName="AB_OcularFish"]/label</xpath>
+				<value>
+				<label>окулярная рыба</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_OcularFishMeat"]/label</xpath>
+				<value>
+				<label>мясо окулярной рыбы</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_OcularFishMeat"]/description</xpath>
+				<value>
+				<description>Сырое мясо окулярной рыбы.\n\nУ него на удивление мягкий вкус.</description>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_PolarEel"]/label</xpath>
+				<value>
+				<label>глубинный угорь</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_PolarEel"]/description</xpath>
+				<value>
+				<description>Эта вытянутая рыба адаптирована к жизни при очень низких температурах.</description>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/PawnKindDef[defName="AB_PolarEel"]/label</xpath>
+				<value>
+				<label>глубинный угорь</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_PolarEelChunks"]/label</xpath>
+				<value>
+				<label>мясо глубинного угря</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_PolarEelChunks"]/description</xpath>
+				<value>
+				<description>Сырое мясо глубинного угря.\n\nУ этого мяса не очень аппетитный цвет, но на вкус оно на удивление хорошо.</description>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_Spiderfish"]/label</xpath>
+				<value>
+				<label>паукорыба</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_Spiderfish"]/description</xpath>
+				<value>
+				<description>Наполовину паук, наполовину рыба.</description>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/PawnKindDef[defName="AB_Spiderfish"]/label</xpath>
+				<value>
+				<label>паукорыба</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_SpiderfishSteak"]/label</xpath>
+				<value>
+				<label>мясо паукорыбы</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_SpiderfishSteak"]/description</xpath>
+				<value>
+				<description>Сырое мясо паукорыбы.\n\nК счастью, оно на вкус не как мясо паука.</description>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_Spinyfish"]/label</xpath>
+				<value>
+				<label>колючая рыба</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_Spinyfish"]/description</xpath>
+				<value>
+				<description>Эта рыба усыпана торчащими из неё шипами, которые она использует в качестве защитной меры.</description>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/PawnKindDef[defName="AB_Spinyfish"]/label</xpath>
+				<value>
+				<label>колючая рыба</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_SpinyfishChunks"]/label</xpath>
+				<value>
+				<label>мясо колючей рыбы</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_SpinyfishChunks"]/description</xpath>
+				<value>
+				<description>Сырое мясо колючей рыбы.\n\nУ этой рыбы не очень много мяса, но то, что есть, довольно вкусное.</description>
+				</value>
+			</li>
+
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_ForsakenAnglerfish"]/label</xpath>
+				<value>
+				<label>покинутый удильщик</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_ForsakenAnglerfish"]/description</xpath>
+				<value>
+				<description>Эта рыба обладает биолюминисцентной приманкой.</description>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/PawnKindDef[defName="AB_ForsakenAnglerfish"]/label</xpath>
+				<value>
+				<label>покинутый удильщик</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_ForsakenAnglerfishChunks"]/label</xpath>
+				<value>
+				<label>мясо покинутого удильщика</label>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName="AB_ForsakenAnglerfishChunks"]/description</xpath>
+				<value>
+				<description>Сырое мясо покинутого удильщика.\n\nУ этой рыбы не очень много мяса и оно немного жилистое.</description>
+				</value>
+			</li>
+
+			</operations>
+		</match>
+	</Operation>
+</Patch>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Barbed wire -->
+
+  <VFES_BarbedWire.label>колючая проволка</VFES_BarbedWire.label>
+  <VFES_BarbedWire.description>Тип стальной проволки для ограждений, состоящий из острых краев и шипов, расположенных через определенные промежутки. Не только замедляет передвижение, но и наносит противнику порезы и колотые раны.</VFES_BarbedWire.description>
+
+
+  <!-- Trench -->
+
+  <VFES_Trench.label>траншея</VFES_Trench.label>
+  <VFES_Trench.description>Длинный и узкий ров, вырытый в земле. Переход по нему требует лазить вниз и вверх, поэтому он значительно снижает скорость передвижения. Солдаты внутри траншеи получают штраф к дальности стрельбы, но также получают значительное укрытие.</VFES_Trench.description>
+
+
+  <!-- Platform -->
+
+  <VFES_Platform.label>платформа</VFES_Platform.label>
+  <VFES_Platform.description>Длинная и узкая деревянная платформа. Переход по ней требует лазить вверх и вниз, поэтому она значительно снижает скорость передвижения. Солдаты на платформе получают значительное увеличение дальности стрельбы, но также получают штраф к укрытию из-за того, что они видны как на ладони.</VFES_Platform.description>
+
+
+  <!-- Ammo crate -->
+
+  <VFES_AmmoCrate.label>ящик с патронами</VFES_AmmoCrate.label>
+  <VFES_AmmoCrate.description>Ящий с боеприпасами, пригодный для хранения патронов. Повышает скорость стрельбы окружающих его солдат.</VFES_AmmoCrate.description>
+
+
+</LanguageData>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Things/FTC_Production.xml-->
+                <!-- electirc arc furnace -->
+<FT_ArcFurnace.label>электрическая дуговая печь</FT_ArcFurnace.label>
+                      <!-- A heavy machinery that recycles all sort of metallic pieces into steel, will generates a lot of heat. -->
+<FT_ArcFurnace.description>Тяжелое оборудование, которое перерабатывает все виды металлических деталей в сталь, будет выделять много тепла.</FT_ArcFurnace.description>
+               <!-- pyrolysis plant -->
+<FT_HeavyChem.label>пиролизная фабрика</FT_HeavyChem.label>
+                     <!-- A heavy machinery that recycles all sort of organic pieces into chemfuel, will generates a lot of heat. -->
+<FT_HeavyChem.description>Тяжелое оборудование, которое перерабатывает все виды органических частиц в химическое топливо, будет выделять много тепла.</FT_HeavyChem.description>
+                 <!-- transformer cabinet -->
+<FT_transformer.label>трансформаторный шкаф</FT_transformer.label>
+                       <!-- Increases work speed when placed near an industrial workbench. One workbench can use up to eight transformer cabinets. Explodes when damaged. -->
+<FT_transformer.description>Увеличивает скорость работы при размещении рядом с промышленным верстаком. На одном верстаке можно разместить до восьми шкафов-трансформаторов. Взрывается при повреждении.</FT_transformer.description>
+                      <!-- stationary chemfuel generator -->
+<FT_CitadelGenerator.label>стационарный генератор на химтопливе</FT_CitadelGenerator.label>
+                            <!-- A chemfuel generator suitable for use in large fortresses, which is highly integrated into the ground structure in exchange for excellent safety, and fuel capacity but can be a hassle to deconstruct. -->
+<FT_CitadelGenerator.description>Генератор химтоплива, подходящий для использования в больших крепостях, который тесно интегрирован в наземную структуру в обмен на превосходную безопасность и запас топлива, но его может быть сложно разобрать.</FT_CitadelGenerator.description>
+                   <!-- field kitchen -->
+<FTC_FieldKitchen.label>полевая кухня</FTC_FieldKitchen.label>
+                         <!-- A mobile kitchen that can cook meal outside the field but it's only have few selection, require chemfuel or wood as fuel. -->
+<FTC_FieldKitchen.description>Мобильная кухня, которая может готовить еду вне поля, но у нее мало выбора, требуется биотопливо или дрова в качестве топлива.</FTC_FieldKitchen.description>
+
+
+<!--/Defs/Things/FTC_Production.xml-->
+<!-- electirc arc furnace -->
+<FT_ArcFurnace.label>электрическая дуговая печь</FT_ArcFurnace.label>
+<!-- A heavy machinery that recycles all sort of metallic pieces into steel, will generates a lot of heat. -->
+<FT_ArcFurnace.description>Тяжелое оборудование, которое перерабатывает все виды металлических деталей в сталь, будет выделять много тепла.</FT_ArcFurnace.description>
+<!-- pyrolysis plant -->
+<FT_HeavyChem.label>пиролизная фабрика</FT_HeavyChem.label>
+<!-- A heavy machinery that recycles all sort of organic pieces into chemfuel, will generates a lot of heat. -->
+<FT_HeavyChem.description>Тяжелое оборудование, которое перерабатывает все виды органических частиц в химическое топливо, будет выделять много тепла.</FT_HeavyChem.description>
+<!-- transformer cabinet -->
+<FT_transformer.label>трансформаторный шкаф</FT_transformer.label>
+<!-- Increases work speed when placed near an industrial workbench. One workbench can use up to eight transformer cabinets. Explodes when damaged. -->
+<FT_transformer.description>Увеличивает скорость работы при размещении рядом с промышленным верстаком. На одном верстаке можно разместить до восьми шкафов-трансформаторов. Взрывается при повреждении.</FT_transformer.description>
+<!-- stationary chemfuel generator -->
+<FT_CitadelGenerator.label>стационарный генератор на химтопливе</FT_CitadelGenerator.label>
+<!-- A chemfuel generator suitable for use in large fortresses, which is highly integrated into the ground structure in exchange for excellent safety, and fuel capacity but can be a hassle to deconstruct. -->
+<FT_CitadelGenerator.description>Генератор химтоплива, подходящий для использования в больших крепостях, который тесно интегрирован в наземную структуру в обмен на превосходную безопасность и запас топлива, но его может быть сложно разобрать.</FT_CitadelGenerator.description>
+<!-- field kitchen -->
+<FTC_FieldKitchen.label>полевая кухня</FTC_FieldKitchen.label>
+<!-- A mobile kitchen that can cook meal outside the field but it's only have few selection, require chemfuel or wood as fuel. -->
+<FTC_FieldKitchen.description>Мобильная кухня, которая может готовить еду вне поля, но у нее мало выбора, требуется биотопливо или дрова в качестве топлива.</FTC_FieldKitchen.description>
+
+</LanguageData>

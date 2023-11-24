@@ -1,0 +1,17 @@
+﻿<ModMetaData>
+  <name>Русификатор EPOE - Forked</name>
+  <author>Franxx</author>
+  <packageId>Rus.EPOE.Forked</packageId>
+  <supportedVersions>
+	<li>1.4</li>
+  </supportedVersions>
+	<incompatibleWith>
+	</incompatibleWith>
+  <description>
+Мод допереводит вшитый в epoe русификатор.
+  </description>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>vat.epoeforked</li>
+	</loadAfter>
+</ModMetaData>

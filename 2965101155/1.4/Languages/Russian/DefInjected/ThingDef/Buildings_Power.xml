@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_ChargingStation.label>зарядная станция</ATR_ChargingStation.label>
+  <ATR_ChargingStation.description>Станция, способная заряжать до 8 андроидов одновременно.</ATR_ChargingStation.description>
+
+
+  <!-- Bedside Charger -->
+
+  <ATR_BedsideChargerFacility.label>прикроватный зарядник</ATR_BedsideChargerFacility.label>
+  <ATR_BedsideChargerFacility.description>Прикроватный зарядник, позволяет соединенной кровати заряжать андроидов. Необходимо разместить непосредственно рядом и лицом к изголовью кровати.</ATR_BedsideChargerFacility.description>
+
+
+  <!-- Charging Pods -->
+
+  <ATR_ChargingPod.label>энергокапсула</ATR_ChargingPod.label>
+  <ATR_ChargingPod.description>Простая механическая энергокапсула, предназначенная для зарядки андроидов. Она не рассчитана на комфорт.</ATR_ChargingPod.description>
+
+  <ATR_ChargingPodMech.label>большая энергокапсула</ATR_ChargingPodMech.label>
+  <ATR_ChargingPodMech.description>Чрезвычайно большая энергокапсула, предназначенная для зарядки боевых андроидов, которые не смогут поместиться ни в одну другую энергокапсулу.</ATR_ChargingPodMech.description>
+
+
+  <!-- Minified Vanometric Power Cell for SkyMind Core needs -->
+
+  <ATR_VanometricPowerCellMinified.label>малая ванометрическая ячейка</ATR_VanometricPowerCellMinified.label>
+
+
+</LanguageData>

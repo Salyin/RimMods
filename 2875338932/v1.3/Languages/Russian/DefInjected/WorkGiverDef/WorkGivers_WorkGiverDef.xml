@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Analyse.label>Анализировать</Analyse.label>
+<Analyse.gerund>анализировать</Analyse.gerund>
+<AnalyseInPlace.label>Анализ на месте</AnalyseInPlace.label>
+<AnalyseInPlace.gerund>анализировать</AnalyseInPlace.gerund>
+<AnalyseTerrain.label>Анализ местности</AnalyseTerrain.label>
+<AnalyseTerrain.gerund>анализировать</AnalyseTerrain.gerund>
+<ResearchRR.label>Исследовать</ResearchRR.label>
+<ResearchRR.gerund>исследовать</ResearchRR.gerund>
+
+</LanguageData>

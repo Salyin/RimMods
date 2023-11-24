@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plasteel Plating -->
+
+  <ATR_Install_PlasteelPlating.label>установить пласталевый каркас</ATR_Install_PlasteelPlating.label>
+  <ATR_Install_PlasteelPlating.description>Установить пласталевый каркас.</ATR_Install_PlasteelPlating.description>
+  <ATR_Install_PlasteelPlating.jobString>Устанавливает пласталевый каркас.</ATR_Install_PlasteelPlating.jobString>
+
+
+  <!-- Guardian -->
+
+  <ATR_Install_GuardianFrame.label>установить бронированный каркас</ATR_Install_GuardianFrame.label>
+  <ATR_Install_GuardianFrame.description>Установить бронированный каркас.</ATR_Install_GuardianFrame.description>
+  <ATR_Install_GuardianFrame.jobString>Устанавливает бронированный каркас.</ATR_Install_GuardianFrame.jobString>
+
+
+  <!-- Hydraulic -->
+
+  <ATR_Install_HydraulicFrame.label>установить гидравлический каркас</ATR_Install_HydraulicFrame.label>
+  <ATR_Install_HydraulicFrame.description>Установить гидравлический каркас.</ATR_Install_HydraulicFrame.description>
+  <ATR_Install_HydraulicFrame.jobString>Устанавливает гидравлический каркас.</ATR_Install_HydraulicFrame.jobString>
+
+
+  <!-- Suppressor -->
+
+  <ATR_Install_SuppressorFrame.label>установить урезанный каркас</ATR_Install_SuppressorFrame.label>
+  <ATR_Install_SuppressorFrame.description>Установить урезанный каркас.</ATR_Install_SuppressorFrame.description>
+  <ATR_Install_SuppressorFrame.jobString>Устанавливает урезанный каркас.</ATR_Install_SuppressorFrame.jobString>
+
+
+  <!-- Composite Plating -->
+
+  <ATR_Install_CompositePlating.label>установить композитный каркас</ATR_Install_CompositePlating.label>
+  <ATR_Install_CompositePlating.description>Установить композитный каркас.</ATR_Install_CompositePlating.description>
+  <ATR_Install_CompositePlating.jobString>Устанавливает композитный каркас.</ATR_Install_CompositePlating.jobString>
+
+
+  <!-- Refined -->
+
+  <ATR_Install_RefinedFrame.label>установить изысканный каркас</ATR_Install_RefinedFrame.label>
+  <ATR_Install_RefinedFrame.description>Установить изысканный каркас.</ATR_Install_RefinedFrame.description>
+  <ATR_Install_RefinedFrame.jobString>Устанавливает изысканный каркас.</ATR_Install_RefinedFrame.jobString>
+
+
+  <!-- Sanitary -->
+
+  <ATR_Install_SanitaryFrame.label>установить стерильный каркас</ATR_Install_SanitaryFrame.label>
+  <ATR_Install_SanitaryFrame.description>Установить стерильный каркас.</ATR_Install_SanitaryFrame.description>
+  <ATR_Install_SanitaryFrame.jobString>Устанавливает стерильный каркас.</ATR_Install_SanitaryFrame.jobString>
+
+
+  <!-- Mobility -->
+
+  <ATR_Install_MobilityFrame.label>установить подвижный каркас</ATR_Install_MobilityFrame.label>
+  <ATR_Install_MobilityFrame.description>Установить подвижный каркас.</ATR_Install_MobilityFrame.description>
+  <ATR_Install_MobilityFrame.jobString>Устанавливает подвижный каркас.</ATR_Install_MobilityFrame.jobString>
+
+
+</LanguageData>

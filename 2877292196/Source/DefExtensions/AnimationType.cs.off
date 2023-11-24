@@ -1,0 +1,8 @@
+﻿using Verse;
+
+namespace yayoAni.DefExtensions;
+
+public class AnimationType : DefModExtension
+{
+    public Yayo.AniType animationType = Yayo.AniType.none;
+}

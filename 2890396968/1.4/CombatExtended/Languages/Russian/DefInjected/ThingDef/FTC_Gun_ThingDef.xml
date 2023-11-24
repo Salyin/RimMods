@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/CombatExtended/Defs/Things/FTC_Gun.xml-->
+                      <!-- multi-railed rocket Launcher -->
+<FTC_Katyusha_Turret.label>многозарядная ракетная установка</FTC_Katyusha_Turret.label>
+                            <!-- A manned stationary rocket launcher with eight rails, each of which can attach 2 rockets, can shoot sixteen shells at one time, however, it's far from accurate and consumes a huge amount of chemfuel each time it fires. -->
+<FTC_Katyusha_Turret.description>Пилотируемая стационарная ракетная установка с восемью рельсами, на каждой из которых можно закрепить 2 ракеты, может выстрелить шестнадцатью снарядами за один раз, однако она далеко не точна и потребляет огромное количество химического топлива при каждом выстреле.</FTC_Katyusha_Turret.description>
+                   <!-- multi-railed rocket -->
+<FTC_Katyusha_Gun.label>многозарядная ракета</FTC_Katyusha_Gun.label>
+                         <!-- A railed rocket launcher. Lobs rocket shells over walls. Very inaccurate but mass-amount. -->
+<FTC_Katyusha_Gun.description>Рельсовая ракетная установка. Обстреливает стены ракетами. Очень неточно, но массово.</FTC_Katyusha_Gun.description>
+
+</LanguageData>

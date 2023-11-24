@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tactical cornea implant -->
+
+  <TacticalCorneaImplant.label>Тактический имплантат роговицы</TacticalCorneaImplant.label>
+  <TacticalCorneaImplant.description>Установленный тактический имплантат роговицы.</TacticalCorneaImplant.description>
+
+
+  <!-- Auxiliary AI (construction) -->
+
+  <ConstructorCore.label>Вспомогательный ИИ: строительство</ConstructorCore.label>
+  <ConstructorCore.description>Установленный вспомогательный ИИ: строительство.</ConstructorCore.description>
+
+
+  <!-- Auxiliary AI (agricultural) -->
+
+  <FarmerCore.label>Вспомогательный ИИ: фермерство</FarmerCore.label>
+  <FarmerCore.description>Установленный вспомогательный ИИ: фермерство.</FarmerCore.description>
+
+
+  <!-- Auxiliary AI (mining) -->
+
+  <MinerCore.label>Вспомогательный ИИ: горное дело</MinerCore.label>
+  <MinerCore.description>Установленный вспомогательный ИИ: горное дело.</MinerCore.description>
+
+
+  <!-- Auxiliary AI (medical) -->
+
+  <DoctorCore.label>Вспомогательный ИИ: медицина</DoctorCore.label>
+  <DoctorCore.description>Установленный вспомогательный ИИ: медицина.</DoctorCore.description>
+
+
+  <!-- Auxiliary AI (diplomatic) -->
+
+  <DiplomatCore.label>Вспомогательный ИИ: дипломатия</DiplomatCore.label>
+  <DiplomatCore.description>Установленный вспомогательный ИИ: дипломатия. Шансы затеять драку значительно снижаются.</DiplomatCore.description>
+
+
+  <!-- Auxiliary AI (sharpshooter) -->
+
+  <EPIA_AuxiliaryAI_Sharpshooter.label>Вспомогательный ИИ: снайпер</EPIA_AuxiliaryAI_Sharpshooter.label>
+  <EPIA_AuxiliaryAI_Sharpshooter.description>Установленный вспомогательный ИИ: снайпер, специализируется на меткости и стрельбе на дальние дистанции. Не может быть установлен с другим вспомогательным ИИ.</EPIA_AuxiliaryAI_Sharpshooter.description>
+
+
+  <!-- Auxiliary AI (commando) -->
+
+  <EPIA_AuxiliaryAI_Commando.label>Вспомогательный ИИ: коммандос</EPIA_AuxiliaryAI_Commando.label>
+  <EPIA_AuxiliaryAI_Commando.description>Установленный вспомогательный ИИ: коммандос , поддержка пользователя в преодолении трудностей боя. Не может быть установлен с другим вспомогательным ИИ.</EPIA_AuxiliaryAI_Commando.description>
+
+
+  <!-- Auxiliary AI (brawler) -->
+
+  <EPIA_AuxiliaryAI_Brawler.label>Вспомогательный ИИ: дебошир</EPIA_AuxiliaryAI_Brawler.label>
+  <EPIA_AuxiliaryAI_Brawler.description>Установленный вспомогательный ИИ: дебошир, поддержка пользователя в принятии решений о жизни или смерти. Не может быть установлен с другим вспомогательным ИИ.</EPIA_AuxiliaryAI_Brawler.description>
+
+
+  <!-- AI persona core -->
+
+  <AIPersonaCore.label>Ядро ИИ</AIPersonaCore.label>
+  <AIPersonaCore.description>Установленное ядро ИИ. Требуется минимум 60% медицинского ухода в качестве технического обслуживания, чтобы ядро персоны ИИ не вышло из строя..</AIPersonaCore.description>
+  <AIPersonaCore.stages.0.label>Не поддерживаемый</AIPersonaCore.stages.0.label>
+  <AIPersonaCore.stages.1.label>Не поддерживаемый</AIPersonaCore.stages.1.label>
+  <AIPersonaCore.stages.2.label>Критическое техническое обслуживание</AIPersonaCore.stages.2.label>
+  <AIPersonaCore.stages.3.label>Требуется техническое обслуживание</AIPersonaCore.stages.3.label>
+  <AIPersonaCore.labelNoun>Ядро ИИ</AIPersonaCore.labelNoun>
+
+
+  <!-- Tactical bionic eye -->
+
+  <EPIA_TacticalBionicEye.label>Тактический бионический глаз</EPIA_TacticalBionicEye.label>
+  <EPIA_TacticalBionicEye.description>Установленный тактический бионический глаз.</EPIA_TacticalBionicEye.description>
+
+
+</LanguageData>

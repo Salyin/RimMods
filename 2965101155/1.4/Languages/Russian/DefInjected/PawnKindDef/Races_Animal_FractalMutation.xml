@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abomination -->
+
+  <ATR_FractalAbomination.label>фрактальный мутант</ATR_FractalAbomination.label>
+  <ATR_FractalAbomination.labelPlural>фрактальные мутанты</ATR_FractalAbomination.labelPlural>
+  <ATR_FractalAbomination.labelMale>фрактальный мутант</ATR_FractalAbomination.labelMale>
+  <ATR_FractalAbomination.labelMalePlural>фрактальные мутанты</ATR_FractalAbomination.labelMalePlural>
+  <ATR_FractalAbomination.labelFemale>фрактальный мутант</ATR_FractalAbomination.labelFemale>
+  <ATR_FractalAbomination.labelFemalePlural>фрактальные мутанты</ATR_FractalAbomination.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medical rib -->
+
+  <MedicalRib.label>Медицинское ребро</MedicalRib.label>
+  <MedicalRib.description>Установленное медицинское ребро.</MedicalRib.description>
+  <MedicalRib.labelNoun>Медицинское ребро</MedicalRib.labelNoun>
+
+
+  <!-- Drugged rib -->
+
+  <DruggedRib.label>Стимулирующее ребро</DruggedRib.label>
+  <DruggedRib.description>Установленное стимулирующее ребро.</DruggedRib.description>
+  <DruggedRib.labelNoun>Стимулирующее ребро</DruggedRib.labelNoun>
+
+
+  <!-- Adrenaline rib -->
+
+  <AdrenalineRib.label>Адреналиновое ребро</AdrenalineRib.label>
+  <AdrenalineRib.description>Установленное адреналиновое ребро.</AdrenalineRib.description>
+  <AdrenalineRib.labelNoun>Адреналиновое ребро</AdrenalineRib.labelNoun>
+
+
+  <!-- Painkiller rib -->
+
+  <PainkillerRib.label>Обезболивающее ребро</PainkillerRib.label>
+  <PainkillerRib.description>Установленное обезболивающее ребро.</PainkillerRib.description>
+  <PainkillerRib.labelNoun>Обезболивающее ребро</PainkillerRib.labelNoun>
+
+
+  <!-- Heater rib -->
+
+  <HeaterRib.label>Согревающие ребро</HeaterRib.label>
+  <HeaterRib.description>Установленное согревающие ребро.</HeaterRib.description>
+
+
+  <!-- Cooler rib -->
+
+  <CoolerRib.label>Охлаждающие ребро</CoolerRib.label>
+  <CoolerRib.description>Установленное охлаждающие ребро.</CoolerRib.description>
+
+
+  <!-- Coagulator rib -->
+
+  <CoagulatorRib.label>Кровоостанавливающие ребро</CoagulatorRib.label>
+  <CoagulatorRib.description>Установленный кровоостанавливающий реберный имплантат.</CoagulatorRib.description>
+
+
+  <!-- Respiration rib -->
+
+  <RespirationRib.label>Дыхательное ребро</RespirationRib.label>
+  <RespirationRib.description>Установленное дыхательное ребро.</RespirationRib.description>
+
+
+  <!-- Wake-up rib -->
+
+  <WakeUpRib.label>Пробуждающие ребро</WakeUpRib.label>
+  <WakeUpRib.description>Установленное пробуждающие ребро.</WakeUpRib.description>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_ChemCapsule.label>химкапсула</ATR_ChemCapsule.label>
+  <ATR_ChemCapsule.description>Небольшая плотная капсула, полная синтетических химических веществ, готовых к переработке в нейтроамин или химтопливо.</ATR_ChemCapsule.description>
+
+  <ATR_NutrientSolution.label>орграствор</ATR_NutrientSolution.label>
+  <ATR_NutrientSolution.description>Густая высококалорийная кашица с высоким содержанием белка, которая имеет невыразительную мёдоподобную консистенцию, хотя и с приятным вкусом. Этот раствор нестабилизирован, и его необходимо обработать химкапсулами, чтобы достичь его не портящегося состояния.</ATR_NutrientSolution.description>
+
+  <ATR_NutritionBlock.label>оргкапсула</ATR_NutritionBlock.label>
+  <ATR_NutritionBlock.description>Органическая высококалорийная капсула, богатая белками. Оргкапсула никогда не испортится и полна органических питательных веществ.</ATR_NutritionBlock.description>
+
+
+</LanguageData>

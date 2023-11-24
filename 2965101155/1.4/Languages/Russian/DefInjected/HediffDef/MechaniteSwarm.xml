@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATR_MechaniteSurge.label>механитовый всплеск</ATR_MechaniteSurge.label>
+  <ATR_MechaniteSurge.description>Дополнительный поток механитов. Увеличенный поток механитов не может быть поддержан гиперконденсатором, и вскоре вернется к нормальному уровню.\n\nОднако тем временем общая эффективность будет улучшена, а дополнительные механиты значительно уменьшат потери хладагента.</ATR_MechaniteSurge.description>
+  <ATR_MechaniteSurge.stages.0.label>незаметный</ATR_MechaniteSurge.stages.0.label>
+  <ATR_MechaniteSurge.stages.1.label>слабый</ATR_MechaniteSurge.stages.1.label>
+  <ATR_MechaniteSurge.stages.2.label>средний</ATR_MechaniteSurge.stages.2.label>
+  <ATR_MechaniteSurge.stages.3.label>сильный</ATR_MechaniteSurge.stages.3.label>
+  <ATR_MechaniteSurge.stages.4.label>пиковый</ATR_MechaniteSurge.stages.4.label>
+
+
+</LanguageData>

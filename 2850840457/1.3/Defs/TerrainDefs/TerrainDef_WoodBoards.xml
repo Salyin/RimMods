@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Outland_WoodBoards</defName>
+		<label>wood boards</label>
+	</DesignatorDropdownGroupDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoards</defName>
+		<label>wood boards</label>
+		<texturePath>Outland/Terrain/WoodBoards1</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoards_Ruined</defName>
+		<label>wood boards ruined</label>
+		<texturePath>Outland/Terrain/WoodBoards1Ruined</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoardsNeat</defName>
+		<label>neat wood boards</label>
+		<texturePath>Outland/Terrain/WoodBoards2</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoardsNeat_Ruined</defName>
+		<label>neat wood boards ruined</label>
+		<texturePath>Outland/Terrain/WoodBoards2Ruined</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_HorizontalWoodBoards</defName>
+		<label>horizontal wood boards</label>
+		<texturePath>Outland/Terrain/HWoodBoards1</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_HorizontalWoodBoards_Ruined</defName>
+		<label>horizontal wood boards ruined</label>
+		<texturePath>Outland/Terrain/HWoodBoards1Ruined</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_HorizontalWoodBoardsNeat</defName>
+		<label>horizontal neat wood boards</label>
+		<texturePath>Outland/Terrain/HWoodBoards2</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_HorizontalWoodBoardsNeat_Ruined</defName>
+		<label>horizontal neat wood boards ruined</label>
+		<texturePath>Outland/Terrain/HWoodBoards2Ruined</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoardsStaggered</defName>
+		<label>staggered wood boards</label>
+		<texturePath>Outland/Terrain/WoodBoards3</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoardsStaggered_Ruined</defName>
+		<label>staggered wood boards ruined</label>
+		<texturePath>Outland/Terrain/WoodBoards3Ruined</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoardsDiamond</defName>
+		<label>diamond wood boards</label>
+		<texturePath>Outland/Terrain/WoodBoards4</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoardsDiamond_Ruined</defName>
+		<label>diamond wood boards ruined</label>
+		<texturePath>Outland/Terrain/WoodBoards4Ruined</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoardsCheckered</defName>
+		<label>checkered wood boards</label>
+		<texturePath>Outland/Terrain/WoodBoards5</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoardsCheckered_Ruined</defName>
+		<label>checkered wood boards ruined</label>
+		<texturePath>Outland/Terrain/WoodBoards5Ruined</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoardsDiagonal</defName>
+		<label>diagonal wood boards</label>
+		<texturePath>Outland/Terrain/WoodBoards6</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+	<TerrainDef ParentName="OutlandWoodFloorBase">
+		<defName>Outland_WoodBoardsDiagonal_Ruined</defName>
+		<label>diagonal wood boards ruined</label>
+		<texturePath>Outland/Terrain/WoodBoards6Ruined</texturePath>
+		<designatorDropdown>Outland_WoodBoards</designatorDropdown>
+	</TerrainDef>
+
+</Defs>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abomination -->
+
+  <ATR_FractalAbomination.label>фрактальный мутант</ATR_FractalAbomination.label>
+  <ATR_FractalAbomination.description>Деформированные и ужасные результаты полноценного фрактального искривления. Фрактальный мутанты - хладнокровные убийцы, способные вечно преследовать любое существо, пересекающее их путь.\n\nДля тех, кто не знает страха, или для исследователей архотеков, эти существа представляют большой интерес. Фрактальных мутантов постоянно тянет к архотек-устройствам, и они часто собираются вокруг особо мощных артефактов. По этой причине некоторые исследователи следят за фрактальными мутантами, чтобы выйти на след архотек руин, часто только для того, чтобы быть убитыми ими по прибытии.</ATR_FractalAbomination.description>
+  <ATR_FractalAbomination.tools.1.label>правый кулак</ATR_FractalAbomination.tools.1.label>
+  <ATR_FractalAbomination.tools.2.label>левый кулак</ATR_FractalAbomination.tools.2.label>
+  <ATR_FractalAbomination.tools.3.label>голова</ATR_FractalAbomination.tools.3.label>
+  <ATR_FractalAbomination.tools.4.label>фрактальное копьё</ATR_FractalAbomination.tools.4.label>
+
+
+</LanguageData>

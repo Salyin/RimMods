@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+
+	<!-- Remove all entries then add them -->
+			
+            <li Class="PatchOperationRemove">
+				<xpath>/Defs/ThingDef[filth]/filth/disappearsInDays</xpath>
+            </li>
+			
+            <li Class="PatchOperationRemove">
+				<xpath>/Defs/ThingDef[filth]/filth/rainWashes</xpath>
+            </li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[filth]/filth</xpath>
+					<value>
+						<disappearsInDays>14~15</disappearsInDays>
+						<rainWashes>true</rainWashes>
+					</value>
+			</li>
+			
+	<!-- Correct disappearsInDays for filth with shorter times -->
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "Filth_FireFoam"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>5~10</disappearsInDays>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "Filth_Ash"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>10~15</disappearsInDays>
+				</value>
+			</li>
+			
+			<li Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "Filth_Water"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>0.2~0.4</disappearsInDays>
+				</value>
+			</li>
+			
+	<!-- Correct Mods disappearsInDays for filth with shorter times -->
+			
+	<!-- Alpha Genes -->
+			
+			<li MayRequire="sarg.alphagenes" Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "AG_Filth_Rats"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>1</disappearsInDays>
+				</value>
+			</li>
+			
+	<!-- Biomes Caverns -->
+			
+			<li MayRequire="BiomesTeam.BiomesCaverns" Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "BMT_Filth_Acidic_Snail_Slime"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>0.01~0.02</disappearsInDays>
+				</value>
+			</li>
+			
+			<li MayRequire="BiomesTeam.BiomesCaverns" Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "BMT_Filth_Snail_FuelTrail"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>0.03~0.06</disappearsInDays>
+				</value>
+			</li>
+			
+			<li MayRequire="BiomesTeam.BiomesCaverns" Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "BMT_Filth_Snail_FireFoam"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>0.03~0.06</disappearsInDays>
+				</value>
+			</li>
+			
+			<li MayRequire="BiomesTeam.BiomesCaverns" Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "BMT_Filth_Snail_Slime"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>0.01~0.02</disappearsInDays>
+				</value>
+			</li>
+			
+	<!-- Communicable Diseases -->
+			
+			<li MayRequire="ONegative.CommunicableDiseases" Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "Filth_FluGerms"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>0.25</disappearsInDays>
+				</value>
+			</li>
+			
+			<li MayRequire="ONegative.CommunicableDiseases" Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "Filth_PlagueGerms"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>0.25</disappearsInDays>
+				</value>
+			</li>
+			
+			<li MayRequire="ONegative.CommunicableDiseases" Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "Filth_AnimalFluGerms"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>0.25</disappearsInDays>
+				</value>
+			</li>
+			
+			<li MayRequire="ONegative.CommunicableDiseases" Class="PatchOperationReplace">
+				<xpath>/Defs/ThingDef[defName = "Filth_AnimalPlagueGerms"]/filth/disappearsInDays</xpath>
+				<value>
+					<disappearsInDays>0.25</disappearsInDays>
+				</value>
+			</li>
+			
+		</operations>
+	</Operation>
+
+</Patch>

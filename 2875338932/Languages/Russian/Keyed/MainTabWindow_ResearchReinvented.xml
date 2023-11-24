@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<RR_no_project_selected>Нет активного проекта</RR_no_project_selected>
+	<RR_enable_compact_mode>Кратко</RR_enable_compact_mode>
+	<RR_disable_compact_mode>Подробно</RR_disable_compact_mode>
+	<RR_uncollapse_category>Развернуть</RR_uncollapse_category>
+	<RR_collapse_category>Свернуть</RR_collapse_category>
+	<RR_uncollapse_all>Разв. Всё</RR_uncollapse_all>
+	<RR_collapse_all>Свернуть Всё</RR_collapse_all>
+	
+	<RR_OpportunityBlocked_Finished_short>Готово</RR_OpportunityBlocked_Finished_short>
+	<RR_OpportunityBlocked_CategoryFinished_short>Готово</RR_OpportunityBlocked_CategoryFinished_short>
+	<RR_OpportunityBlocked_ResearchTooLow_short>Закрыто </RR_OpportunityBlocked_ResearchTooLow_short>
+	<RR_OpportunityBlocked_ResearchTooHigh_short>Бесполезно</RR_OpportunityBlocked_ResearchTooHigh_short>
+	<RR_OpportunityBlocked_ReasonUnknown_short>Закрыто ???</RR_OpportunityBlocked_ReasonUnknown_short>
+	
+	<RR_OpportunityBlocked_Finished>Закночено</RR_OpportunityBlocked_Finished>
+	<RR_OpportunityBlocked_CategoryFinished>Категория закончена\nБольше нечего изучать</RR_OpportunityBlocked_CategoryFinished>
+	<RR_OpportunityBlocked_ResearchTooLow>Заблокировано\nТребуется больше общего прогресса</RR_OpportunityBlocked_ResearchTooLow>
+	<RR_OpportunityBlocked_ResearchTooHigh>Заблокировано\nНе могу изучить сейчас больше</RR_OpportunityBlocked_ResearchTooHigh>
+	<RR_OpportunityBlocked_ReasonUnknown>Заблокировано\nПРИЧИНА НЕИЗВЕСТНА ОТЧЕТ КАК ОШИБКА</RR_OpportunityBlocked_ReasonUnknown>
+</LanguageData>

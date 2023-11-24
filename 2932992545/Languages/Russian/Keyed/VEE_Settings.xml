@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SCat>Vanilla Event Expanded</SCat>
+  <BReset>Сбросить настройки</BReset>
+  <GCWReset>Остановить все мировые события</GCWReset>
+  <GCMReset>Остановить все события на карте</GCMReset>
+  <NeedToBeIngame>Вы должны быть в игре для остановки игровых событий</NeedToBeIngame>
+  <CEBC>&lt;color=cyan&gt;&lt;b&gt;Изменить базовую вероятность событий (установите 0 для отключения) :&lt;/b&gt;&lt;/color&gt;</CEBC>
+  <BCS>Открыть настройки базовой вероятности событий</BCS>
+  <MinTPE>Минимум дней для повторения :</MinTPE>
+  <ETPE>Минимум дней для начала :</ETPE>
+  <PES>&lt;color=cyan&gt;&lt;b&gt;Настройки фиолетовых событий :&lt;/b&gt;&lt;/color&gt;</PES>
+
+  <IABaseC>Ледниковый период</IABaseC>
+  <GWBaseC>Глобальное потепление</GWBaseC>
+  <PRBaseC>Психический дождь</PRBaseC>
+  <LNBaseC>Длинная ночь</LNBaseC>
+  <PBBaseC>Психическое цветение</PBBaseC>
+
+  <HSBaseC>Град</HSBaseC>
+  <MSBaseC>Метеоритный дождь</MSBaseC>
+  <APCBaseC>Крушение капсулы с животным</APCBaseC>
+  <WJTBaseC>Присоединение предателя</WJTBaseC>
+  <SPBaseC>Космическая битва</SPBaseC>
+  <SCBaseC>Крушение шаттла</SCBaseC>
+  <EBaseC>Землетрясение</EBaseC>
+  <CPWBaseC>Грузовые контейнеры с оружием</CPWBaseC>
+  <CPABaseC>Грузовые контейнеры с одеждой</CPABaseC>
+  <CAWIBaseC>Животные из каравана проходят мимо</CAWIBaseC>
+  <CSBaseC>Заросли растений</CSBaseC>
+  <BAWIBaseC>Боевое животное проходит мимо</BAWIBaseC>
+  <DBaseC>Засуха</DBaseC>
+  <WMWIBaseC>Одичавшие люди проходят мимо</WMWIBaseC>
+  <HPBaseC>Охотничий отряд</HPBaseC>
+
+  <GCWResetOBO>Остановка мировых событий...</GCWResetOBO>
+  <GCMResetOBO>Остановка событий на карте...</GCMResetOBO>
+
+  <VEE_DaysBetweenPurpleEvents>Количество дней между фиолетовыми событиями:</VEE_DaysBetweenPurpleEvents>
+
+</LanguageData>
